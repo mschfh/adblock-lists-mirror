@@ -1970,4 +1970,11 @@ oradea-online.ro##.widget:not(*:has([href*="oradea-online.ro"], [href^="/"], [hr
 
 jurnalulolteniei.ro##.reclame
 
+cronicaolteniei.ro##.size-full.wp-block-image > picture
+cronicaolteniei.ro##.tdm_block_inline_image_simplified
+
+||republicaoltenia.ro/*banner$image
+
+e-ziare.ro##.right.sidebar:has(.adsbygoogle)
+
 !#include road-ubo.txt
