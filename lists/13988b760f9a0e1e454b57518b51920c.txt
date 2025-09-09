@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: FG5qmVUoVaQLdQRsdxbs8g
-! Version: 202509090711
+! Checksum: Es3qkS90JctkZp9S57JTjg
+! Version: 202509090741
 ! Title: EasyList Italy
-! Last modified: 09 Sep 2025 07:11 UTC
+! Last modified: 09 Sep 2025 07:41 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html
