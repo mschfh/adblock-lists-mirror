@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pqBaRJue8Bm12+aUgexcAQ
-! Version: 202509222242
+! Checksum: 1JDvN7j4CZihqNwfebbI3g
+! Version: 202509222342
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-09-22 22:42 UTC
+! Last modified: 2025-09-22 23:42 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -37474,6 +37474,7 @@ ticketmaster.com##[aria-describedby="mobileMobileTOUMessage"]
 1password.com##[aria-label="Cookie Consent"]
 docs.nats.io##[aria-label="Cookies"]
 bicycling.com,caranddriver.com,cosmopolitan.com,countryliving.com,delish.com,elle.com,esquire.com,goodhousekeeping.com,harpersbazaar.com,roadandtrack.com,runnersworld.com,thepioneerwoman.com,womenshealthmag.com##[aria-label="Privacy Disclosure"]
+tesco.com##[aria-label="consent-banner"]
 perlego.com##[aria-label="cookie banner"]
 app.joinknack.com##[aria-label="cookie consent banner"]
 app.wooclap.com##[aria-labelledby="cookie-banner-title"]
