@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VYYQQ5LhorpjSmGEXX/FiA
-! Version: 202509240231
+! Checksum: 8PkBSP2Wc5vYN5mqNWRwIw
+! Version: 202509240311
 ! Title: Fanboy's Social Blocking List
-! Last modified: 24 Sep 2025 02:31 UTC
+! Last modified: 24 Sep 2025 03:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -10555,7 +10555,7 @@ tennis.com##.-sharebar
 nhl.com,petri.com##.-social
 ynet.co.il,ynetnews.com##.AccordionShareWrapper
 abebooks.com,nbcsports.com,nhpr.org,pitchbook.com,scrippsnews.com##.ActionBar
-kpbs.org##.ActionBar-items
+kpbs.org,wmar2news.com##.ActionBar-items
 newatlas.com##.ActionLink
 newscientist.com##.ArticleHeader__SocialWrapper
 afar.com##.ArticlePage-actions-wrapper
@@ -10683,7 +10683,7 @@ u.today##.article__gnews
 rt.com##.article__google-news
 odessa-journal.com##.article__hictory-descr_share
 tvpworld.com##.article__icons
-armeniasputnik.am,noticiabrasil.net.br,spnfa.ir,sputnik-abkhazia.info,sputnik-georgia.com,sputnik-ossetia.com,sputnik.af,sputnik.az,sputnik.by,sputnik.kg,sputnik.kz,sputnik.tj,sputnikarabic.ae,sputnikglobe.com,sputniknews.africa,sputniknews.cn,sputniknews.com,sputniknews.com.tr,sputniknews.in,sputniknews.jp,sputniknews.lat,sputniknews.ru,sputniknews.uz,sputniknews.vn,sputniknewsbr.com.br,sputnikportal.rs##.article__news-services-subscribe
+armeniasputnik.am,noticiabrasil.net.br,noticiaslatam.lat,spnfa.ir,sputnik-abkhazia.info,sputnik-georgia.com,sputnik-ossetia.com,sputnik.af,sputnik.az,sputnik.by,sputnik.kg,sputnik.kz,sputnik.tj,sputnikarabic.ae,sputnikglobe.com,sputniknews.africa,sputniknews.cn,sputniknews.com,sputniknews.com.tr,sputniknews.in,sputniknews.jp,sputniknews.lat,sputniknews.ru,sputniknews.uz,sputniknews.vn,sputniknewsbr.com.br,sputnikportal.rs##.article__news-services-subscribe
 thenewhumanitarian.org##.article__post-share
 ecowatch.com##.article__share-buttons
 wnep.com##.article__sharing
@@ -13180,7 +13180,7 @@ caravan.kz##.PatternCurrentNewsContent__share
 caravan.kz##.PatternCurrentNewsHead__share
 rg.ru##.StoryContentMainShare_root__LRFwu
 5-tv.ru##._links
-ria.ru##.article__aggr
+radiosputnik.ru,ria.ru##.article__aggr
 gtrk.tv##.footer-social-wrap
 rosphoto.com##.ft-soc-block
 interfax.ru##.header__soc
