@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cO1bZn8JGlA0mEvhTrw3XA
-! Version: 202509250935
+! Checksum: MatbNsCR7HYGQf5iKjhBOw
+! Version: 202509251035
 ! Title: Fanboy's Mobile Notifications List
-! Last modified: 2025-09-25 09:35 UTC
+! Last modified: 2025-09-25 10:35 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/

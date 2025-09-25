@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TcOOQ3zdvvFZDLnN4b/m9w
-! Version: 202509251011
+! Checksum: lfAHnZ8fzbzF5pHsNHGlEQ
+! Version: 202509251131
 ! Title: RU, UA, UZ, KZ
-! Last modified: 25 Sep 2025 10:11 UTC
+! Last modified: 25 Sep 2025 11:31 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -4910,6 +4910,7 @@ _tizers.
 ||cake017.ru^$third-party
 ||calculatorstatement.com^$third-party
 ||calendar101.ru^$third-party
+||california1955.nl^$third-party
 ||callmebadguy.press^$third-party
 ||camera-realist.ru^$third-party
 ||camihis.com^$third-party
