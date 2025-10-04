@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0BpAv39hZLtSqOJp1evydQ
-! Version: 202510041411
+! Checksum: gSBhe6RU2AS7Q0DwUITLvw
+! Version: 202510041441
 ! Title: RU, UA, UZ, KZ
-! Last modified: 04 Oct 2025 14:11 UTC
+! Last modified: 04 Oct 2025 14:41 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
