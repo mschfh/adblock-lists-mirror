@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            Bypass Paywalls Clean - en
-// @version         4.2.2.5
+// @version         4.2.2.9
 // @description     Bypass Paywalls of news sites
 // @author          magnolia1234
 // @downloadURL     https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=userscript/bpc.en.user.js
@@ -72,10 +72,12 @@
 // @exclude         *://*.openx.net/*
 // @exclude         *://*.outbrain.com/*
 // @exclude         *://*.pinterest.com/*
+// @exclude         *://*.pubmatic.com/*
 // @exclude         *://*.rubiconproject.com/*
 // @exclude         *://*.seedtag.com/*
 // @exclude         *://*.smartadserver.com/*
 // @exclude         *://*.stripe.com/*
+// @exclude         *://*.taboola.com/*
 // @exclude         *://*.tinypass.com/*
 // @exclude         *://*.twitter.com/*
 // @exclude         *://*.ultimedia.com/*
@@ -137,6 +139,7 @@
 // @exclude         *://*.topagrar.com/*
 // @exclude         *://*.tt.com/*
 // @exclude         *://*.tuttosport.com/*
+// @exclude         *://*.valeursactuelles.com/*
 // @exclude         *://*.wochenblatt.com/*
 // @grant           GM.xmlHttpRequest
 // @require         https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=userscript/bpc_func.js
@@ -150,7 +153,7 @@ if (window.top !== window.self && !matchDomain(['app.historytoday.com', 'appan.n
 
 var usa_adv_local_domains = ['al.com', 'cleveland.com', 'lehighvalleylive.com', 'masslive.com', 'mlive.com', 'nj.com', 'oregonlive.com', 'pennlive.com', 'silive.com', 'syracuse.com'];
 
-if (matchDomain(['adage.com', 'autonews.com'])) {
+if (matchDomain(['adage.com', 'autonews.com', 'pionline.com'])) {
   function crain_main() {
     if (window.Fusion) {
       window.Fusion.globalContent._id = 0;
@@ -3910,6 +3913,43 @@ else if (matchDomain('theglobeandmail.com')) {
   let lazy_images = document.querySelectorAll('img[src^="data:image/"][data-src]');
   for (let elem of lazy_images)
     elem.src = elem.getAttribute('data-src');
+  let fusion_script = document.querySelector('script#fusion-metadata');
+  if (fusion_script && fusion_script.text.includes('Fusion.globalContent=')) {
+    try {
+      let json = JSON.parse(fusion_script.text.split('Fusion.globalContent=')[1].split(';Fusion.')[0]);
+      let audio_tts = document.querySelector('div > div.audio-panel:has(p.audio-anonymous)');
+      if (audio_tts) {
+        let audio_json = getNestedKeys(json, 'additional_properties.tts_audio');
+        if (audio_json) {
+          let audio_src = audio_json.url_en_M || audio_json.url_en_F;
+          if (audio_src) {
+            let audio = document.createElement('audio');
+            audio.src = audio_src;
+            audio.setAttribute('controls', '');
+            audio_tts.parentNode.replaceChild(audio, audio_tts);
+          }
+        }
+      }
+      window.setTimeout(function () {
+        let video = document.querySelector('div > div.c-video:empty');
+        if (video) {
+          let streams = findKeyJson(json, 'streams');
+          if (streams && streams.length) {
+            let stream = streams.pop();
+            if (stream.url) {
+              let video_new = document.createElement('video');
+              video_new.src = stream.url;
+              video_new.style = 'width: 90%; margin: 0px 15px;';
+              video_new.setAttribute('controls', '');
+              video.parentNode.replaceChild(video_new, video);
+            }
+          }
+        }
+      }, 2000);
+    } catch (err) {
+      console.log(err);
+    }
+  }
   let ads = 'div.c-ad--base';
   hideDOMStyle(ads);
 }
@@ -4686,7 +4726,7 @@ else if (matchDomain(usa_hearst_comm_domains) || document.querySelector('head > 
   hideDOMStyle(ads);
 }
 
-else if ((domain = matchDomain(usa_lee_ent_domains)) || matchDomain(ca_torstar_domains.concat(['abqjournal.com'])) || document.querySelector('head > meta[name="tncms-access-version"]')) {
+else if (matchDomain(usa_lee_ent_domains.concat(ca_torstar_domains, ['abqjournal.com'])) || document.querySelector('head > meta[name="tncms-access-version"]')) {
   if (window.location.pathname.endsWith('.amp.html')) {
     amp_unhide_access_hide('="hasAccess"', '="NOT hasAccess"', '.amp-ads-container');
     let elem_hidden = document.querySelectorAll('html[class], body[class]');
@@ -4703,7 +4743,7 @@ else if ((domain = matchDomain(usa_lee_ent_domains)) || matchDomain(ca_torstar_d
       amp_image.parentNode.replaceChild(elem, amp_image);
     }
   } else {
-    if (!domain) {
+    if (true) {
       function unscramble(t) {
         for (var n = "", i = 0, r = t.length; i < r; i++) {
           var s = t.charCodeAt(i);
@@ -4892,6 +4932,16 @@ function fix_dowjones_fetch(url_src, data, article) {
             let par_first = article.querySelector('p[class]');
             if (par_first)
               par_class = par_first.className;
+          }
+        }
+        if (matchDomain('barrons.com')) {
+          let style_fl = document.querySelector('head > style[data-emotion-css]');
+          if (style_fl && style_fl.innerHTML.includes(':first-letter')) {
+            let styles_fl = document.querySelectorAll('head > style[data-emotion-css], head > style[data-emotion="emotion"]');
+            for (let style of styles_fl) {
+              if (style.innerHTML.includes(':first-letter'))
+                removeDOMElement(style);
+            }
           }
         }
         let body_first = true;
