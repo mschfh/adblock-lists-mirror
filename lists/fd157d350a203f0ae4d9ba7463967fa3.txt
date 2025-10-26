@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: h+/hY/RbK+yNVbrljpiYAg
-! Version: 202510262011
+! Checksum: CgCwPwDU3W5VleOoeqeRsw
+! Version: 202510262041
 ! Title: RU, UA, UZ, KZ
-! Last modified: 26 Oct 2025 20:11 UTC
+! Last modified: 26 Oct 2025 20:41 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -14027,7 +14027,6 @@ transinfo.by##.column_banner-wrap
 tabletki.ua##.com__panel-header
 pcportal.org##.come_d
 news.tj##.comment-area .newsbox-outer-banner
-ixbt.com#?#.comment-wrapper:-abp-has(> .comment-bad)
 kirov.online##.comments ~ noindex
 diablo.su##.comments-area
 superhumor.ru,voffka.com##.comments-head
