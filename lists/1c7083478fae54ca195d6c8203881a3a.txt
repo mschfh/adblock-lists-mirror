@@ -4,7 +4,7 @@
 ! Homepage: https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters
 ! License: MIT; https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=LICENSE
 ! Last modified: 
-! Version: 4.2.3.5
+! Version: 4.2.3.8
 
 ! General
 
@@ -160,7 +160,7 @@ etc.se##+js(rc, teaser-section, section.teaser-section)
 etc.se##+js(rc, hidden, section.prose-feature .hidden)
 etc.se##article section.font-sans
 euobserver.com##+js(rc, show, div.membership-upsell.show)
-exame.com##+js(set-local-storage-item, pywllcount, $remove$)
+||exame.com/_next/static/chunks/app/%5B*.js$script,~third-party
 fieldandstream.com##div[class^="mailmunch-"]
 fieldandstream.com##+js(ra, class, html[class])
 ||financialexpress.com/*/min/premiumStoryContent.js$script,~third-party
@@ -503,7 +503,6 @@ cz.de,dewezet.de,dieharke.de,dnn.de,gnz.de,goettinger-tageblatt.de,haz.de,kn-onl
 
 ! Mediahuis Noord
 ||ndcmediagroep.nl/js/evolok/$script,third-party
-.nl/-api/zh/worker$xmlhttprequest,~third-party
 
 ! MediaNews Group & Tribune Publishing Company
 .com/wp-content/plugins/loader-wp/static/loader.min.js$script,~third-party
@@ -633,6 +632,7 @@ bizwest.com##div.fp-paywall
 bizwest.com##+js(ra, class, div.fp-content)
 boredpanda.com##+js(rc, open-list-items, div.open-list-items)
 boredpanda.com##div#show-all-images-block-premium
+||boston.com/api/tinypass.min.js$script,~third-party
 brainly.com,brainly.com.br##+js(set-local-storage-item, /^/, $remove$)
 ||account.brandonsun.com/api/v*/auth/identify$xmlhttprequest,~third-party
 brusselstimes.com##+js(ra, style, div[style*="height: 0;"], stay)
@@ -776,7 +776,12 @@ timeslive.co.za##+js(set, window.Fusion.globalContent.content_restrictions, {})
 trailsoffroad.com##.paywall
 wbjournal.com##+js(ra, style, div.expandable-paywall-premium-content, stay)
 wbjournal.com##div.paywall-container
+wbez.org##div.email-wall-content-lock:remove()
 ||zeitzeichen.net/sites/default/files/js/js_*.js$script,~third-party
+
+! Arena Holdings (ZA)
+businessday.co.za,dailydispatch.co.za,sowetan.co.za,theherald.co.za,timeslive.co.za##section.b-paywall__overlay
+businessday.co.za,dailydispatch.co.za,sowetan.co.za,theherald.co.za,timeslive.co.za##+js(ra, style, html, stay)
 
 ! General (amp)
 ||ampproject.org/*/amp-access-$script,domain=~cambridge.org|~cmjornal.pt
