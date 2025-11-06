@@ -139,7 +139,7 @@ japscan.*##+js(trusted-set, aclib, json:{"isShowingPop":false})
 japscan.*##+js(set, aclib.runInPagePush, noopFunc)
 japscan.*##+js(set, aclib.runBanner, {}, as, function)
 japscan.*##+js(set, aclib.runInterstitial, throwFunc)
-japscan.*##+js(trusted-suppress-native-method, Document.prototype.getElementById, '"/^[A-Z][0-9A-Z_a-z]{5,}$/"')
+japscan.*##+js(trusted-suppress-native-method, Document.prototype.getElementById, '"/^[A-Z][-0-9A-Z_a-z]{3,}$/"')
 
 ! https://github.com/uBlockOrigin/uAssets/issues/21064
 ! https://github.com/uBlockOrigin/uAssets/issues/24220
@@ -379,7 +379,8 @@ omuzaani.me##+js(no-fetch-if, summerday, length:10, {"type":"cors"})
 
 ! https://github.com/uBlockOrigin/uAssets/issues/24063
 th.gl##+js(nosiif, /1===|\?void|&&/)
-th.gl##+js(nostif, ++)
+th.gl##+js(nostif, /\+\+|setTimeout|\.close\(\)|Loading|&&delete/)
+th.gl##+js(nostif, native code, 10-1000)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/30529
 tvtropes.org##+js(nostif, /offsetHeight|loaded/)
