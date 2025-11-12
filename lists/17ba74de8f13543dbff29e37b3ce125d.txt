@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511122232
+! Version: 202511122309
 ! Title: EasyList
-! Last modified: 12 Nov 2025 22:32 UTC
+! Last modified: 12 Nov 2025 23:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 84dbf3f082d8a3bcee9b11a51de3f15dcf918bc7
+! Commit: 86012baadd584d5a48e17cf476ae43463ccc7908
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -34696,6 +34696,7 @@ browsershots.org#@#.advert_area
 ||kraitbauld.cyou^
 ||krankenwagenmotor.com^
 ||kraonwbi.com^
+||krdtvkoyuhwjs.site^
 ||krenkzfiuzryw.store^
 ||kreomfoq.com^
 ||kreps.xyz^
@@ -38880,6 +38881,7 @@ browsershots.org#@#.advert_area
 ||needyscarcasserole.com^
 ||neegreez.com^
 ||neekstore.com^
+||neeltskoqvanu.site^
 ||neephougroo.net^
 ||neeptumeebaimop.net^
 ||neeseocrea.cyou^
@@ -49546,6 +49548,7 @@ browsershots.org#@#.advert_area
 ||stugsoda.com^
 ||stulophovedsy.net^
 ||stulrenady.com^
+||stultesougloup.net^
 ||stummedperca.top^
 ||stumpsbaited.world^
 ||stumpsmug.com^
@@ -53895,6 +53898,7 @@ browsershots.org#@#.advert_area
 ||voluumtrk3.com^
 ||volyze.com^
 ||vomitosanax.digital^
+||vomlkfeesl.com^
 ||vonkol.com^
 ||voochoafodoa.net^
 ||vooculok.com^
@@ -55675,6 +55679,7 @@ browsershots.org#@#.advert_area
 ||wwqsvldq.work^
 ||wwqtpcmsikcab.net^
 ||wwrioiackkiwpy.com^
+||wwtpoatihpdg.com^
 ||wwubgxrmxgskt.com^
 ||wwvqboerllrej.top^
 ||wwvqboerllrzm.top^
