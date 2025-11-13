@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511131334
+! Version: 202511131400
 ! Title: EasyList
-! Last modified: 13 Nov 2025 13:34 UTC
+! Last modified: 13 Nov 2025 14:00 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d4aa87635769dffca582f5ff73780f54ad2ae609
+! Commit: 14e7b5ac82637abff5188bcd7141190f4843d26f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21698,6 +21698,7 @@ browsershots.org#@#.advert_area
 ||centlyhavebed.com^
 ||centralnervous.net^
 ||centricgaffkya.com^
+||centrummystics.cyou^
 ||centumshough.com^
 ||centwrite.com^
 ||ceomwvgljsr.com^
@@ -23854,6 +23855,7 @@ browsershots.org#@#.advert_area
 ||dcsakxvzsdiaz.space^
 ||dcslnqezlxyte.website^
 ||dcssptrack.com^
+||dcwnhlzrvnlnj.website^
 ||dcxnjdjvurerw.site^
 ||dd1xbevqx.com^
 ||dd268fdaa5.com^
@@ -39870,6 +39872,7 @@ browsershots.org#@#.advert_area
 ||nuxaunjucpepp.website^
 ||nuzehescwgfmr.site^
 ||nv3tosjqd.com^
+||nvapnjgcwmuxn.com^
 ||nvcctxkrgic.com^
 ||nvejmzqxuuujx.love^
 ||nvftthegodwtl.space^
@@ -47542,6 +47545,7 @@ browsershots.org#@#.advert_area
 ||scurrypaleron.click^
 ||scutateslogs.cyou^
 ||scutesneatest.com^
+||scvcuhkluiifqwe.com^
 ||scvmljhzcdfyj.store^
 ||scwmllkshdfug.website^
 ||scxmwvhc.net^
@@ -56729,6 +56733,7 @@ browsershots.org#@#.advert_area
 ||yenntsokvugsceo.com^
 ||yeoihnlubd.com^
 ||yepgfsxto.net^
+||yephgmriwtzrl.website^
 ||yeplykerfed.shop^
 ||yequiremuke.com^
 ||yeranydwould.org^
