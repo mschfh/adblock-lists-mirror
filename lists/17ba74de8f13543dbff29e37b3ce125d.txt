@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511130625
+! Version: 202511130709
 ! Title: EasyList
-! Last modified: 13 Nov 2025 06:25 UTC
+! Last modified: 13 Nov 2025 07:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5b77ddd608847ff17e2e3e43f35b4fd177370349
+! Commit: c06265681a3eba02bb462b1a3b7b48ce20f3209e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21508,6 +21508,7 @@ browsershots.org#@#.advert_area
 ||cbldtrxnatewy.site^
 ||cblmcgeipgxxc.online^
 ||cbpttdpymofjx.online^
+||cbqhmxsejgjma.website^
 ||cbqkgyeeqnzjq.site^
 ||cbqwwvfukmfvb.website^
 ||cbro.win^
@@ -25141,6 +25142,7 @@ browsershots.org#@#.advert_area
 ||dufterferny.digital^
 ||dugksbcmvvxdf.site^
 ||dugrhmdlsdcop.website^
+||dugsbrairo.help^
 ||dugsjemble.rest^
 ||duhkxehelalch.store^
 ||duhxgrfaziemg.site^
@@ -30234,6 +30236,7 @@ browsershots.org#@#.advert_area
 ||hcyduikplovlg.space^
 ||hcyrwitdvlznv.store^
 ||hcytmigfgeshu.store^
+||hcyvasviyzscd.website^
 ||hcyweyyjjk.com^
 ||hczbwlxihsjoc.website^
 ||hd100546c.com^
@@ -56373,6 +56376,7 @@ browsershots.org#@#.advert_area
 ||xvoqhsefm.net^
 ||xvpqmcgf.com^
 ||xvqidgxfdsxbe.store^
+||xvqukocdtvsfuw.com^
 ||xvsbnqnvokrql.store^
 ||xvsypuik.com^
 ||xvtnaperelcrp.online^
