@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511140031
+! Version: 202511140102
 ! Title: EasyList
-! Last modified: 14 Nov 2025 00:31 UTC
+! Last modified: 14 Nov 2025 01:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9e1c0c44b4cc39e96b7af35b34a4cdca33865ac7
+! Commit: 0fa3d19ed51a8ef51c4af74f444c7df8f6ee179e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25701,6 +25701,7 @@ browsershots.org#@#.advert_area
 ||eertoamogn.net^
 ||eesoavoath.net^
 ||eessoong.com^
+||eetchauglair.net^
 ||eetchooxanu.net^
 ||eetensalus.qpon^
 ||eethertaipathu.net^
@@ -27467,6 +27468,7 @@ browsershots.org#@#.advert_area
 ||fkyxpjyduvwbw.online^
 ||fkzmvsmbnblvu.life^
 ||flabbymatt.com^
+||flackersagina.rest^
 ||flagads.net^
 ||flaggercarolyn.cfd^
 ||flaggynasi.com^
@@ -34821,6 +34823,7 @@ browsershots.org#@#.advert_area
 ||krenkzfiuzryw.store^
 ||kreomfoq.com^
 ||kreps.xyz^
+||krfcjcqcvj.com^
 ||krfqlrxvmoyrj.online^
 ||krhmtdzuxxmsc.space^
 ||krisydark.com^
@@ -35061,6 +35064,7 @@ browsershots.org#@#.advert_area
 ||kyxvadysubfeu.online^
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||kzagvdulumvgl.site^
+||kzampgfftpiao.online^
 ||kzfcgwhewnzjf.online^
 ||kzffucdjbxdfh.online^
 ||kzfslblsahnou.life^
@@ -37415,6 +37419,7 @@ browsershots.org#@#.advert_area
 ||mengozia.xyz^
 ||menhirsmank.rest^
 ||meninxmorrows.world^
+||mensejuverna.rest^
 ||mentallyissue.com^
 ||mentionbounceclimate.com^
 ||mentionideablit.com^
@@ -40444,6 +40449,7 @@ browsershots.org#@#.advert_area
 ||ofxbxiqadouwo.space^
 ||ofyuxfqhsexkj.online^
 ||ofzaqfcrfyaqd.com^
+||ofzrqtpcrvnet.online^
 ||ogaku.site^
 ||ogckadnsqwwng.store^
 ||ogdauedbftzmt.online^
@@ -48348,6 +48354,7 @@ browsershots.org#@#.advert_area
 ||silly-resist.com^
 ||silpharapidly.com^
 ||siltsdespend.life^
+||siluricidotea.shop^
 ||silverangleshookup.com^
 ||silverforestpath.com^
 ||silvermap.pro^
@@ -52083,6 +52090,7 @@ browsershots.org#@#.advert_area
 ||twtvxfgalhy.com^
 ||twtypnyspenqb.store^
 ||twvgoaewdmluf.online^
+||twvsgpryygplmcw.com^
 ||txarhldcegxm.com^
 ||txbwpztu-oh.site^
 ||txckepgtobupdnb.com^
