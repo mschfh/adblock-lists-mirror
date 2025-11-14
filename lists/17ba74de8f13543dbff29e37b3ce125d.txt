@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511140933
+! Version: 202511141011
 ! Title: EasyList
-! Last modified: 14 Nov 2025 09:33 UTC
+! Last modified: 14 Nov 2025 10:11 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3fa9a18e58db78a0b386a385ec5f8c0e0e29dc35
+! Commit: 04788b61327564c63ac390efb76c22c2d042f875
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29912,6 +29912,7 @@ browsershots.org#@#.advert_area
 ||hfbhbzlflpuiz.site^
 ||hfcibylpjevbf.website^
 ||hfcqcubumdrpp.website^
+||hfcuodhkqezy.com^
 ||hfdfyrqj-ws.club^
 ||hfdjmoedkjf.asia^
 ||hfdrgnarmwzsy.space^
@@ -37452,6 +37453,7 @@ browsershots.org#@#.advert_area
 ||mtuqqwbromboy.today^
 ||mtuvr.life^
 ||mtuyddahzbvcr.online^
+||mtxlipuuh.com^
 ||mtxtkorieh.com^
 ||mtxuhmtkyqpte.site^
 ||mtxzbmyfrxd.com^
@@ -41951,6 +41953,7 @@ browsershots.org#@#.advert_area
 ||pornoheat.com^
 ||pornvideos.casa^
 ||porojo.net^
+||porosebromos.rest^
 ||porpitainstill.world^
 ||portapostil.help^
 ||portatebela.cyou^
@@ -50791,6 +50794,7 @@ browsershots.org#@#.advert_area
 ||ugqaxpmhdveiv.website^
 ||ugroocuw.net^
 ||ugslschnwvcrh.site^
+||ugtmlggwfkdts.website^
 ||ugtrmoemaisl.com^
 ||ugttoldo.shop^
 ||ugueolbcmmrlq.site^
@@ -52126,6 +52130,7 @@ browsershots.org#@#.advert_area
 ||vhngny-cfwm.life^
 ||vhova.com^
 ||vhqdzoxpepcem.store^
+||vhrpjfhvgkslm.store^
 ||vhsuoalo.com^
 ||vhubnllmwrsyp.site^
 ||vhwsycdjmiycy.website^
