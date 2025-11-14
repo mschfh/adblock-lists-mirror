@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511141107
+! Version: 202511141145
 ! Title: EasyList
-! Last modified: 14 Nov 2025 11:07 UTC
+! Last modified: 14 Nov 2025 11:45 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a584367b2cb072b6a553008e5d3d2c4a02075ff8
+! Commit: d69696c9874ea18a219ec767646b4ffc78dce71f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16577,6 +16577,7 @@ browsershots.org#@#.advert_area
 ||abletopreseyna.com^
 ||ablybeastssarcastic.com^
 ||abmhosjehovic.help^
+||abmjmovki.com^
 ||abmunnaa.com^
 ||abnegationsemicirclereproduce.com^
 ||abnormalitylovingmammal.com^
@@ -25036,6 +25037,7 @@ browsershots.org#@#.advert_area
 ||eamrxyoyatwgm.website^
 ||eanresultancet.com^
 ||eaoyilbmqypkz.site^
+||eapifqzadrqgi.store^
 ||earbossysavvy.com^
 ||earclipcopyboy.help^
 ||eardepth-prisists.com^
@@ -25292,6 +25294,7 @@ browsershots.org#@#.advert_area
 ||eetensalus.qpon^
 ||eethertaipathu.net^
 ||eetognauy.net^
+||eetptaezynojm.store^
 ||eetsatsoalt.net^
 ||eetserdids.net^
 ||eetsooso.net^
@@ -32574,6 +32577,7 @@ browsershots.org#@#.advert_area
 ||jimpreissue.cyou^
 ||jimsonphaeism.rest^
 ||jingleshoncho.com^
+||jinjililotah.cyou^
 ||jinklecarted.help^
 ||jinupfolds.cfd^
 ||jipperwinned.world^
@@ -55337,6 +55341,7 @@ browsershots.org#@#.advert_area
 ||youthful-promise.pro^
 ||youthfuljacket.pro^
 ||youthfulpoem.pro^
+||youthlygaveler.com^
 ||youtube.local^
 ||yowiespopian.com^
 ||yowlersburred.cyou^
