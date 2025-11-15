@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511151827
+! Version: 202511151911
 ! Title: EasyList
-! Last modified: 15 Nov 2025 18:27 UTC
+! Last modified: 15 Nov 2025 19:11 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 487a57a391bb66857880f9c22b204c3bea7a03d6
+! Commit: 2e79b745eae1ef4b190b55e8072139c43fa0682c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39267,6 +39267,7 @@ browsershots.org#@#.advert_area
 ||passwordssaturatepebble.com^
 ||pastaleafceiling.com^
 ||pastamia.help^
+||pastedict.com^
 ||pastel-hire.pro^
 ||pasteldrowsyaboriginal.com^
 ||pasteljav128.fun^
@@ -41759,6 +41760,7 @@ browsershots.org#@#.advert_area
 ||qspylmhnisdrq.space^
 ||qsrdqwujtvxcf.vip^
 ||qsrvzbuhumwow.website^
+||qsswiwbsdnjp.com^
 ||qstdgyhrnvyij.space^
 ||qsvbi.space^
 ||qsvdftnuckecq.site^
@@ -42120,6 +42122,7 @@ browsershots.org#@#.advert_area
 ||ranopportuni.com^
 ||ranseursnapped.cfd^
 ||ranularejang.rest^
+||ranxeajgztdgo.space^
 ||raordukinarilyhuk.com^
 ||raosmeac.net^
 ||rapacitylikelihood.com^
@@ -44004,6 +44007,7 @@ browsershots.org#@#.advert_area
 ||scaldsheetdeterrent.com^
 ||scalerjangly.help^
 ||scalesassign.com^
+||scallopafford.com^
 ||scallopbedtime.com^
 ||scallopfulsome.help^
 ||scalpdisqualify.com^
@@ -45057,6 +45061,7 @@ browsershots.org#@#.advert_area
 ||slavesubmarinebribery.com^
 ||slavicfarth.qpon^
 ||slavinboise.world^
+||slawhomager.com^
 ||slayingbritska.shop^
 ||slayingbugeyes.com^
 ||slbjksfomekcn.website^
