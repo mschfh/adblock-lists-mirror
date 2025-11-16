@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511160816
+! Version: 202511160844
 ! Title: EasyList
-! Last modified: 16 Nov 2025 08:16 UTC
+! Last modified: 16 Nov 2025 08:44 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b8852fac3044f4de755dafaf0c0a21be876fbde1
+! Commit: 98e88113358e54fb0d411d0a1989e3bc5c868d81
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19900,6 +19900,7 @@ browsershots.org#@#.advert_area
 ||bikingdecare.help^
 ||bilfsuuem.com^
 ||billboardwring.com^
+||billilia.com^
 ||billybobandirect.org^
 ||billypub.com^
 ||bilroughicmed.net^
@@ -20234,6 +20235,7 @@ browsershots.org#@#.advert_area
 ||bobacelfland.help^
 ||bobapsoabauns.com^
 ||bobboro.com^
+||bobbywobby.com^
 ||bobflyoverbet.qpon^
 ||bobgames-prolister.com^
 ||bobheals.cfd^
@@ -20271,6 +20273,7 @@ browsershots.org#@#.advert_area
 ||boilingroof.pro^
 ||boilybeefer.cfd^
 ||boiqzsgnywkuv.today^
+||bojel.com^
 ||bokepindo13.name^
 ||bold-display.pro^
 ||bold-potential.com^
@@ -25688,6 +25691,7 @@ browsershots.org#@#.advert_area
 ||emonduplajifreefile.monster^
 ||emopqyqdoepnf.buzz^
 ||emotional-efficiency.pro^
+||emotomalf.com^
 ||empalerwhang.qpon^
 ||empaquatlbsgn.space^
 ||empdat.com^
@@ -27125,6 +27129,7 @@ browsershots.org#@#.advert_area
 ||flcspboszvfym.space^
 ||fldes6fq.de^
 ||fldlfcfbdikwou.com^
+||fleamx.com^
 ||fleaszaurak.cfd^
 ||fleckerreopen.rest^
 ||fleckydyassic.help^
@@ -27244,6 +27249,7 @@ browsershots.org#@#.advert_area
 ||fmlabsonline.com^
 ||fmljbodtnweou.com^
 ||fmlowfyyvmxrg.site^
+||fmlyauqjelxvy.site^
 ||fmmnotstql.xyz^
 ||fmpub.net^
 ||fmqbtajbojryt.store^
@@ -28760,6 +28766,7 @@ browsershots.org#@#.advert_area
 ||goldenriverway.com^
 ||goldfishouncereburial.com^
 ||golgicolorer.life^
+||golnkz.com^
 ||goloshguanin.rest^
 ||goluckytiming.com^
 ||gomain.pro^
@@ -36556,6 +36563,7 @@ browsershots.org#@#.advert_area
 ||my-sweetflirt.com^
 ||my1elitclub.com^
 ||myadcash.com^
+||myaii.travel^
 ||myaudioads.com^
 ||mybetterdatings.com^
 ||mybgbqizwvmau.store^
@@ -44505,6 +44513,7 @@ browsershots.org#@#.advert_area
 ||sessionnewspaperthirteenth.com^
 ||seteamsobtantion.com^
 ||setitoefanyor.com^
+||setoinc.com^
 ||setokanna.online^
 ||settle1266.fun^
 ||settledapproximatesuit.com^
@@ -45592,6 +45601,7 @@ browsershots.org#@#.advert_area
 ||soupystick.pro^
 ||sourcebait.com^
 ||sourcepeppery.shop^
+||sourcerealisejeopardy.com^
 ||sourelevationregion.com^
 ||sourishboree.cfd^
 ||sourshaped.com^
@@ -54412,6 +54422,7 @@ browsershots.org#@#.advert_area
 ||bettentacruela.com^$document
 ||betteradsystem.com^$document
 ||betzapdoson.com^$document
+||billilia.com^$document
 ||bincatracs.com^$document
 ||bkprglyptic.shop^$document
 ||blcdog.com^$document
@@ -57117,6 +57128,7 @@ browsershots.org#@#.advert_area
 ||bakjaqa.net^$popup
 ||baldo-toj.com^$popup
 ||balldollars.com^$popup
+||ballyhoopla.club^$popup
 ||banquetunarmedgrater.com^$popup
 ||banyaikipe.top^$popup
 ||barometercorrodingunease.com^$popup
@@ -57357,6 +57369,7 @@ browsershots.org#@#.advert_area
 ||clentrk.com^$popup
 ||click-cdn.com^$popup
 ||click.ggpickyaff.com^$popup
+||click.quk.com^$popup
 ||clickadsource.com^$popup
 ||clickbank.net/*offer_id=$popup
 ||clickdaly.com^$popup
