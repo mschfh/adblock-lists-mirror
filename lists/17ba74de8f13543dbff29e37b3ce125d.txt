@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511161903
+! Version: 202511161933
 ! Title: EasyList
-! Last modified: 16 Nov 2025 19:03 UTC
+! Last modified: 16 Nov 2025 19:33 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1a82a37fed3797dad767a46f1afc867ff6b830a2
+! Commit: d9af2c01dbe88c4f1ee744b3c0cb9845a6ff5290
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18891,6 +18891,7 @@ browsershots.org#@#.advert_area
 ||avepilrorgemtou.net^
 ||aversionrestore.com^
 ||avertschicest.cyou^
+||avestangledes.rest^
 ||avgbbdqy.net^
 ||avgive3431.fun^
 ||avglvolxsgfkp.site^
@@ -28420,6 +28421,7 @@ browsershots.org#@#.advert_area
 ||giggleostentatious.com^
 ||gigicinjinsyf.website^
 ||gigsmanhowls.top^
+||giguenestle.com^
 ||giiepghzxdtbl.website^
 ||giiqvfzntxhbq.store^
 ||giirlforyou.com^
@@ -30503,6 +30505,7 @@ browsershots.org#@#.advert_area
 ||hsvgxmljiaoob.fun^
 ||hsvnpfchuzpma.space^
 ||hswzdflhlmtpg.store^
+||hsynrgazbyd.com^
 ||hszitmwllttjk.space^
 ||htajztellrgmu.space^
 ||htaospdsuqiwm.online^
@@ -32067,6 +32070,7 @@ browsershots.org#@#.advert_area
 ||jeewiglisag.com^
 ||jeglupagheeh.net^
 ||jegrbkenarvan.website^
+||jejlapwrnjnap.store^
 ||jejlaueaxfsjt.website^
 ||jejunalduets.cyou^
 ||jekzyyowqvevz.top^
@@ -33681,6 +33685,7 @@ browsershots.org#@#.advert_area
 ||languishbrook.com^
 ||languishcharmingwidely.com^
 ||languishrubbish.com^
+||lanitalgon.shop^
 ||lankswingconcerning.com^
 ||lanky-bar.com^
 ||lankyteaching.com^
@@ -35516,6 +35521,7 @@ browsershots.org#@#.advert_area
 ||mesivtalene.qpon^
 ||mesmerizeexempt.com^
 ||mesnagebobble.com^
+||mesodepointed.com^
 ||mesonickarns.cyou^
 ||mesoulsignoap.net^
 ||mesqwrte.net^
@@ -36157,6 +36163,7 @@ browsershots.org#@#.advert_area
 ||moopseechuke.net^
 ||mooreguested.qpon^
 ||moorysashay.cfd^
+||moosrubble.com^
 ||moosuphouze.net^
 ||mootermedia.com^
 ||moowoduzivoatie.net^
@@ -46447,6 +46454,7 @@ browsershots.org#@#.advert_area
 ||sublinebess.qpon^
 ||sublotrehonor.click^
 ||submergepremierehibernate.com^
+||submissblawort.com^
 ||submissive-quarter.pro^
 ||submissive-spirit.pro^
 ||submissivecommand.pro^
