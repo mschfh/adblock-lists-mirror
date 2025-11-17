@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511170510
+! Version: 202511170541
 ! Title: EasyList
-! Last modified: 17 Nov 2025 05:10 UTC
+! Last modified: 17 Nov 2025 05:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 546f5ac5031d728096c0d8c0d80ac7d32a32b62a
+! Commit: 2742bad7a255a8c4d4c740777bbc7432f902c09a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21620,6 +21620,7 @@ browsershots.org#@#.advert_area
 ||cgtkclfydnqhp.site^
 ||cgtwccqrpbota.global^
 ||cgtwpoayhmqi.online^
+||cgwwqqzsclqke.website^
 ||chabadokor.com^
 ||chachors.net^
 ||chacolieutopia.shop^
@@ -30302,6 +30303,7 @@ browsershots.org#@#.advert_area
 ||holiestcoalbox.cfd^
 ||holikedtocometot.com^
 ||holjmynbrubve.online^
+||hollaedcalends.cfd^
 ||holloespodite.life^
 ||hollow-mess.com^
 ||hollowcharacter.com^
@@ -47969,6 +47971,7 @@ browsershots.org#@#.advert_area
 ||tuaos.xyz^
 ||tubagenoddi.qpon^
 ||tubberlo.com^
+||tubbiegabbros.click^
 ||tubby-roof.com^
 ||tubbylay.com^
 ||tubbyweird.pro^
@@ -50406,6 +50409,7 @@ browsershots.org#@#.advert_area
 ||wgwiylazhokva.website^
 ||wgxnxjujenmqp.space^
 ||wgzaprexwmzki.site^
+||wh07ut.com^
 ||whabhksilcnct.website^
 ||whackclumsiness.com^
 ||whackedburdon.com^
