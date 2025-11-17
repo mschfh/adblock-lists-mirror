@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511171310
+! Version: 202511171328
 ! Title: EasyList
-! Last modified: 17 Nov 2025 13:10 UTC
+! Last modified: 17 Nov 2025 13:28 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b95850c5b74e6c71dcde49ec7ec74ddc60551629
+! Commit: 855571a0bc369d00bf120ec189c116c72ecf4f54
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -46711,6 +46711,7 @@ browsershots.org#@#.advert_area
 ||taisteewhie.net^
 ||taiteemozathou.com^
 ||taituranite.click^
+||taiverturena.com^
 ||taizibwgcfhwd.one^
 ||taizigly.net^
 ||takeallsoft.ru^
@@ -51669,6 +51670,7 @@ browsershots.org#@#.advert_area
 ||xurlctzwmnnxm.site^
 ||xuvxaknemnska.site^
 ||xvayntirbqohr.space^
+||xvbkvmrevmqir.store^
 ||xvcefcdyvbyyx.website^
 ||xvcwbxjzdecpi.store^
 ||xvegvlkqovqqr.online^
