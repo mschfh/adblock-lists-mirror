@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202511171643
+! Version: 202511171712
 ! Title: EasyPrivacy
-! Last modified: 17 Nov 2025 16:43 UTC
+! Last modified: 17 Nov 2025 17:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ec12b8d2d1480c4c8a7bc34a234c30040e792db1
+! Commit: 50258c73042c88d2e756f4798c3261c6c79ad422
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -54996,6 +54996,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ! 
 @@||configurator.porsche.com/public/adobe-analytics-$~third-party
 @@||keytiles.com/tracking/$script,domain=blikk.hu
+@@||konzolvilag.hu^*/click_tracking.js$~third-party
 @@||kozkutak.hu/getdata.php?v*=pageview$~third-party
 ! 
 ! ---------- Icelandic ----------
