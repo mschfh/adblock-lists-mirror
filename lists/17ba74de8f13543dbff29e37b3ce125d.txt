@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511180813
+! Version: 202511180845
 ! Title: EasyList
-! Last modified: 18 Nov 2025 08:13 UTC
+! Last modified: 18 Nov 2025 08:45 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ac74dfd196d6dc7f4e22694adc7059762196c1d3
+! Commit: ca3ec6496a4a4adfe6f3d2d19db0c1e7075401e1
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21277,6 +21277,7 @@ browsershots.org#@#.advert_area
 ||carottemird.cfd^
 ||carpenterexplorerdemolition.com^
 ||carpenterfootwearappellation.com^
+||carpiumexopt.com^
 ||carplusky.cyou^
 ||carpuslarrups.com^
 ||carrackclote.help^
@@ -33507,6 +33508,7 @@ browsershots.org#@#.advert_area
 ||koutobey.net^
 ||koutoowekoa.net^
 ||kouunrov.xyz^
+||kovbcheailurx.space^
 ||koxaixaunsouh.net^
 ||koyiwkgxuburh.site^
 ||koytnkgoywyhe.site^
@@ -33547,6 +33549,7 @@ browsershots.org#@#.advert_area
 ||kqqqdsdsneptw.space^
 ||kqtmhkotyvsmp.store^
 ||kqxomdlv.com^
+||kqyjyxyjpuiqr.website^
 ||kqzyfj.com^
 ||kra18.com^
 ||kraaledclaims.digital^
@@ -40193,6 +40196,7 @@ browsershots.org#@#.advert_area
 ||pickaflick.co^
 ||pickignoranceattacks.com^
 ||picmega.com^
+||picmourgoossaks.net^
 ||picritegeoidal.rest^
 ||pictela.net^
 ||picturespushfulrookie.com^
@@ -40438,6 +40442,7 @@ browsershots.org#@#.advert_area
 ||ploughplbroch.com^
 ||plouklutein.cfd^
 ||plowh.com^
+||ploybite.com^
 ||ployimmediately.com^
 ||plqaohbxrdvic.online^
 ||plqbxvnjxq92.com^
@@ -40560,6 +40565,7 @@ browsershots.org#@#.advert_area
 ||pointlessbad.com^
 ||pointlessstudy.pro^
 ||pointroll.com^
+||pointsanyway.com^
 ||pointybibbled.help^
 ||pointyglareproven.com^
 ||pointygrandma.com^
@@ -41039,7 +41045,9 @@ browsershots.org#@#.advert_area
 ||processestheycod.com^
 ||processingcontinuediligence.com^
 ||processingnettleremiss.com^
+||proclamationnimble.com^
 ||proclamationromp.com^
+||procuratorcauldron.com^
 ||procuredsheet.com^
 ||procureshaft.com^
 ||prod.untd.com^
@@ -41921,6 +41929,7 @@ browsershots.org#@#.advert_area
 ||qgewxuetcymfj.com^
 ||qgfdmuyzgrosw.online^
 ||qgfszigplcrhg.space^
+||qghhezxouknix.site^
 ||qghnxwkybpo.xyz^
 ||qghueehixspef.site^
 ||qgkbveukreear.site^
@@ -44545,6 +44554,7 @@ browsershots.org#@#.advert_area
 ||scooperprio.digital^
 ||scootawarebarber.com^
 ||scooterreyoked.qpon^
+||scootwaxseat.com^
 ||scopinemina.cfd^
 ||scorchads.com^
 ||scorchobservedsow.com^
@@ -47285,6 +47295,7 @@ browsershots.org#@#.advert_area
 ||thickbill.pro^
 ||thickcultivation.com^
 ||thickplastic.pro^
+||thickproduce.pro^
 ||thickshortwage.com^
 ||thickspaghetti.com^
 ||thickteaching.com^
@@ -50484,6 +50495,7 @@ browsershots.org#@#.advert_area
 ||wearbiolite.rest^
 ||wearbulbed.com^
 ||wearishgapers.cfd^
+||wearisometechnicalitydeport.com^
 ||wearychallengeraise.com^
 ||weasonszymite.qpon^
 ||weatherplllatform.com^
