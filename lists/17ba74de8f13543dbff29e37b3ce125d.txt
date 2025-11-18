@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511181114
+! Version: 202511181422
 ! Title: EasyList
-! Last modified: 18 Nov 2025 11:14 UTC
+! Last modified: 18 Nov 2025 14:22 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f72a5348762ec6f0b7a9808ce168c5f53211bf57
+! Commit: 8429765f4f9d1ca9a954d7845589dd3dfd2b750f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17743,6 +17743,7 @@ browsershots.org#@#.advert_area
 ||ajrkm1.com^
 ||ajrkm3.com^
 ||ajscdn.com^
+||ajsrjwcgr.com^
 ||ajump1.com^
 ||ajxx98.online^
 ||ajyykkim.com^
@@ -23891,6 +23892,7 @@ browsershots.org#@#.advert_area
 ||deliriumswarthybeginner.com^
 ||deliv12.com^
 ||delivercolkept.com^
+||deliveredpickpocketflushed.com^
 ||deliveringbarton.com^
 ||delivery.momentummedia.com.au^
 ||delivery45.com^
@@ -24403,6 +24405,7 @@ browsershots.org#@#.advert_area
 ||diwhuteshu.com^
 ||dixxiowrgeame.online^
 ||dizdivrc.com^
+||dizdre.com^
 ||dizznplerllul.love^
 ||dj-updates.com^
 ||dj2550.com^
@@ -26078,6 +26081,7 @@ browsershots.org#@#.advert_area
 ||equiremukentsi.org^
 ||equivalentcudgeltriumphant.com^
 ||equivocalmashingreseller.com^
+||equlvkkzzbmn.com^
 ||eqzbblwlyoluu.online^
 ||era67hfo92w.com^
 ||eradisciplinemomentary.com^
@@ -27238,6 +27242,7 @@ browsershots.org#@#.advert_area
 ||flattendollar.com^
 ||flattenpliable.com^
 ||flattenrestoration.com^
+||flattermonumentsbarren.com^
 ||flaunchrainful.cfd^
 ||flavinepetrous.help^
 ||flaw.cloud^
@@ -27337,6 +27342,7 @@ browsershots.org#@#.advert_area
 ||fluffyaltarrecords.com^
 ||fluffyslide.pro^
 ||fluffytracing.com^
+||fluidbagfulwag.com^
 ||fluingegging.rest^
 ||fluiyhtncueau.store^
 ||flungperformgirlfriend.com^
@@ -32874,6 +32880,7 @@ browsershots.org#@#.advert_area
 ||jy6hyc7e34c5y2h3h8r2tg4q8pzg.rest^
 ||jybaekajjmawl.top^
 ||jybaekaqbmvwl.top^
+||jybaekaqbwzrq.top^
 ||jycrjkuspyv.fun^
 ||jycvhoprnouoi.online^
 ||jyczddycqnckw.store^
@@ -34385,6 +34392,7 @@ browsershots.org#@#.advert_area
 ||lipsgig.com^
 ||lipwesfzuidbk.club^
 ||liquidfire.mobi^
+||lirdawkin.com^
 ||lireadzwxtrbh.space^
 ||lirmndsuoolqv.online^
 ||lispaircraftcraziness.com^
@@ -35912,6 +35920,7 @@ browsershots.org#@#.advert_area
 ||milljeanne.com^
 ||millsurfaces.com^
 ||milnhghbwgyco.site^
+||milterismaili.cfd^
 ||miltlametta.com^
 ||miltsurgency.help^
 ||miluwo.com^
@@ -37624,6 +37633,7 @@ browsershots.org#@#.advert_area
 ||nonfictionspatterrind.com^
 ||nongasnunlet.cfd^
 ||nonsensetypicallyuncertain.com^
+||nonstopanyoneslammed.com^
 ||nonstopmedicine.pro^
 ||nonstoppartner.de^
 ||nonsynchronous.yachts^
@@ -39443,6 +39453,7 @@ browsershots.org#@#.advert_area
 ||p5eqkpzvrfnhbbnrr8.cfd^
 ||p5x4wcong1pih4yrxnflnprkn.cfd^
 ||p6jn1brfl5umwc2t2z4e3l7mv83f7jvp97.cfd^
+||p7bto8nbxvuwiz5.rest^
 ||p7y4hibeegzuzh.rest^
 ||p834uxchy4uwfvfgj.cfd^
 ||p8wj9zko.com^
@@ -40828,6 +40839,7 @@ browsershots.org#@#.advert_area
 ||ppktmdbtodigk.online^
 ||ppmdretch.rest^
 ||ppmxp.com^
+||ppnnqnhlcqerz.site^
 ||ppoqidindvqxz.website^
 ||pppbr.com^
 ||pppudnz.cam^
@@ -41377,6 +41389,7 @@ browsershots.org#@#.advert_area
 ||ptephatauss.net^
 ||pterinhestern.world^
 ||ptestofooltouts.net^
+||ptetsoaversaphi.com^
 ||ptewegleecha.net^
 ||ptfoplgnjmygh.store^
 ||ptgbydghejqfz.online^
@@ -42330,6 +42343,7 @@ browsershots.org#@#.advert_area
 ||quizzedtoot.help^
 ||quizzical-cow.com^
 ||quizzicaltackle.pro^
+||qujajiquho.com^
 ||quoddedcozes.shop^
 ||quoitsarchery.cyou^
 ||quokkacheeks.com^
@@ -43912,6 +43926,7 @@ browsershots.org#@#.advert_area
 ||rsqaxkycjgnaf.website^
 ||rsqiodtrmtavz.space^
 ||rsqtssvyjuzlh.website^
+||rssudafbgeotv.store^
 ||rssxgfeukcqdq.website^
 ||rstpgmfbcproe.store^
 ||rstrix.com^
@@ -44928,6 +44943,7 @@ browsershots.org#@#.advert_area
 ||sfdtthuvnnjjo.store^
 ||sfewgzxnxvroe.space^
 ||sffsdvc.com^
+||sfijinqjkggxl.store^
 ||sfixretarum.com^
 ||sfstcxntycsrx.website^
 ||sftapi.com^
@@ -47228,6 +47244,7 @@ browsershots.org#@#.advert_area
 ||tgolerogkcbck.online^
 ||tgpluprgeoskc.online^
 ||tgrxyxvvlyfww.net^
+||tgsairjhsqi.com^
 ||tgspxcckjm.com^
 ||tgtontbctdvfx.site^
 ||tguyxzkrxgzqt.online^
@@ -49493,6 +49510,7 @@ browsershots.org#@#.advert_area
 ||vbtrbulabutew.site^
 ||vbyhuugfwnfic.online^
 ||vbykiprxfpvpt.space^
+||vbyxdksfhpsqx.com^
 ||vbyyrfqfbom.net^
 ||vbzlokvdommwl.online^
 ||vcbarjjmuxbxi.website^
@@ -49644,6 +49662,7 @@ browsershots.org#@#.advert_area
 ||vetchesthiever.com^
 ||vetiveraccable.click^
 ||vetogheg.cyou^
+||vetooograph.com^
 ||veusvuswbkfjd.online^
 ||vexesunpay.help^
 ||vexevutus.com^
@@ -50267,6 +50286,7 @@ browsershots.org#@#.advert_area
 ||vzzkyyvmklrxv.site^
 ||w-gbttkri.global^
 ||w0we.com^
+||w1h3kktj6hf8e2h.cfd^
 ||w4.com^
 ||w454n74qw.com^
 ||w55c.net^
