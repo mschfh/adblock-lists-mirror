@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511191634
+! Version: 202511191702
 ! Title: EasyList
-! Last modified: 19 Nov 2025 16:34 UTC
+! Last modified: 19 Nov 2025 17:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ad75d0802e9cb27cd8527a52a1dce7e67eaa174d
+! Commit: e51bad6d7ed244ab919e78678200df72ac26abfc
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21230,6 +21230,7 @@ browsershots.org#@#.advert_area
 ||candid-internet.com^
 ||candiddugprecedent.com^
 ||candledenote.com^
+||candlequestionableeffeminate.com^
 ||candlingrecords.com^
 ||candourglumes.click^
 ||candyai.love^
@@ -27686,6 +27687,7 @@ browsershots.org#@#.advert_area
 ||fqgffgcg.xyz^
 ||fqjxmzlhmfmuk.online^
 ||fqljqjpufoclc.online^
+||fqllkxrwtyguh.online^
 ||fqnjjkzphtvnl.website^
 ||fqnpsyjfuxmqx.website^
 ||fqpkobrusjzaa.space^
@@ -31888,6 +31890,7 @@ browsershots.org#@#.advert_area
 ||iredirect.net^
 ||ireofhisladyloveh.com^
 ||irgdnasjxgdsp.site^
+||irhjhwpcxukktib.com^
 ||irhsymtcvduze.website^
 ||iriditepeiser.qpon^
 ||iringtgandmotiv.com^
@@ -62595,7 +62598,6 @@ browsershots.org#@#.advert_area
 ||red-shell.speedrun.com^
 ||republicmonitor.com/images/lundy-placeholder.jpeg
 ||researchgate.net/delivery/manager.js
-||reuters.com/pf/resources/dist/reuters/js/index.js
 ||rev.frankspeech.com^
 ||revolver.news/wp-content/banners/
 ||rgstatic.net/javascript/delivery-manager/delivery-impl.$domain=researchgate.net
