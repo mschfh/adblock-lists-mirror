@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511190132
+! Version: 202511190232
 ! Title: EasyList
-! Last modified: 19 Nov 2025 01:32 UTC
+! Last modified: 19 Nov 2025 02:32 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1633757bc916f68ac65355e05f27605dfc2fa193
+! Commit: 95edd75110cf8331ae6b9c0c16ae3eeea870bca4
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31398,6 +31398,7 @@ browsershots.org#@#.advert_area
 ||impukwweipyin.website^
 ||impureleg.com^
 ||impurepath.com^
+||imrmrwtq.com^
 ||imsjqyrgnjnnv.store^
 ||imslyokecyhar.site^
 ||imsonicgale.com^
@@ -45958,6 +45959,7 @@ browsershots.org#@#.advert_area
 ||spadelack.com^
 ||spaderonium.com^
 ||spadsync.com^
+||spaitimpower.com^
 ||spamimpunity.com^
 ||spaniardinformationbookworm.com^
 ||spannerbrewinghalfyear.com^
@@ -47450,6 +47452,7 @@ browsershots.org#@#.advert_area
 ||thisisyourprize.site^
 ||thislloverway.help^
 ||thjxvlrjnbqbs.store^
+||thnwxvghrnfst.website^
 ||thoafteebe.net^
 ||thoakeet.net^
 ||thoaltauptoojiw.net^
@@ -49050,6 +49053,7 @@ browsershots.org#@#.advert_area
 ||unsethalutz.cyou^
 ||unsettledbrazenqueue.com^
 ||unsewntaled.cfd^
+||unshaveparaphs.com^
 ||unsheafvives.cfd^
 ||unshoutstroth.rest^
 ||unsingwont.shop^
@@ -49438,6 +49442,7 @@ browsershots.org#@#.advert_area
 ||uzcbclgnjovkf.site^
 ||uzdpzjmscmlgz.website^
 ||uzeempoothult.net^
+||uziesijakitin.store^
 ||uzioxnjmnonzu.site^
 ||uzkprtrhmsu.com^
 ||uzpjrqgtrymrs.site^
@@ -49788,6 +49793,7 @@ browsershots.org#@#.advert_area
 ||vfuwgpavyebin.space^
 ||vfwefipfkvgud.website^
 ||vfwpaocvysbpo.site^
+||vfwyauglvjcfl.space^
 ||vfxcdhckojsqd.store^
 ||vfyfldhdthlin.space^
 ||vfyvoxlyw.net^
