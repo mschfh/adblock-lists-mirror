@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202511192209
+! Version: 202511192232
 ! Title: EasyPrivacy
-! Last modified: 19 Nov 2025 22:09 UTC
+! Last modified: 19 Nov 2025 22:32 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f0377582c0b63d5be662b7a39e0f9bd1003a89eb
+! Commit: 592a132bc918038e5e17f9dbf36dc11e93982091
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -6637,6 +6637,7 @@ omni.soundestlink.com$image
 ||billowybelief.com^
 ||billtable.com^
 ||binarycrest.com^
+||binarykite.com^
 ||binspiredtees.com^
 ||birthdaybelief.com^
 ||blackbrake.com^
@@ -6994,6 +6995,7 @@ omni.soundestlink.com$image
 ||effervescentvista.com^
 ||effulgentnook.com^
 ||effulgenttempest.com^
+||eightgreens.com^
 ||elasticchange.com^
 ||elderlybean.com^
 ||elderlytown.com^
@@ -11852,6 +11854,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stg.truvidplayer.com/*/v.php?st=
 ||stileproject.com/vhtk/
 ||storage.googleapis.com/afs-prod/tags
+||storage.googleapis.com/builder-preview/iframe/pixel.js
 ||storage.googleapis.com/nchq-dj-nid/prod/sp_v1.js
 ||storage.googleapis.com/snowplow-cto-office-tracker-bucket/
 ||storage.googleapis.com/tm-frend-graffiti/
