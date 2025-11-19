@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511191702
+! Version: 202511191729
 ! Title: EasyList
-! Last modified: 19 Nov 2025 17:02 UTC
+! Last modified: 19 Nov 2025 17:29 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e51bad6d7ed244ab919e78678200df72ac26abfc
+! Commit: 0fc02e654bdcaa8495477d668d08fc61960f9573
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18459,6 +18459,7 @@ browsershots.org#@#.advert_area
 ||architectmalicemossy.com^
 ||architecturediscussdifferently.com^
 ||archivescane.com^
+||archonswaff.qpon^
 ||arcoseijo.com^
 ||arcticattention.com^
 ||arctichold.pro^
@@ -25038,6 +25039,7 @@ browsershots.org#@#.advert_area
 ||dukerationpecial.com^
 ||dukingdraon.com^
 ||dukmcubsuhawh.site^
+||dulatkinic.cfd^
 ||duleonon.com^
 ||dulillipupan.com^
 ||dulkd.org^
@@ -27643,6 +27645,7 @@ browsershots.org#@#.advert_area
 ||foundationhorny.com^
 ||foundinggulfsaturate.com^
 ||founteamative.help^
+||fourabsmho.shop^
 ||fourthcheesy.com^
 ||fouwiphy.net^
 ||fovbxmvsgkhnl.icu^
@@ -29573,6 +29576,7 @@ browsershots.org#@#.advert_area
 ||gvt2.com^
 ||gvtdzbtjjqchi.website^
 ||gvuuacjcgazpe.online^
+||gvxsbujksnijb.store^
 ||gwallet.com^
 ||gwblqdisk.com^
 ||gwbone-cpw.today^
@@ -35617,6 +35621,7 @@ browsershots.org#@#.advert_area
 ||mayorcabbagedemolish.com^
 ||mayportfolioshrine.com^
 ||maysauceminister.com^
+||maysinbarway.cyou^
 ||maytidedespose.cfd^
 ||mazefoam.com^
 ||mazrwvacfmpdq.space^
@@ -36325,6 +36330,7 @@ browsershots.org#@#.advert_area
 ||mnpxmcrlmvdok.website^
 ||mnqfstxwgmtcsgf.com^
 ||mnqyjjbitxdvr.club^
+||mnrazbdd.com^
 ||mnrdqnowjoajc.store^
 ||mnroknmldvpcn.website^
 ||mntft.com^
@@ -40628,6 +40634,7 @@ browsershots.org#@#.advert_area
 ||plqaohbxrdvic.online^
 ||plqbxvnjxq92.com^
 ||plqkvjblzoszn.space^
+||plqyceqoyymjx.com^
 ||plrjs.org^
 ||plrst.com^
 ||plrthzxgifkgg.site^
@@ -55546,6 +55553,7 @@ browsershots.org#@#.advert_area
 ||chainstayornerypsstgeez.com^
 ||cinemaonceoddlyfatal.com^
 ||crazychime.com^
+||daddyobesity.com^
 ||dailysubsidy.com^
 ||deeplypishtennisscale.com^
 ||disgorgephew.com^
