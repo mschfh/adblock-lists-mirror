@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511192232
+! Version: 202511192313
 ! Title: EasyList
-! Last modified: 19 Nov 2025 22:32 UTC
+! Last modified: 19 Nov 2025 23:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 592a132bc918038e5e17f9dbf36dc11e93982091
+! Commit: 9e82a897b44056aa88a7c10764bf9ce8f5b75003
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -37538,6 +37538,7 @@ browsershots.org#@#.advert_area
 ||ngmdyqmrfvdzp.space^
 ||ngplansforourco.com^
 ||ngqzkriebcpwm.space^
+||ngrcjkylgrmsm.website^
 ||ngrwbgbavkjzy.site^
 ||ngshospicalada.com^
 ||ngsinspiringtga.info^
@@ -43987,6 +43988,7 @@ browsershots.org#@#.advert_area
 ||rotate4all.com^
 ||rotatejavgg124.fun^
 ||rotateme.ru^
+||rotating-split.pro^
 ||rotbnllkqenrw.store^
 ||rotf.lol^
 ||rothermophony.com^
@@ -49812,6 +49814,7 @@ browsershots.org#@#.advert_area
 ||vdeiseyswdfco.global^
 ||vdgtzmfxlfpmb.space^
 ||vdhlxpyxqqnkj.online^
+||vdinlbnrjesfism.com^
 ||vdjzreyjxrjtn.website^
 ||vdkvjefuqvfoh.site^
 ||vdlquklhkemfr.website^
@@ -51632,6 +51635,7 @@ browsershots.org#@#.advert_area
 ||wryabmekmukxp.site^
 ||wryzkeaxx.com^
 ||wsbxfiqahxjhf.top^
+||wsdazglmaboql.store^
 ||wsentativesathya.org^
 ||wsfhouubbqacd.online^
 ||wsfmgmmpfdekq.online^
