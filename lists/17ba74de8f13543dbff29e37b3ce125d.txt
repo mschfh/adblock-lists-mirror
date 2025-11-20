@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511200026
+! Version: 202511200101
 ! Title: EasyList
-! Last modified: 20 Nov 2025 00:26 UTC
+! Last modified: 20 Nov 2025 01:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 505cb6a87782dcabd24ac4128f9c2fc00cce2228
+! Commit: 6dcd3ae7f01f8c6b56aea36ee7065d1efa1c34f7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -27413,6 +27413,7 @@ browsershots.org#@#.advert_area
 ||flottenwhirroo.shop^
 ||flounderaway.com^
 ||flower1266.fun^
+||flowery-decision.pro^
 ||flowingassuage.com^
 ||flowkquick.cfd^
 ||flownetexpress.com^
@@ -33363,6 +33364,7 @@ browsershots.org#@#.advert_area
 ||khovdiminated.org^
 ||khqjazypcaqmk.space^
 ||khqnsoskqmqlr.site^
+||khrkanriutdvd.site^
 ||khrxilqpinlvr.store^
 ||khsumsaibsnfz.space^
 ||khulaexpense.rest^
@@ -37832,6 +37834,7 @@ browsershots.org#@#.advert_area
 ||nonstoppartner.de^
 ||nonsynchronous.yachts^
 ||nontraditionally.rest^
+||nooaiigptpszk.store^
 ||noohapou.com^
 ||noohifauptesu.net^
 ||noolt.com^
