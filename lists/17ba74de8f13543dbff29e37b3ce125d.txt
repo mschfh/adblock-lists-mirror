@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511202235
+! Version: 202511202311
 ! Title: EasyList
-! Last modified: 20 Nov 2025 22:35 UTC
+! Last modified: 20 Nov 2025 23:11 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 513bce71d6aa4f073a278f0565a1ffdaa9f65e09
+! Commit: db6a483535c7fefd5525e60862e3ba2f663f4117
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28395,6 +28395,7 @@ browsershots.org#@#.advert_area
 ||gb1aff.com^
 ||gbads.net^
 ||gbbbenonfdrge.website^
+||gbblpbibctqex.site^
 ||gbcxsgsjbemty.site^
 ||gbdkbtuzvqrun.fun^
 ||gbdoyxqikbvfigb.xyz^
@@ -37121,6 +37122,7 @@ browsershots.org#@#.advert_area
 ||mwigjkalkqnjc.website^
 ||mwirkqoxcdean.store^
 ||mwlptoirxkkmsvr.xyz^
+||mwmkoenyeymby.com^
 ||mwoukrkskillso.com^
 ||mwowoshszibzo.space^
 ||mwpkmvtu.com^
@@ -42368,6 +42370,7 @@ browsershots.org#@#.advert_area
 ||qingolor.com^
 ||qinvaris.com^
 ||qiprhlxtkiomv.site^
+||qipvfaoz.com^
 ||qiqmyoriizxtj.site^
 ||qiqzvhmpvfbxf.tech^
 ||qirbtkfgqdaug.website^
@@ -42501,6 +42504,7 @@ browsershots.org#@#.advert_area
 ||qovdtdoiazazm.site^
 ||qoxrmcuiogxhe.website^
 ||qoydtxdfmwlwn.store^
+||qoyvzmxbarkla.website^
 ||qozveo.com^
 ||qp-kkhdfspt.space^
 ||qpbtocrhhjnz.one^
@@ -52398,6 +52402,7 @@ browsershots.org#@#.advert_area
 ||xtremeviewing.com^
 ||xtrgqmnflnfnj.buzz^
 ||xtroglobal.com^
+||xtsbglqvyleeg.website^
 ||xttaff.com^
 ||xttdpwnnedxsacn.net^
 ||xttdpwnnedxsacn.xyz^
