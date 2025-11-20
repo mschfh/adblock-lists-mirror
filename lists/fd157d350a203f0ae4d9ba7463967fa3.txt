@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8m4y3ftj/CGyETF0WNKggQ
-! Version: 202511201111
+! Checksum: HnjBiRQBEreIzzIdIbMM6g
+! Version: 202511201141
 ! Title: RU, UA, UZ, KZ
-! Last modified: 20 Nov 2025 11:11 UTC
+! Last modified: 20 Nov 2025 11:41 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -665,6 +665,7 @@ $third-party,popup,domain=2ip.ru
 ||downloadbrowserweek.com^$popup
 ||fast2click.ru^$popup
 ||filebase.me^$popup
+||gameinstaller.ru^$popup
 ||gamerulet.ru^$popup
 ||gemoroy-stop.biz^$popup
 ||getappwiz.ru^$popup
@@ -4289,6 +4290,7 @@ _tizers.
 ||aitpqm.com^$third-party
 ||aj1058.online^$third-party
 ||aj1433.online^$third-party
+||aj1616.online^$third-party
 ||aj1713.online^$third-party
 ||aj1834.online^$third-party
 ||aj1860.online^$third-party
@@ -4389,6 +4391,7 @@ _tizers.
 ||api.smartadv.ru^
 ||api9.net^$third-party
 ||apirelay.ru^$third-party
+||apkfiler.sbs^$third-party
 ||appintop.com/widget/
 ||applieda.com^
 ||appscriptshark.com^$third-party
@@ -4408,6 +4411,7 @@ _tizers.
 ||arigami.ru^
 ||armi.media^$third-party
 ||artfiles.online^$third-party
+||artofile.homes^$third-party
 ||aruhdx.com^$third-party
 ||as4zjsw7.ru^$third-party
 ||asdhit.com^
