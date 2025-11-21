@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511212232
+! Version: 202511212308
 ! Title: EasyList
-! Last modified: 21 Nov 2025 22:32 UTC
+! Last modified: 21 Nov 2025 23:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0f1e7ea6be70443e486cd54a9cd2bf152a97990f
+! Commit: f9756ebdecd05e52339e0124a6dac0c9e1212df9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -36682,6 +36682,7 @@ browsershots.org#@#.advert_area
 ||molarmodern.cfd^
 ||molassyschout.com^
 ||molciyjhyuhhh.online^
+||molebjeivsqwq.online^
 ||moleconcern.com^
 ||moleya.click^
 ||molikrebaumt.xyz^
@@ -38389,6 +38390,7 @@ browsershots.org#@#.advert_area
 ||nvmzibbvocydt.website^
 ||nvpylxkdptacm.today^
 ||nvqlygqniapyb.site^
+||nvqvibvtalsmj.online^
 ||nvrblck.com^
 ||nvrtq4clmkm6j54wg3be.cfd^
 ||nvsexcmqzhctpu.com^
@@ -41022,6 +41024,7 @@ browsershots.org#@#.advert_area
 ||pnfoccvoyssqwx.xyz^
 ||pnfyrqaecmutp.com^
 ||pngdumzdmydll.site^
+||pnhbdtpkutagqa.com^
 ||pnhorlcjtrfau.vip^
 ||pnhwhdwszgmka.online^
 ||pnlgtgdkpyvdy.space^
@@ -41955,6 +41958,7 @@ browsershots.org#@#.advert_area
 ||ptumesukrerd.net^
 ||ptupsewo.net^
 ||ptuqidzdjdkhi.site^
+||ptuynrwotqzlf.website^
 ||ptwmcd.com^
 ||ptwmemd.com^
 ||ptwmjmp.com^
