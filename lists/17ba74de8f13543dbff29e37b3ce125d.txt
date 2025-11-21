@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511210506
+! Version: 202511210529
 ! Title: EasyList
-! Last modified: 21 Nov 2025 05:06 UTC
+! Last modified: 21 Nov 2025 05:29 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b90c074f8cc3a1d5ef812b25e16c550e5de6b952
+! Commit: e1762b5a7b5c96d27137129bb332f11d8ec5bc00
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20658,6 +20658,7 @@ browsershots.org#@#.advert_area
 ||bravotrk.com^
 ||brayinglegions.click^
 ||brazenwholly.com^
+||brazersvealers.rest^
 ||brcjvwooqneol.online^
 ||brdbwayjkebb.xyz^
 ||brdhbizupevpj.online^
@@ -31432,6 +31433,7 @@ browsershots.org#@#.advert_area
 ||illustriousreserve.pro^
 ||ilmat-deo.com^
 ||ilnoogrbnajuo.space^
+||ilocvezgkpncv.site^
 ||iloptrex.com^
 ||ilpgfdbc.xyz^
 ||ilpmcvbmizqfo.site^
@@ -33293,6 +33295,7 @@ browsershots.org#@#.advert_area
 ||kdnbljfbgheqq.space^
 ||kdnnhkwwbjr.net^
 ||kdpitybbkjusx.site^
+||kdqlejwrbjkga.store^
 ||kdqtmxmwygsny.space^
 ||kdrcjrqzizzev.website^
 ||kdtgodshwlwbx.website^
@@ -39332,6 +39335,7 @@ browsershots.org#@#.advert_area
 ||orgaxngxhvdp.rocks^
 ||orgiastafrits.cyou^
 ||orgkjaydrxxemoo.net^
+||orhassagvaqw.com^
 ||oribigisler.cfd^
 ||oribissaron.cyou^
 ||oricrpswujpuw.website^
@@ -44944,6 +44948,7 @@ browsershots.org#@#.advert_area
 ||scautnotum.world^
 ||scavagepoppets.help^
 ||scavelbuntine.life^
+||scbargees.qpon^
 ||sccqaqhqekxumsr.com^
 ||scenbe.com^
 ||scenedaybreakpatronize.com^
@@ -46602,6 +46607,7 @@ browsershots.org#@#.advert_area
 ||staininhibitfaraway.com^
 ||staipseegnauw.com^
 ||stairseertapsie.net^
+||stairtoava.com^
 ||stairwellregularspontaneous.com^
 ||staletraffic.com^
 ||stallsobservance.com^
@@ -48666,6 +48672,7 @@ browsershots.org#@#.advert_area
 ||tswzrqpkvltnx.website^
 ||tsxccsxbdloxt.online^
 ||tsxpmphbmerya.website^
+||tsxqdhqfsltsfc.com^
 ||tsy-jnugwavj.love^
 ||tsyndicate.com^
 ||tsyvxbgnidhjl.website^
@@ -51655,6 +51662,8 @@ browsershots.org#@#.advert_area
 ||wokm8isd4zit.com^
 ||wokvivre.cyou^
 ||woldemptily.com^
+||woldsdaffy.qpon^
+||woldslimbi.shop^
 ||woldymuggy.qpon^
 ||wolf-327b.com^
 ||wolfeighteen.com^
