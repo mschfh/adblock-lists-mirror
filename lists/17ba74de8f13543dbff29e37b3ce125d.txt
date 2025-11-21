@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511210741
+! Version: 202511210813
 ! Title: EasyList
-! Last modified: 21 Nov 2025 07:41 UTC
+! Last modified: 21 Nov 2025 08:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 777f0910de775345c311ea268291557f7a97c55c
+! Commit: 58389d27a0d68e004bacb2a7bf4027a923961673
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28683,6 +28683,7 @@ browsershots.org#@#.advert_area
 ||ghtanothingfrui.org^
 ||ghtry.amateurswild.com^
 ||ghuet.xyz^
+||ghurboizcruvn.online^
 ||ghyuvxkcrkpiu.com^
 ||ghyvgxemrszmx.site^
 ||ghyzimfjilvbt.online^
@@ -31019,6 +31020,7 @@ browsershots.org#@#.advert_area
 ||hxdecujrfmyyv.online^
 ||hxefvtiqr.net^
 ||hxefvtiqr.xyz^
+||hximmwzkmhwhf.website^
 ||hxkeammfkgejm.space^
 ||hxlcunmryxpzq.space^
 ||hxmcaugiqijkz.store^
@@ -45550,6 +45552,7 @@ browsershots.org#@#.advert_area
 ||shoofosteltutch.com^
 ||shoogleckorgoat.net^
 ||shooltuca.net^
+||shoompaiftids.com^
 ||shoordaird.com^
 ||shoorsoassep.net^
 ||shooterconjure.com^
@@ -46808,6 +46811,7 @@ browsershots.org#@#.advert_area
 ||storkto.com^
 ||stormysecond.com^
 ||stormyweight.pro^
+||storqxwmkx.com^
 ||storyblake.com^
 ||storyrelatively.com^
 ||storystaffrings.com^
@@ -71487,6 +71491,7 @@ amazon.*##.a-cardui[class*="_new-detail-faceout-box_"]:has(.dynamicSponsoredLabe
 amazon.*##.AdsCard_container__K6vmo
 amazon.*##.amzn-safe-frame-container
 amazon.*##.dp-widget-card-deck:has([data-ad-placement-metadata])
+amazon.*##.s-result-item:has([data-ad-feedback-label-id])
 amazon.*##.s-result-item:has([data-ad-feedback])
 amazon.*##.s-result-list > .a-section:has(.sbv-ad-content-container)
 amazon.*##.sbv-video-single-product
