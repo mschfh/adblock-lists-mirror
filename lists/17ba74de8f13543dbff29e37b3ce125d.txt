@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511210441
+! Version: 202511210506
 ! Title: EasyList
-! Last modified: 21 Nov 2025 04:41 UTC
+! Last modified: 21 Nov 2025 05:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5f5948d8bfe30164d32f36c53c6885f21eb25585
+! Commit: b90c074f8cc3a1d5ef812b25e16c550e5de6b952
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24968,6 +24968,7 @@ browsershots.org#@#.advert_area
 ||drsnojihigy.com^
 ||drtibnixidzrx.space^
 ||drtlgtrnqvnr.xyz^
+||drtyqxnxkiddh.space^
 ||drubbedaloed.cfd^
 ||drudgeryarson.com^
 ||druej.com^
@@ -25841,6 +25842,7 @@ browsershots.org#@#.advert_area
 ||ellipticalwalk.pro^
 ||elmersasine.shop^
 ||elogiado.info^
+||elohismarend.qpon^
 ||elonreptiloid.com^
 ||eloquentgossipold.com^
 ||elozcdoizevhm.site^
@@ -30437,6 +30439,7 @@ browsershots.org#@#.advert_area
 ||hivfbuixqrkr.xyz^
 ||hivnhuxdyefub.online^
 ||hiwucomhecyod.site^
+||hiwyfxycbrjov.store^
 ||hixnvlrmsizkh.website^
 ||hiyszuqbiglyh.space^
 ||hiziiokmnfojq.site^
@@ -33176,6 +33179,7 @@ browsershots.org#@#.advert_area
 ||kageunzcmeopu.online^
 ||kagnaimsoa.net^
 ||kagocvncavfqi.store^
+||kagokeblah.shop^
 ||kagonst.com^
 ||kaigaidoujin.com^
 ||kaikoaregabigi.net^
