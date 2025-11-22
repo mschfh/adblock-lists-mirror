@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511221811
+! Version: 202511221836
 ! Title: EasyList
-! Last modified: 22 Nov 2025 18:11 UTC
+! Last modified: 22 Nov 2025 18:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 35c8bd3ab85460f9fd47aa20441e911af691b9df
+! Commit: cb803f78615e5da7b14f9223886e180ca88b7fd7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31597,6 +31597,7 @@ browsershots.org#@#.advert_area
 ||imaginablestickydepartments.com^
 ||imaginary-flower.pro^
 ||imaginary-struggle.com^
+||imaginarydeparture.pro^
 ||imaginarymankindname.com^
 ||imaginaryspooky.com^
 ||imaginative-hope.com^
@@ -50097,6 +50098,7 @@ browsershots.org#@#.advert_area
 ||uucirqufdaer.net^
 ||uudckenzwdhvj.online^
 ||uufjxnfitxtvt.website^
+||uugfvrpccibuj.website^
 ||uuhnjutdqxnac.space^
 ||uuidksinc.net^
 ||uumbahniwkyki.space^
