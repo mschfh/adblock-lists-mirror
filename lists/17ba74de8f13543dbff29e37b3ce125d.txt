@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511222009
+! Version: 202511222032
 ! Title: EasyList
-! Last modified: 22 Nov 2025 20:09 UTC
+! Last modified: 22 Nov 2025 20:32 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9291ec4cb4904ce8dc2ee66ae83165992ee48fa4
+! Commit: e725def0ad3db176692d2a268b7275cac81735f5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23911,6 +23911,7 @@ browsershots.org#@#.advert_area
 ||debursechorti.cyou^
 ||debutknee.com^
 ||decagonscrat.click^
+||decalogxiphoidbolus.cfd^
 ||decanslided.shop^
 ||deccsvyxcvhfe.website^
 ||deceivedaisle.com^
@@ -32151,6 +32152,7 @@ browsershots.org#@#.advert_area
 ||iqtest365.online^
 ||iqtvvevbydoat.online^
 ||iqvadteagnfakbl.com^
+||iqytxgdpyf.com^
 ||iramb.site^
 ||iranimayweed.cfd^
 ||irclsopmebtqz.space^
@@ -34662,6 +34664,7 @@ browsershots.org#@#.advert_area
 ||lgfuoslalt.com^
 ||lghjjjwnxrpjq.space^
 ||lgiwoxapambgm.site^
+||lgjdmglqloopu.space^
 ||lgkdxzaslmiai.site^
 ||lgkjgunjzaort.website^
 ||lgklwhhssyxqe.space^
@@ -40023,6 +40026,7 @@ browsershots.org#@#.advert_area
 ||ozihlzpeabppp.online^
 ||ozkqakffarri.com^
 ||ozkwcvtpxoxnh.site^
+||ozlhjzqupdyuu.site^
 ||ozonemedia.com^
 ||ozorrjtydqrjd.online^
 ||ozpbrvotrpccx.space^
