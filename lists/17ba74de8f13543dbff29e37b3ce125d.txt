@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511232013
+! Version: 202511232107
 ! Title: EasyList
-! Last modified: 23 Nov 2025 20:13 UTC
+! Last modified: 23 Nov 2025 21:07 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1e731f7ae99ee38182217990f326ee539f7106bc
+! Commit: aa529953849ef2a1dce29048411236c6b191e38b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -33523,6 +33523,7 @@ browsershots.org#@#.advert_area
 ||karaiterakers.qpon^
 ||karezrhaphes.qpon^
 ||kashimtrichi.click^
+||kasifbaikqhyq.online^
 ||kasrsihavelear.org^
 ||kastafor.com^
 ||kasteehoordopee.net^
@@ -37339,6 +37340,7 @@ browsershots.org#@#.advert_area
 ||mtnhkohxtznmr.site^
 ||mtnkeext.xyz^
 ||mtntnypasahgr.online^
+||mtnubxvkutteu.website^
 ||mtnukovxnnwjc.website^
 ||mtobvhdbhhnpt.website^
 ||mtowxcwnvhrnr.store^
@@ -49853,6 +49855,7 @@ browsershots.org#@#.advert_area
 ||unattractiveamazingly.com^
 ||unaviantabu.cfd^
 ||unawareburn.com^
+||unawarepozzy.cfd^
 ||unbaledcry.cyou^
 ||unbelievableplayed.com^
 ||unbelievablesuitcasehaberdashery.com^
@@ -50838,6 +50841,7 @@ browsershots.org#@#.advert_area
 ||vgukgvtglfjnp.space^
 ||vgxmagbsctvdf.online^
 ||vgzglvykuyclh.store^
+||vhaukgkpf.com^
 ||vhebyycmjbfic.online^
 ||vhewpprxfnprc.space^
 ||vhfubrprnwkbz.site^
