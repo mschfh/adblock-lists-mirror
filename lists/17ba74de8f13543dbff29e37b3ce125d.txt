@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511230206
+! Version: 202511230302
 ! Title: EasyList
-! Last modified: 23 Nov 2025 02:06 UTC
+! Last modified: 23 Nov 2025 03:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 179a4668be70c04981c578e8177be562849ea264
+! Commit: bde9f7a757f8bb6eec57dfecee3b3255d398d487
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28600,6 +28600,7 @@ browsershots.org#@#.advert_area
 ||gdxgfldzzovjr.space^
 ||gdxgshylwnpnt.online^
 ||gdyidjfdievbd.net^
+||geancoshers.cyou^
 ||geargrope.com^
 ||gearmanchamar.cfd^
 ||gearmansomdel.cyou^
@@ -49507,6 +49508,7 @@ browsershots.org#@#.advert_area
 ||uhrvjjkbnucvb.today^
 ||uhsfoists.help^
 ||uhsmmaq4l2n5.com^
+||uhtqrghdgtgvp.website^
 ||uhvsefglyttww.fun^
 ||uhyybqukhhmue.site^
 ||ui02.com^
@@ -50977,6 +50979,7 @@ browsershots.org#@#.advert_area
 ||vootopeeloopeew.net^
 ||voovoacivoa.net^
 ||voozephiwithy.net^
+||vopddrdsxkeff.space^
 ||vopripwm.net^
 ||voredi.com^
 ||vorpalzant.qpon^
@@ -51001,6 +51004,7 @@ browsershots.org#@#.advert_area
 ||vozpublic.com^
 ||vpbigdsnehwam.today^
 ||vpdehpjxotemz.space^
+||vpeaseouzpsgp.website^
 ||vphfcftukjmnf.site^
 ||vpico.com^
 ||vpipi.com^
@@ -56369,6 +56373,7 @@ browsershots.org#@#.advert_area
 ||crazychime.com^
 ||daddyobesity.com^
 ||dailysubsidy.com^
+||deeplyangrily.com^
 ||deeplypishtennisscale.com^
 ||disgorgephew.com^
 ||distinctdearly.com^
@@ -56387,6 +56392,7 @@ browsershots.org#@#.advert_area
 ||garroteoutlying.com^
 ||goshoverfeed.com^
 ||greedilyperky.com^
+||gutickyum.com^
 ||gutphewlittleoddly.com^
 ||hairyalligatorviolently.com^
 ||hmphmehfailing.com^
@@ -63402,7 +63408,7 @@ browsershots.org#@#.advert_area
 ||spys.one/fpe.png
 ||srilankamirror.com/images/banners/
 ||srware.net/iron/assets/img/av/
-||ssl-images-amazon.com/images/S/apesafeframe/ape/sf/$script
+||ssl-images-amazon.com/images/S/apesafeframe/ape/sf/$script,subdocument
 ||star-history.com/assets/sponsors/
 ||startpage.com^*/afs/
 ||static.ad.libimseti.cz^
