@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511232238
+! Version: 202511232317
 ! Title: EasyList
-! Last modified: 23 Nov 2025 22:38 UTC
+! Last modified: 23 Nov 2025 23:17 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 58c850e73506739bca00339971cbeff7fa8c5b4b
+! Commit: 53b29ab3294dd90d26fc741b58b7dbfc7efbf1ed
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18615,6 +18615,7 @@ browsershots.org#@#.advert_area
 ||artwareshambu.com^
 ||aruranmbqiyus.store^
 ||arvigorothan.com^
+||arwdcrdpiwinc.site^
 ||arxrozanvbjde.website^
 ||arxxbyffdtqxlqx.net^
 ||aryxxbmhzigyk.website^
@@ -22376,6 +22377,7 @@ browsershots.org#@#.advert_area
 ||clixcrafts.com^
 ||clixsense.com^
 ||clixwells.com^
+||cljoawvdgjzsjl.com^
 ||clkepd.com^
 ||clkfcteoocvvy.site^
 ||clknrtrg.pro^
@@ -26825,6 +26827,7 @@ browsershots.org#@#.advert_area
 ||eybrgoggcjkyl.website^
 ||eycokjjtixrlg.website^
 ||eydnpidfomjhw.online^
+||eydqpkyrr.com^
 ||eyeballdisquietstronghold.com^
 ||eyebeamkaph.click^
 ||eyebrowcohabit.com^
@@ -28826,6 +28829,7 @@ browsershots.org#@#.advert_area
 ||gfbxsoxbywqvp.store^
 ||gff660fg.xyz^
 ||gffoycbmmfptr.space^
+||gfglsjrfdxvte.website^
 ||gfhgxmczmrcda.site^
 ||gfkfqilsulylx.website^
 ||gfnpfbalgsfgw.space^
@@ -29789,6 +29793,7 @@ browsershots.org#@#.advert_area
 ||gtwmxqiknbhg.com^
 ||gtxqpbsbnci.net^
 ||gtylgblgbpudu.net^
+||gtylmyzwova.com^
 ||guaiolmrs.qpon^
 ||guanaentasia.help^
 ||guanasilique.click^
@@ -42744,6 +42749,7 @@ browsershots.org#@#.advert_area
 ||qcwnfoqtqgvau.icu^
 ||qcxavhaxbsdie.space^
 ||qcyqkirxrhidh.site^
+||qdbqdirohipeb.space^
 ||qdbsewwvrrqug.site^
 ||qdbsjlwldjudty.com^
 ||qdfscelxyyem.club^
