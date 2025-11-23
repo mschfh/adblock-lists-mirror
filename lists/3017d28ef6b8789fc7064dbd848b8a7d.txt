@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202511230311
+! Version: 202511230351
 ! Title: EasyPrivacy
-! Last modified: 23 Nov 2025 03:11 UTC
+! Last modified: 23 Nov 2025 03:51 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 37d07ae2583454868dddb4de57740e01897a9dea
+! Commit: 3ce3db05050200b185ed2d5fc9cd7094d2fa7487
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15016,6 +15016,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metricsishare.rediff.com^
 ||metro.co.uk/base/rta/
 ||metro.co.uk/cvx/client/sync/fpc?
+||metrobyt-mobile.com/self-service-metro/v1/logging
 ||metroweekly.com/tools/blog_add_visitor/
 ||meucdn.vip/cdn-cgi/trace
 ||mewe.com/ubk4jrxn.js
@@ -15872,6 +15873,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wealthfront.com/event
 ||wealthfront.com/track_next?p=
 ||web-perf.booking.com^
+||web.analytics.metrobyt-mobile.com^
 ||web.snapchat.com/web-analytics-v2/web/events
 ||web.whatsapp.com/wam
 ||webapi.3cx.com^
