@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511231332
+! Version: 202511231413
 ! Title: EasyList
-! Last modified: 23 Nov 2025 13:32 UTC
+! Last modified: 23 Nov 2025 14:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0e6d39d5ee96eec72462941146229e2f3eac890b
+! Commit: 4a5dc1d7a01b076b19fe061ffefdf8bcfb91e6dd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21811,6 +21811,7 @@ browsershots.org#@#.advert_area
 ||cgtwccqrpbota.global^
 ||cgtwpoayhmqi.online^
 ||cgwwqqzsclqke.website^
+||cgxjhtjxe.com^
 ||chabadokor.com^
 ||chachors.net^
 ||chacolieutopia.shop^
@@ -23899,6 +23900,7 @@ browsershots.org#@#.advert_area
 ||dd1xbevqx.com^
 ||dd268fdaa5.com^
 ||dd9l0474.de^
+||ddaqmzecanewq.space^
 ||ddcgpoltvrukxjc.net^
 ||dddashasledopyt.xyz^
 ||dddomainccc.com^
@@ -24749,6 +24751,7 @@ browsershots.org#@#.advert_area
 ||dnqmuubtrodvi.site^
 ||dnrblyqtuo.net^
 ||dnrwtqdqfthjh.net^
+||dnsiztagjyftz.website^
 ||dntfgskgcxnl.com^
 ||dnurxagcqddad.website^
 ||dnvogsqirpcfq.space^
@@ -28272,6 +28275,7 @@ browsershots.org#@#.advert_area
 ||fuzilsstorage.cyou^
 ||fv-bpmnrzkv.vip^
 ||fvahbwnlcqvaf.site^
+||fvainjetmzyqi.online^
 ||fvaslplblqgzc.online^
 ||fvcccifbvygvb.space^
 ||fvcm.net^
@@ -46468,6 +46472,7 @@ browsershots.org#@#.advert_area
 ||smackedtapnet.com^
 ||smaclick.com^
 ||smadex.com^
+||smaikheftily.cyou^
 ||small-discussion.com^
 ||smallbruisedfollowing.com^
 ||smallestexpectedspecialty.com^
