@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511240804
+! Version: 202511240834
 ! Title: EasyList
-! Last modified: 24 Nov 2025 08:04 UTC
+! Last modified: 24 Nov 2025 08:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f8ca89c7a50bb5f1697acb858bf51c8cf270aaa4
+! Commit: a4a811e072bfa0b4bc418ebf511d8bf951e2f74f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -43450,6 +43450,7 @@ browsershots.org#@#.advert_area
 ||r932o.com^
 ||ra-uchwolr.one^
 ||raadsomrmitvd.online^
+||raamjombeljadw.com^
 ||raamskpgcpect.site^
 ||raayrdjdlhfbiu.com^
 ||rabbansank.rest^
@@ -45241,6 +45242,7 @@ browsershots.org#@#.advert_area
 ||rysjiqfk.com^
 ||rysrnxvc.com^
 ||rytransionsco.org^
+||ryttbuuklwyt.com^
 ||ryucmhtvuoxox.space^
 ||ryufsbqvxtlhu.site^
 ||ryujsqssracyc.space^
@@ -48787,6 +48789,7 @@ browsershots.org#@#.advert_area
 ||tnfqivurduflf.store^
 ||tnhomtsbyccth.space^
 ||tnieujuexzwis.website^
+||tnifdcmajsmoz.space^
 ||tnijhexxbrdag.online^
 ||tnldwmvchtdw.com^
 ||tnlszozefygrt.online^
@@ -49875,6 +49878,7 @@ browsershots.org#@#.advert_area
 ||uldthinkhimunp.com^
 ||uleqasforsalesre.com^
 ||ulesxbo.com^
+||ulfzagotuivfd.space^
 ||ulgmucrlctvsl.store^
 ||uliafpsf.tattoo^
 ||ulisxyz.store^
