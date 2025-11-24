@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511242308
+! Version: 202511242335
 ! Title: EasyList
-! Last modified: 24 Nov 2025 23:08 UTC
+! Last modified: 24 Nov 2025 23:35 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 84e5493744e4b3dd96a9596b8abfc1f38ed9d5ad
+! Commit: dc3082534c6f553c639570e5af28b665317ede6b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18443,6 +18443,7 @@ browsershots.org#@#.advert_area
 ||apptquitesouse.com^
 ||appwebview.com^
 ||appyrinceas.org^
+||appzaxmfyocm.com^
 ||appzery.com^
 ||apqchxhjdcudb.online^
 ||apqqwpshxpgaq.xyz^
@@ -34525,6 +34526,7 @@ browsershots.org#@#.advert_area
 ||ladsips.com^
 ||ladsipz.com^
 ||ladskiz.com^
+||ladwtsekyr.com^
 ||laenguyers.help^
 ||lafastnews.com^
 ||lafxbbzashvrq.online^
@@ -52914,6 +52916,7 @@ browsershots.org#@#.advert_area
 ||wxgroenahzkap.website^
 ||wxhiojortldjyegtkx.bid^
 ||wxixxpgnajzxr.website^
+||wxlatgcemmkkv.site^
 ||wxmluaeneqczt.store^
 ||wxqbopca-i.global^
 ||wxqhhskaltnbw.site^
@@ -53326,6 +53329,7 @@ browsershots.org#@#.advert_area
 ||xrjkkmsjofyef.website^
 ||xrllratggofic.online^
 ||xrqiweauoxfwn.site^
+||xrvafzjhkivnn.space^
 ||xrxalsvtsruem.site^
 ||xsapykbbsdm.net^
 ||xsbjtmzcpqlst.space^
