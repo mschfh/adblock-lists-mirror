@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511240939
+! Version: 202511241012
 ! Title: EasyList
-! Last modified: 24 Nov 2025 09:39 UTC
+! Last modified: 24 Nov 2025 10:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bb2de7c18835e465c3cf52dd23246240f4f682df
+! Commit: 87f786aaa8790e1a3ef0100b5857faca3c942537
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17101,6 +17101,7 @@ browsershots.org#@#.advert_area
 ||adopstar.uk^
 ||adoptedindispensablemessage.com^
 ||adoptum.net^
+||adorablekind.pro^
 ||adorablenet.com^
 ||adorableold.com^
 ||adoreplans.com^
@@ -24914,6 +24915,7 @@ browsershots.org#@#.advert_area
 ||dortertisane.cyou^
 ||dortmark.net^
 ||doruffleton.com^
+||dosagepettytrust.com^
 ||dosqhkgk.net^
 ||dosqmgoyayxyo.site^
 ||dossierscabbed.world^
@@ -26650,6 +26652,7 @@ browsershots.org#@#.advert_area
 ||evergreen-kitchen.pro^
 ||evergreen-room.com^
 ||evergreen-scheme.pro^
+||evergreenagilezoo.com^
 ||evergreenjoint.pro^
 ||everlasting-dish.pro^
 ||everlastinghighlight.com^
@@ -29693,6 +29696,7 @@ browsershots.org#@#.advert_area
 ||grouchystructure.pro^
 ||groukeshousa.com^
 ||groumpepsouckoo.net^
+||groundafreshjumped.com^
 ||groundedpatience.com^
 ||groundinquiryoccupation.com^
 ||groundlesscobwebmiller.com^
@@ -30396,6 +30400,7 @@ browsershots.org#@#.advert_area
 ||heavenlycare.pro^
 ||heavenlyindication.com^
 ||heavenlywhile.com^
+||heavenspecificallygait.com^
 ||heavingwarryn.rest^
 ||heavy-management.com^
 ||heavyadviseflowerbed.com^
@@ -32324,6 +32329,7 @@ browsershots.org#@#.advert_area
 ||iqtest365.online^
 ||iqtvvevbydoat.online^
 ||iqvadteagnfakbl.com^
+||iqwkkpchugfbk.space^
 ||iqytxgdpyf.com^
 ||iramb.site^
 ||iranimayweed.cfd^
@@ -37249,6 +37255,7 @@ browsershots.org#@#.advert_area
 ||mpanythathaveresultet.info^
 ||mpbrz.com^
 ||mpbsunbusk.com^
+||mpejjumctx.com^
 ||mpeowvqnbeoah.online^
 ||mpfgnmfw.com^
 ||mpgnodally.qpon^
@@ -40748,6 +40755,7 @@ browsershots.org#@#.advert_area
 ||peeragelevyne.com^
 ||peerlesshallucinate.com^
 ||peesouglovoudah.net^
+||peevesfellafraid.com^
 ||peevoopheve.net^
 ||peewhouheeku.net^
 ||peezoapsiglouk.net^
@@ -48676,6 +48684,7 @@ browsershots.org#@#.advert_area
 ||tirededucation.pro^
 ||tiredelection.com^
 ||tiredfeeling.pro^
+||tiredseries.com^
 ||tirejav12.fun^
 ||tiremensantour.help^
 ||tirepoliticsspeedometer.com^
