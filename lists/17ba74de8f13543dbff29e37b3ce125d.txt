@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511252239
+! Version: 202511252319
 ! Title: EasyList
-! Last modified: 25 Nov 2025 22:39 UTC
+! Last modified: 25 Nov 2025 23:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7c61d2a660c84b26966731eeafb55f59c508fe7c
+! Commit: 256d6e0f020dfac8a79c965fa06f7e20332f4f38
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -578,6 +578,7 @@
 /production/ads/*$script
 /promo.php?c=$third-party
 /promo/ads/*$~xmlhttprequest
+/promo/next/mural/*
 /promotools.$subdocument
 /public/ad/*$image
 /public/ads/*$image
@@ -39934,6 +39935,7 @@ browsershots.org#@#.advert_area
 ||ooyejpjenphbo.online^
 ||ooyfrflmyqbpt.online^
 ||ooygdkars.net^
+||ooyxwihbxvdvy.website^
 ||oozedbaobab.cyou^
 ||ooziyinsrvxki.online^
 ||op00.biz^
@@ -43271,6 +43273,7 @@ browsershots.org#@#.advert_area
 ||qksrv1.com^
 ||qksz.net^
 ||qkuddzkexfiez.site^
+||qkuogxqm.com^
 ||qkvfnjfhdparr.store^
 ||qkxwhdgnpczur.space^
 ||qkxwtytuaybam.space^
@@ -44863,6 +44866,7 @@ browsershots.org#@#.advert_area
 ||rlotcaapstumc.space^
 ||rlpduylkyxrlm.online^
 ||rlpnotawlxcva.online^
+||rlqpxdxmcv.com^
 ||rlrsfxkewwgww.site^
 ||rlsnntgffqnli.online^
 ||rludahcaewkfd.online^
@@ -45340,6 +45344,7 @@ browsershots.org#@#.advert_area
 ||ruderavidian.cyou^
 ||rudesbytransp.click^
 ||rudeteach.pro^
+||ruduuxafvkzdn.space^
 ||ruelyrhesus.qpon^
 ||rueofxfsfdyol.site^
 ||rufadses.net^
@@ -49724,6 +49729,7 @@ browsershots.org#@#.advert_area
 ||ttfoetfeswjwn.space^
 ||ttgmjfgldgv9ed10.com^
 ||tthmagfsrbkax.net^
+||ttihclkpugctw.website^
 ||ttikombrmmygx.store^
 ||ttiohdktykm.com^
 ||ttkfjmovlwrvb.space^
@@ -50900,6 +50906,7 @@ browsershots.org#@#.advert_area
 ||uxxyrwdudiacf.online^
 ||uxzkvkzxhxxjv.space^
 ||uy9t65npflytgp.cfd^
+||uyckofbkjed.com^
 ||uydsjtaeibues.online^
 ||uydyqlnebqlwe.global^
 ||uyfpvjbheoyws.store^
@@ -51116,6 +51123,7 @@ browsershots.org#@#.advert_area
 ||vctcajeme.tech^
 ||vcvbogndkwheb.space^
 ||vcvncewkfhtmp.website^
+||vcxcohfzpomx.com^
 ||vcxetmvjdgggi.store^
 ||vcxykfsvfmpmck.com^
 ||vcxzp.com^
