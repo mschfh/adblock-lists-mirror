@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511250018
+! Version: 202511250101
 ! Title: EasyList
-! Last modified: 25 Nov 2025 00:18 UTC
+! Last modified: 25 Nov 2025 01:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c40c84550dac52c33f503338b98488391ae1ed47
+! Commit: 37f8307b7b176029be223ede0086a734484fcc59
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20480,6 +20480,7 @@ browsershots.org#@#.advert_area
 ||boltepse.com^
 ||boltnunfirsthand.com^
 ||bombardjove.help^
+||bombaycincherprinked.cfd^
 ||bomborazygion.qpon^
 ||bombplinker.help^
 ||bomdog.com^
@@ -22477,6 +22478,7 @@ browsershots.org#@#.advert_area
 ||cluelessbrain.pro^
 ||cluelessquality.pro^
 ||clueostensiblebureaucracy.com^
+||cluhdfdnkms.com^
 ||clumperrucksey.life^
 ||clumsybitter.pro^
 ||clumsybuttonbristle.com^
@@ -38125,6 +38127,7 @@ browsershots.org#@#.advert_area
 ||newmytrp.com^
 ||newnewton.pw^
 ||newoctads.com^
+||newoffertops.info^
 ||newosama.com^
 ||newpartnerlover.com^
 ||newrotatormarch23.bid^
@@ -43542,6 +43545,7 @@ browsershots.org#@#.advert_area
 ||qz-hjgrdqih.fun^
 ||qz496amxfh87mst.com^
 ||qzebbfqzgtrtx.space^
+||qzedtifkkkgsa.site^
 ||qzfcqddxkdliy.top^
 ||qzjcjpugwmdda.site^
 ||qzkacxjzegehl.space^
@@ -44832,6 +44836,7 @@ browsershots.org#@#.advert_area
 ||rollerefficiency.com^
 ||rollingsalt.com^
 ||rollserver.xyz^
+||rolltrk9.com^
 ||romance-datepark.com^
 ||romance-net.com^
 ||romanceaffair.net^
@@ -45282,6 +45287,7 @@ browsershots.org#@#.advert_area
 ||rvvumafotor.com^
 ||rvyaqmmxxoinm.site^
 ||rvybbvrixxwyb.website^
+||rvzsemigbfqwc.website^
 ||rwahdxlgdycp.com^
 ||rwbkrnihzrbrb.online^
 ||rwbvrcuzfrhra.website^
@@ -45945,6 +45951,7 @@ browsershots.org#@#.advert_area
 ||sefsdvc.com^
 ||sefwpmjrsvewq.website^
 ||segaryamun.shop^
+||segeolia.com^
 ||seggzpwzesnxh.website^
 ||segreencolumn.com^
 ||segyahsnruois.website^
