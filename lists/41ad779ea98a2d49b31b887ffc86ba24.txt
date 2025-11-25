@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PLvZtGD1jUnDgIr/Dc75gg
-! Version: 202511250042
+! Checksum: Xhqha5tR1dHAntjmfIvbKg
+! Version: 202511250142
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-11-25 00:42 UTC
+! Last modified: 2025-11-25 01:42 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -18786,6 +18786,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 /wp-tarteaucitron-js-self-hosted/js/main.js
 /wp-tarteaucitron-js/js/tarteaucitron/tarteaucitron.js
 /wpca-frontend.min.js
+/wpconsent-cookies-banner-privacy-suite/build/frontend.js
 /wpie-common.min.js
 /wpjslib-ecom.js
 /wpjslib-sgap.js
@@ -35967,7 +35968,7 @@ citynews.ca##.consent-cookie-box
 sees.com##.consent-ctnr
 tablesgenerator.com##.consent-dialog
 dict.longdo.com,itmagazine.ch,speaktor.com##.consent-div
-bulova.com##.consent-drawer
+bulova.com,frederiqueconstant.com##.consent-drawer
 ballard-inc.com##.consent-footer
 nextbase.co.uk,nextbase.com,nextbase.eu##.consent-managermain
 fancentro.com##.consent-message
