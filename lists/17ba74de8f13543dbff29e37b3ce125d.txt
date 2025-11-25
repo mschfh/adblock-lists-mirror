@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511252118
+! Version: 202511252136
 ! Title: EasyList
-! Last modified: 25 Nov 2025 21:18 UTC
+! Last modified: 25 Nov 2025 21:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d4bc2c5a6bad0321dc871f7cf835c06b3ce6cca0
+! Commit: 6b85bd63407ca3a470e417309bb92a7eb500373e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19128,6 +19128,7 @@ browsershots.org#@#.advert_area
 ||awheecethe.net^
 ||awheelboxes.world^
 ||awhilediplomagloss.com^
+||awhoaptaiju.com^
 ||awiqjcfwgywqm.site^
 ||awistats.com^
 ||awjakpos.com^
@@ -20366,6 +20367,7 @@ browsershots.org#@#.advert_area
 ||blwdricfvhneu.space^
 ||blwqcufrbzjym.space^
 ||blwviknoqfpij.online^
+||blydqcvubozib.online^
 ||blypesprespur.help^
 ||blypesusanne.help^
 ||blyqvidllwukv.website^
@@ -38067,6 +38069,7 @@ browsershots.org#@#.advert_area
 ||nbjiwgsm.xyz^
 ||nbkbzzlvtbkeh.website^
 ||nbkpigxextkjn.website^
+||nblmoiotjuwvug.com^
 ||nbmmmvskpdxiu.space^
 ||nbmramf.de^
 ||nbmzifqviafbn.site^
@@ -53701,6 +53704,7 @@ browsershots.org#@#.advert_area
 ||xyhyieyyqljos.site^
 ||xykkbchewuhah.website^
 ||xykvvtxgpyqmy.online^
+||xylinaseemed.help^
 ||xylinidantres.qpon^
 ||xylitecessant.qpon^
 ||xylmdfsjjpwer.site^
