@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511250435
+! Version: 202511250512
 ! Title: EasyList
-! Last modified: 25 Nov 2025 04:35 UTC
+! Last modified: 25 Nov 2025 05:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2baed246a0412e51ade922116d397bffc0d27c14
+! Commit: b6f34d0ccec8d84eadf9367ce98dad013478d3bf
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17639,6 +17639,7 @@ browsershots.org#@#.advert_area
 ||agxpzsgyklgmg.today^
 ||agyriacletch.cyou^
 ||agzdvulilbauk.website^
+||agzzpjnyx.com^
 ||ahadsply.com^
 ||aharaincoatpremiere.com^
 ||ahaurgoo.net^
@@ -19994,6 +19995,7 @@ browsershots.org#@#.advert_area
 ||bhdneknhogpin.store^
 ||bhfrnzxxcxhbn.store^
 ||bhfrttttyyruo.store^
+||bhgqghtitr.com^
 ||bhgtubjtfggfa.website^
 ||bhhgvedfr.com^
 ||bhhjjdqcwfrpv.space^
@@ -35651,6 +35653,7 @@ browsershots.org#@#.advert_area
 ||lsaguwxzarlpe.online^
 ||lsbbtclkiwrdx.online^
 ||lsbzzkonxksrw.site^
+||lscudygcxiqnn.online^
 ||lsdkprkiwnnzy.site^
 ||lsefpqchaizsv.site^
 ||lsiszlerwgure.store^
@@ -37254,6 +37257,7 @@ browsershots.org#@#.advert_area
 ||mopokechoaty.shop^
 ||mopsfqslnyuve.space^
 ||mopy.cloud^
+||moralessuther.rest^
 ||morallyfitful.com^
 ||morapope.shop^
 ||mordeegroo.net^
@@ -37660,6 +37664,7 @@ browsershots.org#@#.advert_area
 ||muwhaiseem.net^
 ||muwobsirgourgou.com^
 ||muxieboupdbbg.space^
+||muxzipacympze.website^
 ||muzarabeponym.website^
 ||muzikguide.com^
 ||muzzledescend.com^
@@ -38215,6 +38220,7 @@ browsershots.org#@#.advert_area
 ||neyandfartooma.com^
 ||neylfbiplikrk.space^
 ||neywckhoogxze.site^
+||neztlwbosrksr.online^
 ||nezygmobha.com^
 ||nfbdqpxcotbac.site^
 ||nfbkzvyqmdtwy.website^
@@ -40177,6 +40183,7 @@ browsershots.org#@#.advert_area
 ||ouszazqstwlex.space^
 ||outagepaction.help^
 ||outarcaninean.com^
+||outbakecalaber.click^
 ||outbidplacardshowman.com^
 ||outclaydola.com^
 ||outcomefriendlysurname.com^
@@ -40990,6 +40997,7 @@ browsershots.org#@#.advert_area
 ||permittedcenterrevolve.com^
 ||permittedrearstub.com^
 ||permixramous.qpon^
+||peronesutoria.qpon^
 ||perpetraterummage.com^
 ||perpetratoralimony.com^
 ||perpetratorjeopardize.com^
@@ -43819,6 +43827,7 @@ browsershots.org#@#.advert_area
 ||rbmbmbrmnhq.com^
 ||rbmgyiuyhdmqxq.com^
 ||rbnqjbvqigufd.com^
+||rboundpacked.click^
 ||rboyqkyojrbbj.top^
 ||rboyqkyojrbkw.top^
 ||rboyqkyojrwky.top^
