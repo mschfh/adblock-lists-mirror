@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511251232
+! Version: 202511251317
 ! Title: EasyList
-! Last modified: 25 Nov 2025 12:32 UTC
+! Last modified: 25 Nov 2025 13:17 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d07f0eb8014767dc68bace34b61df3bae0308129
+! Commit: dc312169c6bcbff4e499736515f885c33b11758e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24248,6 +24248,7 @@ browsershots.org#@#.advert_area
 ||dentileazurite.com^
 ||deokxdgzwdyzm.website^
 ||deostr.com^
+||depairdicer.click^
 ||departedcomeback.com^
 ||departgross.com^
 ||departurealtar.com^
@@ -26097,6 +26098,7 @@ browsershots.org#@#.advert_area
 ||eltontry.com^
 ||eltrotmikania.cfd^
 ||eludemodred.help^
+||eludmmaymbkgj.com^
 ||eluhlhjv.life^
 ||eluxatehurdles.click^
 ||elyandbegantoti.com^
@@ -28680,6 +28682,7 @@ browsershots.org#@#.advert_area
 ||gatetodisplaycontent.com^
 ||gatetotrustednetwork.com^
 ||gathermadness.com^
+||gatingreagan.rest^
 ||gatnzlayrscdc.site^
 ||gatorifrit.shop^
 ||gaubaisteelaze.net^
@@ -36640,6 +36643,7 @@ browsershots.org#@#.advert_area
 ||metinbari.click^
 ||metinsmaze.qpon^
 ||metlculousdates.net^
+||metnngumcmgxr.site^
 ||metothepointa.com^
 ||metredesculic.com^
 ||metrefluke.com^
@@ -36928,6 +36932,7 @@ browsershots.org#@#.advert_area
 ||mixtureprerogativesnail.com^
 ||miyktylovuibs.online^
 ||miyubhvqxopdx.store^
+||mizarscance.shop^
 ||mizytadpwfswa.world^
 ||mizzenjarfuls.rest^
 ||mizzledilogy.life^
@@ -37815,6 +37820,7 @@ browsershots.org#@#.advert_area
 ||myijgzvgluvai.site^
 ||myimagetracking.com^
 ||mykkfjgkddfel.site^
+||mylnvywrikxpt.online^
 ||mylot.com^
 ||mymatch.site^
 ||mymukindwould.com^
@@ -40504,6 +40510,7 @@ browsershots.org#@#.advert_area
 ||pabbhjvefvqic.website^
 ||pabjriyhlvedc.vip^
 ||pabovmxizagg.com^
+||pacascretify.cfd^
 ||paceaskhari.com^
 ||pacekami.com^
 ||pacesconcise.com^
@@ -48895,6 +48902,7 @@ browsershots.org#@#.advert_area
 ||timsef.com^
 ||timtousafto.net^
 ||tinaheinheri.org^
+||tinctsrelose.cyou^
 ||tineidsreseeds.com^
 ||tinemanduring.cfd^
 ||tingefifortwaukth.org^
