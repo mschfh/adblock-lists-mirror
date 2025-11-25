@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511251037
+! Version: 202511251115
 ! Title: EasyList
-! Last modified: 25 Nov 2025 10:37 UTC
+! Last modified: 25 Nov 2025 11:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ae6b8edb8f1e775a05823fa9c27e4f2817f39b31
+! Commit: bc6d6acf0a09c42f0b1da6ad9ac9737c4dec2cbd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19246,6 +19246,7 @@ browsershots.org#@#.advert_area
 ||azirwjyxuctdp.website^
 ||azjmp.com^
 ||azjzlvgaifdzc.site^
+||azkujncu.com^
 ||azkwwrejomajj.top^
 ||azkwwrejomwjb.top^
 ||azkwwrejomzjm.top^
@@ -38487,6 +38488,7 @@ browsershots.org#@#.advert_area
 ||nmfbpkejqebcu.online^
 ||nmgwoawuwbnsj.space^
 ||nmhtwujmecgzi.store^
+||nmipaxojfj.com^
 ||nmkli.com^
 ||nmmowfvat.com^
 ||nmnhrpvdbvmed.website^
@@ -40709,6 +40711,7 @@ browsershots.org#@#.advert_area
 ||passengercomprehend.com^
 ||passeskannume.cfd^
 ||passeura.com^
+||passewarestamp.help^
 ||passfixx.com^
 ||passingcounselrueful.com^
 ||passirdrowns.com^
@@ -41633,6 +41636,7 @@ browsershots.org#@#.advert_area
 ||poachsordes.qpon^
 ||poafeefoaji.net^
 ||poanegloapha.net^
+||poanibaphowho.net^
 ||poarichivoawie.net^
 ||poavoabe.net^
 ||poawoacaujaug.net^
@@ -41941,6 +41945,7 @@ browsershots.org#@#.advert_area
 ||ppxwlgpxkr.com^
 ||ppyvadtepkkxu.store^
 ||pq-mzfusgpzt.xyz^
+||pqarvnvj.com^
 ||pqbxjqaemamgq.online^
 ||pqdlodgilkcxz.website^
 ||pqfdfzjajlqhk.website^
@@ -43919,6 +43924,7 @@ browsershots.org#@#.advert_area
 ||rcjrvsxcsgdpx.site^
 ||rckvklcpibmdz.online^
 ||rcnalhvjaxzkw.online^
+||rcnhgfebinhck.space^
 ||rcnxvdowqmfuo.store^
 ||rcouxxirrshqr.site^
 ||rcpwnyxqipgsn.space^
@@ -48124,6 +48130,7 @@ browsershots.org#@#.advert_area
 ||sxjvnyieakqua.website^
 ||sxknohdvtxwur.site^
 ||sxlflt.com^
+||sxobqwbiiknjp.website^
 ||sxqxvcymtiwxo.space^
 ||sxyafktbljyuq.store^
 ||sybilevolver.shop^
@@ -48981,6 +48988,7 @@ browsershots.org#@#.advert_area
 ||tkvudnysg.com^
 ||tkwxiseyzfzle.store^
 ||tkyclvgzjfjwq.space^
+||tkyjmfwjnzyov.site^
 ||tl2go.com^
 ||tlcfndqjczdox.store^
 ||tlfeivdeybass.store^
@@ -54196,6 +54204,7 @@ browsershots.org#@#.advert_area
 ||yxaclumamb.com^
 ||yxajqojsxkdaa.site^
 ||yxcxheuw.net^
+||yxeuunyvnhme.com^
 ||yxktbeyanyenj.website^
 ||yxloucsirgwyb.online^
 ||yxlrztklsogxs.site^
