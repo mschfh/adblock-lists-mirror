@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511261354
+! Version: 202511261442
 ! Title: EasyList
-! Last modified: 26 Nov 2025 13:54 UTC
+! Last modified: 26 Nov 2025 14:42 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 47e8d48f7307a8dae6057dd6eec13f6f3b7c59e0
+! Commit: a8f618de12f5935eaaa6d6c040a7de587d51c294
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23155,6 +23155,7 @@ browsershots.org#@#.advert_area
 ||cpcmart.com^
 ||cpcqqo9bogj43v.cfd^
 ||cpehuwccepxvx.online^
+||cpeofdnjhjqk.com^
 ||cpfbqfwcihepe.space^
 ||cpfdjfwbxcyny.online^
 ||cpfltjhw.com^
@@ -27543,6 +27544,7 @@ browsershots.org#@#.advert_area
 ||ficmxrutlrhig.store^
 ||fidar.site^
 ||fiddleyhigdon.com^
+||fidelitygenerationsmistletoe.com^
 ||fidelslaggy.help^
 ||fidgethid.com^
 ||fidhkhqccgqkh.website^
@@ -37889,6 +37891,7 @@ browsershots.org#@#.advert_area
 ||mwvpjvvnovuqb.website^
 ||mwxxgdhvhdrgt.space^
 ||mxdabjrdnexwi.space^
+||mxdaqyemljinm.com^
 ||mxdcdefgbyyeb.website^
 ||mxfglajkqrwsv.online^
 ||mxfuwvrxudpkr.website^
@@ -52426,6 +52429,7 @@ browsershots.org#@#.advert_area
 ||welldocumentedphoto.pro^
 ||welldocumentedwrap.com^
 ||wellhello.com^
+||wellinformed-awareness.pro^
 ||wellinformed-combination.com^
 ||welllitratio.com^
 ||wellliveblog.com^
@@ -55033,6 +55037,7 @@ browsershots.org#@#.advert_area
 ||zpqfqxoczrwfq.space^
 ||zpqrmtdwjpems.space^
 ||zpr7jnz7k7htkfo2.rest^
+||zpwlgazfvycmd.online^
 ||zpwllfsjphpig.online^
 ||zpww6cvibbxqt6zv2izb35exxh6.cfd^
 ||zqdekzkqwvzcl.buzz^
@@ -55105,6 +55110,7 @@ browsershots.org#@#.advert_area
 ||zttwclmcpesce.xyz^
 ||ztumuvofzbfe.com^
 ||zu9opx.com^
+||zuajnozwaotok.site^
 ||zubivu.com^
 ||zubniivgigntj.website^
 ||zucany.click^
