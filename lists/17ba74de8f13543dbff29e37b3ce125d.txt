@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511261604
+! Version: 202511261628
 ! Title: EasyList
-! Last modified: 26 Nov 2025 16:04 UTC
+! Last modified: 26 Nov 2025 16:28 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d2942ec0a4ab1a7a8c49fa55f876bc8f5150d087
+! Commit: 6a62dfe8efa0300a7887c0ad305c57bf2d11e63f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22230,6 +22230,7 @@ browsershots.org#@#.advert_area
 ||cibariarodolph.help^
 ||cibhmyowgsmpa.store^
 ||cicamica.xyz^
+||cicerflashessubfile.cfd^
 ||cidaridergo.cyou^
 ||cidont.xyz^
 ||cighozoaksoaft.net^
@@ -27511,6 +27512,7 @@ browsershots.org#@#.advert_area
 ||fgkypavphswggv.net^
 ||fgllllfedeltb.website^
 ||fgq6et26l8tyq5.cfd^
+||fgqymntnqmcby.website^
 ||fgqyxgbqfxyot.website^
 ||fgrdjauzcivht.online^
 ||fgsopjlppjips.website^
@@ -38272,6 +38274,7 @@ browsershots.org#@#.advert_area
 ||negative-actor.com^
 ||negativespring.pro^
 ||negjbfdn.net^
+||neglectedhope.pro^
 ||neglectsquad.com^
 ||negligible-device.pro^
 ||negligibleswitch.pro^
@@ -43422,6 +43425,7 @@ browsershots.org#@#.advert_area
 ||qmahepzo.one^
 ||qmainwjxeremn.online^
 ||qmajkwvzedcfi.site^
+||qmboxpwokox.com^
 ||qmbrdnbz.com^
 ||qmcxzwecksaig.store^
 ||qmefcejujmezq.website^
@@ -45226,6 +45230,7 @@ browsershots.org#@#.advert_area
 ||rougemaims.cfd^
 ||rough-elevator.pro^
 ||roughlydispleasureslayer.com^
+||roughwestern.pro^
 ||rougthatsidhe.org^
 ||rouinfernapean.com^
 ||roujonoa.net^
