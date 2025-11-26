@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511261217
+! Version: 202511261253
 ! Title: EasyList
-! Last modified: 26 Nov 2025 12:17 UTC
+! Last modified: 26 Nov 2025 12:53 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 926526ffaee4f11b179e4bc596bbda53039ed423
+! Commit: db9b2cbab4e8726195673398145faf9593b604dc
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -27667,6 +27667,7 @@ browsershots.org#@#.advert_area
 ||fivemoreish.help^
 ||fiwekmyzlnvjx.site^
 ||fiwhibse.com^
+||fiwinykccvehz.site^
 ||fixatestali.help^
 ||fixed-swimming.pro^
 ||fixedlyfully.com^
@@ -29858,6 +29859,7 @@ browsershots.org#@#.advert_area
 ||grotespace.com^
 ||grotesque-rice.pro^
 ||grotzenzelotic.com^
+||grouchy-wedding.pro^
 ||grouchyinstance.pro^
 ||grouchyrecover.com^
 ||grouchystructure.pro^
@@ -33105,6 +33107,7 @@ browsershots.org#@#.advert_area
 ||jfzucsihbphzt.store^
 ||jganqtdsam.net^
 ||jgcmzlhhvxvpf.website^
+||jgenbxavuxbha.online^
 ||jgiajhhxeceki.online^
 ||jgkpsxlnqnknp.site^
 ||jglwyxywvsstl.website^
@@ -35349,6 +35352,7 @@ browsershots.org#@#.advert_area
 ||livvbkx-vejj.xyz^
 ||livxlilsq.click^
 ||lixstownrusisedpriv.org^
+||liyyrjrif.com^
 ||lizebruisiaculture.com^
 ||ljayfabggjyvc.website^
 ||ljbhrddcoyck.com^
@@ -39097,6 +39101,7 @@ browsershots.org#@#.advert_area
 ||nwq-frjbumf.today^
 ||nwryeirpkvato.one^
 ||nwtdvlersdowe.space^
+||nwtvcupvihkhi.site^
 ||nwvboqorfftjs.online^
 ||nwvulrmtxesqh.space^
 ||nwwais.com^
@@ -50614,6 +50619,7 @@ browsershots.org#@#.advert_area
 ||unqsnzyrsdkuz.website^
 ||unquittertii.help^
 ||unqxeekhpyfyq.online^
+||unracedglogg.cfd^
 ||unraystddmp.click^
 ||unrealistic-due.com^
 ||unrealistic-tell.com^
