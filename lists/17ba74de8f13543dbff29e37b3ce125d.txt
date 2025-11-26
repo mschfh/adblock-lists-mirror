@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511262216
+! Version: 202511262238
 ! Title: EasyList
-! Last modified: 26 Nov 2025 22:16 UTC
+! Last modified: 26 Nov 2025 22:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b00b2774d4c9adfdc7f121b5835f63cdfd65c0c9
+! Commit: f05f7f3306623b9564071724a04858b81fb7ca2d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25751,6 +25751,7 @@ browsershots.org#@#.advert_area
 ||eceuvtsjfoauc.site^
 ||echarjutka.shop^
 ||echgrrnrjfqm.net^
+||echisfaiths.cyou^
 ||echoflaresoap.com^
 ||echopixelwave.net^
 ||ecidjfjtiyxmg.website^
@@ -37030,6 +37031,7 @@ browsershots.org#@#.advert_area
 ||misdoesamasta.help^
 ||misdoestulwar.cfd^
 ||miserable-physical.com^
+||miserableconcept.com^
 ||miserly-apple.pro^
 ||miserly-physics.pro^
 ||misfitbenote.qpon^
@@ -41505,6 +41507,7 @@ browsershots.org#@#.advert_area
 ||picturesqueundercover.com^
 ||pidginshotmelt.help^
 ||pidsnbtigntdi.vip^
+||pidxlikilswdy.website^
 ||piercingidea.pro^
 ||pierconditioner.com^
 ||pierisrapgae.com^
