@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511260905
+! Version: 202511260945
 ! Title: EasyList
-! Last modified: 26 Nov 2025 09:05 UTC
+! Last modified: 26 Nov 2025 09:45 UTC
 ! Expires: 4 days (update frequency)
-! Commit: fb2168f8d47b035eb82512d6d9d4fcc9a0b6464d
+! Commit: a91acdc18244791916765718e9d1cfa471f5a717
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18503,6 +18503,7 @@ browsershots.org#@#.advert_area
 ||apzgcipacpu.com^
 ||apzionhismcgb.space^
 ||aq7ua5ma85rddeinve.com^
+||aqcmxzeydufys.website^
 ||aqcutwom.xyz^
 ||aqczcwemqgiga.website^
 ||aqdbfqsbnwpkb.website^
@@ -20157,6 +20158,7 @@ browsershots.org#@#.advert_area
 ||biqqavjzrmmkr.store^
 ||birdmanstook.life^
 ||birdseyewings.co^
+||birlieunguled.qpon^
 ||biroads.com^
 ||bironfizzed.cyou^
 ||birringisogriv.shop^
@@ -30772,6 +30774,7 @@ browsershots.org#@#.advert_area
 ||hhuoqrnylbxnr.website^
 ||hhvbdeewfgpnb.xyz^
 ||hhwfqljszffgm.website^
+||hhwvhuhpobudu.website^
 ||hhxqadbgokgtb.online^
 ||hhymxvmuouwve.space^
 ||hi-xgnnkqs.buzz^
@@ -34795,6 +34798,7 @@ browsershots.org#@#.advert_area
 ||lasiout.cfd^
 ||lasting-cross.pro^
 ||lastingquiver.com^
+||lastingresown.cyou^
 ||lastlyseaweedgoose.com^
 ||lastrepair.pro^
 ||latchfateverybody.com^
@@ -48062,6 +48066,7 @@ browsershots.org#@#.advert_area
 ||suggestedeeriegoody.com^
 ||suggestionsmadly.com^
 ||suggilzanza.com^
+||sugimaille.click^
 ||suionestalcher.help^
 ||suipqsqihrccz.online^
 ||suistsejero.qpon^
@@ -53257,6 +53262,7 @@ browsershots.org#@#.advert_area
 ||wxixxpgnajzxr.website^
 ||wxlatgcemmkkv.site^
 ||wxmluaeneqczt.store^
+||wxoxhqasovdxy.space^
 ||wxqbopca-i.global^
 ||wxqhhskaltnbw.site^
 ||wxrgjdkxhegjn.online^
@@ -54164,6 +54170,7 @@ browsershots.org#@#.advert_area
 ||ymjpyeapkcoae.space^
 ||ymjwxocpguvgo.space^
 ||ymjwzofxrfjwc.space^
+||ymkxhfeluxhlf.site^
 ||ymmobi.com^
 ||ymmztxjktdirn.site^
 ||ymnyokcv.com^
