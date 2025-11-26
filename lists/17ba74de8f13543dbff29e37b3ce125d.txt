@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511262108
+! Version: 202511262133
 ! Title: EasyList
-! Last modified: 26 Nov 2025 21:08 UTC
+! Last modified: 26 Nov 2025 21:33 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e1c88a7d6a7842cd2b34a317afbb530598c7ebf5
+! Commit: 812a78bc8139d42b98c63a7de2bce94a08ec7daa
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19188,6 +19188,7 @@ browsershots.org#@#.advert_area
 ||awxeumltonpwpec.xyz^
 ||awxymatkud.com^
 ||awzlzznavglap.space^
+||axaoljestciyj.online^
 ||axdfybhscfgwy.com^
 ||axeldivision.com^
 ||axgbr.com^
@@ -45868,6 +45869,7 @@ browsershots.org#@#.advert_area
 ||samplestupent.qpon^
 ||samsungads.com^
 ||samtraitpesky.com^
+||samuintypical.help^
 ||samvaulter.com^
 ||samvinva.info^
 ||sanablebedpost.cyou^
@@ -46341,6 +46343,7 @@ browsershots.org#@#.advert_area
 ||sendexcepting.com^
 ||sendmepush.com^
 ||sendszizania.qpon^
+||sengiprexes.cfd^
 ||sennetsalbites.click^
 ||sennetsbequote.cyou^
 ||senrieadqahra.site^
@@ -52245,6 +52248,7 @@ browsershots.org#@#.advert_area
 ||wasalwayssu.org^
 ||wasanasosettoou.org^
 ||wasgildedallo.org^
+||washakihotspur.shop^
 ||washingchew.com^
 ||washingoccasionally.com^
 ||washiscourtship.com^
