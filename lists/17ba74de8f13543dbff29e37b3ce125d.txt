@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511271135
+! Version: 202511271213
 ! Title: EasyList
-! Last modified: 27 Nov 2025 11:35 UTC
+! Last modified: 27 Nov 2025 12:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9a07c161855b5c422ad643abdb3f01d84ee2d443
+! Commit: 70d96adaea0df022f97c4b96a92bcb6159098f04
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -30968,6 +30968,7 @@ browsershots.org#@#.advert_area
 ||hipersushiads.com^
 ||hipetimmelindic.com^
 ||hipgfgfqkdjxn.com^
+||hippierrapiner.com^
 ||hipplecurship.cfd^
 ||hippobulse.com^
 ||hiprofitnetworks.com^
@@ -31881,6 +31882,7 @@ browsershots.org#@#.advert_area
 ||ifpiawqeievju.online^
 ||ifsqlzljmubiz.store^
 ||ifumpodsor.net^
+||ifuqkhrbh5xzqu78k.cfd^
 ||ifvxnmbr.com^
 ||ifwajrmztvlpl.website^
 ||ifwgkkvmwxzgp.store^
@@ -33037,6 +33039,7 @@ browsershots.org#@#.advert_area
 ||jaznthphugfwz.online^
 ||jb-dqxiin.today^
 ||jbaqavqkrovyy.top^
+||jbaqavqkryeyw.top^
 ||jbbyyryezqqvq.top^
 ||jbbyyryolmlvq.top^
 ||jbbyyryolmoly.top^
@@ -33887,6 +33890,7 @@ browsershots.org#@#.advert_area
 ||kagocvncavfqi.store^
 ||kagokeblah.shop^
 ||kagonst.com^
+||kaigacheed.com^
 ||kaigaidoujin.com^
 ||kaikoaregabigi.net^
 ||kailsfrot.com^
@@ -39030,6 +39034,7 @@ browsershots.org#@#.advert_area
 ||nrgefbqyzsxid.space^
 ||nrhxvuvbthck.net^
 ||nriceukwater.org^
+||nriqlylnauefl.online^
 ||nrjnxbdqgo.com^
 ||nrknstdms.com^
 ||nrkvxlqmaweawo.com^
@@ -39177,6 +39182,7 @@ browsershots.org#@#.advert_area
 ||nutritious-insurance.pro^
 ||nutritiousrush.com^
 ||nuttylog.com^
+||nuumddlnirhxp.site^
 ||nuvjeisrkigpv.site^
 ||nuvucnqsqesdj.website^
 ||nuwotzzdkxcyd.website^
@@ -41380,6 +41386,7 @@ browsershots.org#@#.advert_area
 ||petchoub.com^
 ||petendereruk.com^
 ||peterbetrayinggenerator.com^
+||peterpangmerit.com^
 ||petkinstruth.qpon^
 ||petrocrawled.cyou^
 ||petrolgraphcredibility.com^
@@ -41879,6 +41886,7 @@ browsershots.org#@#.advert_area
 ||plumpnativeresound.com^
 ||plumpobstructionmortal.com^
 ||plumpytitians.cfd^
+||plunderusagesplash.com^
 ||plungedantagonizemystic.com^
 ||plungesprinterscanty.com^
 ||pluralhurtfulnorris.com^
@@ -42305,6 +42313,7 @@ browsershots.org#@#.advert_area
 ||preaverastheny.cfd^
 ||prebazwnvwmej.website^
 ||precastoocytes.qpon^
+||precautionnoughtsam.com^
 ||precautionprommajority.com^
 ||precautionwailing.com^
 ||precious-election.com^
@@ -42634,6 +42643,7 @@ browsershots.org#@#.advert_area
 ||prutosom.com^
 ||prutothchacma.help^
 ||prvc.io^
+||prvrmmgik.com^
 ||prwave.info^
 ||prwrrkaerzzon.space^
 ||prxuapqwdrdin.website^
@@ -43877,6 +43887,7 @@ browsershots.org#@#.advert_area
 ||qvrykgyestfdv.online^
 ||qvsimvenounsx.online^
 ||qvspsjpiczfcd.online^
+||qvujlogasdcdg.site^
 ||qvvgzxskwkeqp.space^
 ||qvvurjgilhgbd.space^
 ||qvxrbcmwwtdudcm.net^
@@ -43990,6 +44001,7 @@ browsershots.org#@#.advert_area
 ||r-q-e.com^
 ||r-tb.com^
 ||r023m83skv5v.com^
+||r19gihb2ftvf3vent6khi2fv59f.rest^
 ||r1g2rygnixoyhioz8e.cfd^
 ||r3c6cb3hkoccwf4zvj22.cfd^
 ||r3l7t53j4bfj111clv4plg9.rest^
@@ -44099,6 +44111,7 @@ browsershots.org#@#.advert_area
 ||randomadsrv.com^
 ||randomdnslab.com^
 ||randomignitiondentist.com^
+||randyscovysnatchy.cyou^
 ||rangehaltedmotley.com^
 ||rangepositively.com^
 ||rangfool.com^
@@ -46931,6 +46944,7 @@ browsershots.org#@#.advert_area
 ||simonfriend.help^
 ||simple-isl.com^
 ||simpleanybody.pro^
+||simplededicate.com^
 ||simpleincitetreacherous.com^
 ||simplejsmenu.com^
 ||simplewebanalysis.com^
