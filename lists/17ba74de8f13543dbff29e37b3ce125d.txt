@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511280927
+! Version: 202511281035
 ! Title: EasyList
-! Last modified: 28 Nov 2025 09:27 UTC
+! Last modified: 28 Nov 2025 10:35 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a5a87a36b63f719e90470ba2727f2d2484b99584
+! Commit: 640c698140b1f4b32b08514dff9e3486c92a64e2
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20967,6 +20967,7 @@ browsershots.org#@#.advert_area
 ||brotherhoodroughly.com^
 ||browbeatcaramelstole.com^
 ||browdichu.cyou^
+||brown-wake.pro^
 ||browndifference.pro^
 ||brownedserphid.rest^
 ||broworker6s.com^
@@ -27914,6 +27915,7 @@ browsershots.org#@#.advert_area
 ||flattenrestoration.com^
 ||flattermonumentsbarren.com^
 ||flaunchrainful.cfd^
+||flauntymonty.shop^
 ||flavinepetrous.help^
 ||flaw.cloud^
 ||flawerosion.com^
@@ -30280,6 +30282,7 @@ browsershots.org#@#.advert_area
 ||gvepgfdjnbk.com^
 ||gvertxvxazd.com^
 ||gvfejsk.beauty^
+||gvgsprjhhbpxvn.com^
 ||gvhgjycebsmtxdk.xyz^
 ||gvhunuh1y1qe6ch.cfd^
 ||gvipoocgyjjzm.website^
@@ -32629,6 +32632,7 @@ browsershots.org#@#.advert_area
 ||intrafic22.com^
 ||intrepid-march.pro^
 ||intricateinscription.com^
+||intricatewhilevertically.com^
 ||introductionnorthern.com^
 ||introphin.com^
 ||introskodakry.help^
@@ -34764,6 +34768,7 @@ browsershots.org#@#.advert_area
 ||ku34bh9la09.com^
 ||ku42hjr2e.com^
 ||kuaskqytzcrdq.site^
+||kuateffssmfhx.site^
 ||kuauoqvkuvppu.space^
 ||kubicadza.xyz^
 ||kubicserves.icu^
@@ -36325,6 +36330,7 @@ browsershots.org#@#.advert_area
 ||lycykqrnprxjc.site^
 ||lydiacorneredreflect.com^
 ||lydkuzntnhxim.website^
+||lydoliaeuqcxh.online^
 ||lydrum.click^
 ||lyedpdomdgykd.site^
 ||lyeempccaxuwq.site^
@@ -37317,6 +37323,7 @@ browsershots.org#@#.advert_area
 ||mitratemanors.com^
 ||mittlehish.help^
 ||mituelegiac.qpon^
+||mitujjhfhaarb.site^
 ||miuo.cloud^
 ||miwbiqzoluioi.website^
 ||mixahrccmldjb.store^
@@ -37407,6 +37414,7 @@ browsershots.org#@#.advert_area
 ||mlnadvertising.com^
 ||mlnbsdowzejzz.website^
 ||mlqcixbbgdwij.online^
+||mlrmsqujduomp.space^
 ||mlsys.xyz^
 ||mltcjpntxktjz.store^
 ||mlxbymozsaemn.space^
@@ -37758,6 +37766,7 @@ browsershots.org#@#.advert_area
 ||motionstimucua.cyou^
 ||motivatingother.com^
 ||motiveinsulationflamboyant.com^
+||motleyimproviseink.com^
 ||motqctjhtfsmc.site^
 ||motsardi.net^
 ||mottestandy.world^
@@ -40688,6 +40697,7 @@ browsershots.org#@#.advert_area
 ||outagepaction.help^
 ||outarcaninean.com^
 ||outbakecalaber.click^
+||outbawlkiddy.help^
 ||outbidplacardshowman.com^
 ||outclaydola.com^
 ||outcomefriendlysurname.com^
@@ -49217,6 +49227,7 @@ browsershots.org#@#.advert_area
 ||tflurbzcqgpii.website^
 ||tfosrv.com^
 ||tfqrifustrybg.store^
+||tfqtgqkllx.com^
 ||tfrgpwbssxyjb.space^
 ||tfwjtrkuueobz.online^
 ||tfwwxizsfbmvw.space^
@@ -49482,6 +49493,7 @@ browsershots.org#@#.advert_area
 ||tiktakz.xyz^
 ||tiktokcdn1.xyz^
 ||tilapfnnjimqb.online^
+||tilearoma.com^
 ||tillstayhereab.org^
 ||tillysices.rest^
 ||tiltersresidua.shop^
@@ -52777,6 +52789,7 @@ browsershots.org#@#.advert_area
 ||wearbald.care^
 ||wearbiolite.rest^
 ||wearbulbed.com^
+||wearinessgiddy.com^
 ||wearishgapers.cfd^
 ||wearisometechnicalitydeport.com^
 ||wearychallengeraise.com^
@@ -55340,6 +55353,7 @@ browsershots.org#@#.advert_area
 ||zkfjdxlwwcilg.website^
 ||zkieqfgsiigts.store^
 ||zkt0flig7.com^
+||zkushgnpbv.com^
 ||zkvovu2lj97q8o7773gig8wluuttop.cfd^
 ||zkyrp8k6uuevu3.rest^
 ||zkzenlcagknfi.world^
