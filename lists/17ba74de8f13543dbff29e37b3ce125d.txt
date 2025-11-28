@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511280223
+! Version: 202511280318
 ! Title: EasyList
-! Last modified: 28 Nov 2025 02:23 UTC
+! Last modified: 28 Nov 2025 03:18 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1cc002a5e462d5a76e73b4348177cf50afa06bc2
+! Commit: b0ecf10fb4411cbbe777118de73327da962fef4b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18222,6 +18222,7 @@ browsershots.org#@#.advert_area
 ||anceenablesasm.com^
 ||anchored-dig.com^
 ||anchored-sell.com^
+||anchored-upper.pro^
 ||anchoredfee.com^
 ||anchoredprivate.pro^
 ||anchornails.com^
@@ -19316,6 +19317,7 @@ browsershots.org#@#.advert_area
 ||azqaaslam.com^
 ||azqqloblawqbj.top^
 ||azqqlobqwomqr.top^
+||azqqlobqwoyja.top^
 ||azskk.com^
 ||azsqyupwulmgx.site^
 ||aztplxakrlcs.com^
@@ -19649,6 +19651,7 @@ browsershots.org#@#.advert_area
 ||bbmecmsuoamxk.space^
 ||bbnm3h2ukqozvp97i7bbvc6mxwike8li.rest^
 ||bboqtryjpdndp.online^
+||bbpaakofsfydc.online^
 ||bbpbvyoziujgg.online^
 ||bbpmxjdkbv.com^
 ||bbqpvywcxmkjl.website^
@@ -23490,6 +23493,7 @@ browsershots.org#@#.advert_area
 ||cryingforanythingamg.org^
 ||cryjun.com^
 ||cryorganichash.com^
+||crypticrallye.com^
 ||crypto-ads.net^
 ||cryptoatom.care^
 ||cryptobeneluxbanner.care^
@@ -25655,6 +25659,7 @@ browsershots.org#@#.advert_area
 ||dzgenrsxwnebu.website^
 ||dzhiafnhheylb.site^
 ||dzhjmp.com^
+||dzjegcogtzqou.online^
 ||dzjgwhtqttqfx.website^
 ||dzjlxonxrnetj.website^
 ||dzjlyvcsggmls.online^
@@ -34692,6 +34697,7 @@ browsershots.org#@#.advert_area
 ||ksnmuxlpqxuoy.site^
 ||ksofthecompa.org^
 ||ksoqhcvec.com^
+||kspjhisfyhjaqn.com^
 ||kspjjraqnfyqq.site^
 ||kspyqwogczssl.website^
 ||ksqkmhdydi.net^
@@ -34858,6 +34864,7 @@ browsershots.org#@#.advert_area
 ||kzoixqlmnwtjg.space^
 ||kzprzseknkpmb.website^
 ||kzqjctpvdjmwc.store^
+||kzr6855wbqwl91pi.rest^
 ||kzt2afc1rp52.com^
 ||kzuabrkh.com^
 ||kzwdhgakfrxcv.website^
@@ -38250,6 +38257,7 @@ browsershots.org#@#.advert_area
 ||n3qbyqy2cfkl3mgjc4zvt1wvb5g.cfd^
 ||n4m5x60.com^
 ||n4sredirect.com^
+||n5tbizkr8f7to4l9bulp2wkft.cfd^
 ||n91hg.com^
 ||n9s74npl.de^
 ||naacixmdxcfba.store^
@@ -40090,6 +40098,7 @@ browsershots.org#@#.advert_area
 ||ominousplant.com^
 ||omission119.fun^
 ||omissiongreatestoriginal.com^
+||omlahpewing.com^
 ||omlkfwhnqdiekxy.net^
 ||ommcrywbemojn.space^
 ||omni-ads.com^
@@ -55535,6 +55544,7 @@ browsershots.org#@#.advert_area
 ||zuqxuomhfipor.space^
 ||zureiskedamyb.world^
 ||zurgnkluzowya.store^
+||zurlitefulvous.com^
 ||zusgorphsbeny.site^
 ||zuwufag.com^
 ||zuzajdvinaz.com^
