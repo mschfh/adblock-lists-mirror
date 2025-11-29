@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511292005
+! Version: 202511292034
 ! Title: EasyList
-! Last modified: 29 Nov 2025 20:05 UTC
+! Last modified: 29 Nov 2025 20:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bec3c78262caed3853a2e206c7d2f81337f838eb
+! Commit: 1f860a1972b3b87adf49a02cc3890e9b2dc61317
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19869,6 +19869,7 @@ browsershots.org#@#.advert_area
 ||belongeddilute.com^
 ||belovedsalesman.com^
 ||belovedset.com^
+||belsofaugneenso.net^
 ||beltcological.com^
 ||beltenefloit.com^
 ||beltingfederal.shop^
@@ -51079,6 +51080,7 @@ browsershots.org#@#.advert_area
 ||ulmqfhgfjrxbj.site^
 ||ulnariaempire.cyou^
 ||ulnhz.site^
+||ulnjxhvonmweg.site^
 ||uloathoagna.net^
 ||ulpanimarcos.com^
 ||ulpradvpeaiqs.store^
@@ -55978,6 +55980,7 @@ browsershots.org#@#.advert_area
 ||zweqzanedaua.com^
 ||zwgnbzrdoobou.store^
 ||zwk7ybbg.net^
+||zwkfzyjtadeuz.space^
 ||zwnbtqsjcopel.space^
 ||zwnoeqzsuz.com^
 ||zwovvrkwjamb.top^
