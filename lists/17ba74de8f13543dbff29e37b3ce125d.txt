@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511290236
+! Version: 202511290318
 ! Title: EasyList
-! Last modified: 29 Nov 2025 02:36 UTC
+! Last modified: 29 Nov 2025 03:18 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8a54b696677d0eef720730b05af2133a48f78bc3
+! Commit: 70422d37f685e50a0f19efbc5c84b6d5f59ee14f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19189,6 +19189,7 @@ browsershots.org#@#.advert_area
 ||awistats.com^
 ||awjakpos.com^
 ||awkbkkqkqmmva.top^
+||awkbkkqkqmvyv.top^
 ||awkijlwdapaau.website^
 ||awkvastestbegani.cyou^
 ||awkward-body.pro^
@@ -22703,6 +22704,7 @@ browsershots.org#@#.advert_area
 ||cnmnb.online^
 ||cnnected.org^
 ||cnngnfnip.xyz^
+||cnodmooqslbzf.space^
 ||cnqatpzabwfzc.website^
 ||cnqsmekgjmgrp.site^
 ||cnqsocfzpdfkp.space^
@@ -22710,6 +22712,7 @@ browsershots.org#@#.advert_area
 ||cnsxrfsrfpsvf.site^
 ||cnt.my^
 ||cntbrzonyxnzv.site^
+||cntqatdtgsnsu.site^
 ||cntrealize.com^
 ||cntxfrzwgdzud.space^
 ||cnvggbhoozkdr.space^
@@ -33288,6 +33291,7 @@ browsershots.org#@#.advert_area
 ||jdhxvjrildzjt.site^
 ||jdisbyzitokgt.website^
 ||jdiwtetxazxkd.space^
+||jdkwtwtbiv.com^
 ||jdlqivqfhiyjz.site^
 ||jdohegxjytnit.space^
 ||jdoqocy.com^
@@ -49470,6 +49474,7 @@ browsershots.org#@#.advert_area
 ||thinnerlanguish.com^
 ||thinpaltrydistrust.com^
 ||thipseedsy.net^
+||thirairtoaboats.net^
 ||third-growth.pro^
 ||third-tracking.com^
 ||thirdgas.com^
