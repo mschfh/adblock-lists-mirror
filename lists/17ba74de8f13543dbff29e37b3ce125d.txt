@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511300213
+! Version: 202511300256
 ! Title: EasyList
-! Last modified: 30 Nov 2025 02:13 UTC
+! Last modified: 30 Nov 2025 02:56 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1357b9ade3ca7bc5ab5d69c78d854a3a08c3bd41
+! Commit: 8158703554c686f655ac62270d600ca429c833ad
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -27454,6 +27454,7 @@ browsershots.org#@#.advert_area
 ||faroff-selection.pro^
 ||faroffsilly.com^
 ||farphrasedirect.com^
+||farseercrumbedlochs.cyou^
 ||fartmoda.com^
 ||fasceshelped.life^
 ||fascespro.com^
@@ -29928,6 +29929,7 @@ browsershots.org#@#.advert_area
 ||gqkxtmyoxbenz.store^
 ||gqlhpqmfxfdbu.store^
 ||gqmacifyutqtx.xyz^
+||gqnarvogh.com^
 ||gqnfkfrunjxdw.world^
 ||gqpdgily.net^
 ||gqpeyiqibmfid.site^
@@ -31351,6 +31353,7 @@ browsershots.org#@#.advert_area
 ||hnbmbgagxwyqd.site^
 ||hnchrbjicjcxq.space^
 ||hnetdybpikax.com^
+||hnfuvjqpmzzey.website^
 ||hngtkmbijgmfy.xyz^
 ||hnh9qzv5x6qcxr82b.rest^
 ||hnkiigrfygpcw.space^
@@ -33185,6 +33188,7 @@ browsershots.org#@#.advert_area
 ||iystrbftlwif.icu^
 ||iytdhrypx.com^
 ||iytlhykzxford.space^
+||iyxkoshoagpfc.website^
 ||iyykavopdpkxx.site^
 ||iyyzqjvjeehdi.store^
 ||izalstxrmvnll.site^
