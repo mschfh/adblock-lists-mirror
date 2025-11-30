@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202511302133
+! Version: 202511302212
 ! Title: EasyPrivacy
-! Last modified: 30 Nov 2025 21:33 UTC
+! Last modified: 30 Nov 2025 22:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d80f8292ed65a384b556ae45e992df43a4424697
+! Commit: 7e0dca797abcf12129278d5a4e0e89cef000ad5c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -7237,6 +7237,7 @@ omni.soundestlink.com$image
 ||gravitykick.com^
 ||grayoranges.com^
 ||grayreceipt.com^
+||grayscaleart.com^
 ||greasegarden.com^
 ||greasysquare.com^
 ||gridbelow.com^
@@ -7948,6 +7949,7 @@ omni.soundestlink.com$image
 ||scrollservice.com^
 ||scrubswim.com^
 ||sealtravels.com^
+||seamlesssalon.com^
 ||seatsmoke.com^
 ||secondhandfall.com^
 ||secretivesheep.com^
