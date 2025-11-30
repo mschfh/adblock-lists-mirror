@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202511301138
+! Version: 202511301215
 ! Title: EasyList
-! Last modified: 30 Nov 2025 11:38 UTC
+! Last modified: 30 Nov 2025 12:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: af844508cc1741cb805c605d7d7a37512c83dc92
+! Commit: 8195d952aa054d9f57d7fd723f633673ea13fc47
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17196,6 +17196,7 @@ browsershots.org#@#.advert_area
 ||adright.co^
 ||adrino.io^
 ||adroitcertain.com^
+||adroitham.com^
 ||adrokt.com^
 ||adrscibgiosrk.website^
 ||adrta.com^
@@ -33217,6 +33218,7 @@ browsershots.org#@#.advert_area
 ||ixnp.com^
 ||ixorachoregy.com^
 ||ixpaecojilsoj.space^
+||ixpulukuol.com^
 ||ixsgksvcnjqvo.online^
 ||ixtbiwi-jf.world^
 ||ixtzexgnofhym.space^
@@ -36843,6 +36845,7 @@ browsershots.org#@#.advert_area
 ||mangraox.my^
 ||manifestoctavianapostrophe.com^
 ||maniockisang.qpon^
+||manipulativeslaves.com^
 ||mankinddemocrat.com^
 ||manksdmejidwv.website^
 ||mannerthiscommissioner.com^
@@ -47348,6 +47351,7 @@ browsershots.org#@#.advert_area
 ||shimmeringconcert.com^
 ||shimmeyslocker.qpon^
 ||shimpooy.com^
+||shindigoverdose.com^
 ||shinebliss.com^
 ||shinglerid.com^
 ||shiningleafpath.com^
@@ -51467,6 +51471,7 @@ browsershots.org#@#.advert_area
 ||universityofinternetscience.com^
 ||universityslap.com^
 ||unjoinesprit.help^
+||unjtzpdbpwmkv.website^
 ||unjustsubmerge.com^
 ||unkemptlecture.com^
 ||unkinpaynim.com^
@@ -52906,6 +52911,7 @@ browsershots.org#@#.advert_area
 ||vvxgwsrfsefx.com^
 ||vvxxqpvylixke.store^
 ||vvyffpulokdxe.website^
+||vw3j8eey7ignggeuplzwkx.cfd^
 ||vwaiuzmtfrhzd.space^
 ||vwbbphonljgrr.website^
 ||vwcbazbnsbpng.site^
