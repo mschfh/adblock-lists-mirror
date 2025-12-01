@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512011340
+! Version: 202512011413
 ! Title: EasyList
-! Last modified: 01 Dec 2025 13:40 UTC
+! Last modified: 01 Dec 2025 14:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 99d135ac5fb9a5fd1e667d9e0dd2c503399624be
+! Commit: b2b1cc41735f4ab17023d035fcbef1864cddc017
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38382,6 +38382,7 @@ browsershots.org#@#.advert_area
 ||msgyciiekssnb.space^
 ||mshago.com^
 ||msietyjnxzcan.website^
+||msiwvjheivtotwc.com^
 ||msjdlpjdyorlv.store^
 ||msjdveaigxlx.xyz^
 ||msjukinogbtji.fun^
@@ -38610,6 +38611,7 @@ browsershots.org#@#.advert_area
 ||mwirkqoxcdean.store^
 ||mwiynfejuiwyv.space^
 ||mwlptoirxkkmsvr.xyz^
+||mwmftnbgyrrcs.site^
 ||mwmkoenyeymby.com^
 ||mwoukrkskillso.com^
 ||mwowoshszibzo.space^
@@ -42468,6 +42470,7 @@ browsershots.org#@#.advert_area
 ||pkwjdpjwfbzty.space^
 ||pkwnjhfomfpok.online^
 ||pkzxulxtgggxz.space^
+||placardrepentanceshoes.com^
 ||placcolionic.com^
 ||placedscutta.qpon^
 ||placetobeforever.com^
@@ -49403,6 +49406,7 @@ browsershots.org#@#.advert_area
 ||swottedplaidie.com^
 ||swskkgfyhcldxe.net^
 ||swtagnfimnhdt.website^
+||swungenkotylos.help^
 ||swvcecehtgehf.space^
 ||swwbthxvim.net^
 ||swwmskezpygym.website^
@@ -55544,6 +55548,7 @@ browsershots.org#@#.advert_area
 ||yohocrummer.cfd^
 ||yojbiagdemrac.buzz^
 ||yokeeroud.com^
+||yokematchesdashboard.com^
 ||yolvyzasxyojr.space^
 ||yomeno.xyz^
 ||yomxt.icu^
