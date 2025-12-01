@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512010254
+! Version: 202512010342
 ! Title: EasyList
-! Last modified: 01 Dec 2025 02:54 UTC
+! Last modified: 01 Dec 2025 03:42 UTC
 ! Expires: 4 days (update frequency)
-! Commit: dfb9b2a67236886a380f0e79d4fb80c342f2d750
+! Commit: c829fb5e84b5dc40d74d0bfdbaf3e078c6eb5b85
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19159,6 +19159,7 @@ browsershots.org#@#.advert_area
 ||avvacgtasa.com^
 ||avvelwavlvkmm.top^
 ||avview3431.fun^
+||avwjyvwqyoab.top^
 ||avwjyvwqyokv.top^
 ||avzaqmaoryehd.website^
 ||avzlqdmryrdbj.website^
@@ -22512,6 +22513,7 @@ browsershots.org#@#.advert_area
 ||cjvdfw.com^
 ||cjxlogsfysftr.space^
 ||cjxomyilmv.com^
+||cjyyglhyukbbj.website^
 ||ckbgvpjrjcwai.site^
 ||ckdehawsbpulg.xyz^
 ||ckfaconxrhyen.website^
@@ -24749,6 +24751,7 @@ browsershots.org#@#.advert_area
 ||didalpollex.cyou^
 ||diddestrewinds.top^
 ||diddledleveret.com^
+||didptkzemmkrr.website^
 ||didsaurtez.net^
 ||didyeurite.help^
 ||dieadi.com^
@@ -26963,6 +26966,7 @@ browsershots.org#@#.advert_area
 ||esgwgsnrbevnb.website^
 ||eshkol.io^
 ||eshkol.one^
+||eshqxitjhfiuj.space^
 ||esihighlyrecomemu.com^
 ||esisfulylydevelope.com^
 ||esjoeuuzfgzsi.website^
@@ -29932,6 +29936,7 @@ browsershots.org#@#.advert_area
 ||goodnightpawnmossy.com^
 ||goodsdunelocated.com^
 ||goodsvalvemumble.com^
+||goodvideo.pro^
 ||goodwillnourishmentcousins.com^
 ||googie-anaiytics.com^
 ||googleapi.club^
@@ -36568,6 +36573,7 @@ browsershots.org#@#.advert_area
 ||luvianyao.cfd^
 ||luwt.cloud^
 ||luxadv.com^
+||luxatenowness.com^
 ||luxbetaffiliates.com.au^
 ||luxcdn.com^
 ||luxins.net^
@@ -37566,6 +37572,7 @@ browsershots.org#@#.advert_area
 ||mimicdivineconstable.com^
 ||mimilcnf.pro^
 ||miminereffed.help^
+||miminhugyl.com^
 ||mincxhboupoee.space^
 ||mindedenhance.com^
 ||mindedonly.com^
@@ -38055,6 +38062,7 @@ browsershots.org#@#.advert_area
 ||moonwaytimbery.rest^
 ||moopseechuke.net^
 ||mooreguested.qpon^
+||moornshintai.com^
 ||moorysashay.cfd^
 ||moosrubble.com^
 ||moosuphouze.net^
@@ -41370,6 +41378,7 @@ browsershots.org#@#.advert_area
 ||p-ozlugxmb.top^
 ||p-usjawrfp.global^
 ||p12acx.com^
+||p243xhjej2wycgfi458h89.cyou^
 ||p269vhygzowkotz4.cfd^
 ||p2ed.site^
 ||p2wdb.com^
@@ -45813,6 +45822,7 @@ browsershots.org#@#.advert_area
 ||rjzkulworyqil.space^
 ||rkcuxnnaoscefxq.xyz^
 ||rkdpzcdehop.fun^
+||rkfcufx39zhvi91.rest^
 ||rkfhmcdvprsbz.website^
 ||rkgwzfwjgk.com^
 ||rkhovdiminatedmo.org^
@@ -54774,6 +54784,7 @@ browsershots.org#@#.advert_area
 ||xnqzisqoxmbwb.space^
 ||xnrcpdsqj.com^
 ||xnrhqmdsluqld.tech^
+||xnrltvq83pplvwjk96w2ke.cfd^
 ||xnrzeuweyrwyx.online^
 ||xnuewypvwoziz.store^
 ||xnwkuvxleogyn.online^
@@ -55052,6 +55063,7 @@ browsershots.org#@#.advert_area
 ||yaguazaderail.shop^
 ||yahdrctswmvax.space^
 ||yaifijaifjxhuc.com^
+||yajeindieselvamosed.cyou^
 ||yajjppbbzrxfk.space^
 ||yakmakhond.top^
 ||yaldfyyfjuftv.website^
