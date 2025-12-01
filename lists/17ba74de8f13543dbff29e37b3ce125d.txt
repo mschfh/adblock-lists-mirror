@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512011438
+! Version: 202512011505
 ! Title: EasyList
-! Last modified: 01 Dec 2025 14:38 UTC
+! Last modified: 01 Dec 2025 15:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1e14935d12e8e377d38d27da82fc4a484bafef5f
+! Commit: 6419abd46af5639a8e977cb85902986c1b2ac04c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -32231,6 +32231,7 @@ browsershots.org#@#.advert_area
 ||idiotic-fear.pro^
 ||idjhvn4m.pro^
 ||idkoguetmpdxk.online^
+||idksqjekaglldyw.com^
 ||idle-birth.pro^
 ||idlebyskelped.life^
 ||idlesecrets.qpon^
@@ -50778,6 +50779,7 @@ browsershots.org#@#.advert_area
 ||trianglereadiness.com^
 ||trianglesickdemocrat.com^
 ||triangularmouse.com^
+||triangularrespond.pro^
 ||tribalfusion.com^
 ||tribracbiaxal.com^
 ||tributeparticle.com^
@@ -53053,6 +53055,7 @@ browsershots.org#@#.advert_area
 ||vqsegqrwefymp.space^
 ||vquhshiqyqudr.space^
 ||vqzbmjexsbscb.store^
+||vqzjymqxasrht.site^
 ||vqzoqqnjolnbl.site^
 ||vrcdpoaciecoj.online^
 ||vrcjgvxwjmepr.website^
