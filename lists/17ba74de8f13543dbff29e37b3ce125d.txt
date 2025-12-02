@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512022109
+! Version: 202512022134
 ! Title: EasyList
-! Last modified: 02 Dec 2025 21:09 UTC
+! Last modified: 02 Dec 2025 21:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6f489133364f3c7db560f0efeab2a17ccd5a3740
+! Commit: 8b9d87ea9cb6d2b682c30ac8a8fed2df8e817a77
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17784,6 +17784,7 @@ browsershots.org#@#.advert_area
 ||aircheerfulhometown.com^
 ||aircraftairliner.com^
 ||aircraftreign.com^
+||airdropcassino.cfd^
 ||airgeecigee.net^
 ||airierpoiesis.cyou^
 ||airingsjerky.com^
@@ -23822,6 +23823,7 @@ browsershots.org#@#.advert_area
 ||curvedbrewis.cfd^
 ||curvedheldideal.com^
 ||curvy-paper.pro^
+||curvythanks.pro^
 ||curyrentattri.com^
 ||curyrentattributo.org^
 ||cushoussie.net^
@@ -39094,6 +39096,7 @@ browsershots.org#@#.advert_area
 ||nedukeration.org^
 ||neebouvoogrus.net^
 ||neeceeglogu.net^
+||neechezauwhi.net^
 ||neechube.net^
 ||needeevo.xyz^
 ||needleunderstandtraveller.com^
@@ -42529,6 +42532,7 @@ browsershots.org#@#.advert_area
 ||pitchcustomaryoz.com^
 ||pitchedfurs.com^
 ||piteevoo.com^
+||pitpitdeal.cfd^
 ||pitredamu.lat^
 ||pitsensation.com^
 ||pittoidmisly.help^
@@ -53915,6 +53919,7 @@ browsershots.org#@#.advert_area
 ||wgdmxncvikpcc.fun^
 ||wgexsktozbmrx.online^
 ||wghaqpnupaxmj.space^
+||wghoubdaxpsik.site^
 ||wgmenxpvnxnbs.space^
 ||wgnootaoq.com^
 ||wgsaralfncvvb.online^
