@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512022205
+! Version: 202512022224
 ! Title: EasyList
-! Last modified: 02 Dec 2025 22:05 UTC
+! Last modified: 02 Dec 2025 22:24 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e63e4d3bb6874fbd7656164a2f77c8daa14096f7
+! Commit: edc40db71ec536dabd2da4393450f734c6ed5006
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29851,6 +29851,7 @@ browsershots.org#@#.advert_area
 ||glutenmuttsensuous.com^
 ||glutenwell.com^
 ||glvhvesvnp.com^
+||glvmtlnxdxdhl.website^
 ||glwmbwogaqwop.space^
 ||glxacqtlhomgu.online^
 ||glxtest.site^
@@ -30505,6 +30506,7 @@ browsershots.org#@#.advert_area
 ||guardssanjak.digital^
 ||guchihyfa.pro^
 ||gucoxcnpeljaf.site^
+||gudeyzcpsvial.online^
 ||guestconspiracy.com^
 ||guffinswinked.qpon^
 ||gufrajqvhwfya.online^
@@ -50246,6 +50248,7 @@ browsershots.org#@#.advert_area
 ||thorny-atmosphere.pro^
 ||thorny-structure.pro^
 ||thorny-youth.pro^
+||thornybeach.pro^
 ||thornyqueen.pro^
 ||thoroughlyripepedigree.com^
 ||thorpdetract.rest^
