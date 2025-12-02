@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512022253
+! Version: 202512022335
 ! Title: EasyList
-! Last modified: 02 Dec 2025 22:53 UTC
+! Last modified: 02 Dec 2025 23:35 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4be5184be592f1c4fe7a423bc810d7e005ddb9f3
+! Commit: 8d8cd669b3cfb786359c12e15e099f91bc63ba92
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21310,6 +21310,7 @@ browsershots.org#@#.advert_area
 ||buvettesutaio.rest^
 ||buvhlspktqqoi.online^
 ||buvkkecibaf.com^
+||buxhkaspio.com^
 ||buyeasy.by^
 ||buyerneedly.help^
 ||buyfrightencheckup.com^
@@ -30971,6 +30972,7 @@ browsershots.org#@#.advert_area
 ||hazuro.online^
 ||hb-247.com^
 ||hb94dnbe.de^
+||hbadkrburmtwfe.com^
 ||hbcusdwpikskh.online^
 ||hbfdhkdeaatch.space^
 ||hbgtcfzuizxjf.site^
@@ -32580,6 +32582,7 @@ browsershots.org#@#.advert_area
 ||imdprmebrbbbq.space^
 ||imdqjprjawifpky.com^
 ||imeto.site^
+||imfwztlkqsukr.website^
 ||imgfeedbuzz.com^
 ||imgfeedget.com^
 ||imghst-de.com^
@@ -39325,6 +39328,7 @@ browsershots.org#@#.advert_area
 ||nhroboqsngqvd.site^
 ||nhspperkjwbzr.online^
 ||nhtkdwffnlgvl.store^
+||nhtlzdewtjypv.site^
 ||nhtosawxpqjxu.site^
 ||nhttqyswvqgpk.rocks^
 ||nhvyafmsoet.xyz^
@@ -52055,6 +52059,7 @@ browsershots.org#@#.advert_area
 ||unwantedkeelaccent.com^
 ||unwantedpointingwaspish.com^
 ||unwelcomehurry.com^
+||unwelcometry.pro^
 ||unwieldytowel.pro^
 ||unwilling-space.com^
 ||unwilling-steal.com^
