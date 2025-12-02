@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512021936
+! Version: 202512022013
 ! Title: EasyList
-! Last modified: 02 Dec 2025 19:36 UTC
+! Last modified: 02 Dec 2025 20:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8aa98faa31f1fd942e3e00b8abf6e24952fcfeb3
+! Commit: c00da9cf715e30b354f119e2194e481445251f97
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19762,6 +19762,7 @@ browsershots.org#@#.advert_area
 ||bdelkjdmtfkjy.website^
 ||bdesankeyqfi.net^
 ||bdesankeyqfi.xyz^
+||bdfxohpay.com^
 ||bdidqntuyyuav.online^
 ||bdiuqnbyqpems.online^
 ||bdkrltbdwxmxe.space^
@@ -26289,6 +26290,7 @@ browsershots.org#@#.advert_area
 ||efortiessdate.net^
 ||efoulumaikouw.com^
 ||efpdkrgrluqec.store^
+||efrheeqcwgxsb.online^
 ||eftbmbcyhiwvt.site^
 ||eftfwfhupm.net^
 ||eftxrcaicsyoc.space^
@@ -29465,6 +29467,7 @@ browsershots.org#@#.advert_area
 ||getzvpeewhnum.online^
 ||gevfbkxymoois.site^
 ||gexaicmughoudy.net^
+||gexdrbaeokoxr.website^
 ||geyantottum.cyou^
 ||geynkbwesiohs.online^
 ||gf0c0qtw080425z7.cfd^
@@ -38557,6 +38560,7 @@ browsershots.org#@#.advert_area
 ||mudsillungraft.world^
 ||muermoabject.shop^
 ||muffinfeudalactually.com^
+||muffled-hope.pro^
 ||muffledhigh.com^
 ||mufflelengthen.com^
 ||mufgaklgqgzvm.site^
@@ -43386,6 +43390,7 @@ browsershots.org#@#.advert_area
 ||profitpeelers.com^
 ||profitsence.com^
 ||profuse-direction.com^
+||profusecopy.pro^
 ||progenyaimless.com^
 ||programmeelaborate.com^
 ||programparkproud.com^
