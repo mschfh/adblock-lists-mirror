@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512021308
+! Version: 202512021336
 ! Title: EasyList
-! Last modified: 02 Dec 2025 13:08 UTC
+! Last modified: 02 Dec 2025 13:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: de2753f25809c67fd9d5d136738a75d2d3590bae
+! Commit: 35f5cce2d8b6c092274825dece4a3d7fc8917899
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25660,6 +25660,7 @@ browsershots.org#@#.advert_area
 ||dtvvpeizsibai.online^
 ||dtwrykqojntpq.website^
 ||dtx.click^
+||dtzvavrnbzemd.space^
 ||dualmarket.info^
 ||dualweekend.pro^
 ||dubbyamazons.help^
@@ -30812,6 +30813,7 @@ browsershots.org#@#.advert_area
 ||hanoverspelter.cfd^
 ||hanqdaysfeucn.site^
 ||hanqpwl.com^
+||hansaifordous.net^
 ||hanselsgipping.com^
 ||hansetaboret.shop^
 ||hanssubside.com^
@@ -34371,6 +34373,7 @@ browsershots.org#@#.advert_area
 ||jzbhqlgvsxdwb.store^
 ||jzbvwqeowvemz.top^
 ||jzeimirchegdf.site^
+||jzhkmgdeesljp.online^
 ||jziweafbssqyj.store^
 ||jzleekzaovrzl.top^
 ||jzmgtddbbkaeh.site^
@@ -37714,6 +37717,7 @@ browsershots.org#@#.advert_area
 ||minhagmuscot.cyou^
 ||miniature-depression.com^
 ||miniature-injury.pro^
+||minimumomnipotentintern.com^
 ||minimussham.click^
 ||miningonevaccination.com^
 ||ministrycosmeticrigour.com^
