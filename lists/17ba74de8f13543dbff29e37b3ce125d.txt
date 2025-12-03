@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512031206
+! Version: 202512031301
 ! Title: EasyList
-! Last modified: 03 Dec 2025 12:06 UTC
+! Last modified: 03 Dec 2025 13:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f2a993f7b00f2cda7635c4bf90f347dd05437e64
+! Commit: 82e5765144f08b81fefede1d9ddb344bf34322bc
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17864,6 +17864,7 @@ browsershots.org#@#.advert_area
 ||ajjkmozrrvmj.top^
 ||ajjlasruwwrlt.store^
 ||ajjwutdytigzg.rocks^
+||ajmivgvmaclye.online^
 ||ajmixbpcqolf.com^
 ||ajmtefoi.com^
 ||ajrkm1.com^
@@ -25216,6 +25217,7 @@ browsershots.org#@#.advert_area
 ||dmupywgfuurjd.club^
 ||dmvbdfblevxvx.com^
 ||dmytamepgcifk.store^
+||dmytmtarhxret.online^
 ||dmzbhqwcgbeop.online^
 ||dmzjmp.com^
 ||dmzzshfbluwnn.website^
@@ -26848,6 +26850,7 @@ browsershots.org#@#.advert_area
 ||eociugytvzhad.website^
 ||eoejzyqfdmidn.space^
 ||eoflgybccinwq.website^
+||eofqgwtzojvks.space^
 ||eofufortchris.org^
 ||eofwlnyaxwfqt.global^
 ||eogkxhtmoctjp.com^
@@ -30365,6 +30368,7 @@ browsershots.org#@#.advert_area
 ||groajodsaursie.net^
 ||groampez.xyz^
 ||groamsal.net^
+||grockartouz.com^
 ||groggedrotl.com^
 ||groinenamel.com^
 ||groinfont.com^
@@ -54066,6 +54070,7 @@ browsershots.org#@#.advert_area
 ||wgdmxncvikpcc.fun^
 ||wgexsktozbmrx.online^
 ||wghaqpnupaxmj.space^
+||wghfllccxhpnf.com^
 ||wghoubdaxpsik.site^
 ||wgmenxpvnxnbs.space^
 ||wgnootaoq.com^
