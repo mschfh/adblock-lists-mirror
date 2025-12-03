@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512031648
+! Version: 202512031716
 ! Title: EasyList
-! Last modified: 03 Dec 2025 16:48 UTC
+! Last modified: 03 Dec 2025 17:16 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 69281c02f5b7658573d199c5d10b7105beb73cde
+! Commit: f5e962913089f5389c09c3bf7265475ef5879611
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18352,6 +18352,7 @@ browsershots.org#@#.advert_area
 ||anomalahervati.help^
 ||anomalamethide.help^
 ||anomaloustinge.com^
+||anomitehimawanqueeve.cfd^
 ||anonymousads.com^
 ||anoocauzad.net^
 ||anopportunitytost.com^
@@ -20250,6 +20251,7 @@ browsershots.org#@#.advert_area
 ||bikestripara.cfd^
 ||bikingdecare.help^
 ||bilfsuuem.com^
+||bilgingregally.cfd^
 ||billaesopus.com^
 ||billboardwring.com^
 ||billilia.com^
@@ -30094,6 +30096,7 @@ browsershots.org#@#.advert_area
 ||gorevanmelic.click^
 ||gorgedipitself.com^
 ||gorgeousirreparable.com^
+||gorgeousmonth.pro^
 ||gorgeousscrupulous.com^
 ||gorgonsgoller.cyou^
 ||gorillatraffic.xyz^
@@ -31235,6 +31238,7 @@ browsershots.org#@#.advert_area
 ||hepk-gmwitvk.world^
 ||heptix.net^
 ||heqbjkhcexwt.com^
+||herbaneyince.rest^
 ||herbmancrenula.cfd^
 ||herbmuzzier.help^
 ||herbousabutted.cfd^
@@ -37310,6 +37314,7 @@ browsershots.org#@#.advert_area
 ||matiro.com^
 ||matloomreconcile.com^
 ||matricfairmunclot.cfd^
+||matrosscainite.cyou^
 ||matsirsapupte.net^
 ||matterforiwa.org^
 ||matterpalekept.com^
@@ -40136,6 +40141,7 @@ browsershots.org#@#.advert_area
 ||nxiybblfblloz.online^
 ||nxjrybynmqrhv.site^
 ||nxkoqodezlmeh.store^
+||nxkxmhqaywsqh.space^
 ||nxmpmugazsghw.website^
 ||nxmsiuptjboqj.space^
 ||nxpgyryvwtzjz.online^
@@ -47395,6 +47401,7 @@ browsershots.org#@#.advert_area
 ||scowpoppanasals.com^
 ||scptp1.com^
 ||scptpx.com^
+||scpwnxtwddaoke.com^
 ||scraberkilhig.qpon^
 ||scrailydernly.qpon^
 ||scrambledlone.com^
@@ -52062,6 +52069,7 @@ browsershots.org#@#.advert_area
 ||unhappybill.com^
 ||unhappyweakness.com^
 ||unhardyvoce.qpon^
+||unhateddecoyer.cyou^
 ||unhatedprotei.com^
 ||unheadedsouptotal.com^
 ||unhealthyirreparable.com^
@@ -52135,6 +52143,7 @@ browsershots.org#@#.advert_area
 ||unpetalchalder.cfd^
 ||unpetalgripman.cyou^
 ||unplaidyoven.cyou^
+||unpleasant-course.pro^
 ||unpufframpler.com^
 ||unqsnzyrsdkuz.website^
 ||unquittertii.help^
@@ -63112,6 +63121,7 @@ browsershots.org#@#.advert_area
 ||ad.edugram.com^
 ||ad.mail.ru/static/admanhtml/
 ||ad.mail.ru^$~image,domain=~mail.ru|~sportmail.ru
+||ad.mediamixer.co.kr^
 ||ad.moe.video^
 ||ad.netmedia.hu^
 ||ad.tpmn.co.kr^
@@ -69526,6 +69536,7 @@ collive.com##.bottom_leaderboard
 allmonitors24.com,streamable.com##.bottombanner
 arcadebomb.com##.bottombox
 timesofindia.com##.bottomnative
+biz.chosun.com##.box--margin-bottom-xl.box--pad-top-xl.box--pad-bottom-xl.box--bg-grey-10
 filmbooster.com,ghacks.net##.box-banner
 mybroadband.co.za##.box-sponsored
 kiz10.com##.box-topads-x2
