@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512030029
+! Version: 202512030056
 ! Title: EasyList
-! Last modified: 03 Dec 2025 00:29 UTC
+! Last modified: 03 Dec 2025 00:56 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 99456cd659e7dd13e61395f8c8ba861784541771
+! Commit: 1dd65f356d73b78e8f4f625c0254f241f1a896a5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -35960,6 +35960,7 @@ browsershots.org#@#.advert_area
 ||lifemoodmichelle.com^
 ||lifeporn.net^
 ||lifesoonersoar.org^
+||lifetimeflaginterrogate.com^
 ||liftdna.com^
 ||liftedd.net^
 ||liftgrooms.rest^
@@ -50633,6 +50634,7 @@ browsershots.org#@#.advert_area
 ||tombsmanship.click^
 ||tombsspinner.com^
 ||tomdsfpeyrsoo.vip^
+||tomecards.com^
 ||tomejkwjlqyoz.site^
 ||tomekas.com^
 ||tomladvert.com^
@@ -56440,6 +56442,7 @@ browsershots.org#@#.advert_area
 ||znntvpdicngpo.website^
 ||znorrymikvycz.site^
 ||znpeduhjhauqz.space^
+||znqpmbfussykx.website^
 ||znsebkpnpczim.website^
 ||zntyosjbsivry.site^
 ||znxifrpxsmuak.space^
@@ -56564,6 +56567,7 @@ browsershots.org#@#.advert_area
 ||zrlqm.com^
 ||zrmtrm.com^
 ||zrnslcqbtovnv.site^
+||zrouimweexxno.online^
 ||zrqsmcx.top^
 ||zrrnpvimsesvy.website^
 ||zrvheziaakihj.website^
