@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512041209
+! Version: 202512041246
 ! Title: EasyList
-! Last modified: 04 Dec 2025 12:09 UTC
+! Last modified: 04 Dec 2025 12:46 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3de15aa94b00dacff9a403ffb4aa2b645e1c6c0e
+! Commit: 928e61b8e60710243cd1ef6a2caa936c83601e07
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15547,6 +15547,7 @@ browsershots.org#@#.advert_area
 ||17do048qm.de^
 ||17e3uu89ef7vb2v6l8q8nlfp9t4t6.cfd^
 ||17ed256d85.com^
+||17tcoprj2fbxilqtym4.rest^
 ||181m2fscr.de^
 ||184c4i95p.de^
 ||18aa7dae85.com^
@@ -27983,6 +27984,7 @@ browsershots.org#@#.advert_area
 ||fff3cd7d36.com^
 ||fffncpuqifnmz.online^
 ||ffhkdfppqkezw.website^
+||ffihniqnwivzm.online^
 ||ffjrpdfduteic.website^
 ||fflemfnsehvfj.space^
 ||fflsviyvjpcwn.site^
@@ -30231,6 +30233,7 @@ browsershots.org#@#.advert_area
 ||gqbwscobngkeg.website^
 ||gqbzbszzbqsdi.online^
 ||gqgqdkfcylzqz.store^
+||gqhnmdbllqkdy.online^
 ||gqihdorufksiq.online^
 ||gqiikkuqzsxrt.store^
 ||gqkrkcicjfzwi.website^
@@ -33842,6 +33845,7 @@ browsershots.org#@#.advert_area
 ||jekzyyyljvjbw.top^
 ||jellabtravest.help^
 ||jelokerrvvmmq.top^
+||jelokerrvvwyw.top^
 ||jempoortis.net^
 ||jenoga.xyz^
 ||jenonaw.com^
@@ -39226,6 +39230,7 @@ browsershots.org#@#.advert_area
 ||navaidaosmic.top^
 ||navarsrotunda.life^
 ||navigatingnautical.xyz^
+||navitarponpicker.cyou^
 ||navtlkdihvagi.online^
 ||navwmaakbo.com^
 ||nawpush.com^
@@ -49364,6 +49369,7 @@ browsershots.org#@#.advert_area
 ||step-step-go.com^
 ||stepkeydo.com^
 ||stepmothermultiplydust.com^
+||steppesequence.com^
 ||steppevareuse.cyou^
 ||stereemain.net^
 ||stereospoutfireextinguisher.com^
