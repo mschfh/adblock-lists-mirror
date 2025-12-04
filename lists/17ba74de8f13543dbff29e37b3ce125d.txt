@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512042308
+! Version: 202512042336
 ! Title: EasyList
-! Last modified: 04 Dec 2025 23:08 UTC
+! Last modified: 04 Dec 2025 23:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 367125909de2982c4e48b96af720341160e509a8
+! Commit: febf5b990a2061eefd0a4f8ec9997cbaa272f32b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -26973,6 +26973,7 @@ browsershots.org#@#.advert_area
 ||epinaoskinura.help^
 ||epitaxypleased.rest^
 ||epjgtvmmfnqiq.website^
+||epjlfziryrpkg.site^
 ||epldjrxblnvpa.store^
 ||eplixxwmbkoqp.space^
 ||epnredirect.ru^
@@ -29710,6 +29711,7 @@ browsershots.org#@#.advert_area
 ||gialamebxneob.space^
 ||giant-orange.pro^
 ||giantaffiliates.com^
+||giantlevel.pro^
 ||giaythethaonuhcm.com^
 ||gibbalslucerne.rest^
 ||gicairdooga.com^
@@ -35203,6 +35205,7 @@ browsershots.org#@#.advert_area
 ||knkkpmtdesg.com^
 ||knkvixlevwpdc.website^
 ||knmdcrgyufqzn.website^
+||knnbecpvtyudw.site^
 ||knobblyerikite.help^
 ||knobby-classic.pro^
 ||knobby-weight.pro^
@@ -35670,6 +35673,7 @@ browsershots.org#@#.advert_area
 ||lagt.cloud^
 ||lagxsntduepv.online^
 ||lahoagrupho.net^
+||lahrarbfemav.com^
 ||lahsxicxicuvp.store^
 ||laibizevousufy.com^
 ||laichook.net^
