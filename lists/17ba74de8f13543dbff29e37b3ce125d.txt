@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512040240
+! Version: 202512040338
 ! Title: EasyList
-! Last modified: 04 Dec 2025 02:40 UTC
+! Last modified: 04 Dec 2025 03:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 439c18cd1d1256f44bdc5d6328256cd47c4da15c
+! Commit: ba6d3fb546707d85a9e0c4ff1d176678a2f27af9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17863,6 +17863,7 @@ browsershots.org#@#.advert_area
 ||ajillionmax.com^
 ||ajimezcox.help^
 ||ajjac.club^
+||ajjkmozrrvam.top^
 ||ajjkmozrrvmj.top^
 ||ajjlasruwwrlt.store^
 ||ajjwutdytigzg.rocks^
@@ -35414,6 +35415,7 @@ browsershots.org#@#.advert_area
 ||kuti8iar.xyz^
 ||kutyigeegikcp.space^
 ||kuvirixa.com^
+||kuvybwjxozbws.website^
 ||kvaaa.com^
 ||kvarcureeny.com^
 ||kvaurjynazce.com^
@@ -42771,6 +42773,7 @@ browsershots.org#@#.advert_area
 ||pjmthqtzhvzyk.online^
 ||pjmublecgilcr.space^
 ||pjnkltaayvde.xyz^
+||pjom9pp463bwuznxnci.rest^
 ||pjpworowzxmci.space^
 ||pjqchcfwtw.com^
 ||pjsos.xyz^
@@ -46662,6 +46665,7 @@ browsershots.org#@#.advert_area
 ||rqhrkeqlybjdy.website^
 ||rqialsrmwwxbx.website^
 ||rqitcbzevctjq.space^
+||rqjpfdlsv.com^
 ||rqkrzjtqpbdmr.store^
 ||rqlehijuiaoff.website^
 ||rqmfspdplqzmxu.com^
@@ -54441,6 +54445,7 @@ browsershots.org#@#.advert_area
 ||wiltaustaug.com^
 ||wiltedmember.pro^
 ||wilucuwzvc88g6vr9c7rr.cfd^
+||wimncpthrdfmk.com^
 ||wimpidsausujeje.com^
 ||wimxvpcbsfhyz.store^
 ||win-bidding.com^
@@ -55184,6 +55189,7 @@ browsershots.org#@#.advert_area
 ||xcipwuoft.com^
 ||xciqipcutzra.com^
 ||xcjwtxhmtvjf.com^
+||xckuincrlohcm.online^
 ||xcmhaurthhfar.online^
 ||xcougdnhiixge.site^
 ||xcowuheclvwryh.com^
@@ -55698,6 +55704,7 @@ browsershots.org#@#.advert_area
 ||y1zoxngxp.com^
 ||y397mbugo5xvge5l2o2u6zh6wwi9x.rest^
 ||y88tt85w8vumeqzr4uuc.rest^
+||y8uvpyb1euyvci7h9.cfd^
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me^
 ||yachtedoxymel.help^
 ||yacsvdpiqyrza.site^
@@ -56200,6 +56207,7 @@ browsershots.org#@#.advert_area
 ||ysrsfqapnqjuno.com^
 ||ystationalhed.com^
 ||ystxjinibaqch.online^
+||ysvbwjejfwmwd.online^
 ||yswebkrszlbzs.space^
 ||yswpcoftefaes.site^
 ||ysxyrcojiqvwj.store^
@@ -56315,6 +56323,7 @@ browsershots.org#@#.advert_area
 ||yxtwurrbxqifz.website^
 ||yxunqfhyuwrxt.online^
 ||yxuytpfe-t.icu^
+||yxwwyxmpowqnm.space^
 ||yxyrblnpmtahz.world^
 ||yy9s51b2u05z.com^
 ||yyatpfkjgcclyc.com^
