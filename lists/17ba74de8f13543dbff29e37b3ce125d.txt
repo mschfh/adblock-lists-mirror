@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512050516
+! Version: 202512050534
 ! Title: EasyList
-! Last modified: 05 Dec 2025 05:16 UTC
+! Last modified: 05 Dec 2025 05:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 38e5b4f3ce55aa5e676f83b7a8b9bd6673481d0f
+! Commit: ea0af637a1307f17c1f6ea7e99d20a18a5ad5c7d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -37901,6 +37901,7 @@ browsershots.org#@#.advert_area
 ||mfwbsveljxjsq.space^
 ||mfxlpkvsqsgpq.online^
 ||mfyavsmiha.com^
+||mfymrypcirm.com^
 ||mfynwrbjbbybm.site^
 ||mfzijmmmuiibz.website^
 ||mgbftodwqaujv.website^
@@ -53830,6 +53831,7 @@ browsershots.org#@#.advert_area
 ||vttooqksrnhun.rocks^
 ||vtuowmzjyyavc.site^
 ||vtuqviwcbeuhr.site^
+||vtxcwfiaiucur.website^
 ||vtxnfezsswgbq.website^
 ||vu-kgxwyxpr.online^
 ||vuainqkmjdiqp.site^
@@ -53955,6 +53957,7 @@ browsershots.org#@#.advert_area
 ||vyshuddphvxka.store^
 ||vytjbahlkcmwn.space^
 ||vytkxcvmdzgbj.online^
+||vytpdqiqwezti.website^
 ||vyuaolnqfgoas.store^
 ||vyvjoevkyeow.top^
 ||vyvjoevkyyal.top^
