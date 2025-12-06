@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512060144
+! Version: 202512060240
 ! Title: EasyList
-! Last modified: 06 Dec 2025 01:44 UTC
+! Last modified: 06 Dec 2025 02:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 71808c7f3efac049bae5a1ec7908be4b55e68663
+! Commit: 3b0371ae6f6db6dbff57fbbd5cf6b5755d3ccb41
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -26062,6 +26062,7 @@ browsershots.org#@#.advert_area
 ||ejamafoam.com^
 ||ejaxbjcsdmjwm.site^
 ||ejdkqclkzq.com^
+||ejdnxpvbmz.com^
 ||ejeerdapsuxurt.net^
 ||ejejyunqvzdfx.com^
 ||ejepontspwiip.website^
@@ -33361,6 +33362,7 @@ browsershots.org#@#.advert_area
 ||jmicdumecufvo.site^
 ||jmjkcpzkxhcyj.space^
 ||jmkllewpfhryg.space^
+||jmnimxckinsdz.website^
 ||jmnktmmkiitir.site^
 ||jmnxhygjdedjy.site^
 ||jmp-assets.com^
@@ -34721,6 +34723,7 @@ browsershots.org#@#.advert_area
 ||kyfgxnkkiozwf.site^
 ||kyglutumyqyoq.online^
 ||kygwbcvevmaoz.store^
+||kykopbijijpmsd.com^
 ||kylgonjyyhk.net^
 ||kyloyeelin.help^
 ||kymdogvcnyj.com^
@@ -35849,6 +35852,7 @@ browsershots.org#@#.advert_area
 ||lpftvmqzs.com^
 ||lpgouuzcqcfjz.site^
 ||lpkyvvkhljjib.site^
+||lpldihmevndql.space^
 ||lpmugcevks.com^
 ||lpnrteqncklwt.website^
 ||lppgwovqwhwpc.store^
@@ -35899,6 +35903,7 @@ browsershots.org#@#.advert_area
 ||lrcrochet.cfd^
 ||lrduojlvyzzta.website^
 ||lrecfjekpxcgq.today^
+||lrehscjldriaf.website^
 ||lreojktedisfu.store^
 ||lrfuyxrvcobgy.site^
 ||lrgtcnxdtzazf.website^
@@ -36144,6 +36149,7 @@ browsershots.org#@#.advert_area
 ||lxeamwnhcxb.net^
 ||lxeamwnhcxb.xyz^
 ||lxfqqxpgmofen.online^
+||lxhaxwqykukex.site^
 ||lxiapwwqfcbms.tech^
 ||lxkzcss.xyz^
 ||lxlmhhqtanmos.online^
@@ -48323,6 +48329,7 @@ browsershots.org#@#.advert_area
 ||sunningwytes.qpon^
 ||sunnitedestry.cyou^
 ||sunnshele.com^
+||sunnudceramic.qpon^
 ||sunny-membership.pro^
 ||sunny-source.pro^
 ||sunnyabstractpermanently.com^
