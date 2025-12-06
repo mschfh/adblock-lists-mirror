@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512062132
+! Version: 202512062220
 ! Title: EasyList
-! Last modified: 06 Dec 2025 21:32 UTC
+! Last modified: 06 Dec 2025 22:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e33aa884fc5b1cab7d155ca969ad60a1f43739e2
+! Commit: d41bdc6eda409e0713c58c225384f354ddd66c1b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18392,6 +18392,7 @@ browsershots.org#@#.advert_area
 ||apidata.info^
 ||apiecelee.com^
 ||apinucxdibooz.store^
+||apionolcohog.cyou^
 ||apirasutexruk.website^
 ||apkgzzdyyfvmh.online^
 ||apkyeimuizlax.space^
@@ -23694,6 +23695,7 @@ browsershots.org#@#.advert_area
 ||cxamupwxndqat.online^
 ||cxbogbmqugqqy.store^
 ||cxfbpspnezfak.online^
+||cxfoobfljqxcxqh.com^
 ||cxfzjbczatqgm.space^
 ||cxhbourj.net^
 ||cxidvoykswqjmt.net^
@@ -25759,6 +25761,7 @@ browsershots.org#@#.advert_area
 ||easysemblyjusti.info^
 ||easythedate-casual.com^
 ||eatcarvedfootprints.com^
+||eatdrfckjhpft.online^
 ||eatnlqrmbmky.com^
 ||eatvvxxcaszwi.space^
 ||eautifulasaweathercoc.org^
@@ -26950,6 +26953,7 @@ browsershots.org#@#.advert_area
 ||ewyjmkgvvtoxy.space^
 ||ewyvuznndlmrk.online^
 ||exacdn.com^
+||exactlyrutisland.com^
 ||exaggerating.makeup^
 ||exalateintort.help^
 ||exaltedgame.pro^
@@ -32694,6 +32698,7 @@ browsershots.org#@#.advert_area
 ||iramb.site^
 ||iranicwhigged.help^
 ||iranimayweed.cfd^
+||iratisspbczav.website^
 ||irclsopmebtqz.space^
 ||iredirect.net^
 ||irenealtogether.com^
@@ -33486,6 +33491,7 @@ browsershots.org#@#.advert_area
 ||jnvgvhkfkrgvp.site^
 ||jnvwjvpquelgr.website^
 ||jnxm2.com^
+||joacheglooleest.com^
 ||joafsitoftfeb.com^
 ||joagrafaiy.net^
 ||joalidetaveeco.net^
@@ -34691,6 +34697,7 @@ browsershots.org#@#.advert_area
 ||ktlasik.space^
 ||ktldjkvzcxpmv.online^
 ||ktnwsfisfbvjl.space^
+||ktperlnfnadgz.website^
 ||ktpyccaylwkmy.website^
 ||ktrgtteucxzzu.website^
 ||ktsnqchncbimr.space^
@@ -53943,6 +53950,7 @@ browsershots.org#@#.advert_area
 ||xcellojapanelmon.org^
 ||xcelsiusadserver.com^
 ||xceowhnigpiz.com^
+||xceumguutkryd.website^
 ||xceuzbaysacqp.global^
 ||xcgbnawkksl.com^
 ||xcgjguutlgknrqw.com^
@@ -54033,6 +54041,7 @@ browsershots.org#@#.advert_area
 ||xghasufeb.com^
 ||xghklnjmyljlc.site^
 ||xgiiioziwwayu.store^
+||xgkyprsxcizgc.online^
 ||xgnrtinmuczbe.website^
 ||xgolyqyfjuuwn.online^
 ||xgozhrjmwwgxf.site^
@@ -54669,6 +54678,7 @@ browsershots.org#@#.advert_area
 ||yhv4b1gye2r2je4zk18mkv6xi.rest^
 ||yhvochffddtun.website^
 ||yhwlqizqrewai.store^
+||yhyqyveprasyv.website^
 ||yibapaqndalsv.space^
 ||yibeksngkvrju.space^
 ||yibgeftopjk.com^
@@ -54774,6 +54784,7 @@ browsershots.org#@#.advert_area
 ||ymjpyeapkcoae.space^
 ||ymjwxocpguvgo.space^
 ||ymjwzofxrfjwc.space^
+||ymktdiewkuqfz.website^
 ||ymkxhfeluxhlf.site^
 ||ymmobi.com^
 ||ymmztxjktdirn.site^
