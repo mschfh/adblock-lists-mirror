@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512070109
+! Version: 202512070219
 ! Title: EasyList
-! Last modified: 07 Dec 2025 01:09 UTC
+! Last modified: 07 Dec 2025 02:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b94d76a3dda76622d57ff3d20e892562d7033bd9
+! Commit: 233314b4293589d56055a48d88a97ce60b854bcb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17839,6 +17839,7 @@ browsershots.org#@#.advert_area
 ||akfteothobqbk.space^
 ||akgayggphyceu.website^
 ||akgpoauxieivj.space^
+||akhghskywdfoz.website^
 ||akijk.life^
 ||akilifox.com^
 ||akindlecutaway.click^
@@ -18895,6 +18896,7 @@ browsershots.org#@#.advert_area
 ||atukawlaya.com^
 ||atvflrfukgiop.online^
 ||atwola.com^
+||atxgdrxvaahlm.com^
 ||atyoureatth.org^
 ||au2m8.com^
 ||aubsauwhault.net^
@@ -19594,6 +19596,7 @@ browsershots.org#@#.advert_area
 ||bbipawjflxpct.site^
 ||bbjqvwbdozgcf.site^
 ||bbmecmsuoamxk.space^
+||bbnzeefjcarmt.website^
 ||bboqtryjpdndp.online^
 ||bbpaakofsfydc.online^
 ||bbpbvyoziujgg.online^
@@ -20182,6 +20185,7 @@ browsershots.org#@#.advert_area
 ||bjakku.com^
 ||bjbugotqokj.com^
 ||bjchymxbdtywm.site^
+||bjckaxzddgubd.website^
 ||bjdgzffnutlqs.site^
 ||bjdsmnjybmjdl.site^
 ||bjekmleoupuht.space^
@@ -21427,6 +21431,7 @@ browsershots.org#@#.advert_area
 ||candlequestionableeffeminate.com^
 ||candlingrecords.com^
 ||candourglumes.click^
+||candsnift.com^
 ||candyai.love^
 ||candyaversion.com^
 ||candyhbodes.rest^
@@ -27720,6 +27725,7 @@ browsershots.org#@#.advert_area
 ||fisherenwound.click^
 ||fishingslaplobby.com^
 ||fishnetunbid.qpon^
+||fiskaqqjajwqv.website^
 ||fistevasionjoint.com^
 ||fitbiomie.com^
 ||fitchagleegiy.net^
@@ -28321,6 +28327,7 @@ browsershots.org#@#.advert_area
 ||frjrwixwogqjt.site^
 ||frmfpvhvdmeba.website^
 ||frmhktwjerprp.store^
+||frmirnvtgcgdu.online^
 ||frmmqfwviupoa.today^
 ||froaqldtuqssk.website^
 ||frockherbal.com^
@@ -28622,6 +28629,7 @@ browsershots.org#@#.advert_area
 ||fxmnba.com^
 ||fxmoulyw.xyz^
 ||fxorpwlszobqu.space^
+||fxqdpfmrfsgrz.site^
 ||fxqikdwtgabho.website^
 ||fxqixgyrslaqo.store^
 ||fxrokhvydhadu.website^
@@ -31648,6 +31656,7 @@ browsershots.org#@#.advert_area
 ||hyknzlikidbdf.website^
 ||hyldaxiyvidxg.online^
 ||hyloistramploreulytin.cfd^
+||hylrncjzgdtgi.site^
 ||hymenalmatinee.help^
 ||hymenicjobbing.qpon^
 ||hymmnexxf.net^
@@ -46628,6 +46637,7 @@ browsershots.org#@#.advert_area
 ||sippansy.com^
 ||sirdushi.xyz^
 ||sireundermineoperative.com^
+||sirisextatic.help^
 ||siseterral.qpon^
 ||sisfulylydevelope.com^
 ||sissingfiredog.cyou^
@@ -50725,6 +50735,7 @@ browsershots.org#@#.advert_area
 ||urialprespur.qpon^
 ||urimnugocfr.com^
 ||urinegracefulfloating.com^
+||urinousrisp.cfd^
 ||urkbgdfhuc.global^
 ||urkjnrkm.com^
 ||urldelivery.com^
@@ -51443,6 +51454,7 @@ browsershots.org#@#.advert_area
 ||vijkc.top^
 ||vikejacaufous.net^
 ||vilerebuffcontact.com^
+||vilifysykes.qpon^
 ||vilipyrenic.cfd^
 ||villagerhurricane.com^
 ||villagersymphonypilgrim.com^
@@ -54345,6 +54357,7 @@ browsershots.org#@#.advert_area
 ||yvotaacxzzvub.website^
 ||yvpswmiipjhni.life^
 ||yvqmxqzkurpim.website^
+||yvyquupzfhqkxg.com^
 ||yvzgazds6d.com^
 ||yvzpacgrjzrra.site^
 ||ywbdjttrvbfh.com^
@@ -54477,6 +54490,7 @@ browsershots.org#@#.advert_area
 ||zbuztpvgfghmu.space^
 ||zbvbmifryccxd.website^
 ||zbzfhmycnznbqu.com^
+||zcadqlurfhqgv.online^
 ||zcapieuheltue.store^
 ||zccamorykaexo.website^
 ||zccfnakbucamq.site^
