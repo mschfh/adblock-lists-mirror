@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512070645
+! Version: 202512070712
 ! Title: EasyList
-! Last modified: 07 Dec 2025 06:45 UTC
+! Last modified: 07 Dec 2025 07:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 10384a1dca8712b1eb7919f3ea96e64d2517e168
+! Commit: 4f4dada115f508332127abf4c8562356d57fd991
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -32030,6 +32030,7 @@ browsershots.org#@#.advert_area
 ||ijjnyauzmqxoq.website^
 ||ijkhwlcesqacw.site^
 ||ijmaacotton.help^
+||ijrcdofks.com^
 ||ijtlu.tech^
 ||ijvkoreofxyslt.com^
 ||ikahnruntx.com^
@@ -40933,6 +40934,7 @@ browsershots.org#@#.advert_area
 ||passwordssaturatepebble.com^
 ||pastaleafceiling.com^
 ||pastamia.help^
+||pastedict.com^
 ||pastel-hire.pro^
 ||pasteldrowsyaboriginal.com^
 ||pasteljav128.fun^
@@ -45355,6 +45357,7 @@ browsershots.org#@#.advert_area
 ||rtnews.pro^
 ||rtpmaotsw.xyz^
 ||rtrhit.com^
+||rtsesvdoiddxi.site^
 ||rtsmmmnqlyyga.site^
 ||rttufjwvkaphz.space^
 ||rtty.in^
@@ -46819,6 +46822,7 @@ browsershots.org#@#.advert_area
 ||slavesthy.com^
 ||slavesubmarinebribery.com^
 ||slavicfarth.qpon^
+||slawhomager.com^
 ||slayingbritska.shop^
 ||slayingbugeyes.com^
 ||slbfsmqfxjbtv.space^
@@ -50369,6 +50373,7 @@ browsershots.org#@#.advert_area
 ||unattr.com^
 ||unattractiveamazingly.com^
 ||unaviantabu.cfd^
+||unaware-bend.pro^
 ||unawareburn.com^
 ||unawarepozzy.cfd^
 ||unbaledcry.cyou^
