@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512080108
+! Version: 202512080141
 ! Title: EasyList
-! Last modified: 08 Dec 2025 01:08 UTC
+! Last modified: 08 Dec 2025 01:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 61b3356fbea324c97be35f089ff11ec79161a8c1
+! Commit: d2d9bef073aa45688ab63830fac80e678484fa16
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -26608,6 +26608,7 @@ browsershots.org#@#.advert_area
 ||eotaioa.xyz^
 ||eov9nolzlp1qr7.cfd^
 ||eoveukrnme.org^
+||eowdedvtujftf.site^
 ||eoysqqkytnloe.site^
 ||epacash.com^
 ||epacridmatzoth.click^
@@ -31506,6 +31507,7 @@ browsershots.org#@#.advert_area
 ||hrkjgepefndrh.site^
 ||hrknqbbxmyvyo.site^
 ||hrkrchivgjase.online^
+||hrlexpewdratn.space^
 ||hrmdw8da.net^
 ||hrogrpee.de^
 ||hrqecm0d.xyz^
@@ -37591,6 +37593,7 @@ browsershots.org#@#.advert_area
 ||mondainunholy.world^
 ||mondialirked.qpon^
 ||mondosloaches.cyou^
+||moneey.christmas^
 ||moneraltilting.com^
 ||monetag.com^
 ||monetarysportystamp.com^
@@ -38716,6 +38719,7 @@ browsershots.org#@#.advert_area
 ||nidfipgitrdhj.space^
 ||niecesprivilegelimelight.com^
 ||niecesweep.com^
+||nifebsuksy.net^
 ||nifty-pie.com^
 ||niftydistribution.pro^
 ||nigellafemora.rest^
@@ -38735,6 +38739,7 @@ browsershots.org#@#.advert_area
 ||nijwsltnfgnuveu.xyz^
 ||nikkiexxxads.com^
 ||nikqxlrmmxang.online^
+||nillingsmell.cfd^
 ||nilroobsoachoa.net^
 ||nimbicanduc.help^
 ||nimble-way.pro^
