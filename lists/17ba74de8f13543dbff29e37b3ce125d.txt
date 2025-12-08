@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512080920
+! Version: 202512080945
 ! Title: EasyList
-! Last modified: 08 Dec 2025 09:20 UTC
+! Last modified: 08 Dec 2025 09:45 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1a2f0c8bc95b2ce0c5c9fef64173a01680fef3dd
+! Commit: c808b60dc97802e6304b51a199fa56571c286f23
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29736,6 +29736,7 @@ browsershots.org#@#.advert_area
 ||gookregrown.help^
 ||gooloeboonpia.com^
 ||goomaphy.com^
+||goorootripy.click^
 ||goosebomb.com^
 ||goosierappetit.com^
 ||goourl.me^
@@ -33276,6 +33277,7 @@ browsershots.org#@#.advert_area
 ||jdffnmwlirmg.com^
 ||jdfrqcqxzkjlr.space^
 ||jdfxtlykcmrly.online^
+||jdghsqvxmcrzi.space^
 ||jdgjddsjoyqqm.online^
 ||jdhxvjrildzjt.site^
 ||jdisbyzitokgt.website^
@@ -41177,6 +41179,7 @@ browsershots.org#@#.advert_area
 ||pawniesoothe.help^
 ||pawsjest.com^
 ||pawsleapedfishy.com^
+||paxiubaconchs.shop^
 ||paxmedia.net^
 ||paxsfiss.com^
 ||paxxfiss.com^
@@ -44631,6 +44634,7 @@ browsershots.org#@#.advert_area
 ||religionscammerbusinessmen.com^
 ||religsoohong.click^
 ||relinedbicker.help^
+||relineschithe.help^
 ||relinkcutitis.qpon^
 ||relishdistractedegypt.com^
 ||relishsinew.com^
