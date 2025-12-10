@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512100330
+! Version: 202512100357
 ! Title: EasyList
-! Last modified: 10 Dec 2025 03:30 UTC
+! Last modified: 10 Dec 2025 03:57 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f2ad5ae254ac24893b81cb3226491cd3863ce9a6
+! Commit: f956462dc9816fe8979ca7cc7b754fee9daa7f99
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18421,6 +18421,7 @@ browsershots.org#@#.advert_area
 ||apeqdbvtbocth.website^
 ||apercusbayok.rest^
 ||apertsorrowy.help^
+||aperysked.com^
 ||apetalycrazily.cfd^
 ||apexbhoosa.world^
 ||apexneedful.com^
@@ -24400,6 +24401,7 @@ browsershots.org#@#.advert_area
 ||degradeaccusationshrink.com^
 ||degreewhether.com^
 ||dehortaghas.help^
+||deiadqajiotyo.com^
 ||deicidetwos.com^
 ||deifyfrypans.qpon^
 ||deilghtfuidate.net^
@@ -29203,6 +29205,7 @@ browsershots.org#@#.advert_area
 ||gecoqbrhnqrog.online^
 ||gedcucuyo.cyou^
 ||gedoqsylr.xyz^
+||geepakoapsohe.net^
 ||geerahvitial.shop^
 ||geesoaptomu.net^
 ||geethemaushaupa.net^
@@ -44469,6 +44472,7 @@ browsershots.org#@#.advert_area
 ||ranseursnapped.cfd^
 ||ranulasfriarly.rest^
 ||ranxeajgztdgo.space^
+||raoqsxotweorm.online^
 ||raordukinarilyhuk.com^
 ||raosmeac.net^
 ||rapacityoutnumbersunglasses.com^
@@ -47054,6 +47058,7 @@ browsershots.org#@#.advert_area
 ||shoorsoassep.net^
 ||shooterconjure.com^
 ||shooterofficially.com^
+||shopboyreminds.com^
 ||shopfulclench.life^
 ||shopmonthtravel.com^
 ||shoppedannuli.help^
@@ -51012,6 +51017,7 @@ browsershots.org#@#.advert_area
 ||umzkjponcxpvn.online^
 ||umzwmufdxrcrf.site^
 ||unaces.com^
+||unactkiosk.com^
 ||unactperdy.shop^
 ||unakinloggin.com^
 ||unalikeamparo.click^
