@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512121037
+! Version: 202512121115
 ! Title: EasyList
-! Last modified: 12 Dec 2025 10:37 UTC
+! Last modified: 12 Dec 2025 11:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b4876ecea1dc1b38ec7d516f4bfce872a17b7f5b
+! Commit: 566cf1d062035843ba373a40a64dd5a684b2a2a2
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21654,6 +21654,7 @@ browsershots.org#@#.advert_area
 ||cantingpropels.click^
 ||canyonconsultation.com^
 ||canzosdropman.cyou^
+||canzoskralnags.cyou^
 ||caokvepcdzeha.site^
 ||caoled.com^
 ||caoymjqpsflnb.space^
@@ -25171,6 +25172,7 @@ browsershots.org#@#.advert_area
 ||dksdrigynodfs.com^
 ||dkswshap-3.online^
 ||dktclumdglhds.site^
+||dkvdiqccgxlydc.com^
 ||dkwiwhotwo.net^
 ||dkwiwhotwo.xyz^
 ||dkwqivqnuavfb.com^
@@ -39400,6 +39402,7 @@ browsershots.org#@#.advert_area
 ||nizarstream.xyz^
 ||nizationservanta.com^
 ||nizkwvaqczcxj.space^
+||nizpkqpgsenlu.space^
 ||nj2z5mnbevrrg5.rest^
 ||njatwiklklyae.site^
 ||njbwqxj34f51jo1.cfd^
@@ -39961,6 +39964,7 @@ browsershots.org#@#.advert_area
 ||nvifvfcbwkywo.website^
 ||nvjbv6ewhzlrgp3vg9n2uof2h9f986wl7nvy.rest^
 ||nvkpfyaubxuud.store^
+||nvlksszdvekse.space^
 ||nvlxvyzmbmixu.site^
 ||nvmoaiswiahab.website^
 ||nvmzibbvocydt.website^
@@ -54797,6 +54801,7 @@ browsershots.org#@#.advert_area
 ||xjrwxfdphc.com^
 ||xjurarsoqdinb.website^
 ||xjvuwqwmdwu.com^
+||xkakkewixszu.com^
 ||xkanzuqreeloy.store^
 ||xkhjonrijnvvy.online^
 ||xkihevzkxjtdq.website^
