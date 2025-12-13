@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512131936
+! Version: 202512132013
 ! Title: EasyList
-! Last modified: 13 Dec 2025 19:36 UTC
+! Last modified: 13 Dec 2025 20:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f37c509465443b0fe95ab826c34ae6b33cc5f65b
+! Commit: 68b1d40f3e9bd0aeec806bce5fb6a078bc5a3053
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17475,6 +17475,7 @@ browsershots.org#@#.advert_area
 ||aestheticpenitentdownright.com^
 ||aetvellt.net^
 ||aeucjiicbgosj.site^
+||aeuutffhexhbh.website^
 ||aeviagrieves.cfd^
 ||aexnljipwpbbi.site^
 ||aeym37jp.xyz^
@@ -29344,6 +29345,7 @@ browsershots.org#@#.advert_area
 ||gantotireofhisl.com^
 ||gapcontroversialprodigal.com^
 ||gaptooju.net^
+||gaqfzadvpkxiu.website^
 ||gaqjhqjowwygp.site^
 ||gaqsemtsjcxu.xyz^
 ||garawibestial.shop^
@@ -31105,6 +31107,7 @@ browsershots.org#@#.advert_area
 ||harmlessshake.com^
 ||harmlesstranquilizer.com^
 ||harmo-woe.com^
+||harmoniouspartner.pro^
 ||harmoniouspolice.pro^
 ||harpsglyc.life^
 ||harrenmedianetwork.com^
@@ -52423,6 +52426,7 @@ browsershots.org#@#.advert_area
 ||uvoryaubr.net^
 ||uvpwmzjuncdty.space^
 ||uvrggpvzkobmx.store^
+||uvsmqinah.com^
 ||uvsvljawmqxik.space^
 ||uvtbfriwugkhn.store^
 ||uvuawvcjpiyzt.online^
