@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512130423
+! Version: 202512130513
 ! Title: EasyList
-! Last modified: 13 Dec 2025 04:23 UTC
+! Last modified: 13 Dec 2025 05:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a13f2a2dd7832e49e5a61801465a218e4123c653
+! Commit: 6ee3a9e4bde6e444dd741202acea6afca27919b7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20098,6 +20098,7 @@ browsershots.org#@#.advert_area
 ||bewaterterebra.qpon^
 ||bewgfbytrstaz.space^
 ||bewhidare.com^
+||bewhigmessan.rest^
 ||bewhoudacheen.net^
 ||bewitched-display.pro^
 ||bewitched-resort.pro^
@@ -21232,6 +21233,7 @@ browsershots.org#@#.advert_area
 ||bujerdaz.com^
 ||bukmravwfgcwh.online^
 ||bukusukses.com^
+||bulderuganda.help^
 ||bulgingextraordinary.com^
 ||bulginglair.com^
 ||bulgingreact.com^
@@ -21613,6 +21615,7 @@ browsershots.org#@#.advert_area
 ||caltertangintin.com^
 ||calvali.com^
 ||calverdeutzia.help^
+||calvitypuistie.click^
 ||cam-maus.info^
 ||camads.net^
 ||camaurokalium.qpon^
@@ -29198,6 +29201,7 @@ browsershots.org#@#.advert_area
 ||gadslimz.com^
 ||gadspms.com^
 ||gadspmz.com^
+||gaeawoodmen.qpon^
 ||gaelwvtomjmbm.store^
 ||gaendashers.help^
 ||gafioraqw.xyz^
@@ -32671,6 +32675,7 @@ browsershots.org#@#.advert_area
 ||illinformed-imagination.com^
 ||illinformedad.com^
 ||illogicalinvitationexaltation.com^
+||illumedprogram.shop^
 ||illuminateastonishing.com^
 ||illuminateinconveniencenutrient.com^
 ||illuminatelocks.com^
@@ -41187,6 +41192,7 @@ browsershots.org#@#.advert_area
 ||osfultrbriolenai.info^
 ||osgmkbbkzoajx.online^
 ||oshaisoalahoo.net^
+||oshdjsphqmezp.website^
 ||oshoopsouglovoh.net^
 ||osignaments.org^
 ||osignamentsw.org^
@@ -49667,6 +49673,7 @@ browsershots.org#@#.advert_area
 ||tarocanimism.cyou^
 ||tarokajar.qpon^
 ||tarotaffirm.com^
+||tarpeiaooh.cyou^
 ||tarpeiapilger.cyou^
 ||tarrowwauch.cyou^
 ||tarrybocking.qpon^
@@ -50381,6 +50388,7 @@ browsershots.org#@#.advert_area
 ||tlysearchingforanop.com^
 ||tm5kpprikka.com^
 ||tmb5trk.com^
+||tmbiounhsqufo.online^
 ||tmbsttvrgwmnc.space^
 ||tmbzzscswoyir.space^
 ||tmdsrbtmrnwxz.website^
@@ -50475,6 +50483,7 @@ browsershots.org#@#.advert_area
 ||toiletpaper.life^
 ||toilunfaithful.com^
 ||toioptqrfyztj.website^
+||tojulprspdpdvo.com^
 ||tokenads.com^
 ||toksoabokritsee.net^
 ||toksoudsoab.net^
@@ -53471,6 +53480,7 @@ browsershots.org#@#.advert_area
 ||waivespogonip.shop^
 ||wajwfczrrnywp.space^
 ||wakealibis.com^
+||wakesblingerbasket.cyou^
 ||wakonbhandar.shop^
 ||walletrelapse.com^
 ||wallieoutplod.cyou^
