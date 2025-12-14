@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512140221
+! Version: 202512140307
 ! Title: EasyList
-! Last modified: 14 Dec 2025 02:21 UTC
+! Last modified: 14 Dec 2025 03:07 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5ad22de6ea21c84ba13236b971d89599658891bc
+! Commit: 0185fb48f4c408b4f0600e55fbe0cc82e2dbe49f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15902,6 +15902,7 @@ browsershots.org#@#.advert_area
 ||360protected.com^
 ||360yield-basic.com^
 ||360yield.com^
+||363z2kmjju1u26x.rest^
 ||367p.com^
 ||3696a16444.com^
 ||36g9q2i9iu16yyv1.cfd^
@@ -26991,6 +26992,7 @@ browsershots.org#@#.advert_area
 ||enwgkdbgbzwil.online^
 ||enwomanskeich.cfd^
 ||enwombssighing.com^
+||enwovenlengestgoddess.cfd^
 ||eoaemmvtasnsi.online^
 ||eobwwthrt.com^
 ||eobysuugjotmw.space^
@@ -34723,6 +34725,7 @@ browsershots.org#@#.advert_area
 ||kabobduetsgypsine.cyou^
 ||kabulibipacks.cfd^
 ||kacjbclirfhsp.online^
+||kadecpiia.com^
 ||kadfaedmpjdki.space^
 ||kadime.cc^
 ||kaewutruyxfqa.online^
@@ -34884,6 +34887,7 @@ browsershots.org#@#.advert_area
 ||kebdnwepskuoe.website^
 ||kebyarsaron.rest^
 ||kecheluntie.cfd^
+||kechensokr.com^
 ||kedasensiblemot.com^
 ||kedasensiblemother.org^
 ||keddahbowlder.cfd^
@@ -39306,6 +39310,7 @@ browsershots.org#@#.advert_area
 ||nearestworkagitation.com^
 ||nearlynightingalebust.com^
 ||nearlyoffenderimpure.com^
+||nearmauby.cfd^
 ||nearonbosom.com^
 ||neat-period.com^
 ||neat-price.com^
@@ -42457,6 +42462,7 @@ browsershots.org#@#.advert_area
 ||pgpartner.com^
 ||pgqhgpffdxwci.online^
 ||pgrfpzlohsssh.online^
+||pgrvesxotrian.space^
 ||pgsmnaegntnkt.online^
 ||pgssl.com^
 ||pgwwumwejaops.website^
@@ -43873,6 +43879,7 @@ browsershots.org#@#.advert_area
 ||ptemsoaksol.net^
 ||ptephatauss.net^
 ||pterinhestern.world^
+||pteromaexterns.qpon^
 ||ptestofooltouts.net^
 ||ptetsoaversaphi.com^
 ||ptewegleecha.net^
@@ -46077,6 +46084,7 @@ browsershots.org#@#.advert_area
 ||richwebmedia.com^
 ||ricinicquinate.help^
 ||rickeyreds.click^
+||ricx6k7o24hfpit.cfd^
 ||riddamreserve.help^
 ||riddancemanufacturerextraction.com^
 ||riddancepants.com^
@@ -55488,6 +55496,7 @@ browsershots.org#@#.advert_area
 ||xwlketvkzf.com^
 ||xwlptajihmbkz.space^
 ||xwmcxqcxipcln.site^
+||xwowmgmlnzrsk.website^
 ||xwqea.com^
 ||xwqvytuiko.com^
 ||xwqxwfzhjsxom.space^
@@ -56243,6 +56252,7 @@ browsershots.org#@#.advert_area
 ||yzwtg89j.xyz^
 ||yzwtz.com^
 ||yzxbdzrnsyscx.rocks^
+||yzyjcjmsylgbv.site^
 ||yzzakfgemqbsj.site^
 ||z-eaazoov.top^
 ||z3lvljfrlyx6jrzw67tqgw49g4el5.cfd^
