@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512142110
+! Version: 202512142134
 ! Title: EasyList
-! Last modified: 14 Dec 2025 21:10 UTC
+! Last modified: 14 Dec 2025 21:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4c0fd885fc686fcfb814f41410cd3c7ee600f836
+! Commit: 88ce98198970d3e83724ae18b012fd5a1857c3b8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28398,6 +28398,7 @@ browsershots.org#@#.advert_area
 ||flairadscpc.com^
 ||flakinggraces.rest^
 ||flaky-comment.com^
+||flakybasket.pro^
 ||flamboyantdescription.com^
 ||flamboyantideal.pro^
 ||flamesgleamed.com^
@@ -35551,6 +35552,7 @@ browsershots.org#@#.advert_area
 ||kruaxite.help^
 ||krudavmbgnwrc.website^
 ||krufvabgd.com^
+||krumanremet.cfd^
 ||krumanunsmote.com^
 ||kryvidmqdmlnm.space^
 ||krzkasckoqvad.site^
@@ -47201,6 +47203,7 @@ browsershots.org#@#.advert_area
 ||santuao.xyz^
 ||sanynouncem.org^
 ||saopxppumifnp.online^
+||sapbushorgeats.qpon^
 ||sapientstirrup.cfd^
 ||sapiumknoll.qpon^
 ||sapmgtkvtoulm.space^
@@ -54373,6 +54376,7 @@ browsershots.org#@#.advert_area
 ||whiltaudsux.net^
 ||whimperhomelessillumination.com^
 ||whimrjrilyixu.site^
+||whimsical-desire.pro^
 ||whimsical-section.com^
 ||whimsicaladvice.com^
 ||whimsicalcoat.com^
@@ -56079,6 +56083,7 @@ browsershots.org#@#.advert_area
 ||ykpjgxxeoqk.com^
 ||ykrabkjoqurvl.online^
 ||ykrsorluybndt.website^
+||ykveifvdzadrl.online^
 ||ykvxdyipezupr.space^
 ||ykvxmphtwpxfz.online^
 ||ykwoclkfabviu.space^
