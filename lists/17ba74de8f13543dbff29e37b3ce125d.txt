@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512140307
+! Version: 202512140400
 ! Title: EasyList
-! Last modified: 14 Dec 2025 03:07 UTC
+! Last modified: 14 Dec 2025 04:00 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0185fb48f4c408b4f0600e55fbe0cc82e2dbe49f
+! Commit: fce88f4ddca69f43373136675a4685249c68d91b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18326,6 +18326,7 @@ browsershots.org#@#.advert_area
 ||angelaencouraging.com^
 ||angelesfoldingpatsy.com^
 ||angelichousing.pro^
+||angelicunioval.com^
 ||anglezinccompassionate.com^
 ||anglonacarat.click^
 ||angrilyanimatorcuddle.com^
@@ -26434,6 +26435,7 @@ browsershots.org#@#.advert_area
 ||efadfubcqalcr.club^
 ||efanyorgagetni.info^
 ||efdfb38a2a.com^
+||efewloqjyhwky.space^
 ||efeyaukqwlyticafr.com^
 ||effacedefend.com^
 ||effe2f62ae.com^
@@ -30973,6 +30975,7 @@ browsershots.org#@#.advert_area
 ||h958bvzbr2rfz4.rest^
 ||habirimodioli.com^
 ||habitattexture.com^
+||habituncropt.com^
 ||habkcewftv.net^
 ||habqmzidpscfc.site^
 ||habsqzkeeemjm.store^
@@ -45157,6 +45160,7 @@ browsershots.org#@#.advert_area
 ||rakefulpenoche.click^
 ||rakiblinger.com^
 ||rakishbrool.help^
+||rakishgabling.com^
 ||rakistylets.com^
 ||raksoagrew.net^
 ||ralhkgibukxcw.online^
@@ -49079,6 +49083,7 @@ browsershots.org#@#.advert_area
 ||steel-savings.com^
 ||steelreproach.com^
 ||steeltevushee.com^
+||steep-square.pro^
 ||steeplederivedinattentive.com^
 ||steeplereconciliation.com^
 ||steepoustailry.com^
@@ -56557,6 +56562,7 @@ browsershots.org#@#.advert_area
 ||zkzenlcagknfi.world^
 ||zlacraft.com^
 ||zlaosdshglcjt.space^
+||zlciuiresrami.website^
 ||zlczjbqofufmw.site^
 ||zlfwbeoodhctq.site^
 ||zlikzxdvkhans.website^
@@ -56689,6 +56695,7 @@ browsershots.org#@#.advert_area
 ||zovymjxylvknp.website^
 ||zoykzjajvjeez.top^
 ||zozvjoawtvxpi.online^
+||zp0o8pii.xyz^
 ||zpatfnmuzqfez.website^
 ||zpdexnmwltfqy.website^
 ||zpfmqfxgrtttb.icu^
@@ -56808,6 +56815,7 @@ browsershots.org#@#.advert_area
 ||zurlitefulvous.com^
 ||zusgorphsbeny.site^
 ||zuwufag.com^
+||zuwzbpyfhspqt.website^
 ||zuzezsdafjupl.online^
 ||zvbqvqbrwbaez.top^
 ||zvdkxhzpaslxe.online^
