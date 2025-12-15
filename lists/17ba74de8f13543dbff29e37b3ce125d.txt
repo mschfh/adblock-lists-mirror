@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512150520
+! Version: 202512150545
 ! Title: EasyList
-! Last modified: 15 Dec 2025 05:20 UTC
+! Last modified: 15 Dec 2025 05:45 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e65cf95cd31b08d0b49499acbd759e9a34b219f6
+! Commit: 098cdb75ae59071e2ef0003a48276d793da74bea
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25930,6 +25930,7 @@ browsershots.org#@#.advert_area
 ||duenschdgoplh.online^
 ||duetads.com^
 ||dufixen.com^
+||dufoilclarion.click^
 ||dufterferny.digital^
 ||dugksbcmvvxdf.site^
 ||dugrhmdlsdcop.website^
@@ -30698,6 +30699,7 @@ browsershots.org#@#.advert_area
 ||growling-can.pro^
 ||growlinginflation.pro^
 ||growlingpension.com^
+||grown-debate.pro^
 ||grown-inpp-code.com^
 ||grown-mouth.com^
 ||grownwrecking.com^
@@ -44731,6 +44733,7 @@ browsershots.org#@#.advert_area
 ||qinvaris.com^
 ||qiprhlxtkiomv.site^
 ||qipvfaoz.com^
+||qipwttthoqvzw.online^
 ||qiqmyoriizxtj.site^
 ||qiqzvhmpvfbxf.tech^
 ||qirbtkfgqdaug.website^
@@ -46245,6 +46248,7 @@ browsershots.org#@#.advert_area
 ||rhizotaspanule.world^
 ||rhjzfvhqgatuk.site^
 ||rhllmitjfxcvg.website^
+||rhlvubieyyyxi.online^
 ||rhnrzqbydtuxc.space^
 ||rhobqhafjhhwl.store^
 ||rhodespryler.digital^
