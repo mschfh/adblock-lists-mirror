@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512151117
+! Version: 202512151140
 ! Title: EasyList
-! Last modified: 15 Dec 2025 11:17 UTC
+! Last modified: 15 Dec 2025 11:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f7882ef6ebbc861594c7abf8108fe685f6a21ab1
+! Commit: 2980fe9b3cde860303ee47795bfd87ec32f2eb7c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -42220,6 +42220,7 @@ browsershots.org#@#.advert_area
 ||partners-show.com^
 ||partsroll.xyz^
 ||partycastes.shop^
+||partyjerk.com^
 ||partypartners.com^
 ||partyroll.xyz^
 ||parumal.com^
@@ -52018,6 +52019,7 @@ browsershots.org#@#.advert_area
 ||ugyokhycezstl.site^
 ||ugyppaqollegn.online^
 ||uhakhbbuuqanf.site^
+||uhauhqiuqbjoq.website^
 ||uhdgtnzuttvhb.online^
 ||uhdobftqarvye.space^
 ||uhdokoq5ocmk.com^
