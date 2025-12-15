@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512150444
+! Version: 202512150520
 ! Title: EasyList
-! Last modified: 15 Dec 2025 04:44 UTC
+! Last modified: 15 Dec 2025 05:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 89550ce3d07b864f32856d3a66890697c5a12f01
+! Commit: e65cf95cd31b08d0b49499acbd759e9a34b219f6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17892,6 +17892,7 @@ browsershots.org#@#.advert_area
 ||aj2635.bid^
 ||aj8a3f.com^
 ||ajacoehkzhvla.website^
+||ajar-instruction.pro^
 ||ajautchaissaur.net^
 ||ajcafpjuhur.xyz^
 ||ajdhawgchjuix.online^
@@ -20222,6 +20223,7 @@ browsershots.org#@#.advert_area
 ||bhbkvnpbvbrbv.site^
 ||bhcifkfrtccdt.online^
 ||bhcont.com^
+||bhcpkklclwjen.site^
 ||bhdaiujgxcxig.website^
 ||bhdghvvwhlct.xyz^
 ||bhfrnzxxcxhbn.store^
@@ -20639,6 +20641,7 @@ browsershots.org#@#.advert_area
 ||bmyrhroqelefw.space^
 ||bmzsmvkbnrcku.space^
 ||bn5x.net^
+||bnazadjumbaht.online^
 ||bnbgdqjurxsoo.site^
 ||bncloudfl.com^
 ||bncnezutqwndb.online^
@@ -36922,6 +36925,7 @@ browsershots.org#@#.advert_area
 ||lovesabey.click^
 ||lovescontactthemeetup.com^
 ||lovgykwxrsnqn.site^
+||loviersflitted.cyou^
 ||lovingassociate.com^
 ||lovingauthor.pro^
 ||lovingboulevard.com^
@@ -37124,6 +37128,7 @@ browsershots.org#@#.advert_area
 ||luhoacmokoah.net^
 ||luhoysvkxsewc.xyz^
 ||luhzoywwssycd.online^
+||luitecarane.click^
 ||luivcgmx.net^
 ||luizsycwgzmkg.website^
 ||lujuuwotjdyyu.store^
@@ -38930,6 +38935,7 @@ browsershots.org#@#.advert_area
 ||mubkemxsr.net^
 ||muchescrapped.rest^
 ||mucinrestful.cyou^
+||mucusronnels.qpon^
 ||mudacban.com^
 ||muddedfartlekfumify.cfd^
 ||muddishhagrode.help^
@@ -41777,6 +41783,7 @@ browsershots.org#@#.advert_area
 ||ovgpljyqpochn.store^
 ||ovhtuompscqaq.website^
 ||oviratoush.net^
+||ovjadxdcoad.com^
 ||ovkyjqwvvqosx.space^
 ||ovlwpnkiaxmdd.website^
 ||ovngwowapygbl.site^
@@ -47162,6 +47169,7 @@ browsershots.org#@#.advert_area
 ||safsdvc.com^
 ||saftsordes.shop^
 ||sagaciousexceptingrate.com^
+||sagapenforhale.cfd^
 ||sagbutsmonaul.cfd^
 ||sagcelebration.com^
 ||sagcoreedge.com^
@@ -51557,6 +51565,7 @@ browsershots.org#@#.advert_area
 ||tuhhfhswiabhz.space^
 ||tujlpraovjert.site^
 ||tujourda.net^
+||tukokyfck.com^
 ||tulclqxikva.icu^
 ||tulipssepntriglot.cyou^
 ||tulsmcvbuzvsk.website^
@@ -56682,6 +56691,7 @@ browsershots.org#@#.advert_area
 ||zel-zel-fie.com^
 ||zelllwrite.com^
 ||zelvlzqbhpnpo.online^
+||zemekw.cyou^
 ||zendplace.pro^
 ||zenkreka.com^
 ||zenoviagroup.com^
