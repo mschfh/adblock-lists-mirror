@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512161937
+! Version: 202512162017
 ! Title: EasyList
-! Last modified: 16 Dec 2025 19:37 UTC
+! Last modified: 16 Dec 2025 20:17 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d8b72ac9686e1260d2c4e85ff4fa8ef0ea563c55
+! Commit: efed3a0e1474fc732fc099ccf08dd8f1680e08dc
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23733,6 +23733,7 @@ browsershots.org#@#.advert_area
 ||crateoutring.click^
 ||craterpermission.com^
 ||cratesketole.cfd^
+||craurxxwkhbup.space^
 ||cravedlama.cyou^
 ||crawlcoxed.com^
 ||crawlinglandnameless.com^
@@ -30330,6 +30331,7 @@ browsershots.org#@#.advert_area
 ||gnazorian.help^
 ||gncesebtgiyeoot.net^
 ||gncpwpslcvlnb.site^
+||gnddthnvmzhdo.site^
 ||gnfwcrhdmmlku.store^
 ||gnhqbfhhocjpk.online^
 ||gniporuivhjos.space^
@@ -41907,6 +41909,7 @@ browsershots.org#@#.advert_area
 ||oungimuk.net^
 ||oungoptourd.net^
 ||ounsethoocmemoo.net^
+||ounsugodsee.com^
 ||oupaumul.net^
 ||oupgcgnevtqjm.site^
 ||ouphouch.com^
@@ -43227,6 +43230,7 @@ browsershots.org#@#.advert_area
 ||pjsos.xyz^
 ||pjvcbvjfrzniy.site^
 ||pjvnrhgklxcgb.xyz^
+||pjwjoutrnuy.com^
 ||pjwlgednp.com^
 ||pjxfugewuyxrc.store^
 ||pjxvqktztdcsz.online^
@@ -56173,6 +56177,7 @@ browsershots.org#@#.advert_area
 ||xucylxthpajss.site^
 ||xudpnwjiprcmy.site^
 ||xuenpasqvdt.net^
+||xugupbuxrfsgn.com^
 ||xukxbsbanmxsq.com^
 ||xulixnionnxrs.website^
 ||xulnvruig.net^
