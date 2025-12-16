@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512162036
+! Version: 202512162116
 ! Title: EasyList
-! Last modified: 16 Dec 2025 20:36 UTC
+! Last modified: 16 Dec 2025 21:16 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 49cb3d84eb8311f5d4eaaf5c1fc8d8f996702dd1
+! Commit: d3405366d7f06b2845368b5d80ff8b4c33f08d6f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19208,6 +19208,7 @@ browsershots.org#@#.advert_area
 ||auyuistnjvgmi.site^
 ||avads.co.uk^
 ||avads.live^
+||avahislouch.com^
 ||availableshove.com^
 ||avaithaupte.net^
 ||avaivouftiy.net^
@@ -21716,6 +21717,7 @@ browsershots.org#@#.advert_area
 ||cajjdntkkpg.com^
 ||cakerjuncous.cyou^
 ||cakesinventory.com^
+||cakespoison.xyz^
 ||cakikigoultaiga.net^
 ||cakmtqespaqrc.site^
 ||cakxqnasxkwnb.space^
@@ -22698,6 +22700,7 @@ browsershots.org#@#.advert_area
 ||cisticplanes.qpon^
 ||cistorigestae.shop^
 ||cistronbrasen.shop^
+||cistsbonus.shop^
 ||citadelexampleruckus.com^
 ||citadelpathstatue.com^
 ||citatumpity.com^
@@ -23841,6 +23844,7 @@ browsershots.org#@#.advert_area
 ||croplake.com^
 ||croppawitham.qpon^
 ||crorelumpily.digital^
+||crosbytranky.rest^
 ||crossbifolia.help^
 ||crossecopepod.help^
 ||crosspreferrite.com^
@@ -30408,6 +30412,7 @@ browsershots.org#@#.advert_area
 ||goegesdfnnewf.site^
 ||goeosittols.com^
 ||goetybesort.qpon^
+||gofm99mh9o99yj.rest^
 ||gogglechivari.cfd^
 ||gogglednaps.help^
 ||gogoga.xyz^
@@ -31153,6 +31158,7 @@ browsershots.org#@#.advert_area
 ||gygvcjaxkeqyv.space^
 ||gygvodegxicbv.love^
 ||gyipdlomyttqb.online^
+||gyjerttqiqokh.online^
 ||gylavpnvbaacd.online^
 ||gylor.xyz^
 ||gyluzaaglmzyd.site^
@@ -39413,6 +39419,7 @@ browsershots.org#@#.advert_area
 ||mylnvywrikxpt.online^
 ||mylot.com^
 ||mymatch.site^
+||mymexpsaqjzfj.site^
 ||mymukindwould.com^
 ||mynealpttfyoq.space^
 ||mynutraresearch.com^
@@ -42722,6 +42729,7 @@ browsershots.org#@#.advert_area
 ||pegmencranky.help^
 ||peiauruwboenq.com^
 ||peinmanto.qpon^
+||peinsnafu.rest^
 ||peisergondola.cfd^
 ||peisetoolers.com^
 ||peivwesshsygd.space^
@@ -42857,6 +42865,7 @@ browsershots.org#@#.advert_area
 ||pessimisticextra.com^
 ||pesteroverwork.com^
 ||pestilenttidefilth.org^
+||petalonalumish.qpon^
 ||petargumentswhirlpool.com^
 ||petchoub.com^
 ||petclkmadwazn.online^
@@ -43226,6 +43235,7 @@ browsershots.org#@#.advert_area
 ||pjmublecgilcr.space^
 ||pjnkltaayvde.xyz^
 ||pjom9pp463bwuznxnci.rest^
+||pjpp1x5gvy88l429z9ne4b.cfd^
 ||pjpworowzxmci.space^
 ||pjqchcfwtw.com^
 ||pjsos.xyz^
@@ -51164,6 +51174,7 @@ browsershots.org#@#.advert_area
 ||tkgkobgpcislx.store^
 ||tkiafjcina.com^
 ||tkiwpaapzl.com^
+||tkjhwprktqag.com^
 ||tkliwyxp.com^
 ||tklsrzklrtyqj.website^
 ||tklsxniuurtqa.online^
@@ -51968,6 +51979,7 @@ browsershots.org#@#.advert_area
 ||tunefatigueclarify.com^
 ||tunerpipile.rest^
 ||tuneupcant.com^
+||tuneupslbs.help^
 ||tungateoptics.help^
 ||tunitytostara.org^
 ||tunneljig.shop^
@@ -69563,6 +69575,7 @@ sammobile.com##.adRoot-loop-ad
 coloradotimesrecorder.com##.adSidebar
 golfdigest.com##.adSlot
 bramptonguardian.com##.adSlot___3IQ8M
+megamillions.com##.adSpace_desktop
 drive.com.au##.adSpacing-module-scss-module__5jWT7q__drive-ad-spacing
 drive.com.au##.adSpacing_drive-ad-spacing__HdaBg
 dailyo.in##.adWrapp
@@ -71344,6 +71357,7 @@ freespoke.com##.home-page-message
 merriam-webster.com##.home-redesign-ad
 israelnationalnews.com##.home-subsections-banner
 christianpost.com##.home-videoplayer
+megamillions.com##.homeAdBanner300x250
 freepressjournal.in##.homeMobileMiddleAdContainer
 newagebd.net##.homeSlideRightSecTwo
 jagranjosh.com##.homeSlider
