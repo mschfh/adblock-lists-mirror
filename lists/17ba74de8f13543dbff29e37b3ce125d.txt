@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512161851
+! Version: 202512161912
 ! Title: EasyList
-! Last modified: 16 Dec 2025 18:51 UTC
+! Last modified: 16 Dec 2025 19:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0cba9ff4dc38dd2f8243a3bbb178d4950dfc0040
+! Commit: c1f391466cc1083e04381af2c06fc6de99b7dbdd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28010,6 +28010,7 @@ browsershots.org#@#.advert_area
 ||fatalfear.pro^
 ||fatalimpurefuse.com^
 ||fatalityplatinumthing.com^
+||fatallydecresc.cfd^
 ||fatalshould.com^
 ||fatchilli.media^
 ||fatconstant.com^
@@ -43479,6 +43480,7 @@ browsershots.org#@#.advert_area
 ||pocketnudisms.cyou^
 ||pocketshighlyinquired.com^
 ||pocrd.cc^
+||poddockdwellsdollier.cfd^
 ||podefr2.net^
 ||poder.cloud^
 ||podosupsurge.com^
@@ -52854,6 +52856,7 @@ browsershots.org#@#.advert_area
 ||uolzpczobcxmn.online^
 ||uommyhvsmzozp.website^
 ||uooumilwtodnh.website^
+||uopehulpomctj.com^
 ||uopvpepvmrepe.website^
 ||uorksewkwesln.space^
 ||uoutube.com^
@@ -56171,6 +56174,7 @@ browsershots.org#@#.advert_area
 ||xukxbsbanmxsq.com^
 ||xulixnionnxrs.website^
 ||xulnvruig.net^
+||xulryfwligvot.site^
 ||xuodxvwao.com^
 ||xupmzrflnoedu.website^
 ||xurkvrrdbevqc.website^
