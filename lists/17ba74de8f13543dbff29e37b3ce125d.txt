@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512161912
+! Version: 202512161937
 ! Title: EasyList
-! Last modified: 16 Dec 2025 19:12 UTC
+! Last modified: 16 Dec 2025 19:37 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c1f391466cc1083e04381af2c06fc6de99b7dbdd
+! Commit: d8b72ac9686e1260d2c4e85ff4fa8ef0ea563c55
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22480,6 +22480,7 @@ browsershots.org#@#.advert_area
 ||chicks4date.com^
 ||chief-border.com^
 ||chiefindividual.com^
+||chieflydecorationtreasure.com^
 ||chiefrecovery.com^
 ||chieldspleurum.cyou^
 ||chiggerastrild.click^
@@ -53526,6 +53527,7 @@ browsershots.org#@#.advert_area
 ||venueitemmagic.com^
 ||venusfritter.com^
 ||veodccuvtympn.space^
+||veoojoomzrabz.top^
 ||veoojoomzrqwq.top^
 ||veopoluoxfvtc.online^
 ||veowxtdefs.com^
@@ -56594,6 +56596,7 @@ browsershots.org#@#.advert_area
 ||yjustingexcelele.org^
 ||yjwajohilqxia.online^
 ||yjwojvccdukua.site^
+||yjyjyzprctiln.site^
 ||yjzgncwwpcjve.online^
 ||yjzpeujnntjxp.online^
 ||ykaryzbamfvme.site^
@@ -57306,6 +57309,7 @@ browsershots.org#@#.advert_area
 ||zkzenlcagknfi.world^
 ||zlacraft.com^
 ||zlaosdshglcjt.space^
+||zlazgneif.com^
 ||zlciuiresrami.website^
 ||zlczjbqofufmw.site^
 ||zlfwbeoodhctq.site^
