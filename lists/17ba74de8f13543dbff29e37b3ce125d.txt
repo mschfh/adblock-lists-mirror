@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512172042
+! Version: 202512172114
 ! Title: EasyList
-! Last modified: 17 Dec 2025 20:42 UTC
+! Last modified: 17 Dec 2025 21:14 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7d194cfd4752d42d87d9df62bbc1443b31ef7679
+! Commit: 57b2ea4737445fd59c46bbf9b4530d364c2abcbc
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22573,6 +22573,7 @@ browsershots.org#@#.advert_area
 ||chitsougli.net^
 ||chivalrouscalmlymexican.com^
 ||chiveraccede.com^
+||chiverblinger.cyou^
 ||chivnrrupntrz.online^
 ||chizzorlage.click^
 ||chjesusdgbfgl.website^
@@ -24843,6 +24844,7 @@ browsershots.org#@#.advert_area
 ||delicious-national.pro^
 ||deliciousdaredowen.com^
 ||delightful-gain.com^
+||delightfulreputation.pro^
 ||delightpowerful.com^
 ||deliman.net^
 ||delinesmeeked.help^
@@ -39150,6 +39152,7 @@ browsershots.org#@#.advert_area
 ||mpnjigsicbtas.site^
 ||mpnoyjbqtyfht.love^
 ||mpnrs.com^
+||mpnvbwjjb.com^
 ||mppiorwmiggdo.space^
 ||mpqffeqcnyzwx.site^
 ||mpraidmupfb.com^
@@ -51498,6 +51501,7 @@ browsershots.org#@#.advert_area
 ||toequiet.website^
 ||toffiespheeal.life^
 ||tofinaukncecafv.org^
+||toforeyest.cyou^
 ||tofowosseedsee.com^
 ||toftmenmurre.qpon^
 ||togenron.com^
@@ -53356,6 +53360,7 @@ browsershots.org#@#.advert_area
 ||uuwqagukgxy.net^
 ||uuwxffprpaaas.website^
 ||uuxgtmgrxflig.store^
+||uuzjbjlxpdtap.online^
 ||uvalaummps.cyou^
 ||uvegvbggvfthr.online^
 ||uvfnhhyoyd.xyz^
@@ -55102,6 +55107,7 @@ browsershots.org#@#.advert_area
 ||whepsoughaloomp.net^
 ||wheqqqro.net^
 ||where-to.shop^
+||whereasangloid.click^
 ||wherebywhatsoeverduck.com^
 ||whewhikrokartou.net^
 ||wheyishbuckoes.cyou^
@@ -57918,6 +57924,7 @@ browsershots.org#@#.advert_area
 ||zyxbltkkgkmon.site^
 ||zyyt-tevos.click^
 ||zyzimjopitrvj.online^
+||zyzqkbkeyqbyo.top^
 ||zyzqkbkeyqlrb.top^
 ||zzezyorgyravn.store^
 ||zzfikyawmqtmw.website^
