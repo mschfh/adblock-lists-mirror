@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512170647
+! Version: 202512170718
 ! Title: EasyList
-! Last modified: 17 Dec 2025 06:47 UTC
+! Last modified: 17 Dec 2025 07:18 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2fe294f34ef19688b7962a63d5ad134a60b7b975
+! Commit: 3361d8d60f39d428ab1cb0d7fec9fca0bf643919
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -34452,6 +34452,7 @@ browsershots.org#@#.advert_area
 ||jipvtxdxtrnsh.website^
 ||jiquezkmdgqny.website^
 ||jiraisansezap.net^
+||jisotyiwx.com^
 ||jitanvlw.com^
 ||jitgibmibpayc.online^
 ||jitneurpanther.click^
@@ -41050,6 +41051,7 @@ browsershots.org#@#.advert_area
 ||octroizombis.cfd^
 ||octuortogaed.cyou^
 ||ocvrulo.digital^
+||ocwapouhwpoqy.site^
 ||ocwutmrfbsrwy.store^
 ||ocxelruljrn.xyz^
 ||ocxhcjgaozxqe.space^
@@ -41097,6 +41099,7 @@ browsershots.org#@#.advert_area
 ||oecdupuvlbvjs.space^
 ||oefkgdcjhxquc.space^
 ||oegigehd.com^
+||oegzpclqdlaup.space^
 ||oeibagiwhfltb.site^
 ||oeicqhzlvnlpc.online^
 ||oekdtzbnmkxkm.online^
@@ -47559,6 +47562,7 @@ browsershots.org#@#.advert_area
 ||sacdnssedge.com^
 ||sacgsgtawtzb.com^
 ||sachemtody.help^
+||saciandebarsanto.cfd^
 ||sackbagjampan.rest^
 ||sackedphil.com^
 ||sackenjacob.qpon^
