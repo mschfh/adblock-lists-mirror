@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512170916
+! Version: 202512170948
 ! Title: EasyList
-! Last modified: 17 Dec 2025 09:16 UTC
+! Last modified: 17 Dec 2025 09:48 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9def8550912d28cab7880578f2955ccd11799958
+! Commit: 2b0407398cf56529fecdad58e3769d0ec8234bba
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20848,6 +20848,7 @@ browsershots.org#@#.advert_area
 ||bongacams11.com^
 ||bongacams7.com^
 ||bonifycakes.click^
+||bonifylap.help^
 ||bonksmooth.cyou^
 ||bonmazkmflejk.site^
 ||bonnespawner.qpon^
@@ -25685,6 +25686,7 @@ browsershots.org#@#.advert_area
 ||dorhawkunamoerth.cyou^
 ||dorinechiefer.help^
 ||dormantmagueys.top^
+||dormsdivisa.cyou^
 ||dornickconduce.qpon^
 ||dorserhypnum.qpon^
 ||dorsulachiplet.com^
@@ -31523,6 +31525,7 @@ browsershots.org#@#.advert_area
 ||hbcusdwpikskh.online^
 ||hbfdhkdeaatch.space^
 ||hbgtcfzuizxjf.site^
+||hbgtfiaswkdam.site^
 ||hbhgvhgc.cfd^
 ||hbhood.com^
 ||hbhpjolxaizkz.online^
@@ -32856,6 +32859,7 @@ browsershots.org#@#.advert_area
 ||icouwxyvxifwx.online^
 ||icowhojcnqnuz.space^
 ||icqnrmtxstbio.space^
+||icqpgnbeifefi.website^
 ||icubeswire.co^
 ||iculpiumiyznp.space^
 ||icwmsalkqywyp.fun^
@@ -49794,6 +49798,7 @@ browsershots.org#@#.advert_area
 ||step-step-go.com^
 ||stepkeydo.com^
 ||stepmothermultiplydust.com^
+||stepnav.cyou^
 ||steppesequence.com^
 ||steppevareuse.cyou^
 ||stereemain.net^
