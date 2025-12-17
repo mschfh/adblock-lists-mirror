@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512170235
+! Version: 202512170322
 ! Title: EasyList
-! Last modified: 17 Dec 2025 02:35 UTC
+! Last modified: 17 Dec 2025 03:22 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 922923db83204848d97be96dd00c10c18b4c8856
+! Commit: 1b32bad1eb2505ef897e500f4266f7154aa14f46
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22033,6 +22033,7 @@ browsershots.org#@#.advert_area
 ||cbro.win^
 ||cbtxlvpoczxxr.space^
 ||cbvnzczrbcjoq.online^
+||cbx5wqzk6qrir4.cfd^
 ||cbxxfascjrdjm.space^
 ||cc-dt.com^
 ||cc33b86bbf.com^
@@ -29775,6 +29776,7 @@ browsershots.org#@#.advert_area
 ||gdxgfldzzovjr.space^
 ||gdxgshylwnpnt.online^
 ||gdyidjfdievbd.net^
+||ge5l1c128nipy8rteiorc7qlhnt6e3o.rest^
 ||geancoshers.cyou^
 ||geaqfpjgrhbyo.space^
 ||geargrope.com^
@@ -30292,6 +30294,7 @@ browsershots.org#@#.advert_area
 ||glowingnews.com^
 ||glowparegal.cfd^
 ||gloytrkb.com^
+||glpfhoupkukdld.com^
 ||glpgbcoht.com^
 ||glqomjkpepqam.site^
 ||glqsxlvrhuxba.love^
@@ -34268,6 +34271,7 @@ browsershots.org#@#.advert_area
 ||jecyn.com^
 ||jedirtatchaum.net^
 ||jedlint.cyou^
+||jeebuneeraulee.net^
 ||jeecouthie.cyou^
 ||jeedubacouw.com^
 ||jeejujou.net^
@@ -35330,6 +35334,7 @@ browsershots.org#@#.advert_area
 ||kfeiovrksdezl.online^
 ||kfesymenamzyz.online^
 ||kffnjkvxbhyzl.vip^
+||kfhbgrsqetbvp.online^
 ||kfjhd.com^
 ||kfjwapsftuxtw.online^
 ||kfkewuaghmbfm.website^
@@ -37108,6 +37113,7 @@ browsershots.org#@#.advert_area
 ||loovermanga.qpon^
 ||loowhoapoody.net^
 ||loowhujoom.net^
+||loowlwkdskrwk.website^
 ||looyxgecxj.com^
 ||lopsided-king.pro^
 ||lopsideddebate.com^
@@ -38943,6 +38949,7 @@ browsershots.org#@#.advert_area
 ||morgdm.ru^
 ||morgueevaluation.com^
 ||morguetribute.com^
+||moriscofaciend.cfd^
 ||mormyratones.shop^
 ||mormyregrackle.help^
 ||morningstraws.com^
@@ -50578,6 +50585,7 @@ browsershots.org#@#.advert_area
 ||tavlomikyionr.website^
 ||tawhizlirtzo.com^
 ||tawpellets.click^
+||tawvjbafngwrm.online^
 ||taxdifferenceinvestor.com^
 ||taximenforwelk.cyou^
 ||taxinenaives.cfd^
@@ -56111,6 +56119,7 @@ browsershots.org#@#.advert_area
 ||xoilactvcj.cc^
 ||xolfzsxmgswqt.site^
 ||xomipvdmpzbik.online^
+||xomncrmsiluf.com^
 ||xoniwltrsxgot.site^
 ||xoofjgbtvkzjf.store^
 ||xoojebxoyzves.online^
