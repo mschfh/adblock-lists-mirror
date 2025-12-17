@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512171046
+! Version: 202512171119
 ! Title: EasyList
-! Last modified: 17 Dec 2025 10:46 UTC
+! Last modified: 17 Dec 2025 11:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: dcdd9fd63ee98fc173088b56c4ec8aa5061c6dc9
+! Commit: 19fcfa81c7f2f0dc5f7dccd8d9956b4f3b6d2f1e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17663,6 +17663,7 @@ browsershots.org#@#.advert_area
 ||agbfgatnhzdeb.online^
 ||agcdn.com^
 ||agdoewhybofgr.site^
+||agedequipment.pro^
 ||agedvalue.pro^
 ||agedycsmjwbtt.website^
 ||ageevjvw.net^
@@ -17973,6 +17974,7 @@ browsershots.org#@#.advert_area
 ||akinwrecking.com^
 ||akjfsoqhcjjpx.store^
 ||akjqasjvydlid.space^
+||akkaltzakjib.com^
 ||akkrehaeb.xyz^
 ||akkuuvarsofxj.site^
 ||akkvxysfyvhvp.online^
@@ -20751,6 +20753,7 @@ browsershots.org#@#.advert_area
 ||boapteebaida.net^
 ||boarderheronry.help^
 ||boardhisisa.org^
+||boardingstocking.com^
 ||boardpress-b.online^
 ||boarshrubforemost.com^
 ||boaststockingsaucer.com^
@@ -21702,6 +21705,7 @@ browsershots.org#@#.advert_area
 ||cachuadirked.top^
 ||cackingpaps.rest^
 ||cacklegrievingtank.com^
+||cacklescassons.click^
 ||cackoorsoltin.net^
 ||cactusheadroomscaling.com^
 ||cadazypgstyas.space^
@@ -33590,6 +33594,7 @@ browsershots.org#@#.advert_area
 ||intentanalysis.com^
 ||intentionalintention.com^
 ||intentionproof.com^
+||intentionscommitsubtle.com^
 ||intentionscommunity.com^
 ||interbasepicturespostman.com^
 ||interclics.com^
@@ -46161,6 +46166,7 @@ browsershots.org#@#.advert_area
 ||redrootacuter.com^
 ||redrotou.net^
 ||redshieldcar.com^
+||reducedoverturn.com^
 ||reducedretrievalelemental.com^
 ||reducingwailingspirit.com^
 ||reductqueachy.shop^
@@ -52346,6 +52352,7 @@ browsershots.org#@#.advert_area
 ||uberantcommon.rest^
 ||ubfjexqqmfcvot.net^
 ||ubfokqqlwcggb.space^
+||ubgipeuavgxskm.com^
 ||ubgneblgrosii.site^
 ||ubhoryjlvjfux.website^
 ||ubiepvmfdzkhx.online^
@@ -54505,6 +54512,7 @@ browsershots.org#@#.advert_area
 ||waggonerchildrensurly.com^
 ||waggonertributeshaky.com^
 ||wagrifoazoa.net^
+||wagsad.com^
 ||wahoha.com^
 ||wahsyfmtw.com^
 ||wahtotten.com^
@@ -56266,6 +56274,7 @@ browsershots.org#@#.advert_area
 ||xrxmxnukqfnud.website^
 ||xrznrtxbswpuk.space^
 ||xsapykbbsdm.net^
+||xsaycjhjnwtwk.site^
 ||xsbjtmzcpqlst.space^
 ||xsbrzsgqspkwz.site^
 ||xsbzjmhvigahe.space^
@@ -56577,6 +56586,7 @@ browsershots.org#@#.advert_area
 ||ycqsozlszqmdr.website^
 ||yctoqjnhqoyzw.space^
 ||ycujxlhfxchwi.space^
+||ycuqsfstnqztg.online^
 ||ycvlvgcuaxtem.website^
 ||ycvrixvbepvvys.com^
 ||ycwaqlnpzlvkw.store^
