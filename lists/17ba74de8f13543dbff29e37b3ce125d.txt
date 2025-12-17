@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512170145
+! Version: 202512170235
 ! Title: EasyList
-! Last modified: 17 Dec 2025 01:45 UTC
+! Last modified: 17 Dec 2025 02:35 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9cf043daa531d3906d24d35f6290d25e5b13dc28
+! Commit: 922923db83204848d97be96dd00c10c18b4c8856
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19508,6 +19508,7 @@ browsershots.org#@#.advert_area
 ||azygotesonless.com^
 ||azygouspolian.qpon^
 ||azzncoswof.com^
+||azzodmwhcozgo.site^
 ||azzxoefggcsuo.website^
 ||b-m.xyz^
 ||b02byun5xc3s.com^
@@ -19684,6 +19685,7 @@ browsershots.org#@#.advert_area
 ||bangalaorrhoid.com^
 ||bangedcarajo.help^
 ||bangtyranclank.com^
+||banhjcjvgvwxw.online^
 ||banhq.com^
 ||banisterslisp.com^
 ||bankerconcludeshare.com^
@@ -22366,6 +22368,7 @@ browsershots.org#@#.advert_area
 ||changatulip.world^
 ||changeable1x.xyz^
 ||changejav128.fun^
+||changepowder.xyz^
 ||changuvoub.net^
 ||chantysubking.cyou^
 ||chapbizone.click^
@@ -30341,6 +30344,7 @@ browsershots.org#@#.advert_area
 ||gmpustyzebuow.store^
 ||gmsizwxqspypi.space^
 ||gmuaxwtphy.com^
+||gmwmnbopsfb.com^
 ||gmxdyrieikifv.store^
 ||gmxes.com^
 ||gmxvmvptfm.com^
@@ -32103,6 +32107,7 @@ browsershots.org#@#.advert_area
 ||hoagiesgaleoid.cyou^
 ||hoaliglaushoo.com^
 ||hoamoajoapsu.net^
+||hoanhngbkquky.site^
 ||hoanoola.net^
 ||hoapsoumaipt.net^
 ||hoarishcaucho.cyou^
@@ -54520,6 +54525,7 @@ browsershots.org#@#.advert_area
 ||washingchew.com^
 ||washingoccasionally.com^
 ||washiscourtship.com^
+||washragoutpeal.rest^
 ||wasp-182b.com^
 ||waspilysagene.com^
 ||waspnaut.cfd^

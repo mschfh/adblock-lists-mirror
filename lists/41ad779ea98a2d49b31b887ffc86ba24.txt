@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dUvl3IO4ARkR0Rh1S/n4OQ
-! Version: 202512170042
+! Checksum: KvuwwHOQYX6StY/G+zgCCw
+! Version: 202512170142
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-12-17 00:42 UTC
+! Last modified: 2025-12-17 01:42 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1826,6 +1826,7 @@ forbes.com##fbs-ad
 celebified.com##footer
 digitalrev.com,makeagif.com,post-gazette.com,tldrlegal.com##uvTab
 ! Self-promo Ads
+ms.now###GLOBAL_POPUP__container
 opb.org###OPB-slideup
 therealnews.com###XCSCGNVU
 progressive.org###XHMSPXWS
@@ -37020,6 +37021,7 @@ ademus.eu,callingfans.com,creators.deepfake.com,nappy.co##.showBanner
 nikkei.com##.show_s1oy9cxe
 maxtena.com##.showcookiedialog
 tarot.com##.shown
+pornhub.com##.sideAds
 thedrum.com##.signup-cta__fixed
 sim-networks.com##.sim-cookies-popup
 dendrite.ai,subspace.money##.simple-cookie-widget
