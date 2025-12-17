@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: phe8E+E5ky3Yn2Z+n/ysEQ
-! Version: 202512162342
+! Checksum: dUvl3IO4ARkR0Rh1S/n4OQ
+! Version: 202512170042
 ! Title: Fanboy's Annoyance List
-! Last modified: 2025-12-16 23:42 UTC
+! Last modified: 2025-12-17 00:42 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -15218,6 +15218,7 @@ alarabiya.net##.google-news-callout
 glassalmanac.com##.google-news-card
 cybernews.com,sammobile.com##.google-news-cta
 9to5google.com,9to5mac.com,9to5toys.com,dronedj.com,spaceexplored.com##.google-preferred-source-badge
+restofworld.org##.google-preferred-v1
 coinpedia.org##.google_news-space
 techadvisor.com##.google_news_button
 auto.hindustantimes.com##.googlenewfollowidget
