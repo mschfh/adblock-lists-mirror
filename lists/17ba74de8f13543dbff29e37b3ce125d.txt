@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512181318
+! Version: 202512181351
 ! Title: EasyList
-! Last modified: 18 Dec 2025 13:18 UTC
+! Last modified: 18 Dec 2025 13:51 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2ae8ad7aa499b941c45340fb90eb2fae0d3a6d7c
+! Commit: 67a8d69949eea1c494627b8be44dde69f9636348
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18593,6 +18593,7 @@ browsershots.org#@#.advert_area
 ||apozemzebrule.com^
 ||app-momentum.com^
 ||appads.com^
+||appalechomped.qpon^
 ||apparelimposter.com^
 ||apparwheres.com^
 ||appaumehak.help^
@@ -32276,6 +32277,7 @@ browsershots.org#@#.advert_area
 ||hoglinooth.net^
 ||hoglinsu.com^
 ||hognuckouckie.net^
+||hogtiedhalawi.com^
 ||hoickpinyons.com^
 ||hoicksfq.xyz^
 ||hojggtnpfaqqr.online^
@@ -36596,6 +36598,7 @@ browsershots.org#@#.advert_area
 ||leepigroazo.net^
 ||leesaushoah.net^
 ||leetaipt.net^
+||leetsloligo.cfd^
 ||leevesheeham.net^
 ||leevgyrscisge.online^
 ||leezaowfwltok.website^
@@ -47272,6 +47275,7 @@ browsershots.org#@#.advert_area
 ||romantlcaffair.net^
 ||romil-jdd.com^
 ||romperspardesi.com^
+||romperssacatra.help^
 ||rompishvariola.com^
 ||romsxqicvnbvx.store^
 ||rondeldilates.cfd^
@@ -53568,6 +53572,7 @@ browsershots.org#@#.advert_area
 ||uwhevailoo.net^
 ||uwhothoofaci.net^
 ||uwjwcnddocx.net^
+||uwkxicztqhntk.space^
 ||uwmsywuekjbcr.site^
 ||uwnqfhnsmveti.icu^
 ||uwnytpkxxpueh.club^
