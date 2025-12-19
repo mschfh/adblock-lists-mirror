@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512191619
+! Version: 202512191647
 ! Title: EasyList
-! Last modified: 19 Dec 2025 16:19 UTC
+! Last modified: 19 Dec 2025 16:47 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7aca719240378de6dec9ec3bf480df65c1653a92
+! Commit: 750678a6123e14c5b27bf73b173614d204a3e054
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -26056,6 +26056,7 @@ browsershots.org#@#.advert_area
 ||drowsyhagbolt.click^
 ||drsmediaexchange.com^
 ||drsmexa.xyz^
+||drstmldoazjnj.website^
 ||drtibnixidzrx.space^
 ||drtlgtrnqvnr.xyz^
 ||drtocjuhnpuyrgh.com^
@@ -29478,6 +29479,7 @@ browsershots.org#@#.advert_area
 ||fulxmfxvoqtq.com^
 ||fulyvaxscaucd.club^
 ||fumagespavine.com^
+||fumbling-box.pro^
 ||fumblingvacation.pro^
 ||fumczyxbebovu.online^
 ||fumestealwilfrid.com^
@@ -33127,6 +33129,7 @@ browsershots.org#@#.advert_area
 ||idopjhlwippgp.website^
 ||idorbicle.click^
 ||idorgandewcap.cyou^
+||idoteacorkier.qpon^
 ||idpgakrenkmki.store^
 ||idpjfsvpydrrq.website^
 ||idpvgjtqaiygt.space^
@@ -37221,6 +37224,7 @@ browsershots.org#@#.advert_area
 ||llojtocfiyxk.com^
 ||llozybojzojoq.top^
 ||llozybojzowlv.top^
+||llozybojzowrj.top^
 ||llpafxpscpnou.online^
 ||llpgphvdkxzky.site^
 ||llppkxnxmcnrd.online^
@@ -57965,6 +57969,7 @@ browsershots.org#@#.advert_area
 ||zggfoihyhdtxp.space^
 ||zghdautxlwvis.store^
 ||zgijtonvzgadk.online^
+||zgkowgslzqhir.online^
 ||zgnymibptufjb.site^
 ||zgrakgyhvqyzv.online^
 ||zgrnhlppjonj.com^
