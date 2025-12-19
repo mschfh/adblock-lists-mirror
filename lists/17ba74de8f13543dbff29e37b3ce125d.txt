@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512191350
+! Version: 202512191410
 ! Title: EasyList
-! Last modified: 19 Dec 2025 13:50 UTC
+! Last modified: 19 Dec 2025 14:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 54cedabae1a6958da803758658ea1456e759ef1c
+! Commit: afc725975cd972976cc84505f7271bdad696a8c4
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -36281,6 +36281,7 @@ browsershots.org#@#.advert_area
 ||kwtdaxwvabhrp.site^
 ||kwux-uudx.online^
 ||kwvnacswdmvzr.space^
+||kwwhoiojsjubt.online^
 ||kwxegvirgslwh.site^
 ||kwyoqlhshixgt.website^
 ||kwznjhbryqpho.website^
@@ -41216,6 +41217,7 @@ browsershots.org#@#.advert_area
 ||oaeauyefrqavz.website^
 ||oaehfjujxyflm.space^
 ||oaevgrhpiytej.website^
+||oaevognswjk.com^
 ||oaevvwccwrysd.site^
 ||oaglcwdhjcopy.website^
 ||oagooazlqgcpg.site^
@@ -41600,6 +41602,7 @@ browsershots.org#@#.advert_area
 ||ohejbszpvhswi.online^
 ||ohelsiroungaib.net^
 ||oheyffpqepntj.store^
+||ohfomiyhaok.com^
 ||ohgbefqegvejj.store^
 ||ohghhuqkxzsnu.online^
 ||ohgopfah.com^
@@ -50861,6 +50864,7 @@ browsershots.org#@#.advert_area
 ||sympatheticleague.com^
 ||sympatheticnerve.pro^
 ||sympathydistinguish.com^
+||synaxarconking.cfd^
 ||syncclickflow.com^
 ||synccora.com^
 ||syncedquarle.rest^
