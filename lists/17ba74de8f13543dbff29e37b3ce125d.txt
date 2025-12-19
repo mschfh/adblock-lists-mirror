@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512191112
+! Version: 202512191141
 ! Title: EasyList
-! Last modified: 19 Dec 2025 11:12 UTC
+! Last modified: 19 Dec 2025 11:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 31c1dbac105abe11a0b69195e9085c85f45cbd8f
+! Commit: 4a22fdd2bc1f8beba6bdf86673043f8068bcd7b6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -35321,6 +35321,7 @@ browsershots.org#@#.advert_area
 ||jzvfrz7miebgx46h7ii6r.cfd^
 ||jzwghlxfjnwks.website^
 ||jzxouwszeyhrq.online^
+||jzymidanl.com^
 ||jzzcyytskiojk.life^
 ||jzzvsmdbsjyju.website^
 ||k-oggwkhhxt.love^
@@ -37594,6 +37595,7 @@ browsershots.org#@#.advert_area
 ||lsbzzkonxksrw.site^
 ||lscudygcxiqnn.online^
 ||lsdkprkiwnnzy.site^
+||lsdvpuxuibeih.site^
 ||lsefpqchaizsv.site^
 ||lsiszlerwgure.store^
 ||lsjne.com^
@@ -41587,6 +41589,7 @@ browsershots.org#@#.advert_area
 ||ohelsiroungaib.net^
 ||oheyffpqepntj.store^
 ||ohgbefqegvejj.store^
+||ohghhuqkxzsnu.online^
 ||ohgopfah.com^
 ||ohgriforkvan.com^
 ||ohiaschavel.world^
@@ -41727,6 +41730,7 @@ browsershots.org#@#.advert_area
 ||olsefstqdpyvnq.com^
 ||olsmeroufuvzv.website^
 ||olvnvahpunhya.online^
+||olxokhjfaakx.com^
 ||olxonqfuwn.com^
 ||omahailion.digital^
 ||omatri.info^
@@ -43135,6 +43139,7 @@ browsershots.org#@#.advert_area
 ||peer39.net^
 ||peeragelevyne.com^
 ||peeredupseize.com^
+||peerlessqueensuccessfully.com^
 ||peesouglovoudah.net^
 ||peevesfellafraid.com^
 ||peevoopheve.net^
