@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512201015
+! Version: 202512201039
 ! Title: EasyList
-! Last modified: 20 Dec 2025 10:15 UTC
+! Last modified: 20 Dec 2025 10:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3d99ec10fd72221f9fda7a7e6402caaf12855dec
+! Commit: bb865006794663f65962a7bd6c35c5dbf141570a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -51709,6 +51709,7 @@ browsershots.org#@#.advert_area
 ||thornybeach.pro^
 ||thornyqueen.pro^
 ||thoroughloweromission.com^
+||thoroughlyblisterpelt.com^
 ||thoroughlyripepedigree.com^
 ||thorpdetract.rest^
 ||thorperandomaccounts.com^
@@ -55485,6 +55486,7 @@ browsershots.org#@#.advert_area
 ||wduwzaqhftslc.website^
 ||wdvefopvkkomvz.com^
 ||wdwadkgqylntz.space^
+||wdwdjwodpqjzm.site^
 ||wdxkvzttydxog.space^
 ||wdxuugjqeavzv.space^
 ||wdyynhcllupdc.online^
@@ -56603,6 +56605,7 @@ browsershots.org#@#.advert_area
 ||wyverncitralslosings.cyou^
 ||wyvgwkupgpdrd.website^
 ||wyvlllooaljlv.top^
+||wyvlllooallok.top^
 ||wyvlllooalwlj.top^
 ||wyvtoicgngifo.website^
 ||wywdtudphanbt.store^
@@ -57382,6 +57385,7 @@ browsershots.org#@#.advert_area
 ||ydvvzptycptlr.space^
 ||ydygwparjppsx.website^
 ||ydzivzuvmuwmy.space^
+||yearly-training.pro^
 ||yeastexisting.com^
 ||yeastfeukufund.org^
 ||yecytiqior.net^
