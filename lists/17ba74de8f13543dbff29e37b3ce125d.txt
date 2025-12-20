@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512200347
+! Version: 202512200421
 ! Title: EasyList
-! Last modified: 20 Dec 2025 03:47 UTC
+! Last modified: 20 Dec 2025 04:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ef17c51533bff260fedff8085d27281f3d2d82b6
+! Commit: f0a109fe29a5cfd7e156e90c2497ddaabd58ed07
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21902,6 +21902,7 @@ browsershots.org#@#.advert_area
 ||campelurches.cyou^
 ||campfirecroutondecorator.com^
 ||camplacecash.com^
+||campshatcher.com^
 ||camptrck.com^
 ||camptwined.com^
 ||cams.gratis^
@@ -23772,6 +23773,7 @@ browsershots.org#@#.advert_area
 ||cowageswyoming.help^
 ||cowanbespate.cyou^
 ||cowardlydefinite.com^
+||cowingokey.com^
 ||cowkmallow.cyou^
 ||cowpencinclis.com^
 ||coxbjncgqlqzu.online^
@@ -26130,6 +26132,7 @@ browsershots.org#@#.advert_area
 ||dseel9.com^
 ||dseudvepnmooe.net^
 ||dseveralmefarketi.com^
+||dsgmllmaad.com^
 ||dsgszujtdzlea.online^
 ||dsgtosabuqcil.website^
 ||dsiljgnplyejw.website^
@@ -38583,6 +38586,7 @@ browsershots.org#@#.advert_area
 ||mellatemyrica.qpon^
 ||mellodur.net^
 ||mellow-weird.com^
+||mellow-world.pro^
 ||melodic-mess.com^
 ||melodicproof.pro^
 ||melodramaticquery.com^
@@ -46037,6 +46041,7 @@ browsershots.org#@#.advert_area
 ||qveqvdlmxtunj.space^
 ||qvfixagtcnvfj.site^
 ||qvgatfcfdremf.website^
+||qvgckhladehsf.website^
 ||qvgfmbuxxbkhl.online^
 ||qvglxrsojnyaz.site^
 ||qvgmgjysbwpgb.website^
@@ -47179,6 +47184,7 @@ browsershots.org#@#.advert_area
 ||rhombicsomeday.com^
 ||rhonchifaujdar.qpon^
 ||rhosbetag.qpon^
+||rhouhvlqclqwk.online^
 ||rhousoasopersb.org^
 ||rhozzyhkonh.com^
 ||rhqhciwnsbtex.site^
@@ -51136,6 +51142,7 @@ browsershots.org#@#.advert_area
 ||tangible-season.pro^
 ||tangiblearroganceride.com^
 ||tangtuiazx.club^
+||tanjibclatter.com^
 ||tankerscentrer.shop^
 ||tankfangspain.com^
 ||tanothingfruiti.com^
@@ -51381,6 +51388,7 @@ browsershots.org#@#.advert_area
 ||tenddesigner.com^
 ||tendencyvalleysrod.com^
 ||tenderlybatch.com^
+||tenderstart.pro^
 ||tenkninghoder.com^
 ||tenorscarauna.cyou^
 ||tenrecgange.cfd^
