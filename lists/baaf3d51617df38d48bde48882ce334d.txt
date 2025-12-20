@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pwVSc+CDg7au140Yi8VejA
-! Version: 202512200150
+! Checksum: DKTFAzscjjJYO/DJTm+XZw
+! Version: 202512200850
 ! Title: Fanboy's Newsletter List
-! Last modified: 2025-12-20 01:50 UTC
+! Last modified: 2025-12-20 08:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5342,7 +5342,7 @@ alldayshirts.com###GeneralSaleBanner
 firstclasswatches.co.uk###OuiOverlay
 edikted.com###SMSBump-Modal
 mercato.com###ZipEmailModal
-hanes.com,shop.ordnancesurvey.co.uk###_lpSurveyPopover
+hanes.com,military1st.com,shop.ordnancesurvey.co.uk###_lpSurveyPopover
 celticwebmerchant.co.uk###abandonednewsletter
 gpulive.com###automizely_marketing_popup_bars
 misterworker.com###block_footer_custom
