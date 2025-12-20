@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512200939
+! Version: 202512201015
 ! Title: EasyList
-! Last modified: 20 Dec 2025 09:39 UTC
+! Last modified: 20 Dec 2025 10:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bce472260c79674f4246c767cab78006f67b8900
+! Commit: 3d99ec10fd72221f9fda7a7e6402caaf12855dec
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18826,6 +18826,7 @@ browsershots.org#@#.advert_area
 ||armorcatawba.help^
 ||armpitgratitudecruelty.com^
 ||armsgross.com^
+||armsnerveattestation.com^
 ||army.delivery^
 ||arnebcapella.rest^
 ||arnedtolethi.com^
@@ -21450,6 +21451,7 @@ browsershots.org#@#.advert_area
 ||buckingliards.rest^
 ||bucklechemistdensity.com^
 ||bucksbyland.shop^
+||bucksobsess.rest^
 ||buckumoore.com^
 ||buckweeklyrecording.com^
 ||buddledcurver.cyou^
@@ -24002,6 +24004,7 @@ browsershots.org#@#.advert_area
 ||croakglanceskier.com^
 ||crociguna.qpon^
 ||crockadilla.com^
+||crockedchhatri.rest^
 ||crockerydestructivespoken.com^
 ||crockeryrepay.com^
 ||crockuncomfortable.com^
@@ -47558,6 +47561,7 @@ browsershots.org#@#.advert_area
 ||rockingfolders.com^
 ||rockintentiondealing.com^
 ||rockmostbet.com^
+||rockyspoons.com^
 ||rocoads.com^
 ||rocorhwbprzlu.space^
 ||rocslungyi.help^
@@ -49377,6 +49381,7 @@ browsershots.org#@#.advert_area
 ||skgburylwylrv.online^
 ||skgpzivadwdte.buzz^
 ||skhhuhhualfxf.space^
+||skhtgdwpqqbrp.online^
 ||skibbytutin.rest^
 ||skibobsmyelon.rest^
 ||skiddootsine.qpon^
@@ -53028,6 +53033,7 @@ browsershots.org#@#.advert_area
 ||uby9w6k4vjyf8ebinxq8zmk7wyimi81fyl.cfd^
 ||ubyuughvqgkfc.online^
 ||ubyyxdgvfvhutsp.com^
+||ubzmzxtdosgdh.online^
 ||ucalirfghlthc.space^
 ||ucationininance.org^
 ||ucbpfdpnqigntqd.com^
@@ -55023,6 +55029,7 @@ browsershots.org#@#.advert_area
 ||vtxcwfiaiucur.website^
 ||vtxnfezsswgbq.website^
 ||vu-kgxwyxpr.online^
+||vuaffntpd.com^
 ||vuainqkmjdiqp.site^
 ||vudfewdchrhnj.online^
 ||vufaurgoojoats.net^
