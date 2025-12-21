@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512210212
+! Version: 202512210306
 ! Title: EasyList
-! Last modified: 21 Dec 2025 02:12 UTC
+! Last modified: 21 Dec 2025 03:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c6de908533f3c19c54888791b130b0351c8a8d0e
+! Commit: 58e01be5672ae3238d7d6b0ceb4682484b9bf458
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16750,6 +16750,7 @@ browsershots.org#@#.advert_area
 ||abkajbvlykeam.top^
 ||abkajbvlykemj.top^
 ||abkajbvlykkaa.top^
+||abkajbvlykvkr.top^
 ||abkajbvlymjor.top^
 ||abkxyinpiffsk.site^
 ||ablareharts.cyou^
@@ -26420,6 +26421,7 @@ browsershots.org#@#.advert_area
 ||dxqbrjwlmyyph.online^
 ||dxqqoctjgddts.space^
 ||dxqvjzovgicms.website^
+||dxsbkcsximcja.space^
 ||dxsvyhdrnpsom.online^
 ||dxtekvvuwgjsg.site^
 ||dxtv1.com^
@@ -37139,6 +37141,7 @@ browsershots.org#@#.advert_area
 ||lieforepawsado.com^
 ||liegelygosport.com^
 ||liepotikons.com^
+||lieugiros.shop^
 ||lievestcrasser.com^
 ||lif4wtefrkzho1.cfd^
 ||lifeboatlegalalleviate.com^
@@ -53852,6 +53855,7 @@ browsershots.org#@#.advert_area
 ||uod2quk646.com^
 ||uodywypnuvzwl.online^
 ||uoenkcbxwumqh.xyz^
+||uohsqzovikvyr.online^
 ||uohygjhhmwcco.site^
 ||uojlmgocfywmq.site^
 ||uojwlvqydwcaf.website^
@@ -54165,6 +54169,7 @@ browsershots.org#@#.advert_area
 ||uwauarphjaflw.website^
 ||uwbqwgzobxpqi.site^
 ||uwfsrubjqlibq.store^
+||uwgkkegilvrnqwu.com^
 ||uwhevailoo.net^
 ||uwhothoofaci.net^
 ||uwjwcnddocx.net^
@@ -70670,6 +70675,7 @@ citynews.ca##.ad-load
 cbc.ca##.ad-load-more
 mariopartylegacy.com##.ad-long
 olympics.com##.ad-margin-big
+consequence.net##.ad-min-height-600
 pixiv.net##.ad-mobile-anchor
 op.gg##.ad-mobile-unit
 houstonchronicle.com##.ad-module--ad--16cf1
