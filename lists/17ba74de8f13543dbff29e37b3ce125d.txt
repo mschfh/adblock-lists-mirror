@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512212312
+! Version: 202512212339
 ! Title: EasyList
-! Last modified: 21 Dec 2025 23:12 UTC
+! Last modified: 21 Dec 2025 23:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7d63b7618b897aa1b070eea7698eb8ecd4f9152d
+! Commit: eef751ad393607f058705843a9fbebe435a39166
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18338,6 +18338,7 @@ browsershots.org#@#.advert_area
 ||amlzndgkbicak.store^
 ||ammeossmalts.help^
 ||ammhmvurnghxn.space^
+||ammmkoaxz.com^
 ||ammonicdowsing.com^
 ||amnaprosthbfr.online^
 ||amnew.net^
@@ -30562,6 +30563,7 @@ browsershots.org#@#.advert_area
 ||glancedsecretion.com^
 ||glanceszippersyaird.cyou^
 ||glandlabel.com^
+||glapsedoochay.com^
 ||glariercubebs.shop^
 ||glaringregister.com^
 ||glaringsimple.pro^
@@ -46644,6 +46646,7 @@ browsershots.org#@#.advert_area
 ||raptrillawbook.cfd^
 ||raptripeessentially.com^
 ||raquettouser.click^
+||raragqsaqdti.com^
 ||rarausootsi.net^
 ||rare-mud.pro^
 ||rare-reveal.com^
@@ -48787,6 +48790,7 @@ browsershots.org#@#.advert_area
 ||sclateviduage.cfd^
 ||sclavspeiss.rest^
 ||sclimcertif.com^
+||scloluzwgfdvr.website^
 ||sclvnnorxiotv.site^
 ||scmdcnwdryjsic.net^
 ||scnd-tr.com^
@@ -49225,6 +49229,7 @@ browsershots.org#@#.advert_area
 ||sgfinery.com^
 ||sgfsdvc.com^
 ||sgftdcfhszswh.site^
+||sggsfejquvhak.site^
 ||sghbvhktcomrn.online^
 ||sglvpawubkl.com^
 ||sgnetwork.co^
@@ -49931,6 +49936,7 @@ browsershots.org#@#.advert_area
 ||smlfuxuadpsbw.space^
 ||smlinkhub.com^
 ||smljmp.com^
+||smlmszewhtcyd.site^
 ||smlrhjigyxnmt.website^
 ||smlypotr.net^
 ||smmivcxq.xyz^
