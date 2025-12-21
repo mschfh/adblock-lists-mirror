@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512211832
+! Version: 202512211913
 ! Title: EasyList
-! Last modified: 21 Dec 2025 18:32 UTC
+! Last modified: 21 Dec 2025 19:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 33c3d3a01cda609bc258cf0309f285e0fd324cbe
+! Commit: 4ae4d3fffd404d0ea1957358b924331bf80443ac
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21551,6 +21551,7 @@ browsershots.org#@#.advert_area
 ||builtinintriguingchained.com^
 ||buissonnigrous.cyou^
 ||bujerdaz.com^
+||bujgirjkejoay.website^
 ||bukmravwfgcwh.online^
 ||bukusukses.com^
 ||bulderuganda.help^
@@ -35679,6 +35680,7 @@ browsershots.org#@#.advert_area
 ||kavtqkbsyrpzt.site^
 ||kawcwtuxb.net^
 ||kawfulxh.com^
+||kawthrgsmelgn.online^
 ||kawtsayrnwyar.store^
 ||kaxgvngw.com^
 ||kaxtmrwgsmjkl.space^
@@ -53503,6 +53505,7 @@ browsershots.org#@#.advert_area
 ||uhedsplo.com^
 ||uhegarberetrof.com^
 ||uhfdsplo.com^
+||uhgkejndjghwpnm.com^
 ||uhhdkizbbjmmr.space^
 ||uhhhhvyezikfh.space^
 ||uhlomzqpdtduv.space^
@@ -57116,6 +57119,7 @@ browsershots.org#@#.advert_area
 ||xeqkxbzbubpdb.site^
 ||xerahhhwhpcey.online^
 ||xeroxcenses.qpon^
+||xeryrpncjplpr.com^
 ||xeuateppyqzcu.online^
 ||xeuesswygmuso.site^
 ||xf7yqet95ofl351.rest^
