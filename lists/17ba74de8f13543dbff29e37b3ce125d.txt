@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512202337
+! Version: 202512210042
 ! Title: EasyList
-! Last modified: 20 Dec 2025 23:37 UTC
+! Last modified: 21 Dec 2025 00:42 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0005d0a25985701bb1583121d975f8ebb3708f88
+! Commit: 3cf43bfffd2f4d7bbc203febee3556d1d7f17f05
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15774,6 +15774,7 @@ browsershots.org#@#.advert_area
 ||2aefgbf.de^
 ||2b178ee32a.com^
 ||2b8fa02c00.com^
+||2b91f59493.com^
 ||2ba0f6361c.com^
 ||2bc438vkkglijuu85uo.cfd^
 ||2bc533c900.com^
@@ -16987,6 +16988,7 @@ browsershots.org#@#.advert_area
 ||actpx.com^
 ||actressdoleful.com^
 ||actrkn.com^
+||actrwowlqxqkc.online^
 ||actscattydecode.com^
 ||actthrilled.com^
 ||acubbeamjtky.xyz^
@@ -21150,6 +21152,7 @@ browsershots.org#@#.advert_area
 ||boxtrones.qpon^
 ||boxwoodofter.rest^
 ||boxycupbearerjot.com^
+||boxyonztzzcos.site^
 ||boxypluckunrelated.com^
 ||boyaubegrime.cyou^
 ||boymagicdate.com^
@@ -21801,6 +21804,7 @@ browsershots.org#@#.advert_area
 ||c4ff1123f0.com^
 ||c526b6ac88.com^
 ||c55d4b9929.com^
+||c5acd666f8.com^
 ||c5vvthzxhmgtov.rest^
 ||c6073077cc.com^
 ||c607b31b1a.com^
@@ -35396,6 +35400,7 @@ browsershots.org#@#.advert_area
 ||jwdyjlafpkxkf.space^
 ||jweooxbmbrv.net^
 ||jwhfxnravgzft.space^
+||jwhintmzfv.com^
 ||jwiscipakoz.com^
 ||jwjcpzdprksgg.online^
 ||jwlqdjoy.com^
@@ -36418,6 +36423,7 @@ browsershots.org#@#.advert_area
 ||kvvpilxstphqz.space^
 ||kvvrumekpjnwy.store^
 ||kvwibtxllnpfw.space^
+||kvwomwujsiygcos.com^
 ||kvxjxbrsxhgw.xyz^
 ||kvyeerabknmjk.store^
 ||kvylquisaduxr.store^
@@ -37751,6 +37757,7 @@ browsershots.org#@#.advert_area
 ||lqzoyqvbjkjqy.top^
 ||lqzoyqvbjkzqm.top^
 ||lr-in.com^
+||lrbtqifeztnhq7u.cfd^
 ||lrcaxaztripcv.online^
 ||lrcrochet.cfd^
 ||lrduojlvyzzta.website^
@@ -39165,6 +39172,7 @@ browsershots.org#@#.advert_area
 ||mkqsbxtxdxtip.store^
 ||mkrjqphk.com^
 ||mkrplsblistuf.website^
+||mktpegodsltga.website^
 ||mkyagjguvkfguj.net^
 ||mkybbjaracrvh.online^
 ||mkyebumhdrhsg.store^
@@ -39643,6 +39651,7 @@ browsershots.org#@#.advert_area
 ||mqvijftiyzuig.online^
 ||mqwmiqyqvencj.website^
 ||mqxbtsawpuulc.store^
+||mqytqmqrqfuay.website^
 ||mqyyocimwg.xyz^
 ||mqzmpzvbvaojz.site^
 ||mr1niwcjhc2lpgqv1.cfd^
@@ -41635,6 +41644,7 @@ browsershots.org#@#.advert_area
 ||odemonstrat.pro^
 ||odeybruslekoq.website^
 ||odezskltptugf.online^
+||odfjihguhrm.com^
 ||odfuwbdguqkrj.site^
 ||odhdnbucgpwly.website^
 ||odi6.online^
@@ -46292,6 +46302,7 @@ browsershots.org#@#.advert_area
 ||qyoddqlbvzjvn.site^
 ||qyqvxtufskevk.site^
 ||qyromjlyvzlaz.top^
+||qyromjlyvzlov.top^
 ||qyromjlyvzwoj.top^
 ||qysruufmtjpvu.online^
 ||qyttlkcxwcztv.space^
@@ -47038,6 +47049,7 @@ browsershots.org#@#.advert_area
 ||reople.co.kr^
 ||reorganizeache.com^
 ||reorganizeglaze.com^
+||reorpzo49wt6vwon72q.rest^
 ||reoxwrcawzaeo.website^
 ||reoyxtulfpbamci.com^
 ||repantalsedighters.com^
@@ -51982,6 +51994,7 @@ browsershots.org#@#.advert_area
 ||tineidsreseeds.com^
 ||tinemanduring.cfd^
 ||tingefifortwaukth.org^
+||tingledthraws.qpon^
 ||tinkerwidth.com^
 ||tinletyearth.shop^
 ||tinnilybagdi.cfd^
