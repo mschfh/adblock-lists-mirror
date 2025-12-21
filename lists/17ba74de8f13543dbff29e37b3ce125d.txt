@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512211009
+! Version: 202512211040
 ! Title: EasyList
-! Last modified: 21 Dec 2025 10:09 UTC
+! Last modified: 21 Dec 2025 10:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: cbb196ae15c4c8178756c9a8ff148e37db737223
+! Commit: 6ac5a8f97a287ab48548ff149229e4abd3d0a26a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24768,6 +24768,7 @@ browsershots.org#@#.advert_area
 ||dba1bc1fdf.com^
 ||dbaeynvmogqjr.site^
 ||dbaforialygmw.website^
+||dbazcftxukqxs.online^
 ||dbdsuhykupobi.site^
 ||dberthformttete.com^
 ||dbgjsblkeulmq.online^
@@ -25670,6 +25671,7 @@ browsershots.org#@#.advert_area
 ||dkdgkkxqkpogauy.com^
 ||dkepsueazpneu.space^
 ||dkfkshfzzmxss.online^
+||dkfuetdfvsdmb.website^
 ||dkgsdarwbwi.xyz^
 ||dkijnrhdtlvdm.fun^
 ||dkipfdjvrlird.love^
@@ -34585,6 +34587,7 @@ browsershots.org#@#.advert_area
 ||jambartbkpr.help^
 ||jambosmodesty.com^
 ||jamez.site^
+||jamniategulae.rest^
 ||jamokepullers.shop^
 ||jampacked-cream.com^
 ||jampacked-depth.pro^
