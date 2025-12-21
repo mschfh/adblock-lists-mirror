@@ -4,7 +4,7 @@
 ! Homepage: https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters
 ! License: MIT; https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=LICENSE
 ! Last modified: 
-! Version: 4.2.6.3
+! Version: 4.2.6.6
 
 ! General
 
@@ -645,6 +645,7 @@ businesstoday.in##div#magazinePayWallStrip
 cardiologie-pratique.com##+js(ra, class, div.wrap-node, stay)
 cmcmarkets.com##+js(rc, activePaywall, .activePaywall)
 ||cnv-medien.de$inline-script
+||commercialobserver.com/wp-admin/admin-ajax.php$xmlhttprequest,~third-party
 connexionfrance.com##+js(cookie-remover, /^/)
 connexionfrance.com##div#subscribe-banner
 ||diariodonordeste.verdesmares.com.br/js/com.atex.gong.paywall.membership.js$script,~third-party
@@ -671,6 +672,7 @@ hartfordbusiness.com##div.paywall-container
 hcn.org##+js(ra, content, meta[name="UID"])
 heatmap.news##+js(ra, style, div.body-description, stay)
 heatmap.news##div.regwall-container
+hsfo.dk##+js(ra, class, div.article__parts--paywalled, stay)
 inman.com##+js(rc, paywalled-block, .paywalled-block)
 inman.com##+js(ra, class, div.entry-content-inner)
 inman.com##div.content-wrap > div:not([class]):style(margin: 5% !important)
@@ -678,7 +680,9 @@ inman.com##.ism-article-block
 ||cloudfront.net/imonkey-blog-*.min.js$script,domain=insidermonkey.com
 ipsoa.it##+js(ra, style, div.paywall)
 ||jerseyeveningpost.com$inline-script
-||jewishinsider.com/wp-content/themes/jewish-insider/js/owl.carousel.min.js$script,~third-party
+jewishinsider.com##+js(rc, paywalled-content, section.paywalled-content, stay)
+jewishinsider.com##+js(rc, whitePopup, body.whitePopup, stay)
+jewishinsider.com##div.regModalOuter
 ||jornaldocomercio.com/*/json/paywall.json$xmlhttprequest,~third-party
 jornaljoca.com.br##+js(acis, $, paywall)
 kommersant.ru##+js(rc, doc--regwall, article.doc--regwall, stay)
@@ -687,6 +691,7 @@ kunststoffe.de,qz-online.de##+js(ra, style, div[style^="filter: blur"], stay)
 kunststoffe.de,qz-online.de##dialog#paywall-dialog
 ||lapost.com$inline-script
 lapost.com##+js(ra, style, div.article-content, stay)
+||lataco.com/_next/*/%5B...slug*.js$script,~third-party
 ||lasvegasadvisor.com/opt/*.js$script,~third-party
 ||lasvegasadvisor.com/js/access.min.js$script,~third-party
 lavialibera.it##+js(ra, class, div.text-preview)
