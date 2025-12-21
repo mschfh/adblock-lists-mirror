@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512212208
+! Version: 202512212239
 ! Title: EasyList
-! Last modified: 21 Dec 2025 22:08 UTC
+! Last modified: 21 Dec 2025 22:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 81087370b46f7508dabdc6a1c48e9d0226750d51
+! Commit: e82d8800d6a1a22628d843ffdbd3b9baf5c0037a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -32304,6 +32304,7 @@ browsershots.org#@#.advert_area
 ||hidlessonana.com^
 ||hidwnatidokyl.online^
 ||hidxuqozdopk.com^
+||hidyiieqhuahn.website^
 ||hiedersirene.cfd^
 ||hifjpeydzocix.site^
 ||hifyfajnasttg.website^
@@ -34131,6 +34132,7 @@ browsershots.org#@#.advert_area
 ||inznbvtcgmfzn.store^
 ||io569cbzupr4913rixmkumwjc.rest^
 ||ioadserve.com^
+||iobswixghwftq.site^
 ||iodideeyebath.cam^
 ||iodideheroine.cfd^
 ||iodizedbuncher.cyou^
@@ -50598,6 +50600,7 @@ browsershots.org#@#.advert_area
 ||stagersprairie.cyou^
 ||stageseshoals.com^
 ||staggedjillion.qpon^
+||staggedsorrow.rest^
 ||staggereddam.com^
 ||staggeredravehospitality.com^
 ||staggerfashionedbite.com^
