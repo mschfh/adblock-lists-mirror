@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512220740
+! Version: 202512220821
 ! Title: EasyList
-! Last modified: 22 Dec 2025 07:40 UTC
+! Last modified: 22 Dec 2025 08:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f5c50d3a7f33635289704b588e57271a4991be69
+! Commit: 443dfb75d6310a7e2a4591278a7f9b9ffcfc4a56
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20220,6 +20220,7 @@ browsershots.org#@#.advert_area
 ||benevolentswallow.com^
 ||bengalifistify.cfd^
 ||beniluuxen.com^
+||benkjcvrjhcsu.com^
 ||bennesfavored.rest^
 ||bennetguarantee.com^
 ||benneunbrown.qpon^
@@ -24918,6 +24919,7 @@ browsershots.org#@#.advert_area
 ||deaqmkvrmhshh.site^
 ||dear-soil.com^
 ||dearesthydrogen.com^
+||dearestpromotion.pro^
 ||dearieappeach.shop^
 ||deashligulin.shop^
 ||deasilgrumps.world^
@@ -38166,6 +38168,7 @@ browsershots.org#@#.advert_area
 ||lvyvxkmvrjrul.online^
 ||lvzfm5ciqppfzq.cfd^
 ||lwbqhebumidbs.space^
+||lwcsuruxjeqgt.online^
 ||lwcwpryif.xyz^
 ||lwdblrksolqvt.store^
 ||lwdfqzckybcsl.online^
@@ -40730,6 +40733,7 @@ browsershots.org#@#.advert_area
 ||ngupfromavi.org^
 ||ngvaonunvjyrz.site^
 ||ngwdljgbshhof.site^
+||ngwfojiqtefsw.site^
 ||ngwgkhtdykzzz.online^
 ||ngxhkxcbdgefe.website^
 ||ngxvojbpnjtjv.space^
@@ -42080,6 +42084,7 @@ browsershots.org#@#.advert_area
 ||ojhu34vtryki9m5ojn8n2lqtejnuh4ruml.cfd^
 ||ojhyviykx.net^
 ||ojjbpxsbkxhmp.xyz^
+||ojldhncdcnrok.online^
 ||ojnwteuin.com^
 ||ojnzzwsshjjqn.website^
 ||ojokavacpkcjv.space^
@@ -43855,6 +43860,7 @@ browsershots.org#@#.advert_area
 ||pheloawaraijee.net^
 ||phempeeram.net^
 ||phewogungu.net^
+||phgddnjimcj.com^
 ||phgop1.com^
 ||phgxfdmwfcywu.site^
 ||phialedamende.com^
@@ -44316,6 +44322,7 @@ browsershots.org#@#.advert_area
 ||plumpercaxon.cyou^
 ||plumpnativeresound.com^
 ||plumpobstructionmortal.com^
+||plumpwishesprofessor.com^
 ||plumpytitians.cfd^
 ||plunderusagesplash.com^
 ||plungedantagonizemystic.com^
