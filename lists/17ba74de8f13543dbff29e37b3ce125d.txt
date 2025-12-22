@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512220920
+! Version: 202512220947
 ! Title: EasyList
-! Last modified: 22 Dec 2025 09:20 UTC
+! Last modified: 22 Dec 2025 09:47 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 18d89b0506c9893b32b58cfbb9587e24aaeb8b18
+! Commit: 6b00f0a4d2254973e55b788b31033e417316da53
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -50118,6 +50118,7 @@ browsershots.org#@#.advert_area
 ||snoopy-source.pro^
 ||snoopyworking.pro^
 ||snootrepipe.click^
+||snophrdwre.rest^
 ||snorkelzutugil.com^
 ||snortedbingo.com^
 ||snoutwastedeeply.com^
@@ -50985,6 +50986,7 @@ browsershots.org#@#.advert_area
 ||strangineersalyl.org^
 ||strangleentice.com^
 ||strangleslogan.com^
+||stratasaut.shop^
 ||strataview.co.in^
 ||strdmm.cc^
 ||streakdancingmantle.com^
@@ -54337,6 +54339,7 @@ browsershots.org#@#.advert_area
 ||urtzxcchcdzhw.space^
 ||uruevehood.shop^
 ||uruisgkhedas.shop^
+||urusessoot.qpon^
 ||urwvphdnwhdzl.site^
 ||urzdgpwphacny.site^
 ||us4post.com^
@@ -55381,6 +55384,7 @@ browsershots.org#@#.advert_area
 ||voovoacivoa.net^
 ||voozephiwithy.net^
 ||voozogletotou.net^
+||vopairsustoonie.net^
 ||vopddrdsxkeff.space^
 ||vopripwm.net^
 ||voqyaekfxyawho.com^
@@ -56930,6 +56934,7 @@ browsershots.org#@#.advert_area
 ||wrufer.com^
 ||wrvbilbuichsq.online^
 ||wrvxrwbqvnzdr.space^
+||wrwkkqbdldgwc.online^
 ||wrwwoyutmoeaq.website^
 ||wrxaycpjhpygc.space^
 ||wrxkrcwohkrvrf.com^
@@ -77235,7 +77240,8 @@ m.youtube.com##ytm-rich-item-renderer > ad-slot-renderer
 youtube.com##.grid.ytd-browse > #primary > .style-scope > .ytd-rich-grid-renderer > .ytd-rich-grid-renderer > .ytd-ad-slot-renderer
 youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-rich-item-renderer > .ytd-ad-slot-renderer.style-scope
 youtube.com##ytd-item-section-renderer > .ytd-item-section-renderer > ytd-ad-slot-renderer.style-scope
-! 
+! https://github.com/uBlockOrigin/uAssets/issues/31268
+katv.com,kfdm.com,komonews.com,ktul.com,wjla.com##.style_medTopAdsWrapper__rd6bz
 ! Site Specific filters (used with $generichide)
 thefreedictionary.com###Content_CA_AD_0_BC
 thefreedictionary.com###Content_CA_AD_1_BC
