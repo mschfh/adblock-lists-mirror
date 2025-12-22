@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512221019
+! Version: 202512221037
 ! Title: EasyList
-! Last modified: 22 Dec 2025 10:19 UTC
+! Last modified: 22 Dec 2025 10:37 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 93746abdcea9d41f24749377a9a42d74ae0074bf
+! Commit: 7574d51899c09bcb96847ea62d742c2347e660eb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -30647,6 +30647,7 @@ browsershots.org#@#.advert_area
 ||gleejoad.net^
 ||gleeltukaweetho.xyz^
 ||gleemsoadsooms.net^
+||gleenplants.com^
 ||gleensoubs.net^
 ||gleerdoacmockuy.xyz^
 ||glegegnikauphoo.net^
@@ -58651,6 +58652,7 @@ browsershots.org#@#.advert_area
 ||zeepartners.com^
 ||zeepoostey.net^
 ||zeeshith.net^
+||zefbjdepbqlyq.online^
 ||zegegtvsxpxcg.space^
 ||zeguklgrjilli.space^
 ||zehdhcjxiugss.online^
@@ -59033,6 +59035,7 @@ browsershots.org#@#.advert_area
 ||zsblxqxobdokg.online^
 ||zsdiadrsbvhwa.online^
 ||zsgkxypgptcpk.site^
+||zshjukefzjlcs.website^
 ||zsjvzsm-s.fun^
 ||zslmueggcjatn.website^
 ||zsmsbmowwrqvp.online^
