@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OdfW0RGJiky4942g+bNViw
-! Version: 202512202250
+! Checksum: YeWHQplI8xfjLhpYNuMqOg
+! Version: 202512222150
 ! Title: Fanboy's Newsletter List
-! Last modified: 2025-12-20 22:50 UTC
+! Last modified: 2025-12-22 21:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2330,6 +2330,7 @@ tnc.news##.ctct_form-2
 forbes.com.au##.curated-content-block__newsletter
 esportsawards.com##.current
 perfectdailygrind.com##.custom-a-banner
+quiverquant.com##.custom-banner-ad
 irishexaminer.com##.custom-functionality-newsletter
 8newsnow.com,news.uthscsa.edu##.custom-html-widget
 taylorswift.com##.custom-mailing-list
