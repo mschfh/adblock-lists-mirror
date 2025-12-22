@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512222317
+! Version: 202512222340
 ! Title: EasyList
-! Last modified: 22 Dec 2025 23:17 UTC
+! Last modified: 22 Dec 2025 23:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 850055315d2d13b8a65f3e1ed6a7d99872a52ad9
+! Commit: c2f4db054d3ef64d1951f4a6321e24a453e3e8fb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18043,6 +18043,7 @@ browsershots.org#@#.advert_area
 ||akehuhhzwtpzo.website^
 ||akfhexnpf.com^
 ||akfovwbrmflup.space^
+||akfstuwi.com^
 ||akfteothobqbk.space^
 ||akftqycehqivk.website^
 ||akgayggphyceu.website^
@@ -32046,6 +32047,7 @@ browsershots.org#@#.advert_area
 ||hbsbfstpks.com^
 ||hbudqnvaytwdc.world^
 ||hbutwehaveinour.com^
+||hbwighyhsubhz.online^
 ||hbwztfpirtboe.site^
 ||hbxhpqsociiwc.space^
 ||hbxpjlbmhffda.space^
@@ -51040,6 +51042,7 @@ browsershots.org#@#.advert_area
 ||stoampaliy.net^
 ||stoashou.net^
 ||stoastuckautsou.net^
+||stobpennine.com^
 ||stockaikseewaiz.net^
 ||stockingchancymagically.com^
 ||stockingsight.com^
