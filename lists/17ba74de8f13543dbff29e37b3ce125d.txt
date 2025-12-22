@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512220532
+! Version: 202512220618
 ! Title: EasyList
-! Last modified: 22 Dec 2025 05:32 UTC
+! Last modified: 22 Dec 2025 06:18 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 90dd9e28658a1f7829a706b08673589b3c30f0b5
+! Commit: c34172a147d9542e4826d379f0a499f879683cbc
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18322,6 +18322,7 @@ browsershots.org#@#.advert_area
 ||amendmentinsistdevotion.com^
 ||amendmentlakeinterim.com^
 ||amendpayola.cyou^
+||amendsthurle.qpon^
 ||amenismhollaed.cyou^
 ||amesgraduatel.xyz^
 ||ametheyallflewa.com^
@@ -19692,6 +19693,7 @@ browsershots.org#@#.advert_area
 ||b8pfulzbyj7h.com^
 ||b9e2865ec3.com^
 ||b9f26bbf80.com^
+||b9n1h1eribgp4zo6r.rest^
 ||ba61261c39.com^
 ||ba6174e1cd.com^
 ||ba69a24a2a.com^
@@ -26114,6 +26116,7 @@ browsershots.org#@#.advert_area
 ||drakerecitalpraised.com^
 ||dralintheirbrightscar.org^
 ||dramatic-swim.pro^
+||dramaticcontest.pro^
 ||dramaticdeterpulverize.com^
 ||dramaticharm.pro^
 ||dramaticmight.pro^
@@ -28893,6 +28896,7 @@ browsershots.org#@#.advert_area
 ||fjbkqyiczusib.website^
 ||fjdbcirkmkqpx.site^
 ||fjeamibbbhxuf.site^
+||fjfp55ko4leb9cbgbrzef.cfd^
 ||fjfpdjajzzymi.online^
 ||fjgnksqydotkc.net^
 ||fjgwwishotqppsu.xyz^
@@ -31944,6 +31948,7 @@ browsershots.org#@#.advert_area
 ||havessnoozy.cfd^
 ||havetestifyharriet.com^
 ||havingartistictastesn.org^
+||hawadkvjlrhi.xyz^
 ||hawkabsurd.com^
 ||hawkingtorvid.help^
 ||hawknutbiform.help^
@@ -46056,6 +46061,7 @@ browsershots.org#@#.advert_area
 ||qlbztvyadkhwk.website^
 ||qldbeprwgizvt.online^
 ||qleclfn236ul3rh32v.cfd^
+||qleszbwkiuztc.site^
 ||qlfqkjluvz.com^
 ||qlgggpbrssyxq.online^
 ||qlheptjsvwnrr.space^
@@ -48145,6 +48151,7 @@ browsershots.org#@#.advert_area
 ||rqyjlkojuohpv.online^
 ||rqykyzjfwyjbu.online^
 ||rqyouxwqzrayq.website^
+||rqzcuqeexmjgh.site^
 ||rrbfxjmpegzja.site^
 ||rrbzvmklrzoqy.top^
 ||rrbzvmklrzwmk.top^
@@ -51702,6 +51709,7 @@ browsershots.org#@#.advert_area
 ||tbgwyrxwtmfrh.site^
 ||tbimsmdlxsiam.website^
 ||tbjrtcoqldf.site^
+||tbnrleajkkq.com^
 ||tbnunoenoxnyi.site^
 ||tbogujbgj.net^
 ||tbomrnjwazblx.website^
@@ -56677,6 +56685,7 @@ browsershots.org#@#.advert_area
 ||wombierfloc.com^
 ||wombjingle.com^
 ||womenmoss.com^
+||wommerabumfskiwanis.cfd^
 ||woncherish.com^
 ||wondenthaitings.org^
 ||wonderblockoffer.com^
