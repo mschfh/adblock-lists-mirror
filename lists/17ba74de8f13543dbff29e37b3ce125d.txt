@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512222241
+! Version: 202512222317
 ! Title: EasyList
-! Last modified: 22 Dec 2025 22:41 UTC
+! Last modified: 22 Dec 2025 23:17 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 27892c38795703eacb0c797829ee73ec27f5da64
+! Commit: 850055315d2d13b8a65f3e1ed6a7d99872a52ad9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19795,6 +19795,7 @@ browsershots.org#@#.advert_area
 ||bakingbeheld.com^
 ||bakingsensitivenesswise.com^
 ||baklwjoyoatfv.site^
+||baksouchoax.com^
 ||bakteso.ru^
 ||balantpietas.help^
 ||balasesersatz.com^
@@ -20638,6 +20639,7 @@ browsershots.org#@#.advert_area
 ||bivvmhkimlqzq.store^
 ||biwxngkfvwejd.online^
 ||biyjqmadbjdyx.xyz^
+||bizbavogra.com^
 ||bizlhvylltftl.space^
 ||bizographics.com^
 ||bizonads-ssp.com^
@@ -36732,6 +36734,7 @@ browsershots.org#@#.advert_area
 ||kzihiewkrwxwg.space^
 ||kzjnuicskzmol.space^
 ||kzjwjclnpdrmy.online^
+||kzleiyqmmlydz.site^
 ||kzoixqlmnwtjg.space^
 ||kzprzseknkpmb.website^
 ||kzqjctpvdjmwc.store^
@@ -40117,6 +40120,7 @@ browsershots.org#@#.advert_area
 ||mushroomreclaimschnapps.com^
 ||mushroomskilledshapeless.com^
 ||mushy-dream.pro^
+||musicalsupposed.com^
 ||musicarbitrary.com^
 ||musicianfinnish.com^
 ||musicnote.info^
@@ -41395,6 +41399,7 @@ browsershots.org#@#.advert_area
 ||nskpofnthtjgu.net^
 ||nskyfqigltino.space^
 ||nsluapgqxevcq.space^
+||nslvhhlxm.com^
 ||nslvxkrowg.net^
 ||nsmakurrecuhk.website^
 ||nsmartad.com^
@@ -43125,6 +43130,7 @@ browsershots.org#@#.advert_area
 ||oxozonesubnude.help^
 ||oxrdktkaktdod.online^
 ||oxrzdqocyqzus.website^
+||oxstjmmbgenpw.website^
 ||oxsvddrogqvwm.website^
 ||oxszuserzpxrx.store^
 ||oxtracking.com^
@@ -46793,6 +46799,7 @@ browsershots.org#@#.advert_area
 ||rameshjarry.help^
 ||ramismrapide.rest^
 ||rammassbonasus.cyou^
+||rammieryewnitinol.cyou^
 ||rammishruinous.com^
 ||ramoseemetins.com^
 ||ramousturco.qpon^
@@ -49538,6 +49545,7 @@ browsershots.org#@#.advert_area
 ||sherifayoop.help^
 ||sheriffshruglow.com^
 ||sheshaburrah.rest^
+||sheskezsg.com^
 ||shesoeyajql.net^
 ||shespokheha.org^
 ||shetchesto.net^
@@ -58832,6 +58840,7 @@ browsershots.org#@#.advert_area
 ||zetoogosseepa.com^
 ||zeusadx.com^
 ||zevwkbzlbkyew.top^
+||zevwkbzlbkylb.top^
 ||zewesamessustee.net^
 ||zewkj.com^
 ||zeydoo.com^
