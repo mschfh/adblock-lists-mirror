@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512220947
+! Version: 202512221019
 ! Title: EasyList
-! Last modified: 22 Dec 2025 09:47 UTC
+! Last modified: 22 Dec 2025 10:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6b00f0a4d2254973e55b788b31033e417316da53
+! Commit: 93746abdcea9d41f24749377a9a42d74ae0074bf
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22737,6 +22737,7 @@ browsershots.org#@#.advert_area
 ||chiefindividual.com^
 ||chieflydecorationtreasure.com^
 ||chiefrecovery.com^
+||chielbyjupon.cyou^
 ||chieldspleurum.cyou^
 ||chiggerastrild.click^
 ||chigogloaweth.net^
@@ -38626,6 +38627,7 @@ browsershots.org#@#.advert_area
 ||matterssharplyraw.com^
 ||mattockpackall.com^
 ||mattoidtyned.click^
+||mattressskilfulwalnut.com^
 ||maturityneedlework.com^
 ||maturitynotebookmotion.com^
 ||maturityrigourwits.com^
@@ -48148,6 +48150,7 @@ browsershots.org#@#.advert_area
 ||rpts.org^
 ||rptzikhuyzsgy.website^
 ||rpvhxowckitodm.net^
+||rpwhtrtaovrg.com^
 ||rpxjlfxnegnlz.website^
 ||rpxorephfxdvm.site^
 ||rpxthifhxwznd.space^
@@ -53582,6 +53585,7 @@ browsershots.org#@#.advert_area
 ||uewe4x2e4nmqgcz6.cfd^
 ||uewhrvljpnkrw.site^
 ||ueykjfltxqsb.space^
+||ueyrlreolqnsh.com^
 ||uezbiytinfnyn.site^
 ||uf1t9www2p817v.cfd^
 ||ufaexpert.com^
@@ -56540,6 +56544,7 @@ browsershots.org#@#.advert_area
 ||wjiebpblheplc.site^
 ||wjkpvahoulqok.online^
 ||wjljwqbzjleek.top^
+||wjljwqbzjlezw.top^
 ||wjmepiytpjiki.website^
 ||wjmghujaluysu.online^
 ||wjmrvxezaj.com^
@@ -57899,6 +57904,7 @@ browsershots.org#@#.advert_area
 ||ydcimdgvglu.com^
 ||ydeyqndahrpry.online^
 ||ydiggeurkhusl.store^
+||yditdwjmuksnj.website^
 ||ydjplbbzkimzu.site^
 ||ydkxuqwwpzivm.space^
 ||ydljojrrjagbx.store^
@@ -58513,6 +58519,7 @@ browsershots.org#@#.advert_area
 ||zacleporis.com^
 ||zacnzkkkaufrb.online^
 ||zacoortautsougi.net^
+||zacqbzwthhuku.online^
 ||zacygnygluawn.site^
 ||zaevoqatiyylf.online^
 ||zagvee.com^
@@ -71949,11 +71956,11 @@ cnet.com##.c-asurionBottomBanner
 cnet.com##.c-asurionInteractiveBanner
 cnet.com##.c-asurionInteractiveBanner_wrapper
 newstalkzb.co.nz##.c-background
-bo3.gg##.c-baner-custom
-bo3.gg##.c-baner-partner-branding
 elnacional.cat##.c-banner
-bo3.gg##.c-banner-partner-top-manager
 truck1.eu##.c-banners
+bo3.gg##.c-benner1-custom
+bo3.gg##.c-benner1-partner-branding
+bo3.gg##.c-benner1-partner-top-manager
 euronews.com##.c-card-sponsor
 euroweeklynews.com##.c-inblog_ad
 thehustle.co##.c-layout--trends
