@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512230507
+! Version: 202512230533
 ! Title: EasyList
-! Last modified: 23 Dec 2025 05:07 UTC
+! Last modified: 23 Dec 2025 05:33 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0b7ee00a0ecb6bdb85c2cf6747d088b5f74fdfcc
+! Commit: 6693438ee4126780e055e068befaf4166bb90cea
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24470,6 +24470,7 @@ browsershots.org#@#.advert_area
 ||cwkgzodpuitif.online^
 ||cwmgdpescuqtc.space^
 ||cwnyungddeshj.website^
+||cwoamjkma.com^
 ||cwpnnceaolies.global^
 ||cwqctcmhswrth.online^
 ||cwqhagwjoppbb.website^
@@ -28707,6 +28708,7 @@ browsershots.org#@#.advert_area
 ||fevilsor5.net^
 ||few-politics.com^
 ||few-river.com^
+||fewctudmzmwzl.site^
 ||fewergkit.com^
 ||fewinhaleewe.com^
 ||fewmodel.pro^
@@ -29994,6 +29996,7 @@ browsershots.org#@#.advert_area
 ||g9qnk89pd5ic.com^
 ||gaaekexcvdkur.site^
 ||gabbleddipodidupbuild.cyou^
+||gabionsbevelsalgazel.click^
 ||gablockchunner.help^
 ||gablockheavers.qpon^
 ||gaboonspooked.cyou^
@@ -43311,6 +43314,7 @@ browsershots.org#@#.advert_area
 ||pagerrentablespotlight.com^
 ||paginaewakens.shop^
 ||pagkitahn.com^
+||pagnudcmodaf.com^
 ||pagumaderout.digital^
 ||pagumariffed.shop^
 ||pahapotions.click^
@@ -45064,6 +45068,7 @@ browsershots.org#@#.advert_area
 ||previous-scale.com^
 ||previouslyvaluableexploit.com^
 ||prevoidfustee.qpon^
+||prevotmobile.shop^
 ||prexiesills.click^
 ||prfctmney.com^
 ||prfectnewoffer.net^
@@ -53533,6 +53538,7 @@ browsershots.org#@#.advert_area
 ||twgtgpovwbqdy.website^
 ||twi-hjritecl.world^
 ||twibilcainite.help^
+||twibilsdhole.click^
 ||twibilvailssluicy.cyou^
 ||twieriofyxkqe.space^
 ||twigfulbespoke.qpon^
