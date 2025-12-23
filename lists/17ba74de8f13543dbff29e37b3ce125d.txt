@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512231218
+! Version: 202512231253
 ! Title: EasyList
-! Last modified: 23 Dec 2025 12:18 UTC
+! Last modified: 23 Dec 2025 12:53 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e68dfbd01015ff9db9529af1616e27022c259b7d
+! Commit: 6569161a7d0518de14eb4a35721a3576e823985d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -27244,6 +27244,7 @@ browsershots.org#@#.advert_area
 ||electricalglimmerexasperate.com^
 ||electricalsedate.com^
 ||electricruin.pro^
+||electthirteenth.com^
 ||elegancecharacter.com^
 ||elegant-guard.pro^
 ||elegant-plate.pro^
@@ -31713,6 +31714,7 @@ browsershots.org#@#.advert_area
 ||gxbslyhlppkws.site^
 ||gxbyumjkqzvtr.online^
 ||gxcmcnzgoxjcu.online^
+||gxdapmevjtbzy.online^
 ||gxehhrgoqyrxcrw1rcc.rest^
 ||gxehjxpxmjbp.com^
 ||gxekdhfjgadse.site^
@@ -31893,6 +31895,7 @@ browsershots.org#@#.advert_area
 ||halyardgraham.shop^
 ||hamanharelip.cfd^
 ||hamewanions.qpon^
+||hamipdnohiesz.site^
 ||hamletoutnumberrascal.com^
 ||hamletuponcontribute.com^
 ||hammalsscutchs.shop^
@@ -35443,6 +35446,7 @@ browsershots.org#@#.advert_area
 ||jqyxtzjtoctnj.top^
 ||jqzibkhgthxpb.website^
 ||jramb.site^
+||jravekvyeyjkq.top^
 ||jravekvyeyjlj.top^
 ||jravekvyeyovb.top^
 ||jravekvyeyyvq.top^
