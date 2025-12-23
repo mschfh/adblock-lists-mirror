@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512231909
+! Version: 202512231941
 ! Title: EasyList
-! Last modified: 23 Dec 2025 19:09 UTC
+! Last modified: 23 Dec 2025 19:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 55b3add477af1e5792803c0ad4abf73be4a34f5c
+! Commit: 4aabdaa9595930825e37493442004005b0eac730
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31452,6 +31452,7 @@ browsershots.org#@#.advert_area
 ||grqdkqvxbburi.site^
 ||grquadonaxobq.site^
 ||grrtulchin.digital^
+||grrvhxshjuqxi.website^
 ||grscclvgdknk.com^
 ||grsfjulsqrvdg.space^
 ||grshxwgofkkvawg.com^
@@ -31540,6 +31541,7 @@ browsershots.org#@#.advert_area
 ||gtflhsvaqpgfv.space^
 ||gtftlxpczayti.site^
 ||gtfvrxxivhlmbh.com^
+||gtgehwzxlfiaj.website^
 ||gtghsgrneexou.website^
 ||gthecoastand.org^
 ||gthin.site^
@@ -45269,6 +45271,7 @@ browsershots.org#@#.advert_area
 ||prodlglousdates.com^
 ||prodmp.ru^
 ||producejinker.cfd^
+||producerheron.com^
 ||producerplot.com^
 ||producingtrunkblaze.com^
 ||productcabman.click^
@@ -55091,6 +55094,7 @@ browsershots.org#@#.advert_area
 ||vblwixpwrrrjh.site^
 ||vbm19x5k96zjjzqwg6xribef.cfd^
 ||vbmjlevwwvrjq.top^
+||vbmjlevwwvrrz.top^
 ||vbozbkzejzaal.top^
 ||vbptgoyketwhv.global^
 ||vbqrzzrzazkbl.top^
