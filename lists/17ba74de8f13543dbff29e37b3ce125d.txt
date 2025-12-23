@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512231011
+! Version: 202512231035
 ! Title: EasyList
-! Last modified: 23 Dec 2025 10:11 UTC
+! Last modified: 23 Dec 2025 10:35 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 427c728f3ab3020b593cd75361773ea8f1381e3e
+! Commit: c0de87384b1506710a8d25be70e944ce1d24dee1
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23127,6 +23127,7 @@ browsershots.org#@#.advert_area
 ||clearwatch.tv^
 ||cleavebullydevaluation.com^
 ||cleavehahsotitic.cyou^
+||clemchiefly.rest^
 ||clemmildensunmeant.cyou^
 ||clenchedfavouritemailman.com^
 ||clenchedquarterbackluxuriant.com^
@@ -29565,6 +29566,7 @@ browsershots.org#@#.advert_area
 ||freshpops.net^
 ||fresnelraggery.cyou^
 ||fretizerede.cfd^
+||frfqbhmmxrele.space^
 ||frgojcnjcphxjq.net^
 ||frgxrzwhjfdpa.site^
 ||frhaelmqfuudc.website^
