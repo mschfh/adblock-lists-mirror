@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512232040
+! Version: 202512232109
 ! Title: EasyList
-! Last modified: 23 Dec 2025 20:40 UTC
+! Last modified: 23 Dec 2025 21:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 505cc93cd96251685ba450c313754a33be58865a
+! Commit: ebfae0f205d846ce9fef41cf48214fea476ec27c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18201,6 +18201,7 @@ browsershots.org#@#.advert_area
 ||alliancefurs.com^
 ||allicesoggier.com^
 ||alliedrebelcreative.com^
+||alliscuvetteray.cyou^
 ||allocatedense.com^
 ||allocationcaller.com^
 ||allongezemmi.rest^
@@ -34826,6 +34827,7 @@ browsershots.org#@#.advert_area
 ||jads.co^
 ||jadtottuleret.org^
 ||jaegersgooses.shop^
+||jaenwyxlzrkos.online^
 ||jaforvsuneysw.website^
 ||jafsuasulxeoh.online^
 ||jagatpolary.qpon^
@@ -35281,6 +35283,7 @@ browsershots.org#@#.advert_area
 ||jmnimxckinsdz.website^
 ||jmnktmmkiitir.site^
 ||jmnxhygjdedjy.site^
+||jmoofprjgqtwr.space^
 ||jmp-assets.com^
 ||jmpmedia.club^
 ||jmrpcwkkaptlr.store^
@@ -43768,6 +43771,7 @@ browsershots.org#@#.advert_area
 ||pchfebfpburcg.online^
 ||pchsbvdzuybfe.site^
 ||pcicifogr.com^
+||pcipbsmdiqsx.com^
 ||pcjalcwxecrxq.space^
 ||pcjlgfyoglsqp.top^
 ||pckagkewuqfox.website^
@@ -44921,6 +44925,7 @@ browsershots.org#@#.advert_area
 ||potencyidrooping.com^
 ||potentialisland.com^
 ||potentiallypantsreseptivereseptive.com^
+||potfulsburro.qpon^
 ||pothutepu.com^
 ||potisje.xyz^
 ||potlucktyponym.click^
@@ -46032,6 +46037,7 @@ browsershots.org#@#.advert_area
 ||pzqskynbybqae.site^
 ||pzrgtwyjrhgiu.website^
 ||pztjqvvagwhlj.site^
+||pztk4hxz72g5orqxrjny4fgov.rest^
 ||pzvai.site^
 ||pzwzitvbdhpiw.website^
 ||pzxjjwbdvxxbi.store^
@@ -56343,6 +56349,7 @@ browsershots.org#@#.advert_area
 ||wcuxkyjwndqxj.top^
 ||wcvevntrztrdi.site^
 ||wcwijbtqgajxf.global^
+||wcx4whygpeln92mfyp9zvf6e.cfd^
 ||wcxwaktdmio.com^
 ||wcyvjdpduqxym.site^
 ||wdcwmeklhgnfc.xyz^
