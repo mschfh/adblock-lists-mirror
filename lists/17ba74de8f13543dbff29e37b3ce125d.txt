@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512230422
+! Version: 202512230452
 ! Title: EasyList
-! Last modified: 23 Dec 2025 04:22 UTC
+! Last modified: 23 Dec 2025 04:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d211ddf75aae033b3b0a8757f7775ae8cb42d282
+! Commit: f148738c146abf40f9e8163b0bb29d603ae77aa3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39543,6 +39543,7 @@ browsershots.org#@#.advert_area
 ||mndsrv.com^
 ||mndvjhg.com^
 ||mndx1.com^
+||mnemetriremespun.qpon^
 ||mnetads.com^
 ||mnevjhg.com^
 ||mng-ads.com^
@@ -42282,6 +42283,7 @@ browsershots.org#@#.advert_area
 ||old-chicken.pro^
 ||olderdisciplinary.com^
 ||olderouncedownstairs.com^
+||oldfashioned-fold.pro^
 ||oldnessleapful.cfd^
 ||oldroll.pro^
 ||oleaclaye.cfd^
@@ -46665,6 +46667,7 @@ browsershots.org#@#.advert_area
 ||qxewl7bmn9pup6135hzqmlb3w7hvey1o35g.cfd^
 ||qxhjutyuykewi.store^
 ||qxhspimg.com^
+||qxkjouybtbqrw.space^
 ||qxleqwdokgl.com^
 ||qxlkiqdovwubtq.xyz^
 ||qxoavfdykiqwh.space^
@@ -57286,6 +57289,7 @@ browsershots.org#@#.advert_area
 ||wxfkoumryksdk.space^
 ||wxgfcldialdk.com^
 ||wxgroenahzkap.website^
+||wxhbmaksealdf.online^
 ||wxhiojortldjyegtkx.bid^
 ||wxholjwexghnl.site^
 ||wxixxpgnajzxr.website^
