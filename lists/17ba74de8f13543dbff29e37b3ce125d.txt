@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512241848
+! Version: 202512241911
 ! Title: EasyList
-! Last modified: 24 Dec 2025 18:48 UTC
+! Last modified: 24 Dec 2025 19:11 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 351e1ee51b6f25c90ff917042db9c0ebe286be4a
+! Commit: ac327fd5cff0c5fa4c4a67bce134c7eff97fafbe
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -46778,6 +46778,7 @@ browsershots.org#@#.advert_area
 ||qtutulebptizh.website^
 ||qtvjpisthvezx.website^
 ||qtwonawbhy.com^
+||qtxfflzxgcvmh.space^
 ||qtymgbybuxtfi.online^
 ||quackedchevage.top^
 ||quackgraduation.com^
@@ -47877,6 +47878,7 @@ browsershots.org#@#.advert_area
 ||responserver.com^
 ||responsible-assist.com^
 ||responsible-debate.com^
+||responsible-people.com^
 ||responsibleharm.pro^
 ||responsiblehunchback.com^
 ||responsibleroyalscrap.com^
@@ -49291,6 +49293,7 @@ browsershots.org#@#.advert_area
 ||sbmirish.shop^
 ||sbndcrqwcfkvg.store^
 ||sboehtuuoyggh.space^
+||sbqftczkszzfs.online^
 ||sbqjioehjqnzb.site^
 ||sbrxwyudkepkc.site^
 ||sbtiulwkstzpt.space^
@@ -58975,6 +58978,7 @@ browsershots.org#@#.advert_area
 ||yrhzytcrqnbtj.site^
 ||yrkpvtbpyrcxf.global^
 ||yrptbwncq.com^
+||yrqfyofdgwq.com^
 ||yrqwdbahejizo.website^
 ||yrrqjpmhgtgv.com^
 ||yrsdiloikxvyl.space^
