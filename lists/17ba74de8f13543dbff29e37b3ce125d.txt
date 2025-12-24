@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512242136
+! Version: 202512242215
 ! Title: EasyList
-! Last modified: 24 Dec 2025 21:36 UTC
+! Last modified: 24 Dec 2025 22:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5f2827e7ebcb6dbcbd0a3f4a66e711be4d6d9af7
+! Commit: 7e7920d4c786bb0d72d1fe669672267d95293ed2
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20211,6 +20211,7 @@ browsershots.org#@#.advert_area
 ||behim.click^
 ||behindforhewas.org^
 ||beigedevotedcockpit.com^
+||beigelseizor.cfd^
 ||beingajoytow.com^
 ||beinkmquiejh.com^
 ||bejkfhbmrjw.xyz^
@@ -38153,6 +38154,7 @@ browsershots.org#@#.advert_area
 ||loungedcabrie.com^
 ||lounxmaop.com^
 ||loupefulgora.shop^
+||loupleated.shop^
 ||louptousautoo.net^
 ||lourdoueisienne.website^
 ||lousterknarl.help^
@@ -49834,6 +49836,7 @@ browsershots.org#@#.advert_area
 ||sfjwwywgeyoak.website^
 ||sfmyfycxioqlv.online^
 ||sfnfbubdzlfdm.online^
+||sfpcwqhhjcisu.site^
 ||sfstcxntycsrx.website^
 ||sftapi.com^
 ||sftfanfxqjiso.website^
@@ -52404,6 +52407,7 @@ browsershots.org#@#.advert_area
 ||teemeevoug.net^
 ||teeming-service.com^
 ||teemingloss.pro^
+||teemingsonsy.cyou^
 ||teemooge.net^
 ||teemtechnique.com^
 ||teenejegra.net^
@@ -53286,6 +53290,7 @@ browsershots.org#@#.advert_area
 ||towantacit.cyou^
 ||towdgxhslcojb.site^
 ||towersflimsy.com^
+||towgtkpvyooh.com^
 ||townishcluther.com^
 ||townrusisedpriva.org^
 ||towoalongoxughu.net^
@@ -54126,6 +54131,7 @@ browsershots.org#@#.advert_area
 ||ucqvrreziifwz.website^
 ||ucsnddigmtwoe.space^
 ||ucuoknexq.global^
+||ucuviuptlbxdl.website^
 ||ucvljohfrwdcf.com^
 ||ucvvnpvwpgoxp.space^
 ||ucwkvipzetzxc.space^
@@ -54612,6 +54618,7 @@ browsershots.org#@#.advert_area
 ||unleashgrantpurple.com^
 ||unlimbhutlet.cfd^
 ||unlivephotoma.world^
+||unlljdryayhhv.com^
 ||unloadeasier.com^
 ||unloadonly.com^
 ||unlockcontent.org^
@@ -76665,6 +76672,7 @@ technical.city##div[class^="banner_"]
 365scores.com##div[class^="bookmakers-review-widget_"]
 historycollection.com##div[class^="cis_add_block"]
 filehorse.com##div[class^="dx-"][class$="-1"]
+365scores.com##div[class^="external-ad_"]
 forbes.com##div[class^="fbs-ad"]
 365scores.com##div[class^="games-predictions-widget_container_"]
 astro.com##div[class^="goad"]
