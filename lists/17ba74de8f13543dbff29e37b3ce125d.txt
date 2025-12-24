@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512241031
+! Version: 202512241113
 ! Title: EasyList
-! Last modified: 24 Dec 2025 10:31 UTC
+! Last modified: 24 Dec 2025 11:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 45ac0200ef6f5e4d8cc4dbf63f827285fde62d71
+! Commit: 30058f344a61d539edfba18c55317360ace195cf
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25718,6 +25718,7 @@ browsershots.org#@#.advert_area
 ||disnestjotting.click^
 ||disobeyrecreate.com^
 ||disorderpublishrecords.com^
+||disparagewardenbetrayal.com^
 ||disparityanalogy.com^
 ||disparitydegenerateconstrict.com^
 ||disparkhellen.help^
@@ -28081,6 +28082,7 @@ browsershots.org#@#.advert_area
 ||evnzrsecbioqp.today^
 ||evocatepooly.help^
 ||evoeqbnxitfpa.online^
+||evokeejodso.com^
 ||evokeinexpedientfastened.com^
 ||evolatemyrrh.help^
 ||evolutesaveloy.help^
@@ -47380,6 +47382,7 @@ browsershots.org#@#.advert_area
 ||recchestolons.rest^
 ||reccimline.cfd^
 ||recdirectgo.biz^
+||recedefury.com^
 ||recedesphasmid.shop^
 ||receiptcadenceresurrection.com^
 ||receiverbookwormlazy.com^
@@ -55460,6 +55463,7 @@ browsershots.org#@#.advert_area
 ||vfedymrbwcsmw.net^
 ||vfegfmbcyerbh.space^
 ||vfegqmbcgyndw.today^
+||vfetupuyuwhso.space^
 ||vffncubbivrcm.website^
 ||vfghc.com^
 ||vfghd.com^
@@ -56111,6 +56115,7 @@ browsershots.org#@#.advert_area
 ||vwcyuojicbvab.website^
 ||vwflrpyyazjwy.space^
 ||vwfurlcwpujuz.site^
+||vwfwdxariknxp.website^
 ||vwgnmcwmbolok.online^
 ||vwiyieagwgebdoj.com^
 ||vwjsiywwgynud.online^
@@ -57282,6 +57287,7 @@ browsershots.org#@#.advert_area
 ||wordpersonify.com^
 ||wordsdelivery.com^
 ||wordsphonyblacken.com^
+||wordsreceivingdisappointment.com^
 ||wordtradeflank.com^
 ||worgzcdfgkyff.space^
 ||woriusly.com^
@@ -57362,6 +57368,7 @@ browsershots.org#@#.advert_area
 ||wpefeqebvmdzz.website^
 ||wpfly-sbpkrd.icu^
 ||wpfmovniimllu.online^
+||wpgssixwdaby.com^
 ||wphbvtxnitmv.com^
 ||wpjhwhtgcyzep.site^
 ||wpjplnykjopdp.online^
