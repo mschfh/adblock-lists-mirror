@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512240333
+! Version: 202512240402
 ! Title: EasyList
-! Last modified: 24 Dec 2025 03:33 UTC
+! Last modified: 24 Dec 2025 04:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 004f51023e9196ff1871efd68c23347155ead9b7
+! Commit: de5921326a166aff12b11739f73190e17d06ec39
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16777,6 +16777,7 @@ browsershots.org#@#.advert_area
 ||abixvrdblyakx.website^
 ||abjmkkoavoaor.top^
 ||abjmkkoavooow.top^
+||abjmkkoavoqkw.top^
 ||abjmkkoavorab.top^
 ||abjpilgpouqhm.website^
 ||abjvzpgzbrbyn.space^
@@ -21348,6 +21349,7 @@ browsershots.org#@#.advert_area
 ||brave-village.com^
 ||braverycavalryoats.com^
 ||braverytermors.digital^
+||braveyear.pro^
 ||bravotrk.com^
 ||brawemmer.click^
 ||brayinglegions.click^
@@ -25649,6 +25651,7 @@ browsershots.org#@#.advert_area
 ||discourageearlapfully.com^
 ||discouragewearinesstourist.com^
 ||discoursebandspublish.com^
+||discoursefulfilledauditory.com^
 ||discourseoxidizingtransfer.com^
 ||discoveringantibioticfellow.com^
 ||discovermustystarter.com^
@@ -26572,6 +26575,7 @@ browsershots.org#@#.advert_area
 ||dwightcontributor.com^
 ||dwkdwnkv.xyz^
 ||dwkfdahogaipo.website^
+||dwnxvqyxjdhqu.site^
 ||dwocjxvzwnkmv.online^
 ||dwphzxrhplyyr.website^
 ||dwpuuaxhcqlvz.website^
@@ -28759,6 +28763,7 @@ browsershots.org#@#.advert_area
 ||feuingcrche.com^
 ||feungepyqmboe.site^
 ||feverfreeman.com^
+||fevfmquikbacu.online^
 ||fevhviqave.xyz^
 ||fevilsor5.net^
 ||few-politics.com^
@@ -36244,6 +36249,7 @@ browsershots.org#@#.advert_area
 ||kindheartedice.pro^
 ||kindjalareolas.cyou^
 ||kindlesseepage.digital^
+||kindlestorsion.com^
 ||kindleunfocusedunpaired.com^
 ||kindlyoutsellunderling.com^
 ||kindnessmarshalping.com^
@@ -38840,6 +38846,7 @@ browsershots.org#@#.advert_area
 ||matcaogeujmco.website^
 ||matchedfrized.cfd^
 ||matchjunkie.com^
+||mateinoma.com^
 ||materbennet.shop^
 ||materialfirearm.com^
 ||maternitybrainless.com^
