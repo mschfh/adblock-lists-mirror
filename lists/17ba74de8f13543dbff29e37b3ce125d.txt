@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512250341
+! Version: 202512250403
 ! Title: EasyList
-! Last modified: 25 Dec 2025 03:41 UTC
+! Last modified: 25 Dec 2025 04:03 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6ce990562e1cb9da1bd9ae0eecb7fa8453740a05
+! Commit: 943a935c8a4a808598a91114d2321231b4dbb0e8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19665,6 +19665,7 @@ browsershots.org#@#.advert_area
 ||azjzlvgaifdzc.site^
 ||azkujncu.com^
 ||azkwwrejomajj.top^
+||azkwwrejomlwm.top^
 ||azkwwrejomwjb.top^
 ||azkwwrejomzjm.top^
 ||azlpuhoccz.com^
@@ -50503,6 +50504,7 @@ browsershots.org#@#.advert_area
 ||slickspikeagency.com^
 ||sliddertewly.rest^
 ||slideff.com^
+||slidesimmure.com^
 ||slidingblijver.cyou^
 ||slidorganic.com^
 ||slietap.com^
@@ -53170,6 +53172,7 @@ browsershots.org#@#.advert_area
 ||toforeyest.cyou^
 ||tofowosseedsee.com^
 ||toftmenmurre.qpon^
+||tofvdfiq.com^
 ||togenron.com^
 ||togerspas.com^
 ||togetherefwuko.org^
@@ -54287,6 +54290,7 @@ browsershots.org#@#.advert_area
 ||ugyppaqollegn.online^
 ||uh5p93ia.xyz^
 ||uhakhbbuuqanf.site^
+||uhanbzqkrokqb.site^
 ||uhauhqiuqbjoq.website^
 ||uhdgtnzuttvhb.online^
 ||uhdobftqarvye.space^
