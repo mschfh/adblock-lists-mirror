@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512250807
+! Version: 202512250848
 ! Title: EasyList
-! Last modified: 25 Dec 2025 08:07 UTC
+! Last modified: 25 Dec 2025 08:48 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bdecb69d7a56d424e2fccd0d91e4fc93b3b900a8
+! Commit: ef362e9f2023ddc2a7747717e119d1e61d6cf253
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20206,6 +20206,7 @@ browsershots.org#@#.advert_area
 ||beggingrivulet.com^
 ||beginnerfurglow.com^
 ||beginningstock.com^
+||beginsrainbowcamomile.com^
 ||begolbatan.com^
 ||begonaoidausek.com^
 ||begrownkeck.help^
@@ -27282,6 +27283,7 @@ browsershots.org#@#.advert_area
 ||ekaacdiilusiw.space^
 ||ekabdtoe.net^
 ||ekabsouksal.net^
+||ekalpuvefezyo.website^
 ||ekamsply.com^
 ||ekbggmuqsovel.site^
 ||ekczzoyecfkfm.store^
@@ -29342,6 +29344,7 @@ browsershots.org#@#.advert_area
 ||fmlyauqjelxvy.site^
 ||fmmnotstql.xyz^
 ||fmouvzcbveuun.online^
+||fmpezkwxyqryq.website^
 ||fmpub.net^
 ||fmsads.com^
 ||fmsbmpclfodn.net^
@@ -38958,6 +38961,7 @@ browsershots.org#@#.advert_area
 ||martencrippled.com^
 ||martenforthwith.com^
 ||martialchara.org^
+||martialrecessioninformant.com^
 ||martingpaction.qpon^
 ||martpleadescended.com^
 ||martylatah.com^
@@ -44996,6 +45000,7 @@ browsershots.org#@#.advert_area
 ||polite1266.fun^
 ||politegrocery.pro^
 ||politemajor.com^
+||politenesscrycreating.com^
 ||political-effort.com^
 ||political-part.pro^
 ||political-tongue.pro^
@@ -48301,6 +48306,7 @@ browsershots.org#@#.advert_area
 ||ripagitateway.com^
 ||ripe-comparison.pro^
 ||ripe-heart.com^
+||ripengerm.com^
 ||ripepatience.pro^
 ||riperemote.com^
 ||riperequest.com^
@@ -49185,6 +49191,7 @@ browsershots.org#@#.advert_area
 ||sageermaihem.rest^
 ||sagfdqnzfp.com^
 ||saggrowledetc.com^
+||saghandkerchief.com^
 ||sagitalwalnut.cyou^
 ||sagtbhshvpjwsgu.xyz^
 ||sahotchilape.net^
@@ -56061,6 +56068,7 @@ browsershots.org#@#.advert_area
 ||voawhoowhapooth.net^
 ||vobsodajooh.com^
 ||vocabularypotsate.com^
+||vocalchillydispleased.com^
 ||vocationbunk.com^
 ||vocrojjwugeno.website^
 ||vocuyawjas.net^
@@ -56490,6 +56498,7 @@ browsershots.org#@#.advert_area
 ||waipirotombola.world^
 ||waishauglid.net^
 ||waisheph.com^
+||waistburnsvisiting.com^
 ||waistcoataskeddone.com^
 ||waistcoatdiscontented.com^
 ||waistcoatreferchemistry.com^
