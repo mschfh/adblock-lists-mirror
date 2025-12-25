@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512251932
+! Version: 202512252012
 ! Title: EasyList
-! Last modified: 25 Dec 2025 19:32 UTC
+! Last modified: 25 Dec 2025 20:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6877a50a19ba7c8ed0611d49b119bb58f5de5899
+! Commit: aa134932232500676d65aaf8a351f945c332dd13
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19465,6 +19465,7 @@ browsershots.org#@#.advert_area
 ||avview3431.fun^
 ||avvwmgmp.com^
 ||avwjyvwqyoab.top^
+||avxskbxkmtawx.space^
 ||avzaqmaoryehd.website^
 ||avzlqdmryrdbj.website^
 ||avzmhurdchosj.space^
@@ -31364,6 +31365,7 @@ browsershots.org#@#.advert_area
 ||graeiyjcrozqi.online^
 ||grafausetha.net^
 ||gragroogrig.net^
+||graicmoawabs.net^
 ||graidsefortie.net^
 ||grairseethids.net^
 ||graissiftapsou.net^
@@ -57194,6 +57196,7 @@ browsershots.org#@#.advert_area
 ||whldthsafmpam.online^
 ||whoaksoopoordo.net^
 ||whoalinseed.shop^
+||whoataischcowhand.cfd^
 ||whoatsootchard.net^
 ||whogloagru.net^
 ||whoisezh.com^
@@ -57767,6 +57770,7 @@ browsershots.org#@#.advert_area
 ||wqtvhnrmmgbdn.online^
 ||wqvutlpjflrjg.website^
 ||wqvwqxstgqjyk.fun^
+||wqvzwdrbabind.website^
 ||wqwoynnxgujac.online^
 ||wqxvfzvqcqmcs.website^
 ||wrangleagarum.help^
@@ -59129,6 +59133,7 @@ browsershots.org#@#.advert_area
 ||yohocrummer.cfd^
 ||yoimeuyjstcyw.space^
 ||yojbiagdemrac.buzz^
+||yojmbncodfybc.com^
 ||yokeeroud.com^
 ||yokematchesdashboard.com^
 ||yolvyzasxyojr.space^
