@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512261510
+! Version: 202512261539
 ! Title: EasyList
-! Last modified: 26 Dec 2025 15:10 UTC
+! Last modified: 26 Dec 2025 15:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9867af230836b19d4b1d5264b9970ad6e33b2bb2
+! Commit: 91ef3a94d12098d6ecb0a3812512233bc844dee6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18368,6 +18368,7 @@ browsershots.org#@#.advert_area
 ||ambitiousdemand.com^
 ||amcleacoflg.net^
 ||amdahlpothery.help^
+||amdntykavonpcc.xyz^
 ||ameblojp.live^
 ||ameedrice.help^
 ||amelatrina.com^
@@ -37455,6 +37456,7 @@ browsershots.org#@#.advert_area
 ||lazytheory.pro^
 ||lbbjokeqbzowv.top^
 ||lbbjokeqbzqqj.top^
+||lbbjokeqbzrmj.top^
 ||lbbjokeqbzwqk.top^
 ||lbdphmpwmwdzw.online^
 ||lbfpfffanlyzb.online^
@@ -37769,6 +37771,7 @@ browsershots.org#@#.advert_area
 ||lglxxxadsjocm.website^
 ||lglykwrasnfzn.site^
 ||lgqzpmgtzvmij.website^
+||lgrxgaulgvgxy.website^
 ||lgse.com^
 ||lgsqxwfwwcqkc.website^
 ||lgtdkpfnor.com^
@@ -54056,6 +54059,7 @@ browsershots.org#@#.advert_area
 ||trustmaxonline.com^
 ||trustvarietywee.com^
 ||trustworthy-iron.pro^
+||trustworthyconstant.com^
 ||trustworthyrequirement.pro^
 ||trustworthytalk.pro^
 ||trusty-research.com^
