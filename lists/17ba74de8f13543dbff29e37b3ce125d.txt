@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512261847
+! Version: 202512261918
 ! Title: EasyList
-! Last modified: 26 Dec 2025 18:47 UTC
+! Last modified: 26 Dec 2025 19:18 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6be4cc42bbd739bbecdc1b664ca4516041a9c4de
+! Commit: bcaca01519e0d1360a2199cc03a49fcd1559d98a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29861,6 +29861,7 @@ browsershots.org#@#.advert_area
 ||frippettegmina.com^
 ||friscobarchan.help^
 ||friskydoweral.com^
+||frivolous-wine.pro^
 ||frivolouscontest.com^
 ||frivolousring.pro^
 ||friy.site^
@@ -54125,6 +54126,7 @@ browsershots.org#@#.advert_area
 ||trxgkqevbqyot.space^
 ||trxsraqbycxml.site^
 ||trxufpvidim.net^
+||trxxclnlxvdbs.website^
 ||trystcoryza.world^
 ||trystsmyiasis.rest^
 ||trytestifysupply.com^
@@ -55887,6 +55889,7 @@ browsershots.org#@#.advert_area
 ||vdtmacbhiltpf.website^
 ||vdukpbmavzcne.store^
 ||vdulz.org^
+||vdwoyvfa.com^
 ||vdyjhikwomhkk.space^
 ||ve827njlkzqjc32ob553q2rot1.rest^
 ||vealbkvvormey.top^
@@ -57670,6 +57673,7 @@ browsershots.org#@#.advert_area
 ||wjhanonquilpp.store^
 ||wjibjvgebkolf.space^
 ||wjiebpblheplc.site^
+||wjkedtosqkqdjd.com^
 ||wjkpvahoulqok.online^
 ||wjljwqbzjleek.top^
 ||wjljwqbzjlezw.top^
@@ -58413,6 +58417,7 @@ browsershots.org#@#.advert_area
 ||xdopmddpydxpl.site^
 ||xdpnnqurquvuc.online^
 ||xdrelbgbndfnl.site^
+||xdwstcvtdyyfg.website^
 ||xdylxpenf.com^
 ||xdyxzdkconsev.site^
 ||xebfomhenqxin.online^
@@ -58602,6 +58607,7 @@ browsershots.org#@#.advert_area
 ||xmeqgbkrmnruv.website^
 ||xmhrjllcnynfs.website^
 ||xmj2fkvt3zxxcynmgc29ek74nmmjqe5bz.rest^
+||xmjqvxiwacssu.site^
 ||xml-api.online^
 ||xmladserver.com^
 ||xmlap.com^
