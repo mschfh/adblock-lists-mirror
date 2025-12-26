@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512261641
+! Version: 202512261713
 ! Title: EasyList
-! Last modified: 26 Dec 2025 16:41 UTC
+! Last modified: 26 Dec 2025 17:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ab5f93571b3e5f90a53c2914cdca306df1578a42
+! Commit: 0e4f84a799032f5d94e3e7d949d21c2df46df752
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19223,6 +19223,7 @@ browsershots.org#@#.advert_area
 ||atmenttogether.org^
 ||atmyeducat.org^
 ||atneferawskxj.website^
+||atnjprnnfnsrv.site^
 ||atodiler.com^
 ||atolexylate.rest^
 ||atollsbespoke.com^
@@ -27064,6 +27065,7 @@ browsershots.org#@#.advert_area
 ||edcc0994fe.com^
 ||edconsideundence.org^
 ||eddfrwjpdijtb.store^
+||eddyingfempty.cfd^
 ||eddymahoe.qpon^
 ||eddyniseis.digital^
 ||edeclineryb.org^
@@ -41549,6 +41551,7 @@ browsershots.org#@#.advert_area
 ||nj2z5mnbevrrg5.rest^
 ||njatwiklklyae.site^
 ||njbwqxj34f51jo1.cfd^
+||njctyixrmclgc.website^
 ||njdapsyolatla.website^
 ||nje9wz5vf48l8h.rest^
 ||njgvpfnvcpp6ryq6jy.rest^
@@ -48027,6 +48030,7 @@ browsershots.org#@#.advert_area
 ||rehearsejuniorloaded.com^
 ||rehidetramper.qpon^
 ||rehingewhirret.help^
+||rehoodcyclo.cyou^
 ||rehousedicers.cyou^
 ||rehtrike.com^
 ||rehvbghwe.cc^
@@ -48767,6 +48771,7 @@ browsershots.org#@#.advert_area
 ||rnkwybspidlvu.site^
 ||rnmd.net^
 ||rnmentoftheusys.com^
+||rnmjaylxot.com^
 ||rnmreusbdsmyc.space^
 ||rnntlkjkbhsms.com^
 ||rnobijyojinek.website^
@@ -51517,6 +51522,7 @@ browsershots.org#@#.advert_area
 ||spurdierefloat.rest^
 ||spurdogpints.cyou^
 ||spuriusjayant.life^
+||spurrerresents.cfd^
 ||spurterharatin.rest^
 ||spurtshrubvending.com^
 ||spurtvastsummer.com^
@@ -57571,6 +57577,7 @@ browsershots.org#@#.advert_area
 ||wipedcurved.com^
 ||wipedrehabilitation.com^
 ||wipehumorousbeen.com^
+||wipeoutmoraea.cyou^
 ||wiptzgjtcvbdw.website^
 ||wiqccpxjtvkjs.store^
 ||wirelessbin.com^
@@ -62564,6 +62571,7 @@ browsershots.org#@#.advert_area
 ||sanssnow.com^
 ||sanstidy.com^
 ||satephooeynab.com^
+||scowlswitchmore.com^
 ||seabagsgoralog.com^
 ||secretvelvety.com^
 ||shinnyhelpfast.com^
