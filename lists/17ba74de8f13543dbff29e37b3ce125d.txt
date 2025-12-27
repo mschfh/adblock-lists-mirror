@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512270611
+! Version: 202512270649
 ! Title: EasyList
-! Last modified: 27 Dec 2025 06:11 UTC
+! Last modified: 27 Dec 2025 06:49 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a72fa3794bfd5439e9540054865a0eb1f22be587
+! Commit: b26b8a728fec745515c36a96ef7bce260a80b450
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31978,6 +31978,7 @@ browsershots.org#@#.advert_area
 ||gurrahjur.shop^
 ||gurtoaksija.com^
 ||gusabfluchu.com^
+||guserrivose.rest^
 ||guseubkxyvw.com^
 ||gushfilmingbaseless.com^
 ||gussame.com^
@@ -35007,6 +35008,7 @@ browsershots.org#@#.advert_area
 ||iuhmfkhuh.com^
 ||iujmtfksuiui.com^
 ||iukkxczhqekat.space^
+||iukrelfkscaiy.space^
 ||iulkpesaffexi.site^
 ||iulqktifw.com^
 ||iumdnilpxclup.store^
@@ -37303,6 +37305,7 @@ browsershots.org#@#.advert_area
 ||la-la-moon.com^
 ||la-la-sf.com^
 ||laaaqmkbvcxf.xyz^
+||laarmwcgehodw.website^
 ||labaaraseta.cfd^
 ||labadena.com^
 ||labeldollars.com^
@@ -48243,6 +48246,7 @@ browsershots.org#@#.advert_area
 ||renamereptiliantrance.com^
 ||renaybannack.shop^
 ||rencessedessations.com^
+||rench-single.pro^
 ||rencheffort.pro^
 ||rencontreadultere.club^
 ||rencontresparis2015.com^
