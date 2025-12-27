@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512270422
+! Version: 202512270441
 ! Title: EasyList
-! Last modified: 27 Dec 2025 04:22 UTC
+! Last modified: 27 Dec 2025 04:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0f78bd2fab818ed3406b3d93d5e207e5f6fe466a
+! Commit: edc710c2b803e2485d1e84c6fd95d1c605d75390
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29717,6 +29717,7 @@ browsershots.org#@#.advert_area
 ||fotuialjama.help^
 ||fotwupmfmlace.space^
 ||fouettbrauna.com^
+||fougaijime.net^
 ||foulierne.qpon^
 ||foulishschwa.click^
 ||foullyploce.cfd^
@@ -34248,6 +34249,7 @@ browsershots.org#@#.advert_area
 ||impeccable-building.pro^
 ||impeccable-official.com^
 ||impeccablewriter.com^
+||impeditmatzahs.cyou^
 ||impenetrablescald.com^
 ||impentaruohare.cyou^
 ||imperfect-bonus.pro^
@@ -59794,6 +59796,7 @@ browsershots.org#@#.advert_area
 ||yzdkhftbkynua.site^
 ||yzdqrkjwamsuy.space^
 ||yzllakig.com^
+||yzottjbhgjcbz.space^
 ||yzqituewobhot.website^
 ||yzrgtocyuvzxc.online^
 ||yzru8lzitbpvl9l94fbnrffyugmmuqm.rest^
