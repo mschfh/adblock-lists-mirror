@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512280342
+! Version: 202512280431
 ! Title: EasyList
-! Last modified: 28 Dec 2025 03:42 UTC
+! Last modified: 28 Dec 2025 04:31 UTC
 ! Expires: 4 days (update frequency)
-! Commit: fa640ee88f8be096988e792ce1e4034fe9ae4e35
+! Commit: b08ccad07115b29efb068b222ed841eb53ab931f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19744,6 +19744,7 @@ browsershots.org#@#.advert_area
 ||azotecorbula.click^
 ||azqaaslam.com^
 ||azqqloblawqbj.top^
+||azqqlobqwobzr.top^
 ||azqqlobqwomqr.top^
 ||azqqlobqwoyja.top^
 ||azskk.com^
@@ -47435,6 +47436,7 @@ browsershots.org#@#.advert_area
 ||quaizoa.xyz^
 ||quakedevastatedprinter.com^
 ||quakilyporite.cfd^
+||qualeexpendwhoo.cyou^
 ||qualiclicks.com^
 ||qualificationgarland.com^
 ||qualificationsomehow.com^
@@ -56918,6 +56920,7 @@ browsershots.org#@#.advert_area
 ||vrizead.com^
 ||vrldejvphpidi.online^
 ||vrnfgjkurfxcl.site^
+||vrnzbidmiesbl.site^
 ||vrochtcajuput.rest^
 ||vroomsoutwickanglian.cfd^
 ||vrpfhdne.net^
@@ -60002,6 +60005,7 @@ browsershots.org#@#.advert_area
 ||ywcpuyoqiwpsq.website^
 ||yweakelandord.com^
 ||ywfsjaoghplft.site^
+||ywjbnmweu.com^
 ||ywjvjschozjzq.online^
 ||ywlkcbmjagqkm.site^
 ||ywlkeeedaayuf.space^
@@ -60756,6 +60760,7 @@ browsershots.org#@#.advert_area
 ||zxinihfgkdpfb.space^
 ||zxiqfnkwctdpb.online^
 ||zxjpauyihekzf.space^
+||zxjxbwkzfixsk.website^
 ||zxnmbtdwlyafw.website^
 ||zxnymrendoxms.space^
 ||zxrntgssqzdre.space^
@@ -60777,6 +60782,7 @@ browsershots.org#@#.advert_area
 ||zygoticlatched.cfd^
 ||zygtaxiognrri.website^
 ||zyhzzhxnlnfdk.site^
+||zyhzzxcwgqwtx.online^
 ||zyiis.net^
 ||zykkjyaokkjyb.top^
 ||zykkjyaokokbq.top^
@@ -73266,6 +73272,7 @@ jns.org,nscreenmedia.com,op.gg,rawinu.com,whoscored.com##.banner-container
 dbdiagram.io,soccerway.com##.banner-content
 insidebitcoins.com##.banner-cta-wrapper
 weatherin.org##.banner-desktop-full-width
+originality.ai##.banner-element
 mobdisc.com##.banner-gta
 jpost.com##.banner-h-270
 jpost.com##.banner-h-880
