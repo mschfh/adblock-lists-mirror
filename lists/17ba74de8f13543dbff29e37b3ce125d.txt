@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512280719
+! Version: 202512280737
 ! Title: EasyList
-! Last modified: 28 Dec 2025 07:19 UTC
+! Last modified: 28 Dec 2025 07:37 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 765dd83fa211171460f178205182bab9b6b2429f
+! Commit: 728c5c6f75aaa0c9ae7bd5401b0fab64be258ca8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29310,6 +29310,7 @@ browsershots.org#@#.advert_area
 ||fitsagitateacid.com^
 ||fitting-enthusiasm.pro^
 ||fitting-local.pro^
+||fitting-whole.pro^
 ||fittitbundook.cfd^
 ||fittitfucose.com^
 ||fitvjgeqixdyz.online^
@@ -45819,6 +45820,7 @@ browsershots.org#@#.advert_area
 ||pprocjdaenaec.space^
 ||ppsfojtitmnux.website^
 ||ppshh.rocks^
+||ppslywixsqohh.space^
 ||ppszivkqubxut.online^
 ||pptfhhrohykzk.online^
 ||pptnuhffs.love^
@@ -50979,6 +50981,7 @@ browsershots.org#@#.advert_area
 ||sinterfumescomy.org^
 ||sionscormation.org^
 ||sioqfivttjrca.site^
+||sipesqua.cyou^
 ||siphdcwglypz.tech^
 ||sippansy.com^
 ||sirdushi.xyz^
