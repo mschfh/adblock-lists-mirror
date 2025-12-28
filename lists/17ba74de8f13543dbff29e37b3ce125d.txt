@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512281814
+! Version: 202512281849
 ! Title: EasyList
-! Last modified: 28 Dec 2025 18:14 UTC
+! Last modified: 28 Dec 2025 18:49 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3020387e19201250671cc6fa44d058c2b65a9b62
+! Commit: 0838fd32e0ea668c73942ff3190e79cc374f7359
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17606,6 +17606,7 @@ browsershots.org#@#.advert_area
 ||aeffe3nhrua5hua.com^
 ||aefplnimtjkdq.site^
 ||aegerjapygid.rest^
+||aegiseswashrag.shop^
 ||aegmbupscesey.space^
 ||aegmdwmvhesof.website^
 ||aegmovjmepcqs.store^
@@ -29145,6 +29146,7 @@ browsershots.org#@#.advert_area
 ||fftwljklhkigm.site^
 ||fgaefokzdcuez.website^
 ||fgcurevocpkmh.space^
+||fggovwtouynec.site^
 ||fghgaqhfgtlmw.website^
 ||fghjpxqwpwlug.website^
 ||fgjaelzvzxtdq.rocks^
@@ -30022,6 +30024,7 @@ browsershots.org#@#.advert_area
 ||friy.site^
 ||frizzybase.pro^
 ||frizzyshocked.com^
+||frjbyduygjwbk.site^
 ||frjnnudnmborf.store^
 ||frjrwixwogqjt.site^
 ||frmfpvhvdmeba.website^
@@ -56246,6 +56249,7 @@ browsershots.org#@#.advert_area
 ||vaokbuyvpiyzw.website^
 ||vapedia.com^
 ||vapid-clothes.com^
+||vaprimate.cfd^
 ||vaqykqyvvakqq.top^
 ||vaqykqyvvazbz.top^
 ||vardsusyseinpo.com^
