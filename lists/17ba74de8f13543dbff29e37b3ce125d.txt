@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512291944
+! Version: 202512292018
 ! Title: EasyList
-! Last modified: 29 Dec 2025 19:44 UTC
+! Last modified: 29 Dec 2025 20:18 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b1ff45f98ffe443c2e71432fab2ac5694118da90
+! Commit: f287d8246f5a031aa4a55ed22cffda05a04f2566
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -27801,6 +27801,7 @@ browsershots.org#@#.advert_area
 ||emptierkimchi.life^
 ||emptinessabjure.com^
 ||empty-advantage.pro^
+||empty-airport.com^
 ||emptyreputation.pro^
 ||emqokltbiegez.space^
 ||emrockckkqyyk.website^
@@ -33130,6 +33131,7 @@ browsershots.org#@#.advert_area
 ||hilltopads.net^
 ||hilsuceetsafow.net^
 ||hiltszbirzcky.store^
+||himatiaayinsstelled.cfd^
 ||himawaasi.cyou^
 ||himediads.com^
 ||himekingrow.com^
@@ -34207,6 +34209,7 @@ browsershots.org#@#.advert_area
 ||ie8eamus.com^
 ||iedtothema.org^
 ||ieecjjfzmbhgs.site^
+||iegbhbkgnglsz.site^
 ||ieglcoaqlzesp.store^
 ||iegrozrmvgjfp.online^
 ||iehbhejfnetvc.site^
@@ -35634,6 +35637,7 @@ browsershots.org#@#.advert_area
 ||jcmkelvabngzu.site^
 ||jconceoormurg.online^
 ||jcpvwiwocdsu.com^
+||jcqsiwmyioxsu.online^
 ||jcrjnskoroprdp.com^
 ||jcsbdfpddlahn.online^
 ||jcsjeisnswjmp.site^
@@ -55079,6 +55083,7 @@ browsershots.org#@#.advert_area
 ||twbschithgosa.space^
 ||twcqptldcqoza.online^
 ||twcxhhfkug.com^
+||twddlykk.com^
 ||twdgdoukcxtby.xyz^
 ||tweadsialing.com^
 ||tweakpersuadelowest.com^
@@ -56463,6 +56468,7 @@ browsershots.org#@#.advert_area
 ||vaitunoagoapsee.net^
 ||vaiwhehegrustou.net^
 ||vaiwhoojoapseet.net^
+||vajwbkkmklorl.top^
 ||vajwbkkmklovw.top^
 ||vak345.com^
 ||vaksortoaz.net^
