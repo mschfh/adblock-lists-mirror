@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512291908
+! Version: 202512291944
 ! Title: EasyList
-! Last modified: 29 Dec 2025 19:08 UTC
+! Last modified: 29 Dec 2025 19:44 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 22eb64bdca51d586ac1e0f20677c0b268034f9f3
+! Commit: b1ff45f98ffe443c2e71432fab2ac5694118da90
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28507,6 +28507,7 @@ browsershots.org#@#.advert_area
 ||ewvywlqn.net^
 ||ewyjmkgvvtoxy.space^
 ||ewyvuznndlmrk.online^
+||ewzgfdqzhyaoj.website^
 ||exacdn.com^
 ||exactlyrutisland.com^
 ||exaggerating.makeup^
@@ -54354,6 +54355,7 @@ browsershots.org#@#.advert_area
 ||topiccorruption.com^
 ||topincome.cc^
 ||topjyrdikvtlh.site^
+||topmostdeform.click^
 ||topmostsincereconsolation.com^
 ||topnettemplum.cyou^
 ||topnews-24.com^
@@ -55602,6 +55604,7 @@ browsershots.org#@#.advert_area
 ||umnxdbvgstipt.website^
 ||umoopuwhecky.net^
 ||umoutzwnfxuil.space^
+||umpfvmht.com^
 ||umphacinic.cfd^
 ||umpiredmosettebibulus.cfd^
 ||umpwcnltxmnue.online^
@@ -56590,6 +56593,7 @@ browsershots.org#@#.advert_area
 ||vbtpkdvezdeoo.site^
 ||vbtrax.com^
 ||vbtrbulabutew.site^
+||vbtwegnwgvhpr.site^
 ||vbuqxmrwegilw.online^
 ||vbyhuugfwnfic.online^
 ||vbykiprxfpvpt.space^
