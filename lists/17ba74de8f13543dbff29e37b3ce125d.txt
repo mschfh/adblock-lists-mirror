@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512302240
+! Version: 202512302315
 ! Title: EasyList
-! Last modified: 30 Dec 2025 22:40 UTC
+! Last modified: 30 Dec 2025 23:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 66ad4b2fe60e31837d171649aa8dd757527707ff
+! Commit: c2440d27c4a4a0c95257cf428e7224433406594e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18096,6 +18096,7 @@ browsershots.org#@#.advert_area
 ||ajillionmax.com^
 ||ajimezcox.help^
 ||ajjac.club^
+||ajjjhuaq.com^
 ||ajjkmozrrvam.top^
 ||ajjlasruwwrlt.store^
 ||ajjwutdytigzg.rocks^
@@ -21821,6 +21822,7 @@ browsershots.org#@#.advert_area
 ||buissonnigrous.cyou^
 ||bujerdaz.com^
 ||bujgirjkejoay.website^
+||bukfymzbkcpef.space^
 ||bukmravwfgcwh.online^
 ||bukusukses.com^
 ||bulderuganda.help^
@@ -21966,6 +21968,7 @@ browsershots.org#@#.advert_area
 ||buyfrightencheckup.com^
 ||buyidesarea.qpon^
 ||buyjwsoadheqo.online^
+||buzkalepjvgni.site^
 ||buzvl.com^
 ||buzzdancing.com^
 ||buzzersidewalkcathedral.com^
@@ -32734,6 +32737,7 @@ browsershots.org#@#.advert_area
 ||hauledneedy.com^
 ||hauledquaverguardian.com^
 ||haullollipop.com^
+||haulskirtles.rest^
 ||haulsquirt.com^
 ||haunchfossil.com^
 ||haunigre.net^
@@ -59264,6 +59268,7 @@ browsershots.org#@#.advert_area
 ||wukcvtbrlyrxd.store^
 ||wukcwgopqoajg.website^
 ||wukhotphbgnfq.store^
+||wulilpcptjk.com^
 ||wulunette.help^
 ||wumufama.com^
 ||wungeezests.qpon^
@@ -61395,6 +61400,7 @@ browsershots.org#@#.advert_area
 ||zqvfnrprrodge.site^
 ||zqvsflsegmijk.website^
 ||zqvvzrlevbeke.top^
+||zqvvzrlevbeqq.top^
 ||zqwe.ru^
 ||zqxuemmabklqq.online^
 ||zqyzgicrcwohx.space^
