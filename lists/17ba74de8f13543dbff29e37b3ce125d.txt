@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512301351
+! Version: 202512301418
 ! Title: EasyList
-! Last modified: 30 Dec 2025 13:51 UTC
+! Last modified: 30 Dec 2025 14:18 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bc77d5d1d01d5189b51c9c68f9755ec97e58fdc5
+! Commit: 33d2a4a676be84293f77b11ae2dcfd54d06b777a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -40281,6 +40281,7 @@ browsershots.org#@#.advert_area
 ||miconiaregrab.shop^
 ||microad.net^
 ||microadinc.com^
+||midairsforswat.qpon^
 ||middaycataract.com^
 ||middensunrra.com^
 ||middynocake.rest^
@@ -49922,6 +49923,7 @@ browsershots.org#@#.advert_area
 ||rtbsystem.com^
 ||rtbsystem.org^
 ||rtbterra.com^
+||rtbtpiovbixue.com^
 ||rtbtrail.com^
 ||rtdgdfdfehzrv.space^
 ||rtgio.co^
@@ -51357,6 +51359,7 @@ browsershots.org#@#.advert_area
 ||siblpnvryviqz.website^
 ||sibylstroper.qpon^
 ||sibzstojwoqew.website^
+||siccancarvone.click^
 ||sicfogbow.qpon^
 ||sicilywring.com^
 ||sickbedjibboom.com^
@@ -60434,6 +60437,7 @@ browsershots.org#@#.advert_area
 ||ynykrhlltoytp.website^
 ||yoads.net^
 ||yobxluanlfwvu.space^
+||yobyshbpomomy.space^
 ||yoc-adserver.com^
 ||yocbiylltzzaj.website^
 ||yodgxqbnzsuzh.store^
@@ -60511,6 +60515,7 @@ browsershots.org#@#.advert_area
 ||yoyjdfpylpyfl.space^
 ||yozxgwnjsbspo.website^
 ||yp9f2w7v92j421ojvc.cfd^
+||ypavokduiwfof.website^
 ||ypcqhgapbjqmi.site^
 ||ype7.com^
 ||ypedyumnpafvy.xyz^
