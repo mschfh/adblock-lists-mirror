@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512310740
+! Version: 202512310821
 ! Title: EasyList
-! Last modified: 31 Dec 2025 07:40 UTC
+! Last modified: 31 Dec 2025 08:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 22b48b1a62fbb8998e65bd374ad2064107f039dd
+! Commit: d152313bc83ea975c160656b9366fd0924114d04
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29788,6 +29788,7 @@ browsershots.org#@#.advert_area
 ||flyzlahpuuhtb.site^
 ||fm9u44fkpnioljl3hkcocgzekrhi2.cfd^
 ||fmabgxlwyihmo.site^
+||fmaiyleoxlfbm.online^
 ||fmapdxqhqvcia.space^
 ||fmbristly.cyou^
 ||fmealwtuctul.com^
@@ -32721,6 +32722,7 @@ browsershots.org#@#.advert_area
 ||harmerpand.cfd^
 ||harmful-hire.pro^
 ||harmful-park.com^
+||harmful-pitch.pro^
 ||harmfulevery.com^
 ||harmfullisten.pro^
 ||harmlessshake.com^
@@ -33141,6 +33143,7 @@ browsershots.org#@#.advert_area
 ||hfzkfwdqw.com^
 ||hg-bn.com^
 ||hgagwcznmclhv.store^
+||hgbdjawazluzd.site^
 ||hgbn.rocks^
 ||hgbqowuzgonia.website^
 ||hgbqsxuptruuf.website^
@@ -47936,6 +47939,7 @@ browsershots.org#@#.advert_area
 ||qqxevoxdcdgrm.website^
 ||qqxkscrbfjn.com^
 ||qqxlgqlgdvlky.online^
+||qqxrlcipgmiemph.com^
 ||qqxwosanxwhqn.site^
 ||qqytykzhaayxn.space^
 ||qr-player-new.com^
