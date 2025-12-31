@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512310611
+! Version: 202512310639
 ! Title: EasyList
-! Last modified: 31 Dec 2025 06:11 UTC
+! Last modified: 31 Dec 2025 06:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e1b7d239689732863d13c86be24be56e86c2a2b2
+! Commit: 2e88fcaacee412b1ca6d1c618031efc000a99c53
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23581,6 +23581,7 @@ browsershots.org#@#.advert_area
 ||clovhmweksy.buzz^
 ||clpwzthfkneqp.space^
 ||clrstm.com^
+||cltchdhnjbkbe.com^
 ||cltdabpjiaqlw.space^
 ||clubhouseimpunitysights.com^
 ||cluckedzion.com^
@@ -30755,6 +30756,7 @@ browsershots.org#@#.advert_area
 ||gantotireofhisl.com^
 ||gapcontroversialprodigal.com^
 ||gapedmakoslooming.cfd^
+||gapplacoid.click^
 ||gaptooju.net^
 ||gaqfzadvpkxiu.website^
 ||gaqjhqjowwygp.site^
@@ -41390,6 +41392,7 @@ browsershots.org#@#.advert_area
 ||mutedpoetry.com^
 ||mutenessdollyheadlong.com^
 ||mutenessquiz.com^
+||muterhedas.cfd^
 ||muthimtadsus.net^
 ||muthwhcjuwela.store^
 ||mutinedgunster.com^
@@ -50187,6 +50190,7 @@ browsershots.org#@#.advert_area
 ||runtnc.net^
 ||runwaff.com^
 ||runyrgidqcoeo.store^
+||rupbbmohwhznh.website^
 ||ruphegickimsipt.net^
 ||rupialmormal.click^
 ||rupteeshooz.net^
@@ -52569,6 +52573,7 @@ browsershots.org#@#.advert_area
 ||squiggly-fill.pro^
 ||squirtdrsuccession.com^
 ||squirtpresented.com^
+||sqvurvqqrjtqw.space^
 ||sqwregvkrwdtr.online^
 ||sqwwhdckyewdnlu.net^
 ||sqykvemny.net^
