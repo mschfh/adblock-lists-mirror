@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202512310942
+! Version: 202512311014
 ! Title: EasyList
-! Last modified: 31 Dec 2025 09:42 UTC
+! Last modified: 31 Dec 2025 10:14 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 805ee06ce7884e30d6c16cab3e9368d3da6d929d
+! Commit: 92d0c855928a513d0906fbb60ec015c5d24c9ee6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -27163,6 +27163,7 @@ browsershots.org#@#.advert_area
 ||ealeo.com^
 ||ealiukzemydreamsa.com^
 ||eallywasnothyca.com^
+||eamolsepp.com^
 ||eamrxyoyatwgm.website^
 ||eanresultancet.com^
 ||eaoyilbmqypkz.site^
@@ -29253,6 +29254,7 @@ browsershots.org#@#.advert_area
 ||ferialcunjah.help^
 ||ferisonbiogens.shop^
 ||ferit.online^
+||feritytunnerywumble.cyou^
 ||fermataintima.com^
 ||fermateputeal.click^
 ||fermentjointed.cyou^
@@ -41724,6 +41726,7 @@ browsershots.org#@#.advert_area
 ||narrow-meaning.com^
 ||narrow-wedding.pro^
 ||narrowmaidroyal.com^
+||narrowveneeringsavoury.com^
 ||nasadenize.help^
 ||nasadfgzaq.com^
 ||nasalfeudalanxious.com^
@@ -59523,6 +59526,7 @@ browsershots.org#@#.advert_area
 ||wzakjibtliyes.online^
 ||wzaprgcebheqf.online^
 ||wzcbflxsbtkaw.site^
+||wzcdffkknsvbz.space^
 ||wzhraonifqvig.space^
 ||wzjaczokogjfl.space^
 ||wzlzgwdtasjfs.online^
@@ -60543,6 +60547,7 @@ browsershots.org#@#.advert_area
 ||ykmfcijfih.com^
 ||ykmmrklnsovkk.space^
 ||ykmterpeftso.com^
+||ykozvjybzuctr.website^
 ||ykpjgxxeoqk.com^
 ||ykrabkjoqurvl.online^
 ||ykrsorluybndt.website^
