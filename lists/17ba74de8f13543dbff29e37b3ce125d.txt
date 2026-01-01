@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601012115
+! Version: 202601012143
 ! Title: EasyList
-! Last modified: 01 Jan 2026 21:15 UTC
+! Last modified: 01 Jan 2026 21:43 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ffd633d43ff3c59bafbc326159cea1b845af6b2e
+! Commit: e983c1f4fa1e16e85eaabc71925a9a2763522d8f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25370,6 +25370,7 @@ browsershots.org#@#.advert_area
 ||dbuq47t160425b.cfd^
 ||dbwmzcj-r.click^
 ||dbxkgduf.xyz^
+||dbxnpoes.xyz^
 ||dbxuxbhoeewnhc.com^
 ||dbyherslenderwai.com^
 ||dbzaiectsuekw.website^
@@ -35831,6 +35832,7 @@ browsershots.org#@#.advert_area
 ||izikthr.my^
 ||izitrckr.com^
 ||iziyvirgnbgeb.site^
+||izjvndjendqdv.website^
 ||izjzyykiyn.club^
 ||izkivydhiqfjx.store^
 ||izktfetimdfrj.online^
@@ -37108,6 +37110,7 @@ browsershots.org#@#.advert_area
 ||kddaaqvrlf.net^
 ||kddlljplazsfp.website^
 ||kdgsjnvihiir.com^
+||kdhwaqcwpqvwo.website^
 ||kdisbgxtxiyru.online^
 ||kdlaojwdlopah.space^
 ||kdmizytjznodo.online^
@@ -42043,6 +42046,7 @@ browsershots.org#@#.advert_area
 ||naupsakiwhy.com^
 ||naupsithizeekee.com^
 ||nauroaphaiw.net^
+||nauroguzega.com^
 ||nauseanilghai.shop^
 ||nauseousrocketjosephine.com^
 ||naushoocugloash.net^
@@ -51286,6 +51290,7 @@ browsershots.org#@#.advert_area
 ||sebacictriazin.cyou^
 ||sebagofulvene.click^
 ||sebundyjannock.qpon^
+||secaledacian.cyou^
 ||secludeyourselvescaraway.com^
 ||secondbeltis.qpon^
 ||secondcallousnodding.com^
@@ -55332,6 +55337,7 @@ browsershots.org#@#.advert_area
 ||tragedybuffaloappraisal.com^
 ||tragency-clesburg.icu^
 ||tragic-treat.com^
+||tragioncrook.cyou^
 ||traglencium.com^
 ||trahingly.com^
 ||trailerchauffeurfascinating.com^
@@ -70690,7 +70696,6 @@ browsershots.org#@#.advert_area
 ! *** easylist:easylist_adult/adult_thirdparty_popup.txt ***
 ||ad.pornimg.xyz^$popup
 ||adultfriendfinder.com/banners/$popup,third-party
-||adultfriendfinder.com/go/$popup,third-party
 ||benaughty.com^$popup
 ||bongacams8.com/track?$popup
 ||brazzerssurvey.com^$popup
