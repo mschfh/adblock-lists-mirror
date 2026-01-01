@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601012041
+! Version: 202601012115
 ! Title: EasyList
-! Last modified: 01 Jan 2026 20:41 UTC
+! Last modified: 01 Jan 2026 21:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 229dc8f58d3a2ac0110386129d2227c02df8b406
+! Commit: ffd633d43ff3c59bafbc326159cea1b845af6b2e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16199,6 +16199,7 @@ browsershots.org#@#.advert_area
 ||5icim50.de^
 ||5iewmxrnm7r3ckpcyfk.rest^
 ||5ivy3ikkt.com^
+||5jfqo4jux32nmhkp2vtgg62cggc.rest^
 ||5klitp1tgh6x1cvqj3jxyk2.rest^
 ||5kov1f2o.xyz^
 ||5m1cpnbnof1whie687ohjufy.rest^
@@ -16836,6 +16837,7 @@ browsershots.org#@#.advert_area
 ||abhoropinant.click^
 ||abiaxnkcprczb.space^
 ||abiddenisleted.cfd^
+||abidersduole.cyou^
 ||abieticskint.shop^
 ||abigailbusbies.rest^
 ||abiosissubmaid.cyou^
@@ -21614,6 +21616,7 @@ browsershots.org#@#.advert_area
 ||brazenspugmark.shop^
 ||brazenwholly.com^
 ||brazersvealers.rest^
+||braziersynop.cfd^
 ||brcjvwooqneol.online^
 ||brdbwayjkebb.xyz^
 ||brdhbizupevpj.online^
@@ -33662,6 +33665,7 @@ browsershots.org#@#.advert_area
 ||hnnqbxhvpbgvf.site^
 ||hnozowvjowsgw.online^
 ||hnrgmc.com^
+||hnsbsgnqcvqmn.site^
 ||hnsziqysnqozo.website^
 ||hnvhpxetfugpx.online^
 ||hnwiibluelwtfuf.com^
@@ -35669,6 +35673,7 @@ browsershots.org#@#.advert_area
 ||iulqktifw.com^
 ||iumdnilpxclup.store^
 ||iunismkwstgdf.site^
+||iunmrmdyetjbe.website^
 ||iunooguymoxl.com^
 ||iuotvthujdvzq.online^
 ||iuowigkmzxzay.website^
@@ -40461,6 +40466,7 @@ browsershots.org#@#.advert_area
 ||mepkbonqzmuvl.xyz^
 ||mepuyu.xyz^
 ||mercenaryslaveryplays.com^
+||merceralose.qpon^
 ||merchandisevat.com^
 ||merchantequationresponse.com^
 ||merchenta.com^
@@ -49727,6 +49733,7 @@ browsershots.org#@#.advert_area
 ||rheneapfg.com^
 ||rheoantilia.cyou^
 ||rhesisuruisg.click^
+||rhesusclunked.cyou^
 ||rhexissubdebs.top^
 ||rhgxenlijkggd.website^
 ||rhhvkmwlxeyst.store^
@@ -51027,6 +51034,7 @@ browsershots.org#@#.advert_area
 ||sbqftczkszzfs.online^
 ||sbqjioehjqnzb.site^
 ||sbrxwyudkepkc.site^
+||sbtgxcxcnvaj.com^
 ||sbtiulwkstzpt.space^
 ||sbuobpzymktwt.online^
 ||sbwrwbevfoykx.website^
@@ -59443,6 +59451,7 @@ browsershots.org#@#.advert_area
 ||wmpuejxu2uhppwonx861b.rest^
 ||wmpuem.com^
 ||wmqlqtbzcbvri.site^
+||wmr3mlj47ucmgq.cfd^
 ||wmrnhjhjamiev.website^
 ||wmtbivpifywrc.one^
 ||wmtten.com^
@@ -62184,6 +62193,7 @@ browsershots.org#@#.advert_area
 ||zykkjyaokokbq.top^
 ||zykkjyaokokve.top^
 ||zymindresden.rest^
+||zymjzwakjlvb.top^
 ||zymjzwvmjlkb.top^
 ||zynewaylxyxex.buzz^
 ||zynnrgeptfjhg.online^
