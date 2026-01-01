@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601010639
+! Version: 202601010715
 ! Title: EasyList
-! Last modified: 01 Jan 2026 06:39 UTC
+! Last modified: 01 Jan 2026 07:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bfdb79111f3e299e9df37e6dc6e5e8974257927a
+! Commit: feefbf22f38c85b5edf3025c9accb1b8be77bb96
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19900,6 +19900,7 @@ browsershots.org#@#.advert_area
 ||ba69a24a2a.com^
 ||ba7dea6a05.com^
 ||baalismdolisie.click^
+||baaxadlryev.com^
 ||bab3105053.com^
 ||babascoleucine.rest^
 ||babblerrettory.rest^
@@ -29027,6 +29028,7 @@ browsershots.org#@#.advert_area
 ||faivohoaboogron.com^
 ||fajkyofaxhdvo.website^
 ||fajukc.com^
+||fake-maximum.pro^
 ||fake-square.com^
 ||fakemeal.pro^
 ||falcatagerman.shop^
@@ -42592,6 +42594,7 @@ browsershots.org#@#.advert_area
 ||nnerventualkentin.org^
 ||nneurlaben.xyz^
 ||nnfaatpwydlje.space^
+||nnfdjlowdsdpqq.com^
 ||nnhghmknpmph.xyz^
 ||nnkkwfcnwkzud.space^
 ||nnknzxxqlzmxf.space^
@@ -49304,6 +49307,7 @@ browsershots.org#@#.advert_area
 ||rentorshal.com^
 ||renugtqvhsnjb.space^
 ||renvkfggajjx.com^
+||reobakvmyqoj.top^
 ||reobalkeyqej.top^
 ||reobalyboaoj.top^
 ||reoccureucalyn.qpon^
@@ -60468,6 +60472,7 @@ browsershots.org#@#.advert_area
 ||xxxwebtraffic.com^
 ||xxxzbkhpjxzry.store^
 ||xxzccpsbdybmx.website^
+||xybieybxjibvj.site^
 ||xycyblnwl.net^
 ||xycycwtdnmhex.website^
 ||xydlemuxvbip.com^
@@ -61541,6 +61546,7 @@ browsershots.org#@#.advert_area
 ||zghdautxlwvis.store^
 ||zgijtonvzgadk.online^
 ||zgkowgslzqhir.online^
+||zgnuydyvcuqdt.online^
 ||zgnymibptufjb.site^
 ||zgrakgyhvqyzv.online^
 ||zgrnhlppjonj.com^
