@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601021020
+! Version: 202601021042
 ! Title: EasyList
-! Last modified: 02 Jan 2026 10:20 UTC
+! Last modified: 02 Jan 2026 10:42 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ddd1d1987e4d59b264d3734dcd66c8b2d294ed36
+! Commit: 147b89f79ae05fc0f08bfda98272983e8441bdb6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28907,6 +28907,7 @@ browsershots.org#@#.advert_area
 ||extensivetravelled.com^
 ||extentsunfumed.cfd^
 ||extenuatemusketsector.com^
+||extinguishbethpasta.com^
 ||extinguishsufferingsalty.com^
 ||extracthorizontaldashing.com^
 ||extractionalofthumiliation.com^
@@ -32448,6 +32449,7 @@ browsershots.org#@#.advert_area
 ||gssevyqzbvqgt.online^
 ||gswondenthaiti.org^
 ||gswvvqmqgstfo.com^
+||gsyndication.com^
 ||gt5tiybvn.com^
 ||gtamdkkudzvyo.online^
 ||gtbbgjo.art^
@@ -33374,6 +33376,7 @@ browsershots.org#@#.advert_area
 ||hfnfoupaytndf.space^
 ||hfopewkdgmcal.site^
 ||hfopteyhgqeas.online^
+||hfqsgcclxlvll.online^
 ||hfqxrivbvubyz.store^
 ||hfsecdrzfdsry.club^
 ||hftciwcfqrotx.online^
@@ -34693,6 +34696,7 @@ browsershots.org#@#.advert_area
 ||ignateignatetame.com^
 ||ignoblerectifymargaret.com^
 ||ignorant-excitement.pro^
+||ignorant-party.pro^
 ||ignorantdamage.pro^
 ||ignoreareoles.cfd^
 ||ignoresphlorol.com^
@@ -50967,6 +50971,7 @@ browsershots.org#@#.advert_area
 ||saltiregrimme.com^
 ||saltsleaseholder.com^
 ||salty-land.pro^
+||salutationlie.com^
 ||saluteenfold.com^
 ||salutetutortwiddling.com^
 ||salvageapplet.com^
@@ -53715,6 +53720,7 @@ browsershots.org#@#.advert_area
 ||sumptuousmonks.com^
 ||suncgaxaumzmf.website^
 ||sundaeoomiak.shop^
+||sundaycomplicate.com^
 ||sundayplough.com^
 ||sunfallbiali.qpon^
 ||sunflowercross.com^
@@ -56969,6 +56975,7 @@ browsershots.org#@#.advert_area
 ||uppersrepage.help^
 ||upqdazjgizzfl.space^
 ||upreinmurmi.shop^
+||uprightbunnypane.com^
 ||uprimp.com^
 ||uprivaladserver.net^
 ||uproardevisederived.com^
@@ -59592,6 +59599,7 @@ browsershots.org#@#.advert_area
 ||wmvinjxgtvqup.online^
 ||wmvtibcjosa.com^
 ||wmwwmblvqqkr.top^
+||wmwwmbqrqqmr.top^
 ||wmxagjqnfhevz.website^
 ||wmxzrccwgpenl.website^
 ||wmyqdnrtqztqa.com^
