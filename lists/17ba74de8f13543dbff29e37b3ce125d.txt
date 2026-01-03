@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601032312
+! Version: 202601032336
 ! Title: EasyList
-! Last modified: 03 Jan 2026 23:12 UTC
+! Last modified: 03 Jan 2026 23:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 415e48364ec414b7e4029be82d999f4c1f009806
+! Commit: 7cff5f07f70ab8e19a423a032e9f75e5d737959b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -30133,6 +30133,7 @@ browsershots.org#@#.advert_area
 ||glaixich.net^
 ||glakedhansard.cfd^
 ||glamorousconditionsattempt.com^
+||glamorousdish.pro^
 ||glamoroustangiblematching.com^
 ||glancedsecretion.com^
 ||glanceszippersyaird.cyou^
@@ -36498,6 +36499,7 @@ browsershots.org#@#.advert_area
 ||lexolbuvjhmau.online^
 ||lexorawebnet.com^
 ||lfafacbfqrsom.online^
+||lfamuxkaqobp.com^
 ||lfapxjnjapalg.space^
 ||lfarewesbeginn.com^
 ||lfasterbiscusyse.org^
@@ -52791,6 +52793,7 @@ browsershots.org#@#.advert_area
 ||unresolvedtame.com^
 ||unrestwidthconsonant.com^
 ||unridhoncho.com^
+||unrigshirerneist.cyou^
 ||unripe-anybody.pro^
 ||unripe-parking.com^
 ||unripewar.com^
@@ -56899,6 +56902,7 @@ browsershots.org#@#.advert_area
 ||yozxgwnjsbspo.website^
 ||yp9f2w7v92j421ojvc.cfd^
 ||ypavokduiwfof.website^
+||ypbijrwl.com^
 ||ypcqhgapbjqmi.site^
 ||ype7.com^
 ||ypedyumnpafvy.xyz^
@@ -57605,6 +57609,7 @@ browsershots.org#@#.advert_area
 ||zpwlgazfvycmd.online^
 ||zpwllfsjphpig.online^
 ||zpww6cvibbxqt6zv2izb35exxh6.cfd^
+||zpyzigacn.com^
 ||zqaujzsxkazrn.online^
 ||zqdekzkqwvzcl.buzz^
 ||zqdetabyxxnwp.website^
