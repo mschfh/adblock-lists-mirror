@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601061743
+! Version: 202601061821
 ! Title: EasyList
-! Last modified: 06 Jan 2026 17:43 UTC
+! Last modified: 06 Jan 2026 18:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 76360b8521f25c447eff8d892be8e500389906dd
+! Commit: 0b85f0de39dd5bda9dfa692f36d1a6401b133f05
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23267,6 +23267,7 @@ browsershots.org#@#.advert_area
 ||colossalanswer.com^
 ||colossaltroubledknocked.com^
 ||colossusssp.com^
+||colourfulplayerperspective.com^
 ||colphegbinzuru.cyou^
 ||coltlimb.com^
 ||columbahealing.cyou^
@@ -26495,6 +26496,7 @@ browsershots.org#@#.advert_area
 ||eceuvtsjfoauc.site^
 ||echgrrnrjfqm.net^
 ||echisfaiths.cyou^
+||echiumthos.cfd^
 ||echoertongers.qpon^
 ||echoflaresoap.com^
 ||echopixelwave.net^
@@ -30910,6 +30912,7 @@ browsershots.org#@#.advert_area
 ||greepseedrobouk.net^
 ||greerogloo.net^
 ||greeshoatsaun.net^
+||greetedoverdid.cyou^
 ||greeter.me^
 ||greetingsdaydreamlitre.com^
 ||greevedaikon.cfd^
@@ -31008,6 +31011,7 @@ browsershots.org#@#.advert_area
 ||groshirdossa.net^
 ||groshoapsock.net^
 ||grotespace.com^
+||grotesquephilosophy.com^
 ||grotzenzelotic.com^
 ||grouchy-wedding.pro^
 ||grouchyrecover.com^
@@ -34256,6 +34260,7 @@ browsershots.org#@#.advert_area
 ||iymvmpyfsqnui.site^
 ||iynjavfquxrirfn.com^
 ||iypxxhjdiwggg.website^
+||iyqnahkspthlb.site^
 ||iytlhykzxford.space^
 ||iyxkoshoagpfc.website^
 ||iyykavopdpkxx.site^
@@ -37118,6 +37123,7 @@ browsershots.org#@#.advert_area
 ||ljzmgetupguna.site^
 ||lkaowvjzjfkyd.store^
 ||lkauxiqpwlsfr.rocks^
+||lkcfyglveryvl.online^
 ||lkcmhagkoakpp.online^
 ||lkcoffe.com^
 ||lkdvvxvtsq6o.com^
@@ -42607,6 +42613,7 @@ browsershots.org#@#.advert_area
 ||p6jn1brfl5umwc2t2z4e3l7mv83f7jvp97.cfd^
 ||p834uxchy4uwfvfgj.cfd^
 ||p8wj9zko.com^
+||p9t8yvqh5p4184e2ueh16lnk2gg3g7x4m.cfd^
 ||pa5ka.com^
 ||paaeeets.net^
 ||paaguryqfkclz.space^
@@ -45571,6 +45578,7 @@ browsershots.org#@#.advert_area
 ||qoqv.com^
 ||qottubusyheqj.store^
 ||qotuprmsjnjbn.site^
+||qouanpthjle.xyz^
 ||qouwtyxfglrunq.net^
 ||qovdtdoiazazm.site^
 ||qoxrmcuiogxhe.website^
@@ -47510,6 +47518,7 @@ browsershots.org#@#.advert_area
 ||rrentlysearchi.org^
 ||rretmobueggyz.site^
 ||rrmlejjwevzk.top^
+||rrmraxpaufunfk.com^
 ||rrobbybmkwavw.top^
 ||rrobbybmkwjww.top^
 ||rrokfezlcfilh.online^
@@ -54767,6 +54776,7 @@ browsershots.org#@#.advert_area
 ||vuwzer.com^
 ||vuzhzlzswecvc.global^
 ||vv8h9vyjgnst.com^
+||vvabjoqkemmaw.top^
 ||vvambrbkbcvoi.online^
 ||vvavemweejphd.website^
 ||vvbxyvqcwsl.net^
