@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601062139
+! Version: 202601062210
 ! Title: EasyList
-! Last modified: 06 Jan 2026 21:39 UTC
+! Last modified: 06 Jan 2026 22:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b12d75cc7e7ab2d0200cd1f3d1db49c1f1e2f207
+! Commit: d728003ed0abea68447533e9a1c438ce2ffed4be
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -35203,6 +35203,7 @@ browsershots.org#@#.advert_area
 ||jvergbdvwit.xyz^
 ||jvlrcbfxijxgk.store^
 ||jvmbgorjhyyao.click^
+||jvmevgutwg.com^
 ||jvqlisbixnxaz.space^
 ||jvsrablddanwb.space^
 ||jvvaeiaiemsjj.website^
@@ -39022,6 +39023,7 @@ browsershots.org#@#.advert_area
 ||mnirvpwlocqxh.online^
 ||mnlccsvceiohk.site^
 ||mnlgcsbncodnw.online^
+||mnluyuegcbjdx.website^
 ||mnmerqvmxbpiup.xyz^
 ||mnmiunmojyncy.website^
 ||mnmsvtqnvtbbf.online^
@@ -53314,6 +53316,7 @@ browsershots.org#@#.advert_area
 ||unpufframpler.com^
 ||unqsnzyrsdkuz.website^
 ||unquittertii.help^
+||unquotejervin.cfd^
 ||unqxeekhpyfyq.online^
 ||unracedglogg.cfd^
 ||unrainydevalue.rest^
@@ -54143,6 +54146,7 @@ browsershots.org#@#.advert_area
 ||vereforhedidn.org^
 ||veresultedinncreast.com^
 ||veret-fqv.com^
+||vereyfjeldcyclism.cfd^
 ||verifiablecomfort.com^
 ||verifiablecontest.com^
 ||verifiabledoctor.pro^
