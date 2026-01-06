@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601061937
+! Version: 202601062011
 ! Title: EasyList
-! Last modified: 06 Jan 2026 19:37 UTC
+! Last modified: 06 Jan 2026 20:11 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 79ad0f064ce42fe21ad94211bbf07d5a9c53bd4d
+! Commit: df27f108e8c024049a1393fe0cbb8aadb91776b8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19249,6 +19249,7 @@ browsershots.org#@#.advert_area
 ||autoportgen.space^
 ||autopsytan.com^
 ||auvaugushik.net^
+||auwhouwikri.com^
 ||auxml.com^
 ||auypgtmvwerhh.store^
 ||auyuistnjvgmi.site^
@@ -19905,6 +19906,7 @@ browsershots.org#@#.advert_area
 ||bchqezzrmsqng.online^
 ||bclogin-check.com^
 ||bcloudhost.com^
+||bclqzrrkefcwq.website^
 ||bcluksfhyquqp.space^
 ||bcmimhkecgwfj.space^
 ||bcngzqzripfgb.online^
@@ -32611,6 +32613,7 @@ browsershots.org#@#.advert_area
 ||hruch.site^
 ||hrvmmjeueftjj.site^
 ||hrvvqcnilgti34uhxcgcigcn33.cfd^
+||hrwfrjwrekmqd.site^
 ||hrwhwcyqjritt.xyz^
 ||hrwozjgbmxiad.website^
 ||hrxeublgkniat.website^
@@ -34698,6 +34701,7 @@ browsershots.org#@#.advert_area
 ||jjfseftxrstt.net^
 ||jjfseftxrstt.xyz^
 ||jjgscmamptmer.site^
+||jjhkppnhro.com^
 ||jjixhsyfdkv.net^
 ||jjixhsyfdkv.xyz^
 ||jjjgqtzlslhzi.online^
@@ -46582,6 +46586,7 @@ browsershots.org#@#.advert_area
 ||relaxesgyrocar.help^
 ||relaxtime24.biz^
 ||relayerragees.cyou^
+||relearnopahs.com^
 ||releasedfinish.com^
 ||relentdendric.cyou^
 ||relestar.com^
