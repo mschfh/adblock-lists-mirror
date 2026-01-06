@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601062309
+! Version: 202601062338
 ! Title: EasyList
-! Last modified: 06 Jan 2026 23:09 UTC
+! Last modified: 06 Jan 2026 23:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f9741161ac2a2aa239fa2c9bc4839c6f4bbfe9e5
+! Commit: a392ad0d2a65c5bce7d2ebaf12b71b371d1a7a2e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19903,6 +19903,7 @@ browsershots.org#@#.advert_area
 ||bca10c62ca.com^
 ||bcafchldfejnd.online^
 ||bcayuytkwglcg.site^
+||bccqnruipevxy.website^
 ||bcfdievadiiss.space^
 ||bcfrangpur.help^
 ||bcgwetajinklt.website^
@@ -21094,6 +21095,7 @@ browsershots.org#@#.advert_area
 ||boyunakylie.com^
 ||boyyrhdiytgjg.online^
 ||bozxkkymjemba.website^
+||bpacihfabm.com^
 ||bpaskocipw.com^
 ||bpauszxiaozwb.site^
 ||bpbnelpowldjl.space^
@@ -33768,6 +33770,7 @@ browsershots.org#@#.advert_area
 ||insultscollyr.cfd^
 ||insure1266.fun^
 ||insureegushier.cfd^
+||insurerappareloctans.cyou^
 ||inswellbathes.com^
 ||intactbeatengraceless.com^
 ||integralvoteceased.com^
@@ -40620,6 +40623,7 @@ browsershots.org#@#.advert_area
 ||noncomsdudine.cyou^
 ||nonculifus.com^
 ||nondescriptriddle.com^
+||nonehblz.com^
 ||nonelegiac.cyou^
 ||nonerr.com^
 ||nonethelessaugustcategory.com^
@@ -45200,6 +45204,7 @@ browsershots.org#@#.advert_area
 ||pzrgtwyjrhgiu.website^
 ||pztjqvvagwhlj.site^
 ||pztk4hxz72g5orqxrjny4fgov.rest^
+||pzuxaxlaxxig.com^
 ||pzvai.site^
 ||pzwzitvbdhpiw.website^
 ||pzxjjwbdvxxbi.store^
@@ -47052,6 +47057,7 @@ browsershots.org#@#.advert_area
 ||rigapchevkews.site^
 ||riggishants.help^
 ||rightfullyincomparablefortnight.com^
+||rightlanguage.pro^
 ||rightpiece.pro^
 ||rightyclasp.com^
 ||rightymatch.com^
@@ -56651,6 +56657,7 @@ browsershots.org#@#.advert_area
 ||xkudvpefmaeua.online^
 ||xkuleysuqgzbz.website^
 ||xkupvlrigudmc.space^
+||xkusyhkelkury.website^
 ||xkyacqlikntqg.space^
 ||xlakqgtnzjcix.online^
 ||xlbgbzzphvkac.site^
@@ -57911,6 +57918,7 @@ browsershots.org#@#.advert_area
 ||zendsphagia.qpon^
 ||zenkreka.com^
 ||zenoviagroup.com^
+||zeoideimorbus.cyou^
 ||zephyronearc.com^
 ||zepmqjqyhpjjw.store^
 ||zeptouvoceerga.net^
