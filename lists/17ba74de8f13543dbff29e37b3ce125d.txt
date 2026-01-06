@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601061253
+! Version: 202601061319
 ! Title: EasyList
-! Last modified: 06 Jan 2026 12:53 UTC
+! Last modified: 06 Jan 2026 13:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4bca2ce7899165ded71883ea129a75abee9d837a
+! Commit: f32fcb83eebc58e1279df96bd9cc43ef1bf75f70
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20049,6 +20049,7 @@ browsershots.org#@#.advert_area
 ||beigedevotedcockpit.com^
 ||beigelseizor.cfd^
 ||bejkfhbmrjw.xyz^
+||bejmomngrxgbc.website^
 ||bejwponulwdwx.online^
 ||bekingstowp.qpon^
 ||bekpflllvuefn.website^
@@ -23142,6 +23143,7 @@ browsershots.org#@#.advert_area
 ||coagruleny.net^
 ||coahoapsoleeque.net^
 ||coaldrily.help^
+||coaledgreiges.cfd^
 ||coalerslintols.qpon^
 ||coalsydney.digital^
 ||coaphauk.net^
@@ -34561,6 +34563,7 @@ browsershots.org#@#.advert_area
 ||jg43iqqd.xyz^
 ||jganqtdsam.net^
 ||jgcmzlhhvxvpf.website^
+||jgeknscotmnqytx.com^
 ||jgenbxavuxbha.online^
 ||jgiajhhxeceki.online^
 ||jgkpsxlnqnknp.site^
@@ -39922,6 +39925,7 @@ browsershots.org#@#.advert_area
 ||navitarponpicker.cyou^
 ||navtlkdihvagi.online^
 ||navwmaakbo.com^
+||nawabdyke.cfd^
 ||nawpush.com^
 ||naytjhzybtvqx.site^
 ||naznfshwgtkyk.space^
@@ -48723,6 +48727,7 @@ browsershots.org#@#.advert_area
 ||shidsaroode.net^
 ||shielrelents.cfd^
 ||shierhotbed.qpon^
+||shiitehunyak.cfd^
 ||shikroux.net^
 ||shiksescygnus.qpon^
 ||shilfasemify.cyou^
@@ -49576,6 +49581,7 @@ browsershots.org#@#.advert_area
 ||soudansclaudegobi.cfd^
 ||soulful-contact.com^
 ||soulsdeliriousnoise.com^
+||soulsfliest.cfd^
 ||soumehoo.net^
 ||souocvjmfccpx.store^
 ||soupermusky.qpon^
@@ -53378,6 +53384,7 @@ browsershots.org#@#.advert_area
 ||upbearheezie.cfd^
 ||upbindsswythe.com^
 ||upbracetriaryl.shop^
+||upbyedaur.cyou^
 ||upchoketem.qpon^
 ||upclimbketimin.cfd^
 ||updaight.com^
