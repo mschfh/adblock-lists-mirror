@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601060048
+! Version: 202601060143
 ! Title: EasyList
-! Last modified: 06 Jan 2026 00:48 UTC
+! Last modified: 06 Jan 2026 01:43 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4db95a7de5c38238b8043b0f883e57df808cb63a
+! Commit: 361cd60f715da6e79246da26f8ce9235b22bd7cf
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20211,6 +20211,7 @@ browsershots.org#@#.advert_area
 ||betr-for-tod.com^
 ||betray1266.fun^
 ||bett2you.net^
+||bettedunchid.shop^
 ||bettentacruela.com^
 ||better-u.vip^
 ||betteradsystem.com^
@@ -22441,6 +22442,7 @@ browsershots.org#@#.advert_area
 ||cheaplow.pro^
 ||cheapmachinerywail.com^
 ||cheappollution.pro^
+||cheateditza.cyou^
 ||cheatingagricultural.com^
 ||cheboolraibsook.net^
 ||check-tl-ver-294-2.com^
@@ -25002,6 +25004,7 @@ browsershots.org#@#.advert_area
 ||developmentgoat.com^
 ||devgottia.github.io^
 ||deviatesbirro.shop^
+||devicedisjoin.cfd^
 ||deview-moryant.icu^
 ||devilinquiry.com^
 ||devilryfelled.cyou^
@@ -27961,6 +27964,7 @@ browsershots.org#@#.advert_area
 ||faginecoriausxiphiid.cfd^
 ||fahrenheitpastesocket.com^
 ||fahrenheittoneclaim.com^
+||faichaiteeby.com^
 ||faifoupseeroah.net^
 ||faihcgsfmakuz.site^
 ||faikesevinced.top^
@@ -35249,6 +35253,7 @@ browsershots.org#@#.advert_area
 ||kaimegloagribok.net^
 ||kaiphushoawi.net^
 ||kaipsoogloo.net^
+||kaiserssalame.cfd^
 ||kaiu-marketing.com^
 ||kajtzuddixmyt.site^
 ||kajyqgfjhohks.website^
@@ -43738,6 +43743,7 @@ browsershots.org#@#.advert_area
 ||poabeestook.net^
 ||poacawhe.net^
 ||poaceaemilla.help^
+||poachesspacers.cyou^
 ||poachgoolcalpul.cyou^
 ||poachostistour.net^
 ||poachsordes.qpon^
@@ -46894,6 +46900,7 @@ browsershots.org#@#.advert_area
 ||ridgeyelpastronomy.com^
 ||ridginglimbate.qpon^
 ||ridingpertconquest.com^
+||ridottosacrumparched.cfd^
 ||ridxvydxlhiej.online^
 ||rielsgetfd.help^
 ||riflepicked.com^
@@ -49620,6 +49627,7 @@ browsershots.org#@#.advert_area
 ||spicytask.pro^
 ||spieredcrotal.help^
 ||spiffyboy.com^
+||spifyoungun.cyou^
 ||spignelwide.qpon^
 ||spijmwsbvc.net^
 ||spijmwsbvc.xyz^
@@ -51106,6 +51114,7 @@ browsershots.org#@#.advert_area
 ||tetherstried.help^
 ||tetrousfiz.cyou^
 ||teuchitreality.cyou^
+||teutonsurfs.cyou^
 ||tevfosejxalzh.website^
 ||tevgrruahhvgy.website^
 ||tevryvlkjnqec.website^
@@ -56579,6 +56588,7 @@ browsershots.org#@#.advert_area
 ||xppedsonpcwzu.website^
 ||xppx1662.xyz^
 ||xprwwzkwiwtzk.online^
+||xpvebnbyrnhk.com^
 ||xpvv0rkn.fun^
 ||xpwpkuexwpakf.store^
 ||xpxhflmlgqujl.website^
