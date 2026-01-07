@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601071912
+! Version: 202601071943
 ! Title: EasyList
-! Last modified: 07 Jan 2026 19:12 UTC
+! Last modified: 07 Jan 2026 19:43 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2fc8167b1f6ad8cb2019909518e806e25821f4ff
+! Commit: 2374fb25ac2cdfe6a1fc42d06e64ccd591ccc75d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38315,6 +38315,7 @@ browsershots.org#@#.advert_area
 ||massyornoite.qpon^
 ||masteringjscode.com^
 ||mastinstungmoreal.com^
+||matamant.com^
 ||matcaogeujmco.website^
 ||matchedfrized.cfd^
 ||matchjunkie.com^
@@ -40418,6 +40419,7 @@ browsershots.org#@#.advert_area
 ||nhkngcedmtjhd.website^
 ||nhkstivqaqwvz.store^
 ||nhlrspxvdmuea.site^
+||nhonnlvjebaid.site^
 ||nhqjiwltuwbqc.website^
 ||nhqkijpqeguuh.store^
 ||nhrdmdidxvae.com^
@@ -41681,6 +41683,7 @@ browsershots.org#@#.advert_area
 ||ogxmhp8mtgli2rb.cfd^
 ||ogxntutl.fun^
 ||ogxtoqiogfeuuf.com^
+||ogypquywenfmq.site^
 ||ogz4n3ke.xyz^
 ||ogzashgkmhted.space^
 ||ogzdumaqlo.com^
@@ -43633,6 +43636,7 @@ browsershots.org#@#.advert_area
 ||pierisrapgae.com^
 ||pieshoptolsey.shop^
 ||piestprevot.com^
+||pietismreddles.com^
 ||pievsejhampai.online^
 ||piewifegee.qpon^
 ||pigeoncontentmentcotton.com^
