@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601070338
+! Version: 202601070422
 ! Title: EasyList
-! Last modified: 07 Jan 2026 03:38 UTC
+! Last modified: 07 Jan 2026 04:22 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 35474df7c0d991ba76bd9742c4e9525d1207a79e
+! Commit: 80514f35a499a7ceb552a5376346067f08834d32
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24607,6 +24607,7 @@ browsershots.org#@#.advert_area
 ||davachpesach.cfd^
 ||davdjpku.xyz^
 ||davidoffhand.com^
+||davyqumpa.com^
 ||dawac.com^
 ||dawetywjzsinl.online^
 ||dawkincreagh.qpon^
@@ -25369,6 +25370,7 @@ browsershots.org#@#.advert_area
 ||disdainevaluation.com^
 ||disdainplayedbluster.com^
 ||disduboleinbolide.cyou^
+||disfigured-play.pro^
 ||disfiguredcomment.com^
 ||disguised-confidence.pro^
 ||disguised-dad.com^
@@ -32571,6 +32573,7 @@ browsershots.org#@#.advert_area
 ||hpkuxkhsulgtf.space^
 ||hplclkfhxbzqc.site^
 ||hplcpfxbquaek.space^
+||hplorfdbzidtd.site^
 ||hpmstr.com^
 ||hpngfzljfnvke.site^
 ||hpnkctxx.buzz^
@@ -37303,6 +37306,7 @@ browsershots.org#@#.advert_area
 ||lnxqutfhz525vf.cyou^
 ||lnyswskqgbtll.site^
 ||lnzsinagpafgv.website^
+||loachuvachu.net^
 ||loader.netzwelt.de^
 ||loadercdn.com^
 ||loadingscripts.com^
@@ -39675,6 +39679,7 @@ browsershots.org#@#.advert_area
 ||mvijuifysyjrz.rocks^
 ||mvjigogkqlgxo.icu^
 ||mvkntnglfdqoy.site^
+||mvovblzjltyec.online^
 ||mvqwxwnmwhbzb.website^
 ||mvrnxfxtvsuix.website^
 ||mvrptblhcuehu.website^
@@ -47593,6 +47598,7 @@ browsershots.org#@#.advert_area
 ||rrqwarwrewbyy.top^
 ||rrqwarwrewlbj.top^
 ||rrqwarwrewrlj.top^
+||rrtgvaoviu.com^
 ||rrtrivkvstpci.site^
 ||rruxvlycnmeko.xyz^
 ||rrxoysq.art^
@@ -47731,6 +47737,7 @@ browsershots.org#@#.advert_area
 ||rugcookingintersection.com^
 ||rugiomyh2vmr.com^
 ||rugpowerfully.com^
+||rugsicotypebuttal.cyou^
 ||rugtranslating.com^
 ||rugyhrjawkmln.site^
 ||ruhtgbkacgrqj.space^
@@ -50122,6 +50129,7 @@ browsershots.org#@#.advert_area
 ||starmobmedia.com^
 ||starnhomy.cfd^
 ||starredespouse.click^
+||starry-block.pro^
 ||starry-galaxy.com^
 ||starrylook.com^
 ||starryprotection.com^
