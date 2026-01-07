@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601071012
+! Version: 202601071041
 ! Title: EasyList
-! Last modified: 07 Jan 2026 10:12 UTC
+! Last modified: 07 Jan 2026 10:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 74a918d0be992c032eb0286f310133e3b8ff8102
+! Commit: 62453baa0833b38452f36e800acce36f4fdf5a5b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25511,6 +25511,7 @@ browsershots.org#@#.advert_area
 ||djmdvnfdbvzjr.website^
 ||djmwjvmpkchtg.website^
 ||djncmafidfcpm.online^
+||djnezvbvenyrm.website^
 ||djnmhjfmdymrz.space^
 ||djnrflri.com^
 ||djoiiiwkdahus.space^
@@ -52728,6 +52729,7 @@ browsershots.org#@#.advert_area
 ||twigfulbespoke.qpon^
 ||twigletupbotch.qpon^
 ||twigwisp.com^
+||twilightinspiredglands.com^
 ||twillermobiles.cfd^
 ||twin-external.pro^
 ||twinabonnementoutburst.com^
@@ -54258,6 +54260,7 @@ browsershots.org#@#.advert_area
 ||verandasandbag.cfd^
 ||verbalimpliedgorilla.com^
 ||verbalpedestalchilly.com^
+||verbassistance.com^
 ||verbatepeel.cyou^
 ||verbsponsor.com^
 ||verbwarilyclotted.com^
@@ -55918,6 +55921,7 @@ browsershots.org#@#.advert_area
 ||wjzrzwyvzvovr.top^
 ||wkaahnvxrhsdn.net^
 ||wkaahnvxrhsdn.xyz^
+||wkamwqeelkoez.top^
 ||wkawzrhphlbus.space^
 ||wkbyglkyywtez.space^
 ||wkcipnrwggdht.store^
@@ -57452,6 +57456,7 @@ browsershots.org#@#.advert_area
 ||yjpqcnhnpaghu.site^
 ||yjrohhkqfddlx.store^
 ||yjtrcuqfxbvhz.space^
+||yjuqgwswbxco.com^
 ||yjwajohilqxia.online^
 ||yjwojvccdukua.site^
 ||yjyjyzprctiln.site^
