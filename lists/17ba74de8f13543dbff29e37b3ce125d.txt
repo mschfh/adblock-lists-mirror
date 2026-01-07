@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601070251
+! Version: 202601070338
 ! Title: EasyList
-! Last modified: 07 Jan 2026 02:51 UTC
+! Last modified: 07 Jan 2026 03:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8373dd1e330d38a6b3b65de4bf9c06d3ea435413
+! Commit: 35474df7c0d991ba76bd9742c4e9525d1207a79e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21406,6 +21406,7 @@ browsershots.org#@#.advert_area
 ||btwpgvvevgssm.site^
 ||btwqllmeezmjn.online^
 ||btxxxnav.com^
+||btykkivjzfjsr.online^
 ||btyklhjjasgfm.club^
 ||btzpcronctvtf.website^
 ||buaontzlplobx.website^
@@ -22618,6 +22619,7 @@ browsershots.org#@#.advert_area
 ||chjesusdgbfgl.website^
 ||chloreaniliid.cyou^
 ||chlziaue.xyz^
+||chmhhmmiphmdl.website^
 ||chmtriplet.qpon^
 ||chnkgnctdimfu.space^
 ||chnsrv.com^
@@ -36844,6 +36846,7 @@ browsershots.org#@#.advert_area
 ||lfgknhbirotrt.space^
 ||lfgoielaksccl.site^
 ||lfjikymmt.net^
+||lflaocoebfflttt.com^
 ||lfmkreaekafry.space^
 ||lfmojneghvivi.com^
 ||lfnwxpcbfpkcx.website^
@@ -37603,6 +37606,7 @@ browsershots.org#@#.advert_area
 ||lsaguwxzarlpe.online^
 ||lsbbtclkiwrdx.online^
 ||lsbzzkonxksrw.site^
+||lscjfayom.xyz^
 ||lscudygcxiqnn.online^
 ||lsdcqjesvxgbw.space^
 ||lsdkprkiwnnzy.site^
@@ -38990,7 +38994,6 @@ browsershots.org#@#.advert_area
 ||mmadsgadget.com^
 ||mmakalqmmprrl.website^
 ||mmbbsfwzgharz.site^
-||mmcdn.com^
 ||mmchkbriryqrl.space^
 ||mmctsvc.com^
 ||mmdrjpgm.com^
@@ -43152,6 +43155,7 @@ browsershots.org#@#.advert_area
 ||penguinhelpful.com^
 ||penholderunhealthymishandle.com^
 ||penjxqxbieezy.top^
+||pennamebenzilwyvern.cfd^
 ||penniedtache.com^
 ||pennilessboost.com^
 ||pennilesscomingall.com^
@@ -44953,6 +44957,7 @@ browsershots.org#@#.advert_area
 ||pultostmomes.qpon^
 ||pulverizefighting.com^
 ||pumaqmqix.com^
+||pumeloricing.com^
 ||pumovimfxrfsy.net^
 ||pumpbead.com^
 ||pumpmenrestage.rest^
@@ -51807,6 +51812,7 @@ browsershots.org#@#.advert_area
 ||tmrjmp.com^
 ||tmvflkkwgqvuj.online^
 ||tmwamxerlexvi.space^
+||tmxnqc5pikfuh2ut411cc784jqm4o7x.cfd^
 ||tnaczwecikco.online^
 ||tnanqkvvrqond.online^
 ||tnbigewpbffra.website^
