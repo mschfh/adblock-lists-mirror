@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601070712
+! Version: 202601070742
 ! Title: EasyList
-! Last modified: 07 Jan 2026 07:12 UTC
+! Last modified: 07 Jan 2026 07:42 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 62374b599f1e2d442c2dd45c4c07736b1bfdc8e5
+! Commit: 4256c3d0e672dd50137bd15603602510027a836b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24300,6 +24300,7 @@ browsershots.org#@#.advert_area
 ||cxzygwseuwnii.website^
 ||cyakhvxwafhsxyv.net^
 ||cyan92010.com^
+||cyapnmztbsf.com^
 ||cyaxgljf.com^
 ||cybkit.com^
 ||cybyhdinwmntx.site^
@@ -24858,6 +24859,7 @@ browsershots.org#@#.advert_area
 ||defnbvzwdlurt.online^
 ||defnvmhficbsd.space^
 ||defogelders.cyou^
+||deforcesapful.com^
 ||defpnxtshgfnu.website^
 ||defpush.com^
 ||defraysrattens.help^
@@ -32201,6 +32203,7 @@ browsershots.org#@#.advert_area
 ||hiwgjxpnkelyw.site^
 ||hiwucomhecyod.site^
 ||hixnvlrmsizkh.website^
+||hixyhbsodvkip.site^
 ||hiyszuqbiglyh.space^
 ||hiziiokmnfojq.site^
 ||hizouhoalsitho.com^
@@ -34156,6 +34159,7 @@ browsershots.org#@#.advert_area
 ||itspezprpadkk.site^
 ||itstuffnews.com^
 ||itswabluon.com^
+||ittaddiiwtqyjv.com^
 ||ittlewallowisfrie.org^
 ||ittoxicroakon.club^
 ||itvalleynews.com^
