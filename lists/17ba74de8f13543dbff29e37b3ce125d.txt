@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601070422
+! Version: 202601070445
 ! Title: EasyList
-! Last modified: 07 Jan 2026 04:22 UTC
+! Last modified: 07 Jan 2026 04:45 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 80514f35a499a7ceb552a5376346067f08834d32
+! Commit: 98a51746b6ad022911eb1edd5ba21f31d513e40d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18297,6 +18297,7 @@ browsershots.org#@#.advert_area
 ||amkurolmww.com^
 ||amlpevtuyxrar.site^
 ||amlumineona.com^
+||amlyyqjwavjer.top^
 ||amlzndgkbicak.store^
 ||ammeossmalts.help^
 ||ammhmvurnghxn.space^
@@ -34478,6 +34479,7 @@ browsershots.org#@#.advert_area
 ||jcbfdecxfd.xyz^
 ||jcbrvlltxucej.site^
 ||jcefzyezfomjd.space^
+||jcesuzihoux.com^
 ||jcfocrpceqtwa.site^
 ||jcgklkxkrltcy.store^
 ||jchqtflnbrpkd.site^
@@ -41682,6 +41684,7 @@ browsershots.org#@#.advert_area
 ||ojzixvohthddo.online^
 ||ojznfnfxuaztb.site^
 ||ojzzpokkuaeuo.site^
+||okadgpkptxakv.website^
 ||okanwoesgsogw.website^
 ||okapiacoot.qpon^
 ||okaysgrange.cyou^
@@ -55783,6 +55786,7 @@ browsershots.org#@#.advert_area
 ||wirulcxbvifym.site^
 ||wirxwyor.com^
 ||wiry-warning.pro^
+||wirytrip.com^
 ||wirywi.qpon^
 ||wise-bridge.pro^
 ||wise-front.com^
