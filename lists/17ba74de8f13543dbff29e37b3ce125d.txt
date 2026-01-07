@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601062338
+! Version: 202601070024
 ! Title: EasyList
-! Last modified: 06 Jan 2026 23:38 UTC
+! Last modified: 07 Jan 2026 00:24 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a392ad0d2a65c5bce7d2ebaf12b71b371d1a7a2e
+! Commit: 33bdb65b34d160dba8615443e186d7f8515343d9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16136,6 +16136,7 @@ browsershots.org#@#.advert_area
 ||5978ef8c9a.com^
 ||5a5751fd6a.com^
 ||5a8a1b39d4.com^
+||5ac36d146b.com^
 ||5adde1db4b.com^
 ||5advertise.com^
 ||5bb66f161d.com^
@@ -19050,6 +19051,7 @@ browsershots.org#@#.advert_area
 ||ateyfathertold.org^
 ||atfkuxujsfdvp.website^
 ||atgvmlnbtnlxl.website^
+||atgxamgbid.xyz^
 ||athauvutefeka.net^
 ||athaveresultedinncr.org^
 ||atheneemiddles.cyou^
@@ -23899,6 +23901,7 @@ browsershots.org#@#.advert_area
 ||crisp-run.pro^
 ||crisp-slice.com^
 ||crispbug.pro^
+||crispcommunication.pro^
 ||crispterracedamage.com^
 ||cristaeaspalax.help^
 ||cristirotter.shop^
@@ -25101,6 +25104,7 @@ browsershots.org#@#.advert_area
 ||dfuijqrojtvcb.site^
 ||dfuxpeudrhrpj.online^
 ||dfvmyfyb.xyz^
+||dfvruigpfghpi.site^
 ||dfwjcksuusdzf.site^
 ||dfycwmrofqyeh.website^
 ||dfyoxcbu.com^
@@ -26847,6 +26851,7 @@ browsershots.org#@#.advert_area
 ||ejnhzgcgazhjl.site^
 ||ejnqilgwjzqys.online^
 ||ejnrfzsbvwqwj.online^
+||ejoanpaklnyrg.space^
 ||ejpmrwxzzggrx.online^
 ||ejqeijlnjfaxn.online^
 ||ejrzeehyqboza.website^
@@ -41145,6 +41150,7 @@ browsershots.org#@#.advert_area
 ||o4gph42vjg17vgzx54gq2xuw.cfd^
 ||o4nofsh6.de^
 ||o4pkovjvjvvj1b7czy5jnx81ppc81fn6f7xk9lo.cfd^
+||o4qp2o95bl22ezt894j4k8f7tj9zk8txikhzc8k.cfd^
 ||o4uxrk33.com^
 ||o5ejl3ejxuvz7w1f4xbiw.cyou^
 ||o626b32etkg6.com^
@@ -44433,6 +44439,7 @@ browsershots.org#@#.advert_area
 ||prmtracking3.com^
 ||prmtracks.com^
 ||prmvpazndpzis.online^
+||prmyobswbvvw.com^
 ||pro-adblocker.com^
 ||pro-advert.de^
 ||pro-market.net^
@@ -45249,6 +45256,7 @@ browsershots.org#@#.advert_area
 ||qasdszuhgnhtl.space^
 ||qawzwkvvkymrb.top^
 ||qazjpdzhatxaw.vip^
+||qazrvoyeevywv.top^
 ||qbbfzbynyrvfv.site^
 ||qbbrgioouswdf.site^
 ||qbcqlchttikmdv.xyz^
@@ -47937,6 +47945,7 @@ browsershots.org#@#.advert_area
 ||sacwumsf.com^
 ||sacxagftoaz.com^
 ||saczvfpaeadxv.space^
+||sad-engine.pro^
 ||sadbasindinner.com^
 ||safbifdgjlptd.website^
 ||safdfbzqjjhef.website^
@@ -49435,6 +49444,7 @@ browsershots.org#@#.advert_area
 ||sneezegridtasting.com^
 ||snehkjlheanqj.website^
 ||snellswrible.cyou^
+||sngajrbhcisdtfs.com^
 ||snickeyfatales.qpon^
 ||snickforfeit.com^
 ||sniffingtransient.com^
