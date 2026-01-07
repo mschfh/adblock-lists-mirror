@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601072309
+! Version: 202601072343
 ! Title: EasyList
-! Last modified: 07 Jan 2026 23:09 UTC
+! Last modified: 07 Jan 2026 23:43 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 669819cdbe299f635f3efeb0afb585a32275fe0e
+! Commit: 71959cf894133d76b62215778092c052bf8bc71b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17963,6 +17963,7 @@ browsershots.org#@#.advert_area
 ||ajacoehkzhvla.website^
 ||ajaelmjytzgmn.website^
 ||ajar-instruction.pro^
+||ajar-lesson.pro^
 ||ajardesire.pro^
 ||ajautchaissaur.net^
 ||ajcafpjuhur.xyz^
@@ -27743,6 +27744,7 @@ browsershots.org#@#.advert_area
 ||evincedendears.cfd^
 ||evjgmxwqhqzhl.space^
 ||evmdamxavzsgk.website^
+||evmyclkocfcnr.space^
 ||evnhigkzgp.club^
 ||evnzrsecbioqp.today^
 ||evocatepooly.help^
@@ -30405,6 +30407,7 @@ browsershots.org#@#.advert_area
 ||gkusantpnfxmn.space^
 ||gkxixncsphfli.online^
 ||gkyju.space^
+||gkyqzaobsaw.com^
 ||gla63a4l.de^
 ||glacifyheild.life^
 ||glackoaneels.net^
@@ -52671,6 +52674,7 @@ browsershots.org#@#.advert_area
 ||tttcraukuyqff.one^
 ||tttrehcqzoguv.online^
 ||ttudarqrldyoc.site^
+||ttudkipi.com^
 ||ttusrifbdjqay.online^
 ||ttvshnuvy.net^
 ||ttvwrtlaa.com^
@@ -56732,6 +56736,7 @@ browsershots.org#@#.advert_area
 ||xcxmpiysijwjr.website^
 ||xcyklkqqzildy.space^
 ||xd51vd1y.xyz^
+||xdbofzoobrmgu.site^
 ||xddofaytuemne.site^
 ||xdhjbmysilynq.site^
 ||xdiccukqbviiz.online^
