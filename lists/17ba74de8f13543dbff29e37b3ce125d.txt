@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601071139
+! Version: 202601071209
 ! Title: EasyList
-! Last modified: 07 Jan 2026 11:39 UTC
+! Last modified: 07 Jan 2026 12:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 94681048008bc7fb9f63c0b8b5b372865e5abe24
+! Commit: 3483b2dae1888ac7a92343e5174a2faea894f91a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20271,6 +20271,7 @@ browsershots.org#@#.advert_area
 ||bewgfbytrstaz.space^
 ||bewhidare.com^
 ||bewhoudacheen.net^
+||bewigsscrowricinus.cfd^
 ||bewitched-display.pro^
 ||bewitched-resort.pro^
 ||bewitched-smell.pro^
@@ -29989,6 +29990,7 @@ browsershots.org#@#.advert_area
 ||gdxgfldzzovjr.space^
 ||gdxgshylwnpnt.online^
 ||gdyidjfdievbd.net^
+||gealfrhcjib.xyz^
 ||geancivies.help^
 ||geancoshers.cyou^
 ||geaqfpjgrhbyo.space^
@@ -31066,6 +31068,7 @@ browsershots.org#@#.advert_area
 ||grortalt.xyz^
 ||groshirdossa.net^
 ||groshoapsock.net^
+||grossbasket.pro^
 ||grotespace.com^
 ||grotesquephilosophy.com^
 ||grotzenzelotic.com^
@@ -32335,6 +32338,7 @@ browsershots.org#@#.advert_area
 ||hnnqbxhvpbgvf.site^
 ||hnozowvjowsgw.online^
 ||hnrgmc.com^
+||hnrokizd.com^
 ||hnsbsgnqcvqmn.site^
 ||hnsziqysnqozo.website^
 ||hnvhpxetfugpx.online^
@@ -33672,6 +33676,7 @@ browsershots.org#@#.advert_area
 ||infeofencrust.cfd^
 ||inferbrevityoption.com^
 ||infercrawfordpreponderant.com^
+||inferiorcurve.pro^
 ||infirmaryabundance.com^
 ||infirmiere-moyersoen.be^
 ||infixedderere.com^
@@ -39912,6 +39917,7 @@ browsershots.org#@#.advert_area
 ||n4sredirect.com^
 ||n5tbizkr8f7to4l9bulp2wkft.cfd^
 ||n91hg.com^
+||n98ekbp8kyqx52r7or2n5iwcjt.cfd^
 ||n9qlx1vqo4yc1u3w1ct.rest^
 ||n9s74npl.de^
 ||naacixmdxcfba.store^
@@ -41980,6 +41986,7 @@ browsershots.org#@#.advert_area
 ||oogloeafifties.help^
 ||oognaxoudroogru.net^
 ||oogneenu.net^
+||oogwwcppdjri.com^
 ||oohkbadeeaaem.site^
 ||oohoafushaup.net^
 ||oohougrauh.net^
@@ -53938,6 +53945,7 @@ browsershots.org#@#.advert_area
 ||uyppognvxjytz.space^
 ||uyprwkmrammol.space^
 ||uyqwpnspgadkq.site^
+||uyriroadwtdwu.space^
 ||uyrolbvqcbrot.site^
 ||uyuvcqrvyatpc.website^
 ||uz-kqtecqs.space^
