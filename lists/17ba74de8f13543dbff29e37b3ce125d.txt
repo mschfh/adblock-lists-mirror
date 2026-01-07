@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601072140
+! Version: 202601072209
 ! Title: EasyList
-! Last modified: 07 Jan 2026 21:40 UTC
+! Last modified: 07 Jan 2026 22:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 814b473dedcb0f816a1578a5626a0c8fcd1ece5a
+! Commit: fa848a0629e13a941f79549f9b491acb8288d784
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21555,6 +21555,7 @@ browsershots.org#@#.advert_area
 ||buriedinadequateinset.com^
 ||burkerchyazic.cyou^
 ||burkhakalekah.com^
+||burkinginwrap.qpon^
 ||burlytonight.pro^
 ||burrelgisla.shop^
 ||burryethene.cfd^
@@ -28973,6 +28974,7 @@ browsershots.org#@#.advert_area
 ||foaglaid.xyz^
 ||foaloastoajez.net^
 ||foaltax.com^
+||foambowluxedrains.cfd^
 ||foamedstrikes.help^
 ||foamerflayer.help^
 ||foamingdetenue.help^
@@ -32055,6 +32057,7 @@ browsershots.org#@#.advert_area
 ||hfqxrivbvubyz.store^
 ||hfsecdrzfdsry.club^
 ||hftciwcfqrotx.online^
+||hfufvtcdp.com^
 ||hfvhrbkblzxlq.site^
 ||hfxvwhstgitib.site^
 ||hfyavgagbiidq.site^
@@ -32966,6 +32969,7 @@ browsershots.org#@#.advert_area
 ||hyfiwldsulvvb.website^
 ||hyfnrjbwkfock.site^
 ||hyfwxqrpnlpmc.website^
+||hygckbylqhutq.website^
 ||hyi5z8ivnlt2ooj9h.cfd^
 ||hyihyfouxfsjb.online^
 ||hyjxuvsklboyu.online^
