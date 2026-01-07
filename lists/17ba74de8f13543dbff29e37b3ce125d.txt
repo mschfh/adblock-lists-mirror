@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601071109
+! Version: 202601071139
 ! Title: EasyList
-! Last modified: 07 Jan 2026 11:09 UTC
+! Last modified: 07 Jan 2026 11:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d8cf7fabf55f63a85dd130382716668c68359e0b
+! Commit: 94681048008bc7fb9f63c0b8b5b372865e5abe24
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18353,6 +18353,7 @@ browsershots.org#@#.advert_area
 ||amwgisnagixqe.store^
 ||amwhxqnpxddcr.online^
 ||amwoukrkskillso.com^
+||amxrihxw.com^
 ||amylo.site^
 ||amylomjemwhare.cfd^
 ||amyousocclude.cyou^
@@ -33123,6 +33124,7 @@ browsershots.org#@#.advert_area
 ||ideatumcerthia.cfd^
 ||idencebalneae.cfd^
 ||idengaze.cfd^
+||identical-whole.pro^
 ||identicaldrench.com^
 ||identicalmenu.pro^
 ||identicalprofile.com^
@@ -36255,6 +36257,7 @@ browsershots.org#@#.advert_area
 ||kvaaa.com^
 ||kvarcureeny.com^
 ||kvbojuxkwvcfk.global^
+||kvbrzbxhqizoq.site^
 ||kvcddxmzgvmrk.online^
 ||kvcytjbllaeao.site^
 ||kvdnetmzqvwxw.store^
@@ -38914,6 +38917,7 @@ browsershots.org#@#.advert_area
 ||mistletoejobless.com^
 ||mistresscoat.com^
 ||misty-eyed.boats^
+||mistycall.pro^
 ||mistydeposit.pro^
 ||mistysteel.co^
 ||misufyussuhx.xyz^
@@ -40575,6 +40579,7 @@ browsershots.org#@#.advert_area
 ||nlsuncii.com^
 ||nlugkxsdhcnhm.site^
 ||nluxeeplqnzyb.website^
+||nluyukqnyfjfk.space^
 ||nlvivttoarwqp.online^
 ||nlvkkmososyji.website^
 ||nlxonvbcndhxqji.com^
@@ -42559,6 +42564,7 @@ browsershots.org#@#.advert_area
 ||owdzgtqeqegpm.website^
 ||owenitepulvino.help^
 ||owesyirrs.cfd^
+||owfaxxottj.com^
 ||owffzcyrjjbwn.site^
 ||owfijkhomxdfo.space^
 ||owgkatdpsvqvm.site^
@@ -50621,6 +50627,7 @@ browsershots.org#@#.advert_area
 ||sulkvulnerableexpecting.com^
 ||sultamscopet.cyou^
 ||sultrymomentarily.com^
+||sumagedruther.com^
 ||sumbreta.com^
 ||sumeformorede.org^
 ||summasranere.cfd^
@@ -58290,6 +58297,7 @@ browsershots.org#@#.advert_area
 ||zoagremo.net^
 ||zoakationswane.cfd^
 ||zoanoowhooky.net^
+||zoapecheglaig.com^
 ||zoaphogree.net^
 ||zoashegloowais.net^
 ||zoasmnxzyhzis.space^
@@ -65065,6 +65073,7 @@ browsershots.org#@#.advert_area
 ||in.com/common/script_catch.js
 ||inbound-step.heavenmedia.com^$third-party
 ||increaserev2.static-cloudflare.workers.dev^
+||increaserev3.static-cloudflare.workers.dev^
 ||incrementxplay.com/api/adserver/
 ||indeed.fr/ads/
 ||infibeam.com/affiliate/
