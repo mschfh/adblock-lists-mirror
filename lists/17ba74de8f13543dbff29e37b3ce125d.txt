@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601071826
+! Version: 202601071912
 ! Title: EasyList
-! Last modified: 07 Jan 2026 18:26 UTC
+! Last modified: 07 Jan 2026 19:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ee595a1822d4c5f21fce0b20d2837fe2444b74e7
+! Commit: 2fc8167b1f6ad8cb2019909518e806e25821f4ff
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24182,6 +24182,7 @@ browsershots.org#@#.advert_area
 ||curberjeepney.qpon^
 ||curdaking.cfd^
 ||curiarawolfkin.com^
+||curiosasell.cfd^
 ||curiositycognition.com^
 ||curiositycow.com^
 ||curioushingefast.com^
@@ -35529,6 +35530,7 @@ browsershots.org#@#.advert_area
 ||kcfciliuhueqb.space^
 ||kcfdom.com^
 ||kcffytavvv.com^
+||kcgjjpqihtwly.online^
 ||kcgqumopgkwtv.online^
 ||kchhccjmzipel.site^
 ||kcjmivforjixu.online^
@@ -49567,6 +49569,7 @@ browsershots.org#@#.advert_area
 ||smvmpfcncwitt.online^
 ||smvuueqonsbuz.site^
 ||smvuvscjqofbm.website^
+||smxemgnrcmhj.com^
 ||smxpdgbfvoexq.site^
 ||smykirfgsmfpl.space^
 ||snackimmovabletrinity.com^
@@ -55768,6 +55771,7 @@ browsershots.org#@#.advert_area
 ||whjyxhcrpnsrx.space^
 ||whkbqnkscmnwo.global^
 ||whldthsafmpam.online^
+||whoachouvoordie.com^
 ||whoaksoopoordo.net^
 ||whoalinseed.shop^
 ||whoataischcowhand.cfd^
