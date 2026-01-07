@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601070742
+! Version: 202601070815
 ! Title: EasyList
-! Last modified: 07 Jan 2026 07:42 UTC
+! Last modified: 07 Jan 2026 08:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4256c3d0e672dd50137bd15603602510027a836b
+! Commit: 7c78d0162d42f6c47c80ef42d15fb07e8d33c88c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -32913,6 +32913,7 @@ browsershots.org#@#.advert_area
 ||hydrossnoring.help^
 ||hydrouscottus.world^
 ||hyemalbruja.cyou^
+||hyeqzfqgubqkj.space^
 ||hyfiwldsulvvb.website^
 ||hyfnrjbwkfock.site^
 ||hyfwxqrpnlpmc.website^
@@ -39854,6 +39855,7 @@ browsershots.org#@#.advert_area
 ||mzcgpmpygdoer.site^
 ||mzdhejfvuankc.global^
 ||mzfgtgylnwgrp.website^
+||mzgcaatryecyd.website^
 ||mzgpxlngycipq.online^
 ||mzhdcgwoqgnpc.online^
 ||mzidndvsmszfx.space^
@@ -47931,6 +47933,7 @@ browsershots.org#@#.advert_area
 ||ryifzfdxgoatd.online^
 ||ryiklaawtjuus.online^
 ||ryivtpjcwrssq.com^
+||ryjjwjmobslwk.com^
 ||ryknsblynbifq.store^
 ||ryminos.com^
 ||rymuchadmiredit.org^
@@ -72910,7 +72913,7 @@ radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.p
 cnet.com,healthline.com##.myFinance-ad-unit
 greatist.com,psychcentral.com##.myFinance-widget
 krakenfiles.com##.myadbox
-tastesbetterfromscratch.com##.mysticky-welcomebar-fixed
+tastesbetterfromscratch.com,troypoint.com##.mysticky-welcomebar-fixed
 troypoint.com##.mysticky-welcomebar-fixed-wrap
 koreaherald.com##.mythiell-mid-container
 exportfromnigeria.info##.mytopads
@@ -73614,7 +73617,8 @@ nanoreview.net##.sewisinad_only_desktop
 nanoreview.net##.sewisinad_only_mobile
 sportbusiness.com##.sf-taxonomy-body__advert-container
 pressdemocrat.com##.sfb2024-section__ad
-analyticsinsight.net,moviedokan.lol,shortorial.com##.sgpb-popup-overlay
+troypoint.com##.sgpb-popup-dialog-main-div-wrapper
+analyticsinsight.net,moviedokan.lol,shortorial.com,troypoint.com##.sgpb-popup-overlay
 stockhouse.com##.sh-ad
 soaphub.com##.sh-sh_belowpost
 soaphub.com##.sh-sh_inpost_1
