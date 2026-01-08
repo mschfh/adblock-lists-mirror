@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601080056
+! Version: 202601080149
 ! Title: EasyList
-! Last modified: 08 Jan 2026 00:56 UTC
+! Last modified: 08 Jan 2026 01:49 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3b1422ea76b10de12c882ffee134c6c5b9fd5abe
+! Commit: 63392fbd8adba26a7e1cefff2cd0e0010b214ea8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18693,6 +18693,7 @@ browsershots.org#@#.advert_area
 ||apstrfanba.com^
 ||apsubowahous.net^
 ||apt-outcome.com^
+||apt-rent.pro^
 ||apt-warning.pro^
 ||aptagroacee.net^
 ||aptitudebruise.com^
@@ -18789,6 +18790,7 @@ browsershots.org#@#.advert_area
 ||areasnap.com^
 ||arecainsm.cyou^
 ||arecunastardom.qpon^
+||aredevoid.cfd^
 ||areegroudseft.net^
 ||areolaebesew.help^
 ||areolarkillas.cfd^
@@ -20497,6 +20499,7 @@ browsershots.org#@#.advert_area
 ||bipedalamarthlaminar.cfd^
 ||biphic.com^
 ||bipkxpqxzfbfp.online^
+||bipontmisname.cyou^
 ||biptoakrolaimte.xyz^
 ||biqlhmbkchfdako.com^
 ||biqocsvz.com^
@@ -21921,6 +21924,7 @@ browsershots.org#@#.advert_area
 ||cankeryaurigid.qpon^
 ||canoemissioninjunction.com^
 ||canoerepenttorment.com^
+||canoeveery.cfd^
 ||canolamonthlyswapping.com^
 ||canseldomsulphur.com^
 ||canstrm.com^
@@ -31341,6 +31345,7 @@ browsershots.org#@#.advert_area
 ||gurgleupstandingexist.com^
 ||gurkchesses.cfd^
 ||gurlfolsom.qpon^
+||gurnetfakers.qpon^
 ||gurrahjur.shop^
 ||guserrivose.rest^
 ||gushfilmingbaseless.com^
@@ -35725,6 +35730,7 @@ browsershots.org#@#.advert_area
 ||kfvtvbihzxkck.website^
 ||kfvuroav.com^
 ||kfwolwopegike.love^
+||kfxcfjonart.com^
 ||kfzdbukgugedn.space^
 ||kgbgcuabndbjw.store^
 ||kgcqegbyqnrnj.space^
@@ -42172,6 +42178,7 @@ browsershots.org#@#.advert_area
 ||oppressivethorn.com^
 ||oppresssolano.help^
 ||oppuiqthqmokr.online^
+||oppzareeba.cyou^
 ||opqjabrsrbixu.xyz^
 ||opsczlntxhvki.space^
 ||opskiwzwtvfic.store^
@@ -46259,6 +46266,7 @@ browsershots.org#@#.advert_area
 ||raglassofrum.cc^
 ||ragrolromairsou.net^
 ||ragwormrisked.shop^
+||raibblzfnoctm.space^
 ||raidfrightbritain.com^
 ||raigleephi.net^
 ||raihanovoureew.net^
@@ -48534,6 +48542,7 @@ browsershots.org#@#.advert_area
 ||scutateslogs.cyou^
 ||scutatesorbose.cfd^
 ||scutesneatest.com^
+||scveilwglczse.online^
 ||scvmljhzcdfyj.store^
 ||scwmllkshdfug.website^
 ||scxmwvhc.net^
@@ -49260,6 +49269,7 @@ browsershots.org#@#.advert_area
 ||sincerefictionscrape.com^
 ||sinckuxlsucmq.online^
 ||sinderchenica.qpon^
+||sinderthwaite.cfd^
 ||sinecartes.qpon^
 ||sinewyrotates.qpon^
 ||sinful-bad.pro^
@@ -52851,6 +52861,7 @@ browsershots.org#@#.advert_area
 ||twibilcainite.help^
 ||twibilsdhole.click^
 ||twibilvailssluicy.cyou^
+||twiddlelath.cfd^
 ||twieriofyxkqe.space^
 ||twigfulbespoke.qpon^
 ||twigletupbotch.qpon^
@@ -53286,6 +53297,7 @@ browsershots.org#@#.advert_area
 ||ulnhz.site^
 ||ulnjxhvonmweg.site^
 ||uloathoagna.net^
+||ulonatadoto.cfd^
 ||ulpanimarcos.com^
 ||ulpradvpeaiqs.store^
 ||ulqhhlhpevvif.space^
@@ -53603,6 +53615,7 @@ browsershots.org#@#.advert_area
 ||unsizedjabber.com^
 ||unskilfulunpredictable.com^
 ||unslylysmug.cfd^
+||unsnapsjollyer.cfd^
 ||unsnowfungoes.cyou^
 ||unsoberroweled.cfd^
 ||unsorebox.qpon^
