@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601080815
+! Version: 202601080841
 ! Title: EasyList
-! Last modified: 08 Jan 2026 08:15 UTC
+! Last modified: 08 Jan 2026 08:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 136f0c69d38ff82b4fa4293eca72fa96f6af3d4c
+! Commit: c218b84a5551c46e68bc9ce67e66a67591c48fc8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24314,6 +24314,7 @@ browsershots.org#@#.advert_area
 ||cwuxquolwlfqp.site^
 ||cwvahnqeauemq.online^
 ||cwvipsciqhuqi.site^
+||cwvueoaakybnr.site^
 ||cwxtxeed.com^
 ||cwybuweerkmck.space^
 ||cxajgzjwemsjd.website^
@@ -24886,6 +24887,7 @@ browsershots.org#@#.advert_area
 ||defeitisaiah.cyou^
 ||defenceflamboyant.com^
 ||defencelaptop.com^
+||defensive-music.pro^
 ||defensivearmpit.com^
 ||defiant-shoulder.pro^
 ||defiantexemplifytheme.com^
@@ -32411,6 +32413,7 @@ browsershots.org#@#.advert_area
 ||hnsbsgnqcvqmn.site^
 ||hnsziqysnqozo.website^
 ||hnvhpxetfugpx.online^
+||hnwbhkraakeyp.site^
 ||hnwlazmnkzwxj.space^
 ||hnwqolckynifk.website^
 ||hnygjirnnakja.one^
@@ -33672,6 +33675,7 @@ browsershots.org#@#.advert_area
 ||incompetencesorting.com^
 ||incomplete-bottle.pro^
 ||incomplete-complex.pro^
+||incompletesurnametransparent.com^
 ||incomprehensibleselfconfidence.com^
 ||inconceivableimperial.com^
 ||inconsequential-belt.pro^
@@ -33976,6 +33980,7 @@ browsershots.org#@#.advert_area
 ||invectaxemen.qpon^
 ||inveintaxideaserins.cfd^
 ||investalepregnancy.com^
+||investigateisolateddepressed.com^
 ||investigateproxyoily.com^
 ||investigationsuperbprone.com^
 ||invidialooeys.life^
@@ -37872,6 +37877,7 @@ browsershots.org#@#.advert_area
 ||lunaticcosyatrocious.com^
 ||lunatictoxicambiguity.com^
 ||lunbnjroymvwf.site^
+||lunchoffended.com^
 ||lungerect.com^
 ||lungicko.net^
 ||lunlllxfmkvxr.site^
@@ -42412,6 +42418,7 @@ browsershots.org#@#.advert_area
 ||osspalkiaom.com^
 ||osspinsira.com^
 ||ossuarycushite.help^
+||ostentatiousimplement.com^
 ||osticsabin.qpon^
 ||ostilllookinga.cc^
 ||ostlon.com^
@@ -48975,6 +48982,7 @@ browsershots.org#@#.advert_area
 ||shakydeploylofty.com^
 ||shallbuilds.com^
 ||shallotincuses.cfd^
+||shallowconsumeconstrain.com^
 ||shalolsenoupt.net^
 ||shameful-leader.com^
 ||shameful-seat.com^
@@ -53409,6 +53417,7 @@ browsershots.org#@#.advert_area
 ||unathrowler.com^
 ||unattr.com^
 ||unattractiveamazingly.com^
+||unauthorizedterminal.com^
 ||unaviantabu.cfd^
 ||unavoidablestates.com^
 ||unaware-bend.pro^
