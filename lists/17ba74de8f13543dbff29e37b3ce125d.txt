@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601080617
+! Version: 202601080639
 ! Title: EasyList
-! Last modified: 08 Jan 2026 06:17 UTC
+! Last modified: 08 Jan 2026 06:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 056127726f413e58e177b2c0802d57bb76d085cf
+! Commit: 3f85b3f72f49073742ab87633140869fe3a1dac9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -47475,6 +47475,7 @@ browsershots.org#@#.advert_area
 ||rmybycfedxhns.store^
 ||rmyhibtadohj.com^
 ||rmzevvivrsbtk.site^
+||rmzkqkvqbqjzj.top^
 ||rmzpwvgiwcpcm.space^
 ||rmzsglng.com^
 ||rnbkuydkblend.site^
@@ -47812,6 +47813,7 @@ browsershots.org#@#.advert_area
 ||rsapanhtopcqf.website^
 ||rsapvqmdrgaoa.online^
 ||rsationhesaidnda.com^
+||rsbdnwrpovm.com^
 ||rsbnhruphyuxn.site^
 ||rscyoaposqeay.space^
 ||rseducationinin.com^
@@ -55110,6 +55112,7 @@ browsershots.org#@#.advert_area
 ||vutohsdhe.com^
 ||vuui7zy34mfjvyo3hr31.cfd^
 ||vuvcupvrfosyk.online^
+||vuveyknxkvdeb.space^
 ||vuvidbuqgfcne.website^
 ||vuwofoeszqiby.store^
 ||vuwzer.com^
@@ -55386,6 +55389,7 @@ browsershots.org#@#.advert_area
 ||waspnaut.cfd^
 ||wasqimet.net^
 ||wastabljellib.com^
+||wasteful-read.pro^
 ||wastefulrope.com^
 ||wasteresents.shop^
 ||wastineediblesunsere.cyou^
