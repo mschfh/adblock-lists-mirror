@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601082215
+! Version: 202601082243
 ! Title: EasyList
-! Last modified: 08 Jan 2026 22:15 UTC
+! Last modified: 08 Jan 2026 22:43 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8b861dd7f6cbb1a4576e5ef1f2709163d3e99820
+! Commit: 0c109e6313f52f72566510b17f73f208d4319405
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20877,6 +20877,7 @@ browsershots.org#@#.advert_area
 ||bochurwhicker.click^
 ||bochutoartoasu.net^
 ||bockouphourgait.net^
+||bodegashunlike.com^
 ||bodilysubtractoversight.com^
 ||bodilywondering.com^
 ||bodkinsgubat.cyou^
@@ -39942,6 +39943,7 @@ browsershots.org#@#.advert_area
 ||mwfhxcetoedmb.website^
 ||mwigjkalkqnjc.website^
 ||mwiynfejuiwyv.space^
+||mwllnzblxxylc.space^
 ||mwlptoirxkkmsvr.xyz^
 ||mwmftnbgyrrcs.site^
 ||mwoukrkskillso.com^
@@ -42254,6 +42256,7 @@ browsershots.org#@#.advert_area
 ||opclck.com^
 ||opdhcaoujxazk.space^
 ||opeanresultanc.com^
+||opelusubtree.cyou^
 ||open-mouse.pro^
 ||opencan.net^
 ||openerclassify.com^
