@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uJxbx80d5BXCkEkVxa8nYQ
-! Version: 202601081841
+! Checksum: WIcyCRMOMpxCHmerwJ+MoA
+! Version: 202601081911
 ! Title: RU AdList: BitBlock + Fanboy's General
-! Last modified: 08 Jan 2026 18:41 UTC
+! Last modified: 08 Jan 2026 19:11 UTC
 ! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -383,7 +383,6 @@ com,ru##[data-rambler-share]
 ||tchkcdn.com/www/social-widgets/
 ||telegrafcom.api.oneall.com/socialize/
 ||thevista.ru/*/img/soc/
-||turkrutv.tv/bitrix_storage/images/
 ||twitter.com/widgets.js$domain=hdrezka.tv
 ||tyt.by/i/socialBlock/
 ||uaserials.*/ask_modal.
@@ -1065,7 +1064,6 @@ anilove.tv,animechan.tv##.content_player ~ .content_block_pc
 football.kulichki.net##.content_top_line > a[href]
 nv.ua#?#.content_wrapper > p:-abp-has(> a[href^="https://t.me/"])
 comments.ua#?#.conteres > p:-abp-has(> a[href^="https://t.me/"])
-turkrutv.tv##.conversation-block
 coub.com##.coub__sharing__list > [data-img]
 economistua.com##.cp-slidein-popup-container
 ukrsport.pro##.cs-follow
@@ -1847,7 +1845,6 @@ friday.ru##.project-social
 dorama.land,doramaland.plus##.promo-btn
 regionews.ua##.promo-channel
 vechirniy.kyiv.ua#?#.promo-inner > .container:-abp-has(> a[href^="https://t.me/"])
-turkrutv.tv##.promo-soc
 nv.ua##.promo_telegram
 psm7.com##.psm-footer-social-container
 psm7.com##.psm-social-container
@@ -3139,6 +3136,7 @@ sportsdaily.ru##div[class^="news__channels_"]
 uaspectr.com##div[class^="post-sharing"]
 forklog.com##div[class^="post_bottom_socials"]
 nachasi.com##div[class^="post_subscribe"]
+turkrutv.net##div[class^="promo-links"]
 rutube.ru##div[class^="raichu-player-controls-top-module__shareWrapper"]
 kino-live8.biz#?#div[class^="right"] div[class^="ramka"]:-abp-has(#vk_groups)
 cybersport.ru##div[class^="share"]
@@ -4532,6 +4530,7 @@ _app_promo$domain=7themes.su|wallscloud.net
 ||track24.ru/newyear/
 ||tranceshop.ru^$image,domain=psy-music.ru
 ||tsargrad.tv/js/fly-news.js
+||turkrutv.net/static/player_img_*.webp|$image
 ||tut.by/push/
 ||tvz.im/video/promo.
 ||twister.lifehacker.ru^$domain=~twister.lifehacker.ru
@@ -5868,6 +5867,7 @@ qna.habr.com##.notices-container
 cnews.ru,cubiq.ru,inforesist.org##.notification
 speedtest.net##.notification-container
 paypal.com##.notification-cookie
+turkrutv.net##.notification-live
 pik.net.ua##.notification-news-btn
 vgtimes.ru##.notification.game_review_ask
 jaguar.ru,landrover.ru,landrover.ua##.notificationBars
@@ -6149,6 +6149,7 @@ blackwot.ru##.smart-head-row .ts-button
 gorodrabot.ru##.snippet_advertising
 gamelendi.ru##.snow
 pikabu.ru##.snowflakes-container
+turkrutv.net##.snowing-header
 porodakoshki.ru##.socialer-popup-overlay
 riafan.ru##.socials_block-wrapper
 soft.sibnet.ru##.soft-footer__subscribe
