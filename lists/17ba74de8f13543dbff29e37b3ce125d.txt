@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601081505
+! Version: 202601081526
 ! Title: EasyList
-! Last modified: 08 Jan 2026 15:05 UTC
+! Last modified: 08 Jan 2026 15:26 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8317857fbb7fff6b87e20eba0412fbc6933ece85
+! Commit: c3d677bec1c1483ac9418b9ce584d1dba29ac73e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19638,6 +19638,7 @@ browsershots.org#@#.advert_area
 ||babuinagullied.help^
 ||babun.club^
 ||babyboomboomads.com^
+||babyingvingt.shop^
 ||babzbvhowzvfa.site^
 ||baccarat212.com^
 ||bacchaenaggar.com^
@@ -29025,6 +29026,7 @@ browsershots.org#@#.advert_area
 ||foamerflayer.help^
 ||foamingdetenue.help^
 ||foamougruchaiwo.net^
+||foanoodain.net^
 ||foapsovi.net^
 ||foaptaikaug.net^
 ||foazauwhemi.net^
@@ -42531,6 +42533,7 @@ browsershots.org#@#.advert_area
 ||ouabaiolustersstood.cfd^
 ||ouaohliu.xyz^
 ||ouarscaauwbkj.online^
+||oubjioinzrpre.space^
 ||oubqwkmhrcpat.fun^
 ||ouchesascyrum.click^
 ||ouchruse.com^
@@ -45787,6 +45790,7 @@ browsershots.org#@#.advert_area
 ||qkdsppnmfnhxx.space^
 ||qkedloyxrfsxx.net^
 ||qkeweajdxbmqy.space^
+||qkf9y6kfnohypc3yi.rest^
 ||qkgoahutyimrf.site^
 ||qkieitettuode.store^
 ||qkiopbadvklsv.website^
@@ -49683,6 +49687,7 @@ browsershots.org#@#.advert_area
 ||smearconventional.com^
 ||smeartagger.cfd^
 ||smeartoassessment.com^
+||smeefgit.com^
 ||smellyla.com^
 ||smemsbyitdrri.website^
 ||smenqskfmpfxnb.bid^
@@ -57629,6 +57634,7 @@ browsershots.org#@#.advert_area
 ||yeujiaqyeafyj.site^
 ||yeukxysters.com^
 ||yeuszfvmmzsng.website^
+||yexfkytrmbyuvx.xyz^
 ||yexhsrfcrukeg.online^
 ||yeygjuirsbzhz.online^
 ||yeyrfezafeycj.online^
