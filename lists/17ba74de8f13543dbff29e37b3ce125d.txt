@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601080407
+! Version: 202601080450
 ! Title: EasyList
-! Last modified: 08 Jan 2026 04:07 UTC
+! Last modified: 08 Jan 2026 04:50 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6f1612c7329fba1e4af8895e43fe1df360293c98
+! Commit: 462ef680d526ea271566049fb148999354f2ff0d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18307,6 +18307,7 @@ browsershots.org#@#.advert_area
 ||aminopay.net^
 ||aminsbedash.help^
 ||amiralkabalas.click^
+||amjllwbrjlrbb.top^
 ||amkurolmww.com^
 ||amlpevtuyxrar.site^
 ||amlumineona.com^
@@ -29211,6 +29212,7 @@ browsershots.org#@#.advert_area
 ||fposgbxzllveb.online^
 ||fpplwtittfozz.website^
 ||fppxjvtmcxjqib.xyz^
+||fpqtfxgqlvcvi.space^
 ||fprgsxjsykxem.website^
 ||fpukmwpb.top^
 ||fpuxxbskapwcz.online^
@@ -30467,6 +30469,7 @@ browsershots.org#@#.advert_area
 ||glazingretentionupcoming.com^
 ||glbjhmruwbosw.club^
 ||glbtrk.com^
+||glbxzdhcyyqvi.space^
 ||glcdzojthfbaw.site^
 ||glcsyuasspn.com^
 ||glddhbxmzctdb.online^
@@ -31140,6 +31143,7 @@ browsershots.org#@#.advert_area
 ||groupian.io^
 ||groupsingusie.net^
 ||grourtukrooboow.net^
+||grousyfulcral.com^
 ||groutaissou.net^
 ||groutchoomsu.net^
 ||groutoazikr.net^
