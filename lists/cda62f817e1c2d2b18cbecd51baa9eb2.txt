@@ -246,6 +246,7 @@ smsonline.cloud##html[data-theme][lang] [id^="img_"][style]:has(iframe[framebord
 /^https:\/\/[a-z]{3,4}\.[0-9a-z-]{6,}\.(?:com|xyz)\/script\/(?:[-.0-9A-Za-z]+\.)?[-0-9A-Za-z]{2,30}\.js$/$script,3p,match-case,header=x-length
 /:\/\/html-load\.com\/[a-z]{3,6}(?:\.min)?\.js$/$script,3p,match-case,domain=~dogdrip.net|~smsonline.cloud
 /:\/\/content-loader\.com\/[a-z]{3,6}(?:\.min)?\.js$/$script,3p,match-case,domain=~dogdrip.net|~smsonline.cloud
+://html-load.com/core.js$domain=~dogdrip.net|~smsonline.cloud
 !#if env_safari
 ://html-load.com/loader.min.js$domain=~dogdrip.net|~smsonline.cloud
 ://content-loader.com/loader.min.js$domain=~dogdrip.net|~smsonline.cloud
