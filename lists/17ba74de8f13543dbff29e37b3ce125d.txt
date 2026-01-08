@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601081012
+! Version: 202601081036
 ! Title: EasyList
-! Last modified: 08 Jan 2026 10:12 UTC
+! Last modified: 08 Jan 2026 10:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8b75c0f6688c0cfa219938549d132e39733c39ca
+! Commit: e4d6cc12286e243ae60f5b568325c023cd8021d0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22962,6 +22962,7 @@ browsershots.org#@#.advert_area
 ||clemmildensunmeant.cyou^
 ||clenchedfavouritemailman.com^
 ||clenchedquarterbackluxuriant.com^
+||clenchedtea.com^
 ||cleopatraadulatefrench.com^
 ||clergystickingprecedent.com^
 ||clericscribed.cyou^
@@ -28295,6 +28296,7 @@ browsershots.org#@#.advert_area
 ||fbscnurbvnxpqb.xyz^
 ||fbslaenqsuw.com^
 ||fbwtqsajsuuji.store^
+||fbxloqahqmoox.space^
 ||fbzqfomrzgudj.online^
 ||fc2-ppv.xyz^
 ||fc2plus.site^
@@ -56175,6 +56177,7 @@ browsershots.org#@#.advert_area
 ||wkszmjufkecij.online^
 ||wktyyxtvwthxp.one^
 ||wkuejtwcpvtzm.online^
+||wkvvzeqlambmw.top^
 ||wkvvzeqwomjmm.top^
 ||wkwdmllrmscgp.space^
 ||wkwqljwmrkwmm.top^
@@ -56399,6 +56402,7 @@ browsershots.org#@#.advert_area
 ||worthless-news.com^
 ||worthlessbend.com^
 ||worthwhile-death.com^
+||worthwhileconsequence.pro^
 ||worthwhilegooseberrycrunch.com^
 ||worthy-sex.pro^
 ||worthyboxersympathy.com^
