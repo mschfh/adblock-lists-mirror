@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6cN+XbIOShaYvoM8QDOTCQ
-! Version: 202601082250
+! Checksum: gFsJIUTBr6qzmHoYsVKI5g
+! Version: 202601090000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-08 22:50 UTC
+! Last modified: 2026-01-09 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -35399,6 +35399,7 @@ visionworks.com###transcend-consent-manager
 undercurrentnews.com###ucn-gdpr-overlay
 strikermanager.com###ue
 netflix.com###uma > div > .message
+mcdonalds.com###usTnCBanner
 search.brave.com,search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion###usage-metrics
 search.brave.com###usage-metrics-notice
 censor.net###usage_notice
@@ -36607,6 +36608,7 @@ pixiv.net##.kjvIqh
 honeygain.com##.kksiKu
 depop.com##.klIvEu
 klook.com##.klk-notification
+konzertmeister.app##.km-cookie-banner-container
 avontyres.com##.koekjesbalk
 realestate-magazine.rs##.kolacici
 smallpdf.com##.krHGwU
@@ -37526,7 +37528,7 @@ wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotifi
 !! #cookiePopup
 betway.*,easyinsights.ai,hito.xyz,reklama5.com,visitseoul.net###cookiePopup
 !! .cookie-popup
-athenaeumscheltema.nl,campfimfo.com,championat.ru,evraz.com,hampers.com,icmarkets.eu,kinoflex.ru,mediathek.lfv-bayern.de,mts.ru,mysky.com.ph,nobliecustomknives.com,revolutionrace.com,rsna.org,superrichthailand.com,supersport.hr,taxsummaries.pwc.com,teemill.com,trt.net.tr,uwa.edu.au,zamnesia.com##.cookie-popup
+athenaeumscheltema.nl,campfimfo.com,championat.ru,evraz.com,hampers.com,icmarkets.eu,kinoflex.ru,lovereading4kids.co.uk,mediathek.lfv-bayern.de,mts.ru,mysky.com.ph,nobliecustomknives.com,revolutionrace.com,rsna.org,superrichthailand.com,supersport.hr,taxsummaries.pwc.com,teemill.com,trt.net.tr,uwa.edu.au,zamnesia.com##.cookie-popup
 !! #cookieNotice
 ac-mejerimaskiner.dk,amazingfoodmadeeasy.com,bradyunited.org,chetak.com,dks.at,dochas.ie,ecuavisa.com,growbrothers-ev.de,knifecenter.com,langendorf.de,luxorcrystal.com,theluxuryhut.com,wsg-fussball.at###cookieNotice
 !! .overlay-gdpr-consent/.overlay-wrapper
@@ -38595,6 +38597,7 @@ cloud.kaspersky.com##+js(set-cookie, B2BCloudTracking, Disabled, , , reload, 1)
 babyshop.com##+js(set-cookie, BABY_MARKETING_COOKIES_CONSENTED, false)
 babyshop.com##+js(set-cookie, BABY_NECESSARY_COOKIES_CONSENTED, true)
 babyshop.com##+js(set-cookie, BABY_PERFORMANCE_COOKIES_CONSENTED, false)
+borger.dk##+js(set-cookie, BDK_CookieLawAccepted, false, ,reload, 1)
 berkeleygroup.digital##+js(set-cookie, BGDESKTOP_TERMS, 1)
 backmarket.*##+js(set-cookie, BM_Advertising, false, , reload, 1)
 backmarket.*##+js(set-cookie, BM_Analytics, false)
