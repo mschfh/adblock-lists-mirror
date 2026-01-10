@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601100144
+! Version: 202601100245
 ! Title: EasyList
-! Last modified: 10 Jan 2026 01:44 UTC
+! Last modified: 10 Jan 2026 02:45 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8c8312196fc963cb879726e2513157169d0f3ab8
+! Commit: 8a028f4077094414c55e975df455ffe584870510
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -26411,6 +26411,7 @@ browsershots.org#@#.advert_area
 ||dwecsyflygbei.site^
 ||dwetwdstom1020.com^
 ||dwexxprhuhlwq.space^
+||dwfdxnwjakfjm.space^
 ||dwfgdzmjmjrxl.space^
 ||dwgrnimof.xyz^
 ||dwgzwrtecgver.space^
@@ -27935,6 +27936,7 @@ browsershots.org#@#.advert_area
 ||examenlanier.shop^
 ||examplehibernatescientific.com^
 ||examwavery.cyou^
+||excafwcwlpevm.site^
 ||excavatedefeatedshudder.com^
 ||excavatenearbywand.com^
 ||exceedinglyorangesclothe.com^
@@ -30170,6 +30172,7 @@ browsershots.org#@#.advert_area
 ||gdeigri.com^
 ||gdfkbvbifnncj.online^
 ||gdg4yih5.xyz^
+||gdifysjuhuouaxq.com^
 ||gdkduruiukwyn.website^
 ||gdkduwopaseic.online^
 ||gdkpyvhopdxzq.website^
@@ -34762,6 +34765,7 @@ browsershots.org#@#.advert_area
 ||jbdkzpqjhrpxn.online^
 ||jbiokwloncerp.club^
 ||jbjrjhupkfnfn.site^
+||jbkdjuxuymejr.site^
 ||jbkwfrjaqpprv.website^
 ||jblaptokniuuu.website^
 ||jbldfugqruigf.website^
@@ -35082,6 +35086,7 @@ browsershots.org#@#.advert_area
 ||jkha742.xyz^
 ||jkiaiboyfwgpiv.net^
 ||jkivksjqquguc.store^
+||jklfhxxmxjcqi.space^
 ||jklgbyxnogmpo.site^
 ||jklhsbwtbfkmh.site^
 ||jklpy.com^
@@ -45486,6 +45491,7 @@ browsershots.org#@#.advert_area
 ||pumovimfxrfsy.net^
 ||pumpbead.com^
 ||pumpmenrestage.rest^
+||puncecrave.shop^
 ||punchpantherwhip.com^
 ||punchytitties.rest^
 ||punctalhexdra.cfd^
@@ -51787,6 +51793,7 @@ browsershots.org#@#.advert_area
 ||tdwpdgmgjgbqk.site^
 ||tdzegpeatygun.tech^
 ||te6mumo35cc2t6rc11cvh.cfd^
+||teabowldiplont.shop^
 ||teacherrecollect.com^
 ||teacherspivvy.cfd^
 ||teads.tv^
