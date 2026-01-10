@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DlOtQnLlG8mUChnIY5f0TA
-! Version: 202601100750
+! Checksum: V4AyZJvFIV0nyTolO7GWpQ
+! Version: 202601100850
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-10 07:50 UTC
+! Last modified: 2026-01-10 08:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -15686,7 +15686,7 @@ undark.org##.sidebar-action-share
 welivesecurity.com##.sidebar-card-media
 culture.pl##.sidebar-inner
 tribune.com.pk##.sidebar-social-icons
-pcgamesn.com,wargamer.com##.sidebar-social-widget
+pcgamesn.com,pockettactics.com,wargamer.com##.sidebar-social-widget
 prdaily.com##.sidebarShareHeading
 newsshooter.com##.simple-social-icons
 dhakatribune.com##.single-artical-page-shear-section-shear-section
