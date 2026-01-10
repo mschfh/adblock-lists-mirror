@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OUiwjcUt9xnZizHaEdhMxQ
-! Version: 202601100325
+! Checksum: d1womZ1HSxsSyoZf3XO0qw
+! Version: 202601100425
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-10 03:25 UTC
+! Last modified: 2026-01-10 04:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2382,6 +2382,7 @@ infoq.com##.notice
 backpacker.com##.o-content-cta
 backpacker.com##.o-promo-module
 omgubuntu.co.uk##.omg-hero-button
+energypolicy.columbia.edu##.overall-notification
 edutopia.org##.overlay
 opb.org##.overlay-cta
 asuracomic.net##.p-4.z-50:has-text(Upgrade to)
@@ -2493,6 +2494,7 @@ loom.com##.signup-overlay_isCentered_2Al
 splashlearn.com##.signup_cta.tdi_90
 investopedia.com##.sim-promo
 creativefabrica.com##.single-banner-tier
+democracydocket.com##.site-footer
 propublica.org##.site-header__banner
 theguardian.com##.site-message--banner
 newsnow.co.uk##.site-ribbon
@@ -2693,7 +2695,7 @@ washingtonmonthly.com#?#.wp-block-group__inner-container:-abp-contains(Support t
 google.com##.Ryrdad:has-text(Please help us improve)
 developer.android.com##.devsite-snackbar-snack:has-text(Please help us)
 chromewebstore.google.com##[aria-describedby="promo-header"]:has-text(Switch to Chrome)
-www.google.com##[aria-describedby="promo_desc_id"]:has-text(/Time for a new laptop|Gemini, |Choose Chrome|built by Google|Search differently|Cherchez différemment|Search just got easier|Try more ways|Switch to Chrome/)
+www.google.com##[aria-describedby="promo_desc_id"]:has-text(/Time for a new laptop|Gemini, |Choose Chrome|built by Google|Search differently|Cherchez différemment|Search just got easier|Try more ways|Switch to Chrome|Keep things dark/)
 google.com##[jscontroller="HCSvae"]:has-text(Sign in to Google)
 chromewebstore.google.com##[role="dialog"][aria-labelledby="promo-header"]
 google.com##div[jsname="wA2P2b"]:has-text(How helpful were the results)
@@ -2946,6 +2948,7 @@ aorus.com,insidebitcoins.com,vgtimes.com###gotop
 gov.br###gototop_v2
 houzz.com###hzScrollTop
 gamespot.com###in-page-nav
+inews.co.uk###inews__back-to-top
 pcpj.org###infinite-footer
 motto-jp.com###js-pagetop
 gzeromedia.com###js-top
@@ -37594,7 +37597,7 @@ baden-wuerttemberg.de,cdek.ru,elektrikstore.hu,empresasnegocios.pt,kaveverzum.hu
 !! .amgdprjs-bar-template
 ctt.de,ironmaxx.de,johnsonsjewellers.co.uk,landyschemist.com,plaidonline.com,scienceinsport.com,theraband.com##.amgdprjs-bar-template
 !! .cookie-notification
-carletonvillemall.co.za,cosmomall.co.za,e-recharge.net,eurotradefair.nl,iahsap.com,informationmagazine.com,jobs.tuwien.ac.at,kguttag.com,leitor.net,lifestylecrossing.co.za,mangalivre.net,mel.fm,netshoes.com.br,ngenix.net,palmscentre.co.za,pnp.co.za,prostokvashino.ru,rabbitscams.sex,riverwalkcentre.co.za,schofieldwatchcompany.com,shoestock.com.br,spursteakranches.com,supercheapauto.co.nz,supercheapauto.com.au,supernovabih.ba,theatrium.co.za,theheasman.com,victoryparkcentre.co.za,vumatel.co.za,wretox.com,zattini.com.br,zheleza.net,zorrolightersshop.com##.cookie-notification
+carletonvillemall.co.za,cosmomall.co.za,e-recharge.net,energypolicy.columbia.edu,eurotradefair.nl,iahsap.com,informationmagazine.com,jobs.tuwien.ac.at,kguttag.com,leitor.net,lifestylecrossing.co.za,mangalivre.net,mel.fm,netshoes.com.br,ngenix.net,palmscentre.co.za,pnp.co.za,prostokvashino.ru,rabbitscams.sex,riverwalkcentre.co.za,schofieldwatchcompany.com,shoestock.com.br,spursteakranches.com,supercheapauto.co.nz,supercheapauto.com.au,supernovabih.ba,theatrium.co.za,theheasman.com,victoryparkcentre.co.za,vumatel.co.za,wretox.com,zattini.com.br,zheleza.net,zorrolightersshop.com##.cookie-notification
 !! .cookie-alert-show
 shate-m.by,shate-m.kz##.cookie-alert-show
 !! .adn-message
@@ -49593,6 +49596,7 @@ wwd.com##.wwd-subscribe-now-banner-background
 hereisoregon.com##.yellow-nl
 blog.youtube##.yt-newsletter-toast
 bodyweightwarrior.co.uk,brucelee.com,clereviewofbooks.com,eli.org.nz,fridaythings.com,genelmag.com,itp.nz,jphs.org,myvetcandy.com,paleofuture.com,rai.ac.uk,recoveryguru.com.au,stability.ai,unifiedpatents.com,ursulakleguin.com,worldofreel.com##.yui-popup-container-node
+qz.com##.z-\[999999\].bg-black\/50
 culturemap.com##.z-newsletter
 sciencenews.org##.zephr-form-container
 bbc.com##.zephr-overlay
@@ -49939,7 +49943,7 @@ aeplay.org,dailynewshungary.com,designersbrasileiros.com.br,fosspost.org,justrun
 !! .subscription
 6sqft.com,alhayat.tv,alquds.co.uk,augustman.com,brighteon.com,cgsociety.org,cityam.com,hagerty.co.uk,healthboards.com,infosecurity-magazine.com,lifestyleasia.com,livejournal.com,news.bg##.subscription
 !! .sign-up
-iai.tv,loopchicago.com,loopnet.com,nintendonews.com,piccalil.li,tbn.org##.sign-up
+democracydocket.com,iai.tv,loopchicago.com,loopnet.com,nintendonews.com,piccalil.li,tbn.org##.sign-up
 !! .subscription-box
 borsonline.hu,faroutmagazine.co.uk,magyarnemzet.hu,metropol.hu,ripost.hu,thecaterer.com,veol.hu,vg.hu##.subscription-box
 !! .modal/.modal-backdrop (no broken scroll)
@@ -51007,9 +51011,9 @@ upworthy.com##body:style(overflow: auto !important; position: initial !important
 sportskeeda.com##.newsletter-ui
 sportskeeda.com##body:style(overflow: auto !important; position: initial !important;)
 ! digital4.biz
-digital4.biz###hs-web-interactives-bottom-anchor
-digital4.biz###hs-web-interactives-top-anchor
-digital4.biz##body,html:style(overflow: auto !important; position: initial !important;)
+democracydocket.com,digital4.biz###hs-web-interactives-bottom-anchor
+democracydocket.com,digital4.biz###hs-web-interactives-top-anchor
+democracydocket.com,digital4.biz##body,html:style(overflow: auto !important; position: initial !important;)
 ! jns.org
 jns.org###hs-web-interactives-top-anchor
 jns.org##body,html:style(overflow: auto !important; position: initial !important;)
