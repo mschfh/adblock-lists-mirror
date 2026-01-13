@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4ocUmHsAWRGRDSi+uuTtfQ
-! Version: 202601131251
+! Checksum: SL4DXqdjiTW0s9mwerKlbA
+! Version: 202601131321
 ! Title: RU, UA, UZ, KZ
-! Last modified: 13 Jan 2026 12:51 UTC
+! Last modified: 13 Jan 2026 13:21 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -15112,6 +15112,7 @@ oboznik.ru##.mainrams > div[class^="cd"]
 pb.wtf,pirat.one,piratbit.fun,piratbit.org,piratbit.top##.mains a[href^="/"][href*="xt/"]:not(.btn)
 forum.materinstvo.ru#?#.maintitlecollapse:-abp-contains(Реклама)
 lfootball.ws##.makeBet
+cherkassy-sport.com##.mark_top > .textwidget
 kinofann.ru##.market
 russkiypro.ru##.market-div
 belretail.by##.market-link
@@ -16176,6 +16177,7 @@ fishki.net##.sidebar__block_trend
 bioware.ru#?#.sidebar__content-wrp:-abp-has(.sidebar__image > a[href^="http://gamazavr.ru/"])
 teploguru.ru##.sidebar__rek
 24smi.org##.sidebar__wrap > :not(.sidebar__info)
+cherkassy-sport.com##.sidebar_block > .textwidget:only-child
 landlord.ua##.sidebar_kdbn
 solncewonews.ru##.sidebar_list > .widget_text:not(#text-4):not(#text-89)
 solncewonews.ru##.sidebar_list > [id*="custom_html"]
@@ -16791,8 +16793,6 @@ andro-news.com#?#.widget:-abp-has(> div > .av-block)
 liveresult.ru#?#.widget:-abp-has(a[href*="bookmaker"])
 liveresult.ru#?#.widget:-abp-has(a[href*="utm_campai"])
 storinka.com.ua,storinka.site##.widget:not([class$="hidden-xs"])
-sport-express.ua##.widgetBestBookmakers
-ukrfootball.ua##.widgetBestBookmakersNews
 gazetavv.com##.widget_ad_unit
 i.ua##.widget_adv
 atlasprirodirossii.ru,hyperione.com,portaltele.com.ua,sho.org.ua,zazloo.ru##.widget_block
@@ -19063,6 +19063,7 @@ wikihow.com##div[class^="wh_ad_"]
 dailyhoro.ru##div[class^="whatever"]
 genshin-info.ru##div[class^="wiad"]
 www.goha.ru##div[class^="widget-twitch"] > .data
+sport-express.ua,ukrfootball.ua##div[class^="widgetBestBookmakers"]
 onlinetambov.ru##div[class^="wraprer"]
 world-weather.ru##div[class^="ww-cont-"][class$="ban"]
 ykt.ru##div[class^="y-ad"]
@@ -26859,7 +26860,6 @@ uniondht.org##.post_body > div[style="color:red;font-size:25px;"]
 filmix.date,filmix.life,filmix.my,filmix.pub,filmix.tech,filmix.zone##.remove-sda-wrap
 electric-house.ru#?#.rules:-abp-has(> p > [src="/img/no_ad.png"])
 satdx.club##.rules[style^="display:"][style*="position:"][style*="z-index:"]
-sport-express.net,sport-express.ru##.se-bn-notice
 kodik.info##.second-message
 radioromantika.ru##.showMessageAdBlock
 uakino.best##.side-content-adblock
@@ -26913,6 +26913,7 @@ live.vkvideo.ru##div[class^="Notifications_root"]
 pronetblog.by##div[class^="adsensepost"]
 2baksa.ws##div[class^="ant"][class*="block"]
 hitsovet.ru,mod-wot.ru##div[class^="chp_ads_block"]
+sport-express.net,sport-express.ru##div[class^="se-bn"][class*="-notice"]
 afrowesh.org,fcportables.com##div[id][class^="popup"][class$="wrap"]
 informator.ua#?#div[id^="brid-player"] ~ p:-abp-contains(AdBlock)
 chaynikam.info##div[id^="mdl_ctnr_"]
