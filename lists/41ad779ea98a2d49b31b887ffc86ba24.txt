@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tnKXo9ml7q6viH75YI2rQA
-! Version: 202601140800
+! Checksum: 0YhrtFLW1RkJqJbkmcG50Q
+! Version: 202601140825
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-14 08:00 UTC
+! Last modified: 2026-01-14 08:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2386,6 +2386,7 @@ buzzfeednews.com##.newsblock-tips
 skeptoid.com##.noprint > td
 scroll.in##.not-paywall-floating-contribute-block
 infoq.com##.notice
+missionlocal.org##.np-campaign--donation--staff-photo
 backpacker.com##.o-content-cta
 backpacker.com##.o-promo-module
 omgubuntu.co.uk##.omg-hero-button
@@ -48980,6 +48981,7 @@ battlefields.org##.node--type-email-series
 culture.pl##.node-banner
 law.justia.com,supreme.justia.com##.notification-banner
 ar15.com##.notify
+missionlocal.org##.np-campaign--newsletter--mid-post
 audubon.org##.np-search-form-widget
 thepeoplesvoice.tv##.np_signup_container
 theglossarymagazine.com##.ns-buttons
