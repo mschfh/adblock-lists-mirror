@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mOyMe65lnMUcteRtJ2lEdA
-! Version: 202601141150
+! Checksum: MCnN4ijag5fYmmuw2/XcEw
+! Version: 202601142125
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-14 11:50 UTC
+! Last modified: 2026-01-14 21:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2704,8 +2704,8 @@ washingtonmonthly.com#?#.wp-block-group__inner-container:-abp-contains(Support t
 ! google popups
 google.com##.Ryrdad:has-text(Please help us improve)
 developer.android.com##.devsite-snackbar-snack:has-text(Please help us)
-chromewebstore.google.com##[aria-describedby="promo-header"]:has-text(Switch to Chrome)
 www.google.com##[aria-describedby="promo_desc_id"]:has-text(/Time for a new laptop|Gemini, |Choose Chrome|built by Google|Search differently|Cherchez différemment|Search just got easier|Try more ways|Switch to Chrome|Keep things dark/)
+chromewebstore.google.com##[aria-label="Info"]:has-text(Switch to Chrome)
 google.com##[jscontroller="HCSvae"]:has-text(Sign in to Google)
 chromewebstore.google.com##[role="dialog"][aria-labelledby="promo-header"]
 google.com##div[jsname="wA2P2b"]:has-text(How helpful were the results)
