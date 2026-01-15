@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601150704
+! Version: 202601150745
 ! Title: EasyList
-! Last modified: 15 Jan 2026 07:04 UTC
+! Last modified: 15 Jan 2026 07:45 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 746743b2314acc1774b8d9879743618039a3202d
+! Commit: 96f43c77477245697edda41bfb32058691e118ee
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -48393,6 +48393,7 @@ browsershots.org#@#.advert_area
 ||rexargue.com^
 ||rexsrv.com^
 ||rexvxrnpkswce.space^
+||reymvmqjaarej.top^
 ||reyrxqrj.com^
 ||rezjcyniuvosb.online^
 ||rezrboarmmqmv.top^
@@ -49779,6 +49780,7 @@ browsershots.org#@#.advert_area
 ||scholadought.cyou^
 ||scholarlycup.com^
 ||scholarlyinteraction.pro^
+||scholarlytrain.com^
 ||scholarshipexplosivepopular.com^
 ||scholarsslate.com^
 ||schuitspimenta.cfd^
@@ -59665,6 +59667,7 @@ browsershots.org#@#.advert_area
 ||ystationalhed.com^
 ||ystxjinibaqch.online^
 ||ysvbwjejfwmwd.online^
+||ysvuekaxxmjds.site^
 ||yswebkrszlbzs.space^
 ||yswpcoftefaes.site^
 ||yswtfwilpkxud.space^
@@ -59799,6 +59802,7 @@ browsershots.org#@#.advert_area
 ||yypkjxtumgofe.site^
 ||yypqvjzprpsfm.online^
 ||yypw6r89bj9beue9q.rest^
+||yyrgmomsztpytg.com^
 ||yyrmipmm.com^
 ||yysqrduhpfsci.net^
 ||yysqrduhpfsci.xyz^
@@ -60343,6 +60347,7 @@ browsershots.org#@#.advert_area
 ||zpqfqxoczrwfq.space^
 ||zpqrmtdwjpems.space^
 ||zpuavdcswqnml.online^
+||zpveapgfsqcty.online^
 ||zpwlgazfvycmd.online^
 ||zpwllfsjphpig.online^
 ||zpww6cvibbxqt6zv2izb35exxh6.cfd^
