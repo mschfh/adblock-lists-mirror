@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601172135
+! Version: 202601172216
 ! Title: EasyList
-! Last modified: 17 Jan 2026 21:35 UTC
+! Last modified: 17 Jan 2026 22:16 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 30f8a084c6b5965b9434a0cb072bfb327e27ff63
+! Commit: 537e95ab0d2e55b1660f6871b4e13e5a3004cc80
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20662,6 +20662,7 @@ browsershots.org#@#.advert_area
 ||billypub.com^
 ||bilroughicmed.net^
 ||bilsoaphaik.net^
+||bilstedsounded.qpon^
 ||bilsyndication.com^
 ||biltickeegy.net^
 ||bimalardurum.cyou^
@@ -27919,6 +27920,7 @@ browsershots.org#@#.advert_area
 ||eohhehznagsqn.online^
 ||eojbueuvveupr.space^
 ||eojfxignjyzev.website^
+||eojqkvqebyaro.site^
 ||eokbuxljvlfwm.space^
 ||eolioadwse.xyz^
 ||eolithpopedom.cfd^
@@ -30994,6 +30996,7 @@ browsershots.org#@#.advert_area
 ||ghpevjotwb.com^
 ||ghpgtibxzldsh.website^
 ||ghqrddpswoiu.xyz^
+||ghrbwiwlxudad.online^
 ||ghrjtanbysflr.online^
 ||ghswqnoilsxuj.store^
 ||ghszhdgsydcmt.site^
@@ -34575,6 +34578,7 @@ browsershots.org#@#.advert_area
 ||inconsequential-working.com^
 ||inconsistencygasdifficult.com^
 ||inconsistentoverflowscan.com^
+||incordacclaim.cfd^
 ||incorenext.com^
 ||increasingbelieveabonnement.com^
 ||increasinglycockroachpolicy.com^
@@ -39610,6 +39614,7 @@ browsershots.org#@#.advert_area
 ||maturityneedlework.com^
 ||maturitynotebookmotion.com^
 ||maturityrigourwits.com^
+||maugismongos.qpon^
 ||mauholeroufouwy.net^
 ||mauhumcy.com^
 ||mauvesiceni.shop^
@@ -40567,6 +40572,7 @@ browsershots.org#@#.advert_area
 ||monadplug.com^
 ||monarchycurrencyinjury.com^
 ||monardaelabor.click^
+||monaseshow.qpon^
 ||monasteryabolishment.com^
 ||monastydru.org^
 ||moncoerbb.com^
@@ -52594,6 +52600,7 @@ browsershots.org#@#.advert_area
 ||stvkr.com^
 ||stvufegajgpzy.online^
 ||stwdqkalzbqfg.online^
+||stwqgtgyhiun.com^
 ||stwwdyowpkzof.website^
 ||stxmumxjxbeud.store^
 ||stxtocrtgkwgb.website^
