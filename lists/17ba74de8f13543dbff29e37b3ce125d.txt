@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601181114
+! Version: 202601181139
 ! Title: EasyList
-! Last modified: 18 Jan 2026 11:14 UTC
+! Last modified: 18 Jan 2026 11:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0ccc0674d7dd7c1c1c93bf3f89a8eadaf903298a
+! Commit: e48fccb87e9902bbb169751420b970ed354b9412
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38949,6 +38949,7 @@ browsershots.org#@#.advert_area
 ||lqllisdlizrix.site^
 ||lqnzjmlhskmez.space^
 ||lqotlgjojxelr.site^
+||lqpusbmuqsfyf.site^
 ||lqpzqdtgxebxx.space^
 ||lqrjuhhbzagoq.online^
 ||lqskzxzoerxjm.website^
@@ -43408,6 +43409,7 @@ browsershots.org#@#.advert_area
 ||olsmeroufuvzv.website^
 ||olvnvahpunhya.online^
 ||olxokhjfaakx.com^
+||olzgpebwemdzq.website^
 ||omanumvxald.com^
 ||omatri.info^
 ||omazeiros.com^
@@ -57628,6 +57630,7 @@ browsershots.org#@#.advert_area
 ||wabblymedicosdaggled.cyou^
 ||wabjcepuqmi.com^
 ||wabsyederly.com^
+||wabturgcyji.com^
 ||wacafgdsvi.xyz^
 ||wacksomewhymeaul.cfd^
 ||wacthobbegkx.net^
@@ -73196,6 +73199,7 @@ cryptodaily.co.uk##.ad-bottom-spacing
 save.ca##.ad-box
 am5.com##.ad-box-pc-3
 am5.com##.ad-box-right-pc-1
+diffchecker.com##.ad-box_container__q9Jhx
 mv-voice.com##.ad-break
 tvtropes.org##.ad-caption-subscribe-wrapper
 imsa.com##.ad-close-container
