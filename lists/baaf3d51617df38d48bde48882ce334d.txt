@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XnA8yerciSgpgFTA8Ovn3w
-! Version: 202601182225
+! Checksum: 9vgeCsDNshOSENhEH8wh0w
+! Version: 202601182300
 ! Title: Fanboy's Newsletter List
-! Last modified: 2026-01-18 22:25 UTC
+! Last modified: 2026-01-18 23:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2566,8 +2566,6 @@ physicsworld.com##.fullwidth-newsletter-sign-up__email
 thriftytraveler.com##.g
 shueisha.online##.g-regist-banner
 ogbongeblog.com##.g1-newsletter
-spotlightpa.org##.ga\:component\:main\:homepage\:midpage\:tout
-spotlightpa.org##.ga\:component\:main\:sidebar\:rail-newsletter
 spotlightpa.org##.ga\:component\:main\:sidebar\:top\:promo-image
 housefresh.com##.gb-container-20db77c8
 crisismagazine.com##.gb-container-6d731b3a
@@ -3079,7 +3077,6 @@ statnews.com##.newsletters
 almanac.com##.newsletters-signup-wrapper
 cooking.nytimes.com##.newslettersignupmodule_newsletterSignupModule__pT3BJ
 bocanewsnow.com##.newsletterwidgetminimal-6
-therealnews.com##.newspack-lightbox
 washingtoninformer.com##.newspack-lightbox-overlay
 missionlocal.org##.newspack-newsletters-subscribe
 thefrisc.com##.newspack-pattern
@@ -3418,6 +3415,7 @@ herbiesheadshop.com,ukragroconsult.com##.sp-form-outer
 thecurrent.com##.space-y-8 > .subscribe-form
 nautil.us##.speedbump-in-article
 forecourttrader.co.uk,fruitnet.com##.spinPromo
+spotlightpa.org##.spl-newsletter
 metro.co.uk##.spot-im-spotlight
 eatpink.it,thewalrus.ca##.spu-bg
 eatpink.it,moneymagpie.com,thewalrus.ca##.spu-box
@@ -3918,6 +3916,7 @@ advancedsciencenews.com##.et_pb_section:has-text(Sign up for our weekly newslett
 themirror.com##.factbox:has-text(Sign up)
 bravenewcoin.com##.fusion_builder_column_inner_1_1:has-text(BNC Newsletters)
 wyseguide.com##.has-background:has-text(Never miss a post)
+washingtoninformer.com##.has-background:has-text(Never miss)
 paloaltoonline.com##.has-background:has-text(Sign up for Express)
 linuxiac.com##.has-border-color.wp-block-columns:has-text(NEWSLETTER)
 potatonewstoday.com##.has-border-color:has-text(Discover more)
@@ -5192,6 +5191,8 @@ cjr.org###interVeil
 cjr.org##html:style(overflow: auto !important; position: initial !important;)
 ! coinbase.com
 coinbase.com##+js(set-cookie, bytes_signup_modal_viewed, 1)
+! informationisbeautiful.net
+informationisbeautiful.net##+js(set-cookie, iib_signup_popup, -1)
 ! cnn.com
 cnn.com##.bx-impress
 cnn.com##html:style(overflow: auto !important; position: initial !important;)
