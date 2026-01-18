@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MTsTR4wEMPIX9gQhUIm+PA
-! Version: 202601182225
+! Checksum: pgsdX2QDusEaMIrdkcfkEw
+! Version: 202601182300
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-18 22:25 UTC
+! Last modified: 2026-01-18 23:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1906,7 +1906,6 @@ libertynation.com###memberZoneFullSub
 mikesmoneytalks.ca###mikes_reading
 amazon.com###mobile-immersive-player
 everythingrf.com###modalAfterInactivityFormContainer
-bigissue.com###newmode-embed-50964-65957
 proprofs.com###over-overlay
 euromaidanpress.com###pa_banner_code
 thenewamerican.com###paywall_overlay
@@ -2121,6 +2120,7 @@ csswizardry.com##.c-highlight
 united24media.com##.c-prose__ignore:has-text(Every article pushes)
 folha.uol.com.br##.c-subscribe-ads
 folha.uol.com.br##.c-top-signup
+bigissue.com##.campaign-notification
 huffpost.com##.campaign-toaster
 ny1.com##.caption-container
 aarp.org##.caregivingPromotion
@@ -2250,8 +2250,11 @@ publicdomainreview.org##.fundraiser-banner
 allsides.com##.fundraising-block-flex
 propublica.org##.fundraising-letter-inline
 browardpalmbeach.com,dallasobserver.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.fundraising-thermometer-block
+spotlightpa.org##.ga\:component\:main\:homepage\:promo-image
 spotlightpa.org##.ga\:component\:main\:inline\:support
 thewalrus.ca##.gala_banner
+civitai.com##.gap-2[style*="250px;"]
+civitai.com##.gap-2[style*="280px;"]
 housefresh.com##.gb-container-eda5dcfe
 kitchenknifeforums.com,quadraphonicquad.com##.gb-donate_wrapper
 oxfordamerican.org##.gen-popup
@@ -2296,8 +2299,7 @@ insideclimatenews.org##.icn-call-out-block
 insideclimatenews.org##.icn-donate-block
 insideclimatenews.org##.icn-epic
 tabler.io##.icon-banner
-informationisbeautiful.net##.iib-banner-link
-informationisbeautiful.net##.iib-page-promo
+bigissue.com##.image-cta-container
 lwlies.com##.imageBanner
 metservice.com##.img-responsive-container
 snopes.com##.in-house-placement
@@ -2334,6 +2336,7 @@ euromaidanpress.com##.kompreno
 soundcloud.com##.l-product-banners
 notesfrompoland.com##.latacz
 commondreams.org##.lead_post_post_body.message-post
+spotlightpa.org##.lg\:max-w-\[960px\]
 golem.de##.li-reset
 thejakartapost.com##.loginAds
 londonnewsonline.co.uk##.londo-target
@@ -2342,9 +2345,6 @@ city-journal.org##.m_article-donate
 pravda.com.ua##.m_banner
 thereader.mitpress.mit.edu##.ma-don-cont
 captimes.com##.main-sidebar-wrap
-civitai.com##.mantine-1048l1x
-civitai.com##.mantine-12fifls
-civitai.com##.mantine-qfspxw
 investors.com##.market-banner
 degruyterbrill.com,github.com##.marketing-banner
 theglobeandmail.com##.marketing-container-drivers
@@ -2412,7 +2412,6 @@ damninteresting.com##.plea
 stuff.co.nz##.pn-ribbon
 jacobin.com##.po-sr-sb__container
 bigissue.com##.polaris__flexible-cta
-bigissue.com##.polaris__sticky-subscription
 theweek.com##.polaris__subscription
 dev.to##.popover-billboard--menuopenupwards
 escoffier.edu,scloudx.lol##.popup-overlay
@@ -2517,6 +2516,7 @@ flightrising.com##.skybanner
 slate.com##.slate-plus-promo
 opb.org##.slideup-backdrop
 splashlearn.com##.sllb-container
+spotlightpa.org##.spl-donate
 sporcle.com##.sporcle-promo
 imobie.com##.sprtadv
 scientificamerican.com##.spw__banner
@@ -2651,6 +2651,7 @@ theintercept.com##[data-module="DynamicSupportButton"]
 fool.com##[data-pitch-placement]
 stuff.co.nz##[data-testid="article-footer-actions"]
 independent.co.uk##[data-testid="nsc-wrapper-support-us"]
+civitai.com##[height="250"]
 jurist.org##[href="/apply/"]
 asuracomic.net##[href="/subscription"]
 dailyhodl.com##[href="https://dailyhodl.com/alerts/"]
@@ -48466,8 +48467,6 @@ physicsworld.com##.fullwidth-newsletter-sign-up__email
 thriftytraveler.com##.g
 shueisha.online##.g-regist-banner
 ogbongeblog.com##.g1-newsletter
-spotlightpa.org##.ga\:component\:main\:homepage\:midpage\:tout
-spotlightpa.org##.ga\:component\:main\:sidebar\:rail-newsletter
 spotlightpa.org##.ga\:component\:main\:sidebar\:top\:promo-image
 housefresh.com##.gb-container-20db77c8
 crisismagazine.com##.gb-container-6d731b3a
@@ -48979,7 +48978,6 @@ statnews.com##.newsletters
 almanac.com##.newsletters-signup-wrapper
 cooking.nytimes.com##.newslettersignupmodule_newsletterSignupModule__pT3BJ
 bocanewsnow.com##.newsletterwidgetminimal-6
-therealnews.com##.newspack-lightbox
 washingtoninformer.com##.newspack-lightbox-overlay
 missionlocal.org##.newspack-newsletters-subscribe
 thefrisc.com##.newspack-pattern
@@ -49318,6 +49316,7 @@ herbiesheadshop.com,ukragroconsult.com##.sp-form-outer
 thecurrent.com##.space-y-8 > .subscribe-form
 nautil.us##.speedbump-in-article
 forecourttrader.co.uk,fruitnet.com##.spinPromo
+spotlightpa.org##.spl-newsletter
 metro.co.uk##.spot-im-spotlight
 eatpink.it,thewalrus.ca##.spu-bg
 eatpink.it,moneymagpie.com,thewalrus.ca##.spu-box
@@ -49818,6 +49817,7 @@ advancedsciencenews.com##.et_pb_section:has-text(Sign up for our weekly newslett
 themirror.com##.factbox:has-text(Sign up)
 bravenewcoin.com##.fusion_builder_column_inner_1_1:has-text(BNC Newsletters)
 wyseguide.com##.has-background:has-text(Never miss a post)
+washingtoninformer.com##.has-background:has-text(Never miss)
 paloaltoonline.com##.has-background:has-text(Sign up for Express)
 linuxiac.com##.has-border-color.wp-block-columns:has-text(NEWSLETTER)
 potatonewstoday.com##.has-border-color:has-text(Discover more)
@@ -51092,6 +51092,8 @@ cjr.org###interVeil
 cjr.org##html:style(overflow: auto !important; position: initial !important;)
 ! coinbase.com
 coinbase.com##+js(set-cookie, bytes_signup_modal_viewed, 1)
+! informationisbeautiful.net
+informationisbeautiful.net##+js(set-cookie, iib_signup_popup, -1)
 ! cnn.com
 cnn.com##.bx-impress
 cnn.com##html:style(overflow: auto !important; position: initial !important;)
