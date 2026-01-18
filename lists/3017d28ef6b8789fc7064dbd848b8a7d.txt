@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202601180627
+! Version: 202601180717
 ! Title: EasyPrivacy
-! Last modified: 18 Jan 2026 06:27 UTC
+! Last modified: 18 Jan 2026 07:17 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e8875a0c87bc19ae713de971ce3d27851a411bb7
+! Commit: b85e9c06520656bf844e36870650cad6ea6b9397
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16254,7 +16254,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ! akamaihd.net
 ||akamaihd.net^$image,domain=globalnews.ca|nycgo.com|stcatharinesstandard.ca
 ! Non-legit domains
-||edge-client^$script,domain=barrons.com
+://edge-client/$domain=barrons.com
 ! Plausible selfhosted
 ||jeremiahlee.com/fanboynz.js
 ! confection.io
