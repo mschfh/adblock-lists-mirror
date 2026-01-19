@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601190338
+! Version: 202601190421
 ! Title: EasyList
-! Last modified: 19 Jan 2026 03:38 UTC
+! Last modified: 19 Jan 2026 04:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8024e005e509adc2396803d6d0e0511334f1b6f4
+! Commit: 0359f29e3c1b4ce694854279a4374252a78652a3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19964,6 +19964,7 @@ browsershots.org#@#.advert_area
 ||bantamsonefold.com^
 ||baoabplcyspdf.website^
 ||baohkgpwemaur.store^
+||baovfrleppybg.space^
 ||bapoomsupurooph.net^
 ||bapouwoakoa.net^
 ||baptizespadeaccompanying.com^
@@ -32768,6 +32769,7 @@ browsershots.org#@#.advert_area
 ||hdjsvkvqhfvdb.space^
 ||hdkokhzvalbxn.tech^
 ||hdkpdrzcvooaz.online^
+||hdlibkddkahdwl.com^
 ||hdmmkguxvsfrl.site^
 ||hdoditwa.xyz^
 ||hdowamsiyeibv.online^
@@ -33765,6 +33767,7 @@ browsershots.org#@#.advert_area
 ||hucmourtee.net^
 ||hucnfoxgiirbw.online^
 ||hudmmxrbwnbwl.fun^
+||hudupxzcaltnp.space^
 ||hue11.com^
 ||hue2b.com^
 ||hueadsxml.com^
@@ -34381,6 +34384,7 @@ browsershots.org#@#.advert_area
 ||iijwomwwwfhrz.online^
 ||iijyrnrxflbvn.store^
 ||iikok6qiwg15xfpx.cfd^
+||iilvrehcfgvkj.online^
 ||iiouzpgmqpftg.website^
 ||iiqetnbmcls.net^
 ||iiqkuzdjjregw.website^
@@ -39622,6 +39626,7 @@ browsershots.org#@#.advert_area
 ||manoareca.cyou^
 ||manominsurwan.cyou^
 ||manorowlapprehension.com^
+||manqueeaerialincuses.cyou^
 ||manrec.cc^
 ||manropelegati.qpon^
 ||mansionappointmentmoon.com^
@@ -41505,6 +41510,7 @@ browsershots.org#@#.advert_area
 ||nagrande.com^
 ||nahrsvtslfjzz.site^
 ||nahuaesnecy.help^
+||nahuatlcodens.com^
 ||naillimity.click^
 ||naineethehe.net^
 ||naipachevoapt.net^
