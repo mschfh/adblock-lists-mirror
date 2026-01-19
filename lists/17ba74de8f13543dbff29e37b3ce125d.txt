@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601190251
+! Version: 202601190338
 ! Title: EasyList
-! Last modified: 19 Jan 2026 02:51 UTC
+! Last modified: 19 Jan 2026 03:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a0012cbb1df72365ae004c82b3ee0ca788aeffb8
+! Commit: 8024e005e509adc2396803d6d0e0511334f1b6f4
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16061,6 +16061,7 @@ browsershots.org#@#.advert_area
 ||4a4c8a3bdd.com^
 ||4afe4f94c5.com^
 ||4armn.com^
+||4b246mtpc5q6x5632r9.cfd^
 ||4b9mqc5kcl3wp67uih2q6q9.cfd^
 ||4ba48a7822.com^
 ||4bc588417b.com^
@@ -21753,6 +21754,7 @@ browsershots.org#@#.advert_area
 ||buffyalboin.cyou^
 ||bufyiggmqdivt.site^
 ||bugaruche.com^
+||bugbanebasinsfluters.cfd^
 ||bugdt-ica.rocks^
 ||buggerswaka.qpon^
 ||buggessrefreshfanwe.cyou^
@@ -31945,6 +31947,7 @@ browsershots.org#@#.advert_area
 ||gringosbrocket.cfd^
 ||grinnedflandan.help^
 ||griphusveneti.cyou^
+||grippestropary.com^
 ||gripping-bread.com^
 ||grippingdelay.com^
 ||gripsalrebsoali.net^
@@ -34079,6 +34082,7 @@ browsershots.org#@#.advert_area
 ||iaueciftevwbn.website^
 ||iaukmlastitytyeast.com^
 ||iauvngcowqhzi.online^
+||iavgecjw.com^
 ||iaxitnxmakuso.store^
 ||iaypoeqfvxfqg.site^
 ||iazcpoptkwapp.store^
@@ -37513,6 +37517,7 @@ browsershots.org#@#.advert_area
 ||ktpyccaylwkmy.website^
 ||ktrgtteucxzzu.website^
 ||ktsnqchncbimr.space^
+||ktvpruhuatopsd.xyz^
 ||ktvsluqtriskv.online^
 ||ktwojdxabmh.com^
 ||ktxdyoptkircd.website^
@@ -51964,6 +51969,7 @@ browsershots.org#@#.advert_area
 ||sonsstoop.com^
 ||sonyzetuxx.com^
 ||soocaips.com^
+||soocdwmfovrkq.space^
 ||soodledchase.qpon^
 ||soodleenami.cfd^
 ||soogigopapsaru.net^
@@ -55744,6 +55750,7 @@ browsershots.org#@#.advert_area
 ||umzwmufdxrcrf.site^
 ||unaces.com^
 ||unactkiosk.com^
+||unaitrey.shop^
 ||unakinloggin.com^
 ||unanimousinflammableboxing.com^
 ||unanimouslytackytraumatize.com^
@@ -56443,6 +56450,7 @@ browsershots.org#@#.advert_area
 ||uwamtkhzhlpyl.online^
 ||uwauarphjaflw.website^
 ||uwbqwgzobxpqi.site^
+||uwemasfpdgnrj.site^
 ||uwfsrubjqlibq.store^
 ||uwgkkegilvrnqwu.com^
 ||uwhevailoo.net^
