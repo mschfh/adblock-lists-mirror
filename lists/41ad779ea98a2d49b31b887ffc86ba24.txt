@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pgsdX2QDusEaMIrdkcfkEw
-! Version: 202601182300
+! Checksum: GoO1nentN4vFHdYm/4DfYA
+! Version: 202601182325
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-18 23:00 UTC
+! Last modified: 2026-01-18 23:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1839,7 +1839,6 @@ jns.org###XZSCFLEW
 edutopia.org###accountmodal
 investors.com###action_insert_15511419671934590
 texasobserver.org###adDonate
-forward.com###after-post-content-widget-wrapper
 knowablemagazine.org###alerts
 gardinerbryant.com,therage.co###announcement-bar-root
 thurrott.com###announcment-banner
@@ -2427,6 +2426,7 @@ processengineering.co.uk##.promo--small
 knowablemagazine.org##.promo-article-dark
 carsandbids.com##.promo-bar
 lmtribune.com##.promo-button
+forward.com##.promo-carousel
 herald-dispatch.com,oleantimesherald.com##.promo-designer-modal
 thesaturdaypaper.com.au##.promo-footer-strap-wrapper
 scrippsnews.com##.promo-image
@@ -2580,7 +2580,6 @@ cnn.com##.toast-popup
 internationalliving.com##.top-0.bg-deep-sea\/default
 curseforge.com##.top-banner
 aliexpress.com,aliexpress.us##.top-banner-container
-forward.com##.top-banner-desktop
 crypto.com##.top-banner__item
 healthday.com##.top-bar-promo
 jfrog.com##.top-fixed-stripe
@@ -50600,9 +50599,9 @@ nationalgeographic.com##body:style(overflow: auto !important; position: initial 
 ! medium scroll detection
 medium.com##+js(aeld, scroll)
 ! Newspaper newsletter
-forward.com,monroenews.com,nationalobserver.com,npr.org,poconorecord.com,thebulletin.org,vice.com,washingtontimes.com##.tp-backdrop
-forward.com,monroenews.com,nationalobserver.com,npr.org,poconorecord.com,thebulletin.org,vice.com,washingtontimes.com##.tp-modal
-forward.com,monroenews.com,nationalobserver.com,npr.org,poconorecord.com,thebulletin.org,vice.com,washingtontimes.com##body:style(height: auto !important; overflow: auto !important)
+monroenews.com,nationalobserver.com,npr.org,poconorecord.com,thebulletin.org,vice.com,washingtontimes.com##.tp-backdrop
+monroenews.com,nationalobserver.com,npr.org,poconorecord.com,thebulletin.org,vice.com,washingtontimes.com##.tp-modal
+monroenews.com,nationalobserver.com,npr.org,poconorecord.com,thebulletin.org,vice.com,washingtontimes.com##body:style(height: auto !important; overflow: auto !important)
 ! 404media.co
 404media.co,broadbandbreakfast.com##.outpost-cta
 404media.co,broadbandbreakfast.com##body,html:style(overflow: auto !important; position: initial !important;)
