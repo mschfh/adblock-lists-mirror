@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601190036
+! Version: 202601190140
 ! Title: EasyList
-! Last modified: 19 Jan 2026 00:36 UTC
+! Last modified: 19 Jan 2026 01:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 170556e7e21eb8a836faea03db99e5419e27d33e
+! Commit: 293041335489db6705b8d46d94e51abeee397423
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18172,6 +18172,7 @@ browsershots.org#@#.advert_area
 ||alcondevarella.cfd^
 ||alczpohhzjaag.online^
 ||aldealerret.cfd^
+||aldiminnudish.shop^
 ||alditolcensure.cfd^
 ||aldosesmajeure.com^
 ||aldosesml.cyou^
@@ -19059,6 +19060,7 @@ browsershots.org#@#.advert_area
 ||asesiumworkhovdim.org^
 ||asewlfjqwlflkew.com^
 ||asf4f.us^
+||asfkdyvrmvhfe.website^
 ||asgadmp.cc^
 ||asgadsts.cc^
 ||asgclick.com^
@@ -29077,6 +29079,7 @@ browsershots.org#@#.advert_area
 ||feistyswim.com^
 ||fejwweqjtndwz.site^
 ||felidturusledges.cyou^
+||felinaewush.cyou^
 ||feline-fortune.pro^
 ||fellauntorn.cyou^
 ||felliesbeme.cyou^
@@ -29863,6 +29866,7 @@ browsershots.org#@#.advert_area
 ||formerdrearybiopsy.com^
 ||formerlyconsidering.com^
 ||formerskating.com^
+||formicacircsginseng.cyou^
 ||formicflob.com^
 ||formingclayease.com^
 ||formismagiustor.com^
@@ -30962,6 +30966,7 @@ browsershots.org#@#.advert_area
 ||germlesslukewarmmold.com^
 ||germsferalin.qpon^
 ||gescudfkjbzzt.online^
+||geslatish.cyou^
 ||gesogroava.net^
 ||gesturasmirkly.qpon^
 ||get-gx.net^
@@ -37282,6 +37287,7 @@ browsershots.org#@#.advert_area
 ||koeebuetwevng.space^
 ||koffbegaudismaili.cyou^
 ||kofxbthodmiia.space^
+||kogajgxguzaxk.space^
 ||kohadfzjolyfy.website^
 ||kohempflying.cfd^
 ||kohiseewhatm.com^
@@ -41120,6 +41126,7 @@ browsershots.org#@#.advert_area
 ||muddysoil.pro^
 ||mudejarforches.qpon^
 ||mudobtnarda.com^
+||mudpackmafiosi.qpon^
 ||mudsdiantre.cfd^
 ||mudwmhaesljqz.site^
 ||muejigjejszbp.online^
@@ -43865,6 +43872,7 @@ browsershots.org#@#.advert_area
 ||orcfklck.net^
 ||orchilsspumy.qpon^
 ||orcinoloutbegs.help^
+||orcucyrfp.com^
 ||orderly-pair.pro^
 ||orderlycash.com^
 ||orderlyuponprecipitation.com^
@@ -47490,6 +47498,7 @@ browsershots.org#@#.advert_area
 ||qhojziwmoav.com^
 ||qhqthxofmcdxl.site^
 ||qhrgkzpfvrtzm.online^
+||qhsebegxeicom.online^
 ||qhupphmzchsdo.space^
 ||qhurchaisrea.org^
 ||qhxtrmbxmcirh.onlin^
@@ -52082,6 +52091,7 @@ browsershots.org#@#.advert_area
 ||sparkytrayne.click^
 ||sparrowaboveaveragedefence.com^
 ||sparse-return.pro^
+||sparseeconomics.pro^
 ||sparsivies.cfd^
 ||spasmickyathoi.cfd^
 ||spasslonely.shop^
@@ -53037,6 +53047,7 @@ browsershots.org#@#.advert_area
 ||surechieflyrepulse.com^
 ||surefooted-use.pro^
 ||surefootedbusiness.com^
+||surefootedpermit.pro^
 ||surfaceunvest.help^
 ||surfacyjudos.qpon^
 ||surge.systems^
@@ -56018,6 +56029,7 @@ browsershots.org#@#.advert_area
 ||unsteady-challenge.com^
 ||unsteadycurve.pro^
 ||unsteelrimas.cyou^
+||unstoreregrets.cfd^
 ||unsuccessfulimmense.com^
 ||unsuitsipapuhogs.cyou^
 ||unsung-comment.com^
@@ -57230,6 +57242,7 @@ browsershots.org#@#.advert_area
 ||vkjhdorbxcabh.site^
 ||vkjiwgmipziva.space^
 ||vkkdrilbdicuzo.com^
+||vkkqylhklrwuj.website^
 ||vklljvwyyvzj.top^
 ||vknq6yt6wyxo2xtv7wr7fgukq9t.cyou^
 ||vkofmxopxieit.space^
@@ -57930,6 +57943,7 @@ browsershots.org#@#.advert_area
 ||wavy-meeting.pro^
 ||wawaidlers.qpon^
 ||wawdycfvprblg.space^
+||wawpyruvyl.qpon^
 ||waxapushlite.com^
 ||waxierowldom.help^
 ||waxqutxaotutu.life^
@@ -58844,6 +58858,7 @@ browsershots.org#@#.advert_area
 ||woof-wo0f.net^
 ||woogoust.com^
 ||wooguwhede.net^
+||woosspoom.cyou^
 ||wootmedia.net^
 ||woovoree.net^
 ||woozephucaisoo.net^
@@ -60347,6 +60362,7 @@ browsershots.org#@#.advert_area
 ||yklzgaocrgnua.space^
 ||ykmmrklnsovkk.space^
 ||ykmterpeftso.com^
+||yknhfifccqozk.space^
 ||ykozvjybzuctr.website^
 ||ykrabkjoqurvl.online^
 ||ykrsorluybndt.website^
@@ -60727,6 +60743,7 @@ browsershots.org#@#.advert_area
 ||yxnkrmzdmjwwt.site^
 ||yxoygmeyhpxnf.site^
 ||yxpmkgzsqcxyu.site^
+||yxrocrfgsuclr.space^
 ||yxtwurrbxqifz.website^
 ||yxunqfhyuwrxt.online^
 ||yxwwyxmpowqnm.space^
