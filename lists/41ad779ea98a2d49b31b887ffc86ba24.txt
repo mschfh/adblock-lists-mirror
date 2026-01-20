@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0YgnCx4/XneDrUWjOWZWkw
-! Version: 202601202225
+! Checksum: CXprdxM3bbOCY7lY4vTzKw
+! Version: 202601202250
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-20 22:25 UTC
+! Last modified: 2026-01-20 22:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -35467,7 +35467,7 @@ wyze.com###wyze-cookie-banner
 xhorsetool.com###xri_GoogConsent
 hydramatics.co.za###zcb-banner
 spiceworks.com###zdprivacy-content-new
-avaloniaui.net,buildship.com,bunq.com,coworker.ai,enhanced.com,fitanalytics.com,framer.com,gitbook.com,iverify.io,neon-free.ch,podspace.com,site.trasti.pl,snoutcover.com,strongcloud.online,syncly.app,walllet.com##.--framer-cookie-banner-container
+avaloniaui.net,buildship.com,bunq.com,coworker.ai,enhanced.com,fitanalytics.com,framer.com,gitbook.com,iverify.io,localculture.org,neon-free.ch,podspace.com,site.trasti.pl,snoutcover.com,strongcloud.online,syncly.app,walllet.com##.--framer-cookie-banner-container
 dublininquirer.com##.-alert.-fixed.notice
 alpari.com,alpariforex.org##.-footer__notice
 nhl.com##.-left.nhl-c-toast
