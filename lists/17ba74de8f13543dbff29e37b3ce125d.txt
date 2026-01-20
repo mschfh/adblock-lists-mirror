@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601201512
+! Version: 202601201546
 ! Title: EasyList
-! Last modified: 20 Jan 2026 15:12 UTC
+! Last modified: 20 Jan 2026 15:46 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 39a875243d67c7e660e468b01bef37170071c4ec
+! Commit: f1d5e66b28e748c55cc37eb7a605e3d314d7da50
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31221,6 +31221,7 @@ browsershots.org#@#.advert_area
 ||giantaffiliates.com^
 ||giantlevel.pro^
 ||giaythethaonuhcm.com^
+||gibuqddhrp.com^
 ||gidxggpntfrqz.online^
 ||gieselrabific.qpon^
 ||gifrelicts.shop^
@@ -39013,6 +39014,7 @@ browsershots.org#@#.advert_area
 ||loluikmeeapwv.space^
 ||lolwxbnjyxidv.website^
 ||loneinner.com^
+||lonelslnbh.xyz^
 ||lonelyjunior.com^
 ||lonelysilver.pro^
 ||lonelystress.com^
@@ -48175,6 +48177,7 @@ browsershots.org#@#.advert_area
 ||quillsoons.qpon^
 ||quinoidaureus.rest^
 ||quintesmarek.help^
+||quintessentialdust.pro^
 ||quioneroudle.com^
 ||quipupaginalnymphs.cfd^
 ||quirkystreet.pro^
@@ -51481,6 +51484,7 @@ browsershots.org#@#.advert_area
 ||shorthandlanding.com^
 ||shortprinciple.pro^
 ||shortssibilantcrept.com^
+||shortterm-cream.pro^
 ||shortterm-result.com^
 ||shorttermlocation.com^
 ||shorttermmedia.pro^
