@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +yOp6B6WPCi1v7t9cFdMOA
-! Version: 202601211050
+! Checksum: w4j0z9Wm4cDoTIMcZcEV8g
+! Version: 202601211100
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-21 10:50 UTC
+! Last modified: 2026-01-21 11:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -36167,6 +36167,7 @@ aiease.ai##.cookies-accept
 gstarcad.net##.cookies-ask
 credential.net,meningitisnow.org,soenergy.com##.cookies-banner
 gomosafer.com##.cookies-body
+gitads.dev##.cookies-card
 mycar.com.au##.cookies-cards
 castbox.fm##.cookies-conf
 eandt.theiet.org##.cookies-consent-edit-link-container
