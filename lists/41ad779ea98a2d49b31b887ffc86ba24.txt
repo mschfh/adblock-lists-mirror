@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bMkyN8h4EeAXvyeUEOyQmQ
-! Version: 202601220550
+! Checksum: Y5een07gwD/c1sY6CYpP+A
+! Version: 202601220650
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-22 05:50 UTC
+! Last modified: 2026-01-22 06:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -34322,7 +34322,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ||consent.prointernet.com^
 ||consent.standardadmin.org^
 ||consent.trustarc.com/get?name=$subdocument,domain=avantiwestcoast.co.uk|oracle.com
-||consent.trustarc.com^$domain=authy.com|pedialyte.com|twilio.com
+||consent.trustarc.com^$domain=authy.com|nejm.org|pedialyte.com|twilio.com
 ||consent.truste.com^$third-party
 ||consentag.eu^$third-party
 ||consentframework.com^$third-party
