@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WWWiucwA6PqU7l1W/A/3Fg
-! Version: 202601220425
+! Checksum: OOxo6bV/hhiw597lfuAZyQ
+! Version: 202601220500
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-22 04:25 UTC
+! Last modified: 2026-01-22 05:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2439,6 +2439,7 @@ monthlyreview.org##.promo__banner
 apkmirror.com##.promotedApp
 consumer.org.nz,themarkup.org##.promotion
 bbcgoodfood.com##.promotion-cards
+diet.mayoclinic.org##.promotionSingleTile
 racingtv.com##.promotion__asset
 racingtv.com##.promotion__overlay
 bikeradar.com##.promotional-content
@@ -14736,6 +14737,7 @@ newscientist.com##.ArticleHeader__SocialWrapper
 afar.com##.ArticlePage-actions-wrapper
 startrek.com##.Article_shareToggle__D2fGG
 nordvpn.com##.BlogPost__social-block
+sesamecare.com##.BlogPost_shareWrapper__HBgEG
 brighteon.com##.ButtonShare
 cnbc.com##.CNBCFooter-social
 embed.listcorp.com##.CompanyPage2CompanyPageAbout__share
@@ -37605,7 +37607,7 @@ alibabagroup.com,buildsoftwaresystems.com,cloud.huawei.com,confuciusinstitute.ac
 ! .cookies-container
 airtel.in,habblet.city,interativa.ind.br,moex.com,seedtag.com,snoopza.com,trensurb.gov.br##.cookies-container
 !! .consent-banner-root
-2lprodutora.com,abrahamartimpressions.com,aef.bz,allelitewrestling.com,artflix.info,babyspullen-advies.nl,barkanmounts.com,bodenlager24.de,bruni.biz,burobraak.nl,celula21.com,clorin.com.br,conteudoscatolicos.com,crestcare.co.za,dealleadersint.com,eco-valves.com,elektropartner.com,eriestgastropub.com,essentialhealthsa.com,euroctp.eu,fahrschule-delert.de,feitodabananeira.com,ffwinnebach.it,flywhite.com,franzenshoehe.com,geowgs84.com,hafner-konrad.it,herbatio.com,hoper.com.br,interalco.es,journafonds.ch,ketikotitafel.nl,kuoe-en.com,maierhofer.at,maldivealternative.com,mariaspizza.ca,miocomune.tv,mysterium.network,naturalia.it,nbs-bouwmaterialen.nl,omnihandling.com,opticron.net,p-b-holding.com,perritocal-tienda.com,petruz.com,piessegroup.it,pipeway.com,popentertainmentarchives.com,preparaedu.com.br,radegastuvsenk.cz,radiobranding.de,radiocecchetto.it,reservamundi.com.br,sd-fiber.ch,sigmapumpy.com,smartlet.io,smoenova.de,stimmungsgarten.tv,studiobera.it,tgtglas.es,thegnet.org,villagioia.net,vuseum.it,weplanet.org,wernergevers.be,wewillnomad.com,zeleny.cz,zeppelin-la.com##.consent-banner-root
+2lprodutora.com,abrahamartimpressions.com,aef.bz,allelitewrestling.com,artflix.info,babyspullen-advies.nl,barkanmounts.com,bodenlager24.de,bruni.biz,burobraak.nl,celula21.com,clorin.com.br,conteudoscatolicos.com,crestcare.co.za,dealleadersint.com,eco-valves.com,elektropartner.com,eriestgastropub.com,essentialhealthsa.com,euroctp.eu,fahrschule-delert.de,feitodabananeira.com,ffwinnebach.it,flywhite.com,franzenshoehe.com,geowgs84.com,hafner-konrad.it,herbatio.com,hoper.com.br,interalco.es,journafonds.ch,ketikotitafel.nl,kuoe-en.com,maierhofer.at,maldivealternative.com,mariaspizza.ca,miocomune.tv,mysterium.network,naturalia.it,nbs-bouwmaterialen.nl,omnihandling.com,opticron.net,p-b-holding.com,perritocal-tienda.com,petruz.com,piessegroup.it,pipeway.com,popentertainmentarchives.com,preparaedu.com.br,radegastuvsenk.cz,radiobranding.de,radiocecchetto.it,reservamundi.com.br,sd-fiber.ch,sigmapumpy.com,slimtransformation.co.uk,smartlet.io,smoenova.de,stimmungsgarten.tv,studiobera.it,tgtglas.es,thegnet.org,villagioia.net,vuseum.it,weplanet.org,wernergevers.be,wewillnomad.com,zeleny.cz,zeppelin-la.com##.consent-banner-root
 !! #cookiescript_injected
 amministrazionicomunali.it,rual-travel.com###cookiescript_injected
 ! roninwear.
@@ -38004,7 +38006,7 @@ chase.com,chasebonus.com,gameduell.de,iziwork.com,jpmorgan.com,jrc.cz,justwatch.
 !! .dialog-lightbox-message
 1800runaway.org,aceprensa.com,ak-asya.com.tr,alivia.org.pl,almeidastextile.pt,ancon.io,caltex.co.za,cerre.eu,cofense.com,detonated.com,direct-carpets.com,experiorfinancial.com,fermedelinciaux.be,fft.mt,getspace.us,gilmoreglobal.com,ingeniamc.com,janninebarron.com,lsisoftware.pl,lucerna-chem.ch,luukku.com,lwab.se,maltaconsulting.mt,marathonhr.com,marshfieldpre-school.co.uk,mitreprinting.co.uk,ourdutyofcare.org.uk,polutowani.pl,realvnc.com,ritchy.com,rwi.se,shotam.info,smackcoders.com,takeoff.org.mt,terracreta.gr,terveyskauneus.fi,tvpop.com.br,tzumi.com,vrxdb.com,webdesignspecialistamsterdam.nl,whatcounts.com##.dialog-lightbox-message
 !! .amgdprcookie-modal-container
-american-heritage.de,discoland.fi,kedo.de,shop.lecoqporcelaine.it##.amgdprcookie-modal-container
+american-heritage.de,discoland.fi,kedo.de,pharmacyplanet.com,shop.lecoqporcelaine.it##.amgdprcookie-modal-container
 !! .dialog-lightbox-widget
 amos-spacecom.com,blackmusicscholar.com,coachdaveacademy.com,cosmere.es,cover-4-less.com,distritoanhembi.com.br,dogfoodreviews.com,elegis.com.br,escolarofficebrasil.com.br,eureciclo.com.br,four12global.com,fundacaodorina.org.br,golffang.co.uk,hoteldelftcentre.nl,intertechne.com.br,itepexam.com,kedraflowerscpa.com,lightlife.com,martonmedia.pl,maxstock.co.il,meerdirectedemocratie.nl,mindigital.gr,nadacnifondvb.cz,nepirockcastle.com,newnoisemagazine.com,onlyonce.today,ouvi.io,powerzone.com,renovainvest.com.br,saferpass.com,satel.pl,selectmedia.asia,sublabmusic.com,tealstreet.io,thebfa.org,towersemi.com,victorvision.com.br##.dialog-lightbox-widget
 !! .modal-cookies
@@ -47402,6 +47404,7 @@ drive.com.au###drive-subscribe-newsletter
 winaero.com###drpa
 stlpr.org###dynamic-ask
 eco-business.com###eb-bottom-banner
+diet.mayoclinic.org###elementForNewsletter
 hiresaudiocentral.com###elementor-popup-modal-40
 jewishpress.com###ema_signup_form
 crisismagazine.com###email
@@ -47792,6 +47795,7 @@ thefinancialdiet.com##.Hd__banner
 sfstandard.com##.Header_newslettersButton__8p0gX
 hola.com##.HolaNewsletter_h1mkhy1o
 ozy.com##.IndexStyled__NewsletterSection-x8xg4h-5
+sesamecare.com##.InitialState_panel__8oDvT
 nationalgeographic.com##.InlineEmail__Container
 theurbanlist.com##.InlineForm
 abc.net.au##.InlineSubscribe_inlineSubscribe__Yc5sT
@@ -47822,6 +47826,7 @@ ranker.com##.NewsletterSubscription_mainWrapper__GxgFi
 cntraveler.com##.NewsletterWrapper-JRxKg
 complex.com##.Newsletter__NewsletterContainer-sc-1ysnx0y-0
 manofmany.com##.Newsletter_component__sowM_
+ukmeds.co.uk##.Newsletter_wrapper__wOw_R
 newscientist.com##.NewslettersPanel
 benjamingroff.com##.OPF__embedded-form
 laist.com##.Page-footer-content-above
@@ -48071,7 +48076,7 @@ mashable.com##.border-warmgray-100
 themonthly.com.au##.border-years
 quillette.com##.border.bg-white.mb-4
 sfstandard.com,spotlightpa.org,usafacts.org##.bottom-0
-simpleanalytics.com##.bottom-20
+healthymale.org.au,simpleanalytics.com##.bottom-20
 brighteon.com,cruxnow.com##.bottom-banner
 mygenefood.com##.bottom-bar-optin
 allevents.in##.bottom-right-subscribe
@@ -48951,6 +48956,7 @@ hartfordbusiness.com##.newsletterBoxSidebar
 hellomagazine.com##.newsletterClass_n1f72qdk
 inthesetimes.com##.newsletterForm
 livemint.com##.newsletterRHS
+diet.mayoclinic.org##.newsletterRightColBlog
 bigislandnow.com##.newsletterSignupGrid
 petri.com##.newsletterWide
 usafacts.org##.newsletter__bg
