@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601230155
+! Version: 202601230238
 ! Title: EasyList
-! Last modified: 23 Jan 2026 01:55 UTC
+! Last modified: 23 Jan 2026 02:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2e9d6243acd36b4805890282ad7fe082c329964d
+! Commit: c0cec0cb8684967192f37fb14026fc85d0905f41
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19135,6 +19135,7 @@ browsershots.org#@#.advert_area
 ||ashcdn.com^
 ||asheestechevoa.com^
 ||ashhgo.com^
+||ashkokoistanachueta.cfd^
 ||ashlingpaybox.cfd^
 ||ashnmlhfqcnph.online^
 ||ashorenorris.com^
@@ -26283,6 +26284,7 @@ browsershots.org#@#.advert_area
 ||dkrpcxhlibkhw.site^
 ||dkswshap-3.online^
 ||dktclumdglhds.site^
+||dktknarhxsoza.com^
 ||dkwiwhotwo.net^
 ||dkwiwhotwo.xyz^
 ||dkwtrzrrejqls.club^
@@ -44013,6 +44015,7 @@ browsershots.org#@#.advert_area
 ||olebcnoveqtgn.site^
 ||olefinsmimus.cfd^
 ||oleinoutdone.help^
+||olfawljswltdh.site^
 ||olgusnxobcokr.online^
 ||olhmjampipwid.online^
 ||olhomrmu.com^
@@ -53125,6 +53128,7 @@ browsershots.org#@#.advert_area
 ||ssaiwvjpyevjq.site^
 ||ssatnmjhplvi.com^
 ||ssblepbnncttn.site^
+||ssbszbjhajmod.website^
 ||sscjqsqachetz.space^
 ||ssedcrimble.com^
 ||sservs.com^
@@ -57412,6 +57416,7 @@ browsershots.org#@#.advert_area
 ||vaguefact.pro^
 ||vahcvdeffqkek.space^
 ||vahpkfgdlobhd.com^
+||vaibumoodaigrou.net^
 ||vaijiwauglajaur.net^
 ||vaikijie.net^
 ||vaimucuvikuwu.net^
@@ -58830,6 +58835,7 @@ browsershots.org#@#.advert_area
 ||wawaidlers.qpon^
 ||wawdycfvprblg.space^
 ||wawpyruvyl.qpon^
+||wawxdcoodhg.com^
 ||waxapushlite.com^
 ||waxierowldom.help^
 ||waxqutxaotutu.life^
@@ -59077,6 +59083,7 @@ browsershots.org#@#.advert_area
 ||wendxktstjx.net^
 ||wenog.com^
 ||wenoolgo.icu^
+||wentlechrisma.cfd^
 ||wenykhldanuek.store^
 ||weoewklnpto.com^
 ||weownthetraffic.com^
@@ -61147,6 +61154,7 @@ browsershots.org#@#.advert_area
 ||yexfkytrmbyuvx.xyz^
 ||yexhsrfcrukeg.online^
 ||yeygjuirsbzhz.online^
+||yeyjnkkmgqt.com^
 ||yeyrfezafeycj.online^
 ||yeyswxtehnave.site^
 ||yf6c7kngfclolqzrkk8.cfd^
