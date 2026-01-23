@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601231036
+! Version: 202601231117
 ! Title: EasyList
-! Last modified: 23 Jan 2026 10:36 UTC
+! Last modified: 23 Jan 2026 11:17 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 24b70883cd49e08c019563fef421ef5d77616075
+! Commit: a1d3427f7b8ec195aa660ff841de3ad2fac4811d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19295,6 +19295,7 @@ browsershots.org#@#.advert_area
 ||athlg.com^
 ||atholicncesispe.com^
 ||atholicncesispe.info^
+||athqkcnggxqw.com^
 ||athxvvmpxabwo.website^
 ||athyimemediat.org^
 ||athyimemediates.org^
@@ -60289,6 +60290,7 @@ browsershots.org#@#.advert_area
 ||wxtldkydabpmz.online^
 ||wxvaosdozpome.site^
 ||wxvcugxyy.com^
+||wxwdpvolofgdt.site^
 ||wxxjvvnetyomm.website^
 ||wxxugpduavcur.site^
 ||wxyzjutyofbjm.space^
@@ -60355,6 +60357,7 @@ browsershots.org#@#.advert_area
 ||wzutebvjpxwwu.site^
 ||wzvthohdheobm.site^
 ||wzvuzbcwcarnx.site^
+||wzyazsjpaxa.com^
 ||x-zjxfhysb.love^
 ||x011bt.com^
 ||x1cqv7vh6u1hgvgzm4y9xyr2oi.rest^
@@ -61564,6 +61567,7 @@ browsershots.org#@#.advert_area
 ||yojmbncodfybc.com^
 ||yokeeroud.com^
 ||yokematchesdashboard.com^
+||yokwiszkpeaxp.space^
 ||yolvyzasxyojr.space^
 ||yomeno.xyz^
 ||yonazurilla.com^
@@ -61680,6 +61684,7 @@ browsershots.org#@#.advert_area
 ||yruqwfriqcots.website^
 ||yrvbboea.com^
 ||yrviuivtxhqay.store^
+||yrvjauoibgcoa.website^
 ||yrxyosdoumnfh.website^
 ||yryxwlovbdyjm.site^
 ||yrzjtrlzdrewa.site^
@@ -62406,6 +62411,7 @@ browsershots.org#@#.advert_area
 ||zp0o8pii.xyz^
 ||zpatfnmuzqfez.website^
 ||zpdexnmwltfqy.website^
+||zpehpylri.com^
 ||zpfmqfxgrtttb.icu^
 ||zpgetworker11.com^
 ||zpgnipitynywq.space^
