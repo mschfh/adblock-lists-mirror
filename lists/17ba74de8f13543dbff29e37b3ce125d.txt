@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601250509
+! Version: 202601250540
 ! Title: EasyList
-! Last modified: 25 Jan 2026 05:09 UTC
+! Last modified: 25 Jan 2026 05:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: eac2eac66fa4de996498afa1e1e5157afa44976d
+! Commit: e2b8dc3d2c282d9eb57efc166642e09d23cd5919
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17895,6 +17895,7 @@ browsershots.org#@#.advert_area
 ||agooxouy.net^
 ||agore.xyz^
 ||agort.xyz^
+||agpgtunukfis.com^
 ||agqoshfujku.com^
 ||agrafeskamel.cyou^
 ||agraffefib.shop^
@@ -22932,6 +22933,7 @@ browsershots.org#@#.advert_area
 ||cfjuugxbckeec.online^
 ||cfktqtglaiqy.com^
 ||cfmkfkeoppzmz.online^
+||cfnonzkiqjttn.site^
 ||cfoevzalcgvcc.space^
 ||cfpansgvhggvq.website^
 ||cfpgsnkdmtugz.space^
@@ -25084,6 +25086,7 @@ browsershots.org#@#.advert_area
 ||cypresscaquet.qpon^
 ||cysclatowtdxq.website^
 ||cystousbuttery.cfd^
+||cystprutoth.cfd^
 ||cytdmhahgvmur.fun^
 ||cyuwkpkrxaiml.site^
 ||cyvzavjhmduqn.online^
@@ -36636,6 +36639,7 @@ browsershots.org#@#.advert_area
 ||jllimjvotxwvk.website^
 ||jllxkqvoecigv.online^
 ||jlmgzsrxtmuce.online^
+||jlomrnsfexjoa.online^
 ||jlpmmhuqvkohc.space^
 ||jltczmewqabda.online^
 ||jlvcrwggkmalp.site^
