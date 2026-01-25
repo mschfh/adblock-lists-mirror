@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601250647
+! Version: 202601250712
 ! Title: EasyList
-! Last modified: 25 Jan 2026 06:47 UTC
+! Last modified: 25 Jan 2026 07:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 08e2c22dd2213ffd2a6548d00143ef220a164ec0
+! Commit: 6650be1a69bcef06b79d5cb920bd8e8d1c5ad20c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39671,6 +39671,7 @@ browsershots.org#@#.advert_area
 ||lovable-scale.com^
 ||lovableerror.com^
 ||lovableprofile.com^
+||lovableskin.pro^
 ||lovableswing.pro^
 ||lovatgalega.qpon^
 ||love-partnersdreamers.com^
@@ -41153,6 +41154,7 @@ browsershots.org#@#.advert_area
 ||mirklyfeudary.help^
 ||mirthbeat.com^
 ||mirthconfidence.com^
+||miryvmdypyxd.com^
 ||mirzaluteway.cfd^
 ||misaglam.com^
 ||misaimbiplane.qpon^
@@ -55785,6 +55787,7 @@ browsershots.org#@#.advert_area
 ||toprevenuecpmnetwork.com^
 ||toprevenuegate.com^
 ||toprxsvgqejvq.online^
+||topseevoulou.com^
 ||topsexmovs.com^
 ||topslagcyungear.cyou^
 ||topsrcs.com^
@@ -58811,6 +58814,7 @@ browsershots.org#@#.advert_area
 ||vopairsustoonie.net^
 ||vopddrdsxkeff.space^
 ||vopripwm.net^
+||voqbbbwdsdkbj.online^
 ||voredi.com^
 ||voronbboujyhx.website^
 ||vorpalzant.qpon^
