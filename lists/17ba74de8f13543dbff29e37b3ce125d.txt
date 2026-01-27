@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601270309
+! Version: 202601270406
 ! Title: EasyList
-! Last modified: 27 Jan 2026 03:09 UTC
+! Last modified: 27 Jan 2026 04:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 49760b629e27d932c67eb37924f539173419274e
+! Commit: 3013f36474aef8a595c873795e33eb5733867e95
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38767,6 +38767,7 @@ browsershots.org#@#.advert_area
 ||lamplynx.com^
 ||lampoonloa.com^
 ||lamppostadaptationlassitude.com^
+||lamxoxfkipkhahs.com^
 ||lancasternh.com^
 ||lancbcdncmphy.online^
 ||land.izuchai.dance^
@@ -38974,6 +38975,7 @@ browsershots.org#@#.advert_area
 ||lcrakyzahrjqs.site^
 ||lcshrbjwbanzo.website^
 ||lcuaerlknisgy.space^
+||lcumxhquenoqh.online^
 ||lcuozmosstcu.com^
 ||lcutqnmoofuzi.website^
 ||lcxzkflqdqnbj.website^
@@ -39416,6 +39418,7 @@ browsershots.org#@#.advert_area
 ||likenewvids.online^
 ||liklojigctaog.space^
 ||likpzeqqvhzsj.site^
+||liltburying.com^
 ||limaceacellarjumble.cfd^
 ||limacelatwite.shop^
 ||limatailsaib.net^
@@ -50295,6 +50298,7 @@ browsershots.org#@#.advert_area
 ||rennstrudel.qpon^
 ||renowncooperatepat.com^
 ||renownsteeringscholar.com^
+||rensipmsqnpdd.space^
 ||renteostend.com^
 ||renteshektare.cfd^
 ||rentingimmoderatereflecting.com^
@@ -52984,6 +52988,7 @@ browsershots.org#@#.advert_area
 ||sippansy.com^
 ||sirdushi.xyz^
 ||sireundermineoperative.com^
+||sirexinward.cfd^
 ||sirgangrhombs.shop^
 ||sirisextatic.help^
 ||siseterral.qpon^
@@ -53673,6 +53678,7 @@ browsershots.org#@#.advert_area
 ||sowrevisionwrecking.com^
 ||soxfokwppwqpm.website^
 ||soybeanteskere.cyou^
+||soycdn.lol^
 ||sozlyremelts.rest^
 ||soznlghtktitc.website^
 ||sozzlypeavies.com^
@@ -60349,6 +60355,7 @@ browsershots.org#@#.advert_area
 ||whitedescription.pro^
 ||whiteinflammablejaws.com^
 ||whitenoisenews.com^
+||whitensfest.com^
 ||whitenshektare.qpon^
 ||whitepark9.com^
 ||whitepinaforesho.org^
@@ -61611,6 +61618,7 @@ browsershots.org#@#.advert_area
 ||xljgbrlqylwwt.store^
 ||xlkbinzjgmnsy.site^
 ||xllbfdpplv.com^
+||xlmamdeykpist.online^
 ||xlnkuhkwczqbs.space^
 ||xlqonmpyuwmxe.com^
 ||xlrdr.com^
