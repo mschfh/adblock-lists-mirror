@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601290745
+! Version: 202601290824
 ! Title: EasyList
-! Last modified: 29 Jan 2026 07:45 UTC
+! Last modified: 29 Jan 2026 08:24 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4b1d259a83157e72ff9b2dcca193d35ffebe31f0
+! Commit: 31827a91fe155860c186f9ab413169b95f62af3f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -40322,6 +40322,7 @@ browsershots.org#@#.advert_area
 ||lp247p.com^
 ||lparket.com^
 ||lpazvocghyepn.website^
+||lpbpwvul.com^
 ||lpbtqxqhjzsvc.space^
 ||lpcqyjyhfhets.space^
 ||lpe99.com^
@@ -53046,6 +53047,7 @@ browsershots.org#@#.advert_area
 ||sgfinery.com^
 ||sgfsdvc.com^
 ||sgftdcfhszswh.site^
+||sgggxzlyydbkd.website^
 ||sggsfejquvhak.site^
 ||sghbvhktcomrn.online^
 ||sginwrdwx.xyz^
@@ -60747,6 +60749,7 @@ browsershots.org#@#.advert_area
 ||wet-ambition.pro^
 ||wet-hurt.com^
 ||wet-judge.com^
+||wet-shape.pro^
 ||wetajer.cyou^
 ||wetbirdchats.cfd^
 ||wethlssblm.com^
