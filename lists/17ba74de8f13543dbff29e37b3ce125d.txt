@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601290723
+! Version: 202601290745
 ! Title: EasyList
-! Last modified: 29 Jan 2026 07:23 UTC
+! Last modified: 29 Jan 2026 07:45 UTC
 ! Expires: 4 days (update frequency)
-! Commit: fada9f4a1455fbdcb8cbc04010d211e22e0a481b
+! Commit: 4b1d259a83157e72ff9b2dcca193d35ffebe31f0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38496,6 +38496,7 @@ browsershots.org#@#.advert_area
 ||knurrymeaconafghani.cfd^
 ||knutenegros.pro^
 ||knwqrpumhldreg.com^
+||knxcyvvibuvde.website^
 ||knxpecbqfj.com^
 ||knyhnvzqbsqdc.website^
 ||knyujiwpadsu.com^
@@ -43415,6 +43416,7 @@ browsershots.org#@#.advert_area
 ||nfbkzvyqmdtwy.website^
 ||nfcieoyoqljx.net^
 ||nfcyrakmlvyub.site^
+||nfdomuxlrdypk.site^
 ||nfdxprxptlubs.buzz^
 ||nfexcdiuvfyuu.online^
 ||nff27oc6ixl7tuycm.cfd^
@@ -49367,6 +49369,7 @@ browsershots.org#@#.advert_area
 ||qihpwojcazrje.website^
 ||qijnwislyiceh.website^
 ||qilwa.com^
+||qimenrpozxuwo.online^
 ||qimqufza.com^
 ||qingolor.com^
 ||qinvaris.com^
@@ -61448,6 +61451,7 @@ browsershots.org#@#.advert_area
 ||wordspsychology.com^
 ||wordsreceivingdisappointment.com^
 ||wordtradeflank.com^
+||wordyagent.com^
 ||worgzcdfgkyff.space^
 ||woriusly.com^
 ||workback.net^
