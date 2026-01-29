@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601292147
+! Version: 202601292218
 ! Title: EasyList
-! Last modified: 29 Jan 2026 21:47 UTC
+! Last modified: 29 Jan 2026 22:18 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 82668df57345c9d2f828d56757ab115206fa342b
+! Commit: 78dbb8dc20a9cd1d09de4a9bc8904ee4ce95a7cb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21216,6 +21216,7 @@ browsershots.org#@#.advert_area
 ||blicatedlitytleme.org^
 ||blind-trip.pro^
 ||blindlycckw.qpon^
+||blindpass.pro^
 ||blinkedlanentablelanentableunavailable.com^
 ||blinkflows.com^
 ||blinkjork.com^
@@ -43407,6 +43408,7 @@ browsershots.org#@#.advert_area
 ||nessainy.net^
 ||nesshopbine.qpon^
 ||nestledmph.com^
+||nesudamxprtwo.com^
 ||netcatx.com^
 ||netguard.mobi^
 ||netlikescalder.cyou^
@@ -53323,6 +53325,7 @@ browsershots.org#@#.advert_area
 ||shinybirdwhispered.com^
 ||shinylanentablelanentable.com^
 ||shinysave.com^
+||shipfulhomiest.cfd^
 ||shiphootaich.net^
 ||shipmentconnectionsherbal.com^
 ||shipmentdoorwaydecade.com^
@@ -57827,6 +57830,7 @@ browsershots.org#@#.advert_area
 ||uafghzkvnycrz.site^
 ||uagzghuaqcmdo.online^
 ||uahgfhnjufgre.space^
+||uaiayburivaay.website^
 ||uaiugdbudbdfz.store^
 ||uaivqzpqzehth.love^
 ||uajebcmnce.com^
@@ -59722,6 +59726,7 @@ browsershots.org#@#.advert_area
 ||viiyxefb.com^
 ||vijlouowdmula.online^
 ||vikejacaufous.net^
+||vileeconomical.com^
 ||vilerebuffcontact.com^
 ||vilifysykes.qpon^
 ||vilipyrenic.cfd^
@@ -60437,6 +60442,7 @@ browsershots.org#@#.advert_area
 ||wadecarbohydrate.com^
 ||waescyne.com^
 ||waeshana.com^
+||waexhoxdqigad.space^
 ||waferyvaginal.qpon^
 ||wafflestee.com^
 ||wafmedia6.com^
@@ -60878,6 +60884,7 @@ browsershots.org#@#.advert_area
 ||wenchespandect.cfd^
 ||wendelstein-1b.com^
 ||wendingoughts.cfd^
+||wenditomolowirr.cfd^
 ||wendxktstjx.net^
 ||wenog.com^
 ||wenoolgo.icu^
