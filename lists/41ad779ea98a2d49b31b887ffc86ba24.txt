@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fKJNgFIhbfW/uXvzvApGKg
-! Version: 202601300125
+! Checksum: 1FsvsrWsn51CuNm80cw+hA
+! Version: 202601300250
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-30 01:25 UTC
+! Last modified: 2026-01-30 02:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -40088,6 +40088,7 @@ scheidegger.nl##+js(set-cookie, privacy_level, 1)
 lojaboschferramentas.com.br##+js(set-cookie, privacy_marketing, false)
 mobilevikings.be##+js(set-cookie, privacy_mv, 1)
 pixiv.net##+js(set-cookie, privacy_policy_agreement, 7, , reload, 1)
+y8.com##+js(set-cookie, privacy_policy_validated, true)
 orszak.org##+js(set-cookie, privacy_popup, true, , reload, 1)
 temu.com##+js(set-cookie, privacy_setting, 100)
 ledenicheur.fr,pricespy.co.nz,pricespy.co.uk,projectenglish.com.pl##+js(set-cookie, privacy_settings, 1)
@@ -40446,6 +40447,7 @@ abastible.cl##+js(set-local-storage-item, cookie-accepted, true)
 everest-24.pl##+js(set-local-storage-item, cookie-closed, true)
 todoist.com##+js(set-local-storage-item, cookie-consent, '"denied"')
 cua.ai##+js(set-local-storage-item, cookie-consent, accepted)
+addonup.com##+js(set-local-storage-item, cookie-consent, declined)
 emergetools.com##+js(set-local-storage-item, cookie-consent, false)
 atlas.workland.com,jmonline.com.br,virginexperiencedays.co.uk##+js(set-local-storage-item, cookie-consent, true)
 lustery.com##+js(set-local-storage-item, cookie-consent-banner, declined)
