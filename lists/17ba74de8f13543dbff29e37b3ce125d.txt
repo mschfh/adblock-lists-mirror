@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601302116
+! Version: 202601302144
 ! Title: EasyList
-! Last modified: 30 Jan 2026 21:16 UTC
+! Last modified: 30 Jan 2026 21:44 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0d85c42f4d891d7c123a98fa7e00350c633ccbbe
+! Commit: 45b3b3519396623330ea700c4ffe6d92dd5c162f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20488,6 +20488,7 @@ browsershots.org#@#.advert_area
 ||bedaslonejul.cc^
 ||beddingfetched.com^
 ||bedikahalpaca.cyou^
+||bedlampmmfd.qpon^
 ||bedlessplating.shop^
 ||bedmanbutein.qpon^
 ||bedont.xyz^
@@ -38561,6 +38562,7 @@ browsershots.org#@#.advert_area
 ||kkzsewwbrnuhg.website^
 ||klahmhvamc.com^
 ||klamrearing.cyou^
+||klanherbman.cfd^
 ||klaushydra.com^
 ||kldvkyjdvwcvp.online^
 ||kldynhhyayoya.space^
@@ -42267,6 +42269,7 @@ browsershots.org#@#.advert_area
 ||mn230126pb.com^
 ||mnanrpzdpbphb.site^
 ||mnaspm.com^
+||mnbseajydeszt.com^
 ||mnbvjhg.com^
 ||mncuofccmvklc.space^
 ||mncvjhg.com^
@@ -62598,6 +62601,7 @@ browsershots.org#@#.advert_area
 ||xgsxkzscxapvj.online^
 ||xgszciooysvcj.site^
 ||xgubwpvoyqgtd.online^
+||xguphkzaezpqr.site^
 ||xgwvtfjyklyyi.website^
 ||xgyamkbizucnd.store^
 ||xgzzrivcwjajj.website^
