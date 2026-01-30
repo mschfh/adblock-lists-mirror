@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0lLCCT8NrcK7r2PVRk2ZmA
-! Version: 202601292025
+! Checksum: GYXsITebiHDnIXErGE6lmQ
+! Version: 202601292350
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-29 20:25 UTC
+! Last modified: 2026-01-29 23:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -39326,6 +39326,7 @@ prageru.com##+js(set-cookie, cookie-status-analytics, false)
 sugi-net.jp##+js(set-cookie, cookie-use-accept, false)
 batesenvironmental.co.uk##+js(set-cookie, cookieAccepted, 0)
 dom.ru,gadis.es,igta5.com,optimism.io,smartservices.icp.gov.ae,zhik.com##+js(set-cookie, cookieAccepted, true)
+gryphline.com##+js(set-cookie, cookieAccepter, 1)
 ford.de,ford.dk,ford.fi,ford.fr,ford.gr,ford.it,ford.lt,ford.nl,ford.no,ford.pl,ford.pt,ford.se##+js(set-cookie, cookieAcknowledged, true)
 stromnetz.berlin##+js(set-cookie, cookieAgree, true)
 deutschebanksae.my.site.com##+js(set-cookie, cookieAuth, 1)
