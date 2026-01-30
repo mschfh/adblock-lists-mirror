@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1FsvsrWsn51CuNm80cw+hA
-! Version: 202601300250
+! Checksum: pY+D4VTp8xKFdQi3d8+V9w
+! Version: 202601300300
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-01-30 02:50 UTC
+! Last modified: 2026-01-30 03:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -36300,6 +36300,7 @@ uphold.com##.dXDXdB
 aeon-fitness.com##.darkScreen
 systematica.com##.darken
 roundshot.com##.data-consent-edge
+bssmvalues.com##.data-consent-popup
 dashboard.stripe.com##.db-CookieBanner
 datacamp.com##.dc-cookie-banner-wrapper
 tesco.com##.ddsweb-cookies-notification__container
@@ -40545,6 +40546,7 @@ cvut.cz##+js(set-local-storage-item, ctu-cm-a, 0)
 cvut.cz##+js(set-local-storage-item, ctu-cm-m, 0)
 cvut.cz##+js(set-local-storage-item, ctu-cm-n, 1)
 bbc.com##+js(set-local-storage-item, cvcConsentGiven, true)
+bssmvalues.com##+js(set-local-storage-item, dataConsentChoice, declined)
 pancernik.eu##+js(set-local-storage-item, df-cookies-allowed, true)
 polypane.app##+js(set-local-storage-item, dismissed, true)
 octopusenergy.co.jp##+js(set-local-storage-item, dismissedPrivacyCookieMessage, 1)
