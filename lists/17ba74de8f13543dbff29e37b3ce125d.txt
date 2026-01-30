@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202601300808
+! Version: 202601300848
 ! Title: EasyList
-! Last modified: 30 Jan 2026 08:08 UTC
+! Last modified: 30 Jan 2026 08:48 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 68a3a7c1499f979ed9ba857128c1c82ddebad3d2
+! Commit: c65b6d4a4c9a38ff142ffecd51eb73be67af6bb1
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20526,6 +20526,7 @@ browsershots.org#@#.advert_area
 ||befirstcdn.com^
 ||befitkersey.com^
 ||befriendapproveflannel.com^
+||befuinonmjfpe.online^
 ||begband.com^
 ||begeainrkdubh.online^
 ||begemepical.qpon^
@@ -28170,6 +28171,7 @@ browsershots.org#@#.advert_area
 ||ejihhtgvjeglq.online^
 ||ejitmssx-rk.icu^
 ||ejlqdcyrjsakh.site^
+||ejmfafawvxqam.online^
 ||ejmshxkjsfrhi.space^
 ||ejnbxxzistaum.space^
 ||ejnhzgcgazhjl.site^
@@ -40923,6 +40925,7 @@ browsershots.org#@#.advert_area
 ||lzpiozkcngklw.site^
 ||lzqmjakozlolv.top^
 ||lzulehztkwopr.website^
+||lzuvmwzgztvrr.site^
 ||lzvrotofovlfn.website^
 ||lzvwybvvyrqyk.top^
 ||lzxdx24yib.com^
