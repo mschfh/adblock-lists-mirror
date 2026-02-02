@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602021314
+! Version: 202602021353
 ! Title: EasyList
-! Last modified: 02 Feb 2026 13:14 UTC
+! Last modified: 02 Feb 2026 13:53 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a236c62499422c4ceb8aaf83d6ee31d284be4d30
+! Commit: fa00e75fbc124198d1327a66d9c1f26f73aef225
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18188,6 +18188,7 @@ browsershots.org#@#.advert_area
 ||alexinceroon.cfd^
 ||alexinesolon.cfd^
 ||alexisclothe.com^
+||aleybznrgsgbx.website^
 ||alfasense.com^
 ||alfatraffic.com^
 ||alfirkhoi.help^
@@ -20537,6 +20538,7 @@ browsershots.org#@#.advert_area
 ||bewraysmoropus.cyou^
 ||bewreakaglossaberchta.cyou^
 ||beyanmaan.com^
+||beyondcobaea.cyou^
 ||beyondpayors.com^
 ||beyondssalvage.cyou^
 ||beyourxfriend.com^
@@ -60297,6 +60299,7 @@ browsershots.org#@#.advert_area
 ||xceumguutkryd.website^
 ||xceuzbaysacqp.global^
 ||xcfhamujkfqhn.online^
+||xcfpgvxfvmqcm.site^
 ||xchlleznintba.online^
 ||xcipwuoft.com^
 ||xckuincrlohcm.online^
@@ -64627,6 +64630,7 @@ browsershots.org#@#.advert_area
 ||insteadphooey.com^
 ||intosewyuckeven.com^
 ||involvingrallyanthem.com^
+||kiddinglyeven.com^
 ||ko9t6qv2kt8psullo7pputs.xyz^
 ||kq6mv8mpvs4m10r449nms6.xyz^
 ||lacklong.com^
