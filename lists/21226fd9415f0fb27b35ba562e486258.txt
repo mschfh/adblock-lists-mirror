@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xW0jNCew8S0u8Nq6yQJ7rw
+! Checksum: FDqgd4ensU4dzEhV7p0vpw
 ! Title: Easylist Cookie List
-! Last modified: 2026-02-04 22:25 UTC
+! Last modified: 2026-02-04 22:50 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21533,7 +21533,7 @@ ouderenfonds.nl##+js(set-cookie, cookie_consent, functional)
 datezone.com,fydeos.io##+js(set-cookie, cookie_consent, necessary)
 afarmaciaonline.pt##+js(set-cookie, cookie_consent, reject, , reload, 1)
 opengraph.xyz##+js(set-cookie, cookie_consent, rejected)
-blxxded.com,k-einbruch.de,m.supersport.hr,nettyworth.io##+js(set-cookie, cookie_consent, true)
+alphaspel.se,blxxded.com,k-einbruch.de,m.supersport.hr,nettyworth.io##+js(set-cookie, cookie_consent, true)
 fundamenta.hu##+js(set-cookie, cookie_consent, true, , domain, .fundamenta.hu)
 ebank.fundamenta.hu##+js(set-cookie, cookie_consent, true, 1year, , domain, ebank.fundamenta.hu)
 kitepackaging.co.uk##+js(set-cookie, cookie_consent, yes)
