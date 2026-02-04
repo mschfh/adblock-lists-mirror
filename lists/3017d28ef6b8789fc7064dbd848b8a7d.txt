@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202602040529
+! Version: 202602040552
 ! Title: EasyPrivacy
-! Last modified: 04 Feb 2026 05:29 UTC
+! Last modified: 04 Feb 2026 05:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 63fbfe3a5959a70d78d2e0648bdf1b89eca35dec
+! Commit: a73d99450aeb2ba2eda88b2ceae227ce66cfb5b6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -2730,8 +2730,10 @@
 /web-analytics.js
 /web-api/log/*
 /web-data-ingress?
+/web-pixel-*/worker.modern.js
 /web-pixel-shopify-app-pixel@
 /web-pixel-shopify-custom-pixel@
+/web-pixels@*/web-pixel-*/sandbox/modern/*
 /web-vitals-analytics.js
 /web-vitals.iife.js
 /web/push?
