@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WHbEaFJ4cdWDq6TGNL0a0w
-! Version: 202602040550
+! Checksum: 7Wfi4AOU2TbQ6gp7q6q3Tg
+! Version: 202602042300
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-02-04 05:50 UTC
+! Last modified: 2026-02-04 23:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -37433,7 +37433,7 @@ cline.bot,opencollective.com##[data-testid="cookies-dialog"]
 airhelp.com##[data-testid="cookiesNotice"]
 hims.com##[data-testid="cpra-popup"]
 bing.com##[data-viewname="MobileTopToastRefresh"]
-geomind.atlassian.net##[jsm-cookie-consent-banner-wrapper]
+atlassian.net##[jsm-cookie-consent-banner-wrapper]
 reddit.com##[reddit-cookie-banner]
 stuffthatworks.health##[role="alertdialog"]
 journalofdigitalhistory.org##[style*="position: fixed; bottom: 0px;"]
@@ -39162,6 +39162,7 @@ shop.elbers-hof.de##+js(set-cookie, cb_validCookies, 1)
 clickbank.com##+js(set-cookie, cbgwc_cookie_consent, reject)
 autotrader.ca##+js(set-cookie, cbnr, 1)
 przegladpiaseczynski.pl##+js(set-cookie, cc, 1)
+swaggystocks.com##+js(set-cookie, cc, accepted)
 mullgs.se##+js(set-cookie, cc-accepted, 2)
 sigma-foto.de##+js(set-cookie, cc-answered, true)
 1a-sehen.de##+js(set-cookie, cc-item-google, false)
@@ -39477,7 +39478,7 @@ ouderenfonds.nl##+js(set-cookie, cookie_consent, functional)
 datezone.com,fydeos.io##+js(set-cookie, cookie_consent, necessary)
 afarmaciaonline.pt##+js(set-cookie, cookie_consent, reject, , reload, 1)
 opengraph.xyz##+js(set-cookie, cookie_consent, rejected)
-blxxded.com,k-einbruch.de,m.supersport.hr,nettyworth.io##+js(set-cookie, cookie_consent, true)
+alphaspel.se,blxxded.com,k-einbruch.de,m.supersport.hr,nettyworth.io##+js(set-cookie, cookie_consent, true)
 fundamenta.hu##+js(set-cookie, cookie_consent, true, , domain, .fundamenta.hu)
 ebank.fundamenta.hu##+js(set-cookie, cookie_consent, true, 1year, , domain, ebank.fundamenta.hu)
 kitepackaging.co.uk##+js(set-cookie, cookie_consent, yes)
@@ -40226,6 +40227,7 @@ finewoodworking.com,greenbuildingadvisor.com##+js(set-cookie, taunton_user_conse
 teenage.engineering##+js(set-cookie, te_cookie_ok, 1)
 dexterdaily.com##+js(set-cookie, techspot_pro_cookie_consent, 1)
 pibank.com##+js(set-cookie, tecnicaCookie, true)
+tek.fi##+js(set-cookie, tek-cookie-agreed, 2)
 tenstorrent.com##+js(set-cookie, tenstorrent_cookie_preferences, true)
 youcom.com.br##+js(set-cookie, termos-aceitos, ok)
 mighty-party.com##+js(set-cookie, terms-accepted, true)
@@ -41261,7 +41263,7 @@ scan.co.uk##body,html:style(overflow: auto !important; position: initial !import
 ! clasohlson.com
 clasohlson.com##+js(set-cookie, cookie-notification, ACCEPTED)
 ! konsument.at
-konsument.at,vki.at##+js(set-cookie, vkicookieconsent, 0)
+konsument.at,verbraucherrecht.at,vki.at##+js(set-cookie, vkicookieconsent, 0)
 !! #cookiewall-modal
 b-immobree.be,floraluxbree.be##+js(set-cookie, cookie-consent-status, 0)
 !! .c-cookie-popup
