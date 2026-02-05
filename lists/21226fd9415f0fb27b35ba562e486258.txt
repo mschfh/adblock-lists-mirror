@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ZZQs6QI9jAYOgEWmroC2Zg
+! Checksum: 8emXd9751aKr84UHPT6DFQ
 ! Title: Easylist Cookie List
-! Last modified: 2026-02-05 01:00 UTC
+! Last modified: 2026-02-05 01:50 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -21158,6 +21158,7 @@ amcoustics.com##+js(set-cookie, amc-cookies-accepted, true, , reload, 1)
 anglingdirect.co.uk,animaze.us,curantus.de,elevator.de,erdbeerprofi.de,foryouehealth.de,holzkern.com,merrell.pl,mtbmarket.de,novap.fr,okfurniture.co.za,patricia.bg,penn-elcom.com,spanienweinonline.ch,tehnomix.bg,teodor-shop.com,teodor.bg,weekend.ee##+js(set-cookie, amcookie_allowed, 1)
 sportland.*##+js(set-cookie, amcookie_allowed, 4)
 anglingdirect.co.uk,converse.pl,merrell.pl,patricia.bg##+js(set-cookie, amcookie_policy_restriction, allowed)
+amnesty.nl##+js(set-cookie, amnesty-cookies, 000)
 atani.com##+js(set-cookie, anal-opt-in, false)
 athletic-club.eus##+js(set-cookie, analitics-cookies-consent, 0)
 projectenglish.com.pl##+js(set-cookie, analitics_cookies, 0)
@@ -21899,7 +21900,7 @@ depop.com##+js(set-cookie, gdpr__facebook__social, false)
 depop.com##+js(set-cookie, gdpr__google__analytics, false)
 usnews.com##+js(set-cookie, gdpr_agreed, 4)
 staff-gallery.com##+js(set-cookie, gdpr_check_cookie, accepted, , reload, 1)
-meiosepublicidade.pt##+js(set-cookie, gdpr_consent, true)
+meiosepublicidade.pt,patientimages.yarraradiology.com.au##+js(set-cookie, gdpr_consent, true)
 meiosepublicidade.pt##+js(set-cookie, gdpr_consent-legacy, true)
 bsi.si##+js(set-cookie, gdpr_cookie, functional, , reload, 1)
 reliant.co.uk##+js(set-cookie, gdpr_cookie_consent, 1)
