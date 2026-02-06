@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602061418
+! Version: 202602061453
 ! Title: EasyList
-! Last modified: 06 Feb 2026 14:18 UTC
+! Last modified: 06 Feb 2026 14:53 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 65056bd7bcb8aeff8318eea19336e4739a24d19b
+! Commit: 7f87f8589ea7f5754e264b15cb90b90372ce143b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18021,6 +18021,7 @@ browsershots.org#@#.advert_area
 ||airlessquotationtroubled.com^
 ||airparksampi.qpon^
 ||airplaneprosperretreat.com^
+||airshedcoart.com^
 ||airtightcounty.com^
 ||airtimegrumly.cyou^
 ||airwayarachin.cyou^
@@ -60827,6 +60828,7 @@ browsershots.org#@#.advert_area
 ||wpjhwhtgcyzep.site^
 ||wpjplnykjopdp.online^
 ||wpjugqasgblow.space^
+||wpjxsgnq.com^
 ||wpl6wo2c4gbe88in7.cfd^
 ||wpmmh5n5xxkq4e.cfd^
 ||wpmpdpovgmnru.website^
