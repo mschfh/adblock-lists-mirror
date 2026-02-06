@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602060816
+! Version: 202602060857
 ! Title: EasyList
-! Last modified: 06 Feb 2026 08:16 UTC
+! Last modified: 06 Feb 2026 08:57 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 538153efb03bbee3b177d63e3d0149594a9acf3a
+! Commit: c475fd3ad0228e0a122e462ab84d631d708257e8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -32594,6 +32594,7 @@ browsershots.org#@#.advert_area
 ||grtyj.com^
 ||grubby-freedom.com^
 ||grubby-sink.pro^
+||grubby-stop.com^
 ||grubby-zone.pro^
 ||grubbybaken.cfd^
 ||grubgranted.com^
@@ -40657,6 +40658,7 @@ browsershots.org#@#.advert_area
 ||massiveplace.pro^
 ||massyornoite.qpon^
 ||mastinstungmoreal.com^
+||matamant.com^
 ||matcaogeujmco.website^
 ||matchedfrized.cfd^
 ||matchesproductionsinteract.com^
@@ -43717,6 +43719,7 @@ browsershots.org#@#.advert_area
 ||nusjemcedhfgr.site^
 ||nuskt.directory^
 ||nusmkkrrxsjgj.site^
+||nustdnxyv.com^
 ||nusxvpootryrz.site^
 ||nutatedtriol.com^
 ||nutateshazanim.com^
@@ -83881,6 +83884,7 @@ gamcore.com##li.d-md-block > a[rel]
 @@||uze-ads.com/ads/$~third-party
 @@||valuecommerce.com^$image,domain=pointtown.com
 @@||videosvc.ezoic.com/play?videoID=$domain=humix.com
+@@||widget.playoncenter.com/webservice/geo$xmlhttprequest,domain=hipertextual.com
 @@||yads.c.yimg.jp/js/yads-async.js$domain=kobe-np.co.jp|yahoo.co.jp
 @@||youchien.net/ad/*/ad/img/$~third-party
 @@||youchien.net/css/ad_side.css$~third-party
