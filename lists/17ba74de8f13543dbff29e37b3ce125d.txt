@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602080627
+! Version: 202602080659
 ! Title: EasyList
-! Last modified: 08 Feb 2026 06:27 UTC
+! Last modified: 08 Feb 2026 06:59 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 26a24af7807e7ef298636ac1b5316237cb23cdb7
+! Commit: 57edadae02e9ce8128a85f0b1fc58b11dcbc16ae
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18552,6 +18552,7 @@ browsershots.org#@#.advert_area
 ||anathemmicrons.cfd^
 ||anattosiressheils.cfd^
 ||anattospursier.com^
+||anbavidkids.shop^
 ||anbvofwznwbma.website^
 ||anceenablesasm.com^
 ||ancestorheadquarters.com^
@@ -23278,6 +23279,7 @@ browsershots.org#@#.advert_area
 ||chmtriplet.qpon^
 ||chndxhpdwiqfh.website^
 ||chnkgnctdimfu.space^
+||chnmppifwufss.com^
 ||chnsrv.com^
 ||chnulcer.qpon^
 ||chnxqbjoodzxn.site^
@@ -45635,6 +45637,7 @@ browsershots.org#@#.advert_area
 ||overturnspecified.com^
 ||overwetgashes.help^
 ||ovfvwgwxfwq.com^
+||ovghljmcnxejx.online^
 ||ovgpljyqpochn.store^
 ||ovgzufntaa.com^
 ||ovhtuompscqaq.website^
@@ -49652,6 +49655,7 @@ browsershots.org#@#.advert_area
 ||qzoxaijuvxzwv.online^
 ||qzpifnofrtvrd.store^
 ||qzpnlrckbpcwe.online^
+||qzqdoqqqqicne.website^
 ||qzruomjczpdzt.store^
 ||qzrwwchruinnx.space^
 ||qztqjcwpbbttr.store^
