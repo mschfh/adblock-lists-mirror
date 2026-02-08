@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602081615
+! Version: 202602081639
 ! Title: EasyList
-! Last modified: 08 Feb 2026 16:15 UTC
+! Last modified: 08 Feb 2026 16:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d86750f12934e9f7c6e98f7bfbeafd1951a6b981
+! Commit: 7abda16d875bafa9cdeb3bd9dd0073a50f49dcad
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -26703,6 +26703,7 @@ browsershots.org#@#.advert_area
 ||dogwrite.com^
 ||dohetsonou.net^
 ||dohjxjjygwovt.website^
+||dohwgtagbwuee.online^
 ||doingsmissangovarial.cyou^
 ||dokkvnqunhiwt.website^
 ||dokondigit.quest^
@@ -28279,6 +28280,7 @@ browsershots.org#@#.advert_area
 ||en4rpc9y5lhxfh.cfd^
 ||enabledetective.com^
 ||enablesasmetot.org^
+||enabnpwfunqmv.website^
 ||enacttournamentcute.com^
 ||enalsk.click^
 ||enamelhurdleunpaid.com^
@@ -32508,6 +32510,7 @@ browsershots.org#@#.advert_area
 ||gradualtelevision.com^
 ||graduate472.fun^
 ||graduateangeles.com^
+||graduatedfreezing.com^
 ||graduatedoutside.com^
 ||graduationpaltryherbal.com^
 ||graeiyjcrozqi.online^
