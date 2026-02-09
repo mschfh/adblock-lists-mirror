@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602091342
+! Version: 202602091437
 ! Title: EasyList
-! Last modified: 09 Feb 2026 13:42 UTC
+! Last modified: 09 Feb 2026 14:37 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2dba7cf261098249728556a52c4988b42f7bc476
+! Commit: 9101ced98a01a642049441d2226a738b7ef26e0c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18142,6 +18142,7 @@ browsershots.org#@#.advert_area
 ||ak-tracker.com^
 ||akanexterna.com^
 ||akarcjxwryykv.space^
+||akasagimpy.shop^
 ||akauroxaitempa.net^
 ||akazginabay.help^
 ||akbojcuteldzb.online^
@@ -44052,6 +44053,7 @@ browsershots.org#@#.advert_area
 ||nrnmbyjsyxgr.xyz^
 ||nrqihuzvyunel.website^
 ||nrqosslemaknn.site^
+||nrqvqkdn.com^
 ||nrs6ffl9w.com^
 ||nrscxgvydsq.net^
 ||nrsegfcsdprwv.online^
@@ -44096,6 +44098,7 @@ browsershots.org#@#.advert_area
 ||nsxtramxysmlw.online^
 ||nsxuqpktglnwp.website^
 ||nszbiwxorynnf.xyz^
+||ntcfrzpzmeite.site^
 ||ntdieiitsgysb.space^
 ||ntejdiphkkfpx.website^
 ||ntgdwjrbgmocn.website^
@@ -46460,6 +46463,7 @@ browsershots.org#@#.advert_area
 ||pbestrdinkbff.online^
 ||pbgcxdfyfgjlt.online^
 ||pbgkweapdycud.website^
+||pbgsrbcpxgimb.online^
 ||pbibwfshmzaut.website^
 ||pbjxoyypuueok.online^
 ||pbknxnruccskn.online^
@@ -47472,6 +47476,7 @@ browsershots.org#@#.advert_area
 ||plxrafpdsvxyu.website^
 ||plxserve.com^
 ||plyfoni.ru^
+||plyikilugzsvo.website^
 ||plywoodmergenewspaper.com^
 ||pm47kxcfyr3ex8npjwe37.cfd^
 ||pm8x4por3oekmw5h1kyl.cfd^
@@ -49121,6 +49126,7 @@ browsershots.org#@#.advert_area
 ||qbyyhvlzxpuvg.website^
 ||qbzwwagbbagcf.online^
 ||qcbtygylmnfez.fun^
+||qcdonicw.com^
 ||qcennhkrzskze.space^
 ||qcgzvywnvubee.online^
 ||qchmlmtkpbswf.buzz^
@@ -57436,6 +57442,7 @@ browsershots.org#@#.advert_area
 ||tunfulopilia.shop^
 ||tungateoptics.help^
 ||tunitytostara.org^
+||tunkexodic.cyou^
 ||tunkkip.cfd^
 ||tunnagealfinpentyne.cyou^
 ||tunneljig.shop^
@@ -57652,6 +57659,7 @@ browsershots.org#@#.advert_area
 ||tzaho.com^
 ||tzahvkqybkdrx.store^
 ||tzaqkp.com^
+||tzarswodgerattus.cfd^
 ||tzartiangue.cyou^
 ||tzcevmcdqqjms.site^
 ||tzcryiclytckx.site^
@@ -57909,6 +57917,7 @@ browsershots.org#@#.advert_area
 ||uhhhhvyezikfh.space^
 ||uhlomzqpdtduv.space^
 ||uhmfsydtgnaph.site^
+||uhmxgpphpro.com^
 ||uhnrcmlqloxij.site^
 ||uhodsplo.com^
 ||uhogleksob.net^
