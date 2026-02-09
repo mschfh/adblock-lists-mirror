@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602092219
+! Version: 202602092248
 ! Title: EasyList
-! Last modified: 09 Feb 2026 22:19 UTC
+! Last modified: 09 Feb 2026 22:48 UTC
 ! Expires: 4 days (update frequency)
-! Commit: de838cb9401c2bcf8b2497c11692d2435440f884
+! Commit: 474f9f8fc764b34994780fba35a33805344a2a3f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21168,6 +21168,7 @@ browsershots.org#@#.advert_area
 ||blockerclave.shop^
 ||blocksfeathers.com^
 ||blocksly.org^
+||blocsbottles.qpon^
 ||blogherads.com^
 ||blokeslengthsnouty.qpon^
 ||blond-pollution.pro^
@@ -27996,6 +27997,7 @@ browsershots.org#@#.advert_area
 ||ehceericjysgh.space^
 ||ehcfthuti24oii.cfd^
 ||ehclkqpxnvfqd.website^
+||ehdgkwjcjzopt.site^
 ||ehdmckprfptyg.store^
 ||ehfeuvyalaxlm.online^
 ||ehillxjxfweiz.site^
@@ -37860,6 +37862,7 @@ browsershots.org#@#.advert_area
 ||kamiyakeyaki.qpon^
 ||kammxdbr.net^
 ||kamoiimclmryu.space^
+||kanapporomas.shop^
 ||kanatbour.help^
 ||kandoqbnlbqzo.site^
 ||kangaroointentions.com^
@@ -58071,6 +58074,7 @@ browsershots.org#@#.advert_area
 ||ujhmwfajzdsvu.space^
 ||ujiqkgxnuzofp.site^
 ||ujkvzzmbmgvdx.online^
+||ujlqnxrgbmtgg.online^
 ||ujnfkyefpvheo.site^
 ||ujocjvznllpam.site^
 ||ujolpuykv6w3b6kroyvvrjq5jb.cfd^
