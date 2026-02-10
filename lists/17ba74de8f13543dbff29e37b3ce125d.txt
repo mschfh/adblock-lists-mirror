@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602101429
+! Version: 202602101459
 ! Title: EasyList
-! Last modified: 10 Feb 2026 14:29 UTC
+! Last modified: 10 Feb 2026 14:59 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e6c037bb3c55c8c9f8a6db711b11c5d0ed13daaa
+! Commit: 8f53ee2bf2322805a8f492dc4c9008c5269bb745
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31316,6 +31316,7 @@ browsershots.org#@#.advert_area
 ||fxxnyksafitsz.online^
 ||fxxogvmdpnwgw.online^
 ||fxzqtzrfaypai.website^
+||fyabtxxmwztuu.online^
 ||fybzuyvspginc.website^
 ||fycdnhwmaitdg.online^
 ||fycoknyfpxcej.store^
@@ -35176,6 +35177,7 @@ browsershots.org#@#.advert_area
 ||ianoubcdoavip.website^
 ||iaopbzjfhemrb.website^
 ||iapygessaining.cyou^
+||iapzzgtuekvbz.website^
 ||iarekbazzdlqm.space^
 ||iarofhjdkxwyp.store^
 ||iasbetaffiliates.com^
@@ -49871,6 +49873,7 @@ browsershots.org#@#.advert_area
 ||quartzgradient.net^
 ||quashtancel.cyou^
 ||quasicurrant.com^
+||quaskyancona.shop^
 ||quatuorkebob.help^
 ||quaukruffed.com^
 ||quavereverydayby.com^
@@ -66662,6 +66665,7 @@ browsershots.org#@#.advert_area
 ||admonishdecisiveyetnow.com^
 ||amongstbirdbath.com^
 ||aroundveinfixed.com^
+||battleickhope.com^
 ||becausepishworth.com^
 ||blushingstandard.com^
 ||candidpick.com^
