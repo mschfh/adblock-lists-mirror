@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 39QdlTR8ww33eCNWv4kd/A
-! Version: 202602120950
+! Checksum: euPWZsSyqlbJoPY6sty3wg
+! Version: 202602121000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-02-12 09:50 UTC
+! Last modified: 2026-02-12 10:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2809,6 +2809,7 @@ feross.org##.next
 fixya.com,thetruthaboutcars.com##.next-arrow
 adexchanger.com,manilatimes.net,netwerk24.com,news24.com##.next-article
 foxsports.com##.next-article-toast
+techloy.com##.next-block
 bizcommunity.com##.next-navigation-container
 macrumors.com##.nextarticle--3Zv4q93A
 gmanetwork.com##.nxt-content-wrapper
