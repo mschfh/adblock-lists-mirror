@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602141549
+! Version: 202602141614
 ! Title: EasyList
-! Last modified: 14 Feb 2026 15:49 UTC
+! Last modified: 14 Feb 2026 16:14 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b6732a6053b5c683509cb74fef996c11d8360f4f
+! Commit: 120da917b7f9c709e31adf4abe4885a545c6869b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31244,6 +31244,7 @@ browsershots.org#@#.advert_area
 ||frighteningsignal.pro^
 ||frightfulvisitorimportant.com^
 ||frigid-wait.pro^
+||frigidhour.pro^
 ||frillyearth.com^
 ||frimrecluse.qpon^
 ||fringedupspire.cfd^
@@ -57915,6 +57916,7 @@ browsershots.org#@#.advert_area
 ||todayapplied.com^
 ||todayswigcontagious.com^
 ||toddlecausebeeper.com^
+||todhzjecnvnpj.website^
 ||todlht-xnm.rocks^
 ||todopick.com^
 ||toebj17wivhlumvp95pp.cfd^
@@ -59450,6 +59452,7 @@ browsershots.org#@#.advert_area
 ||unbaledcry.cyou^
 ||unbarseire.cyou^
 ||unbatedlambkinreverse.cfd^
+||unbcwjdqbitjnka.com^
 ||unbelievableplayed.com^
 ||unbelievablyabsolutely.com^
 ||unbelievablycaption.com^
@@ -61368,6 +61371,7 @@ browsershots.org#@#.advert_area
 ||vqqcqfrnugfqm.site^
 ||vqqjqbkzclwav.website^
 ||vqrdiduoqypac.site^
+||vqrippkxjduqb.website^
 ||vqrwdwrmxbelz.website^
 ||vqsegqrwefymp.space^
 ||vquhshiqyqudr.space^
