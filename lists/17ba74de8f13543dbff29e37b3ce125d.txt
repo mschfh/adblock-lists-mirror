@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602140659
+! Version: 202602140720
 ! Title: EasyList
-! Last modified: 14 Feb 2026 06:59 UTC
+! Last modified: 14 Feb 2026 07:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 99a7fe84d547bb0c53a6c43284ce16c23e2e311b
+! Commit: fbbdbfdcf5dcb0f4bb336d5d641d300759314e61
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23851,6 +23851,7 @@ browsershots.org#@#.advert_area
 ||cldirplarimo.com^
 ||cldlr.com^
 ||cldnpegyfstse.space^
+||cleachregiankhalif.cfd^
 ||cleamertowbar.cyou^
 ||clean-browsing.com^
 ||clean.gg^
@@ -52743,6 +52744,7 @@ browsershots.org#@#.advert_area
 ||rtbsystem.org^
 ||rtbterra.com^
 ||rtbtrail.com^
+||rtdcdabgoduvo.com^
 ||rtdgdfdfehzrv.space^
 ||rtfwbwstodqyj.site^
 ||rtgio.co^
@@ -64909,6 +64911,7 @@ browsershots.org#@#.advert_area
 ||zacygnygluawn.site^
 ||zaevoqatiyylf.online^
 ||zaffirbowly.cfd^
+||zafsayaexptas.online^
 ||zagvee.com^
 ||zahvrkdkeulsy.site^
 ||zaichoaphap.com^
@@ -64993,6 +64996,7 @@ browsershots.org#@#.advert_area
 ||zcoptry.com^
 ||zcorolydmbaha.space^
 ||zcpnzuwahtpxi.space^
+||zcppqspqrayqk.online^
 ||zcqinpfm.com^
 ||zcswet.com^
 ||zctyxvnokstqs.website^
