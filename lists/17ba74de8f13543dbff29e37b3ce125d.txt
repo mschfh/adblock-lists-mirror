@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602141327
+! Version: 202602141350
 ! Title: EasyList
-! Last modified: 14 Feb 2026 13:27 UTC
+! Last modified: 14 Feb 2026 13:50 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d99d7a2faeba301a45ed2637d2a74c984bf1a6e4
+! Commit: 4242ca6168bca717f524b2c6d5f050bc9a76991a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21060,6 +21060,7 @@ browsershots.org#@#.advert_area
 ||biqqounvexmcs.website^
 ||bircherexsert.top^
 ||birchsottagejacksaw.cfd^
+||birdeentecta.shop^
 ||birderleafing.cfd^
 ||birdseyewings.co^
 ||birliebouclewetbird.cyou^
@@ -50542,6 +50543,7 @@ browsershots.org#@#.advert_area
 ||qqqmakecfnvuh.site^
 ||qqqtgzdrsjyqj.site^
 ||qqrgdookajfis.online^
+||qqrkcmwxsoreq.space^
 ||qqsfafvkgsyto.online^
 ||qqskjmyhfyosr.website^
 ||qqsondgjeyzyx.website^
@@ -52259,6 +52261,7 @@ browsershots.org#@#.advert_area
 ||rizfvsmmsxgqp.website^
 ||rizuvnddwycjm.space^
 ||rizyjzkvtsoib.space^
+||rjacftfazbyjq.online^
 ||rjbfslmffohss.site^
 ||rjbpvxjzstydt.space^
 ||rjdkbmnastgab.xyz^
