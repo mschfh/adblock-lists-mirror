@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NGGVDQtWSG5bnucHRGKR1w
-! Version: 202602140325
+! Checksum: wl/Ae6CsbdcWO9iTqZbmow
+! Version: 202602140350
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-02-14 03:25 UTC
+! Last modified: 2026-02-14 03:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -39083,6 +39083,7 @@ archiwumalle.pl##+js(set-cookie, accept_political, 1)
 simsherpa.com##+js(set-cookie, acceptadvertising, no)
 simsherpa.com##+js(set-cookie, acceptanalytics, no)
 visti.it##+js(set-cookie, acceptcookies, 1)
+degruyterbrill.com##+js(set-cookie, acceptcookies, false)
 yambits.co.uk##+js(set-cookie, acceptcookies, no, , reload, 1)
 crushwineco.com##+js(set-cookie, acceptcookietermCookieBanner, true)
 croisieresendirect.com##+js(set-cookie, accepted, 1)
