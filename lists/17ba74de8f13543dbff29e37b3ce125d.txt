@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602171358
+! Version: 202602171427
 ! Title: EasyList
-! Last modified: 17 Feb 2026 13:58 UTC
+! Last modified: 17 Feb 2026 14:27 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d664387ac7b79d21855ff9cbf8f92acdf42ec996
+! Commit: 0d8aa37a5c5b597763b0c912ef4c09a93b329cca
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45697,6 +45697,7 @@ browsershots.org#@#.advert_area
 ||nyqfvttopmpck.space^
 ||nyqhbucah.com^
 ||nyquazhpvouya.website^
+||nyrenabg.com^
 ||nyssidhnilwqyo.com^
 ||nythathaveresul.org^
 ||nythingamglad.com^
@@ -46196,6 +46197,7 @@ browsershots.org#@#.advert_area
 ||ogicatius.com^
 ||ogitbkjirtzdi.site^
 ||ogjybrolzwrhf.online^
+||ogklquovimtgc.website^
 ||ogkydwllwcyks.online^
 ||oglalavoodoo.world^
 ||ogle-0740lb.com^
@@ -46844,6 +46846,7 @@ browsershots.org#@#.advert_area
 ||oraubsoux.net^
 ||orbedturpis.help^
 ||orbengine.com^
+||orbiccheeter.qpon^
 ||orbicunposed.cfd^
 ||orbitarsnoop.qpon^
 ||orbitarwinsome.cfd^
@@ -50796,6 +50799,7 @@ browsershots.org#@#.advert_area
 ||qf73vcboh6zkutrtx6ohi.cfd^
 ||qfddweieadlud.xyz^
 ||qfeazbcjxoaxz.website^
+||qffsvzwbdweai.website^
 ||qfgzjprfvrabq.site^
 ||qfhteauylb.net^
 ||qfiobhon.com^
@@ -53703,6 +53707,7 @@ browsershots.org#@#.advert_area
 ||rxggkxdozyugf.space^
 ||rxgwcjrjbzzsw.website^
 ||rxhifyyzvrwzj.space^
+||rxhlxnzndnklv.site^
 ||rxidhevafwczq.online^
 ||rxiewfjyestco.website^
 ||rxiptliymhnrv.online^
@@ -53907,6 +53912,7 @@ browsershots.org#@#.advert_area
 ||salomonplexuremopey.qpon^
 ||salpianjeershalloth.cyou^
 ||salpianpungey.cyou^
+||salpidsjollier.cyou^
 ||salrnflgyvntw.website^
 ||salseprudely.com^
 ||saltagruelly.cfd^
@@ -64461,6 +64467,7 @@ browsershots.org#@#.advert_area
 ||xjowkbpwzznav.website^
 ||xjqalftkd.com^
 ||xjrwxfdphc.com^
+||xjueekpdakm.com^
 ||xjurarsoqdinb.website^
 ||xjwkmuaaleotc.space^
 ||xkanzuqreeloy.store^
