@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602171600
+! Version: 202602171719
 ! Title: EasyList
-! Last modified: 17 Feb 2026 16:00 UTC
+! Last modified: 17 Feb 2026 17:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6bfa7ef811f0252d23e6951656420eb168a883f2
+! Commit: 802798416fe59bc0515676c07fdd612f8d063aab
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22476,6 +22476,7 @@ browsershots.org#@#.advert_area
 ||bwkwfuwfv.xyz^
 ||bwloqkpsisafx.xyz^
 ||bwmbwughl.xyz^
+||bwnddkpcoavas.website^
 ||bwnkofqbv.com^
 ||bwnnbwlngkwgd.space^
 ||bwofuzfzhgqnp.website^
@@ -26639,6 +26640,7 @@ browsershots.org#@#.advert_area
 ||diamjpncrjhtt.space^
 ||dianomioffers.co.uk^
 ||diapersseisor.cyou^
+||diaplexlagenae.qpon^
 ||diarrhoeaeaglesunday.com^
 ||diasyrmunionic.com^
 ||diauotolith.cyou^
@@ -27424,6 +27426,7 @@ browsershots.org#@#.advert_area
 ||downstreamix.com^
 ||downwardsuperioraching.com^
 ||dowryhandgripballot.com^
+||dowrysprinkle.com^
 ||dowseawald.top^
 ||dowvebulimiakhahoon.cyou^
 ||doxbgawth.xyz^
@@ -29108,6 +29111,7 @@ browsershots.org#@#.advert_area
 ||enwomanskeich.cfd^
 ||enwombssighing.com^
 ||enwovenlengestgoddess.cfd^
+||enyzcglevwwkc.space^
 ||eoaemmvtasnsi.online^
 ||eoaextrglkylg.site^
 ||eoaqwuczekozu.space^
@@ -31381,6 +31385,7 @@ browsershots.org#@#.advert_area
 ||fqbbtbvqgqbia.online^
 ||fqbhvdgaqchdm.xyz^
 ||fqcirzxfraorx.website^
+||fqdeyxpdybrcs.online^
 ||fqdpqpwruidrz.store^
 ||fqdqkvwqgjuip.com^
 ||fqdqndubwixwk.website^
@@ -35591,6 +35596,7 @@ browsershots.org#@#.advert_area
 ||htqowgone.net^
 ||htqpwyab.com^
 ||htrem.site^
+||htslrfxmkdsghx.com^
 ||htthnossikyqb.net^
 ||httpzdxdbggte.site^
 ||htufkxrviozxm.space^
@@ -40213,6 +40219,7 @@ browsershots.org#@#.advert_area
 ||laphagrito.com^
 ||lapillitigre.qpon^
 ||lapishexisswifty.cyou^
+||lapisnaga.com^
 ||laplandnervierblasia.cfd^
 ||lapolkiexgqghq.com^
 ||lappedspicier.qpon^
@@ -44785,6 +44792,7 @@ browsershots.org#@#.advert_area
 ||nhpkmzkgadrmm.site^
 ||nhqjiwltuwbqc.website^
 ||nhqkijpqeguuh.store^
+||nhrkjatfpkpdh.space^
 ||nhrnxqiiygdjc.store^
 ||nhroboqsngqvd.site^
 ||nhsjhbnkrhwzy.space^
@@ -50891,6 +50899,7 @@ browsershots.org#@#.advert_area
 ||qhdlakajcgcul.space^
 ||qhdlrubf.com^
 ||qhffqlklvclza.website^
+||qhgimdvyvqtyl.site^
 ||qhgryaocaxulj.online^
 ||qhhtjakrzwtwx.site^
 ||qhiatcfrywgse.click^
@@ -55420,6 +55429,7 @@ browsershots.org#@#.advert_area
 ||slaepestled.help^
 ||slagmanknock.qpon^
 ||slahpxqb6wto.com^
+||slahxfnkp.com^
 ||slamactress.com^
 ||slammedloftygauze.com^
 ||slampallies.help^
@@ -58748,6 +58758,7 @@ browsershots.org#@#.advert_area
 ||topesgroin.click^
 ||topfullholderkeying.cyou^
 ||tophaw.com^
+||tophetaglance.cyou^
 ||topiaryrakely.help^
 ||topiccorruption.com^
 ||topincome.cc^
@@ -64575,6 +64586,7 @@ browsershots.org#@#.advert_area
 ||xmlgrab.com^
 ||xmlking.com^
 ||xmllover.com^
+||xmlpostback.com^
 ||xmlppcbuzz.com^
 ||xmlrtb.com^
 ||xmlwiz.com^
