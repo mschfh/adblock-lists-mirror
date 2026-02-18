@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jISvV4i3+m8ScgmDKDkY0A
-! Version: 202602172325
+! Checksum: +Gq7jheyLVFLpIz5DBBAdg
+! Version: 202602172350
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-02-17 23:25 UTC
+! Last modified: 2026-02-17 23:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -40785,7 +40785,7 @@ aida64.co.uk,aida64.com.ua,aida64.de,aida64.hu,aida64.it,aida64russia.com##+js(s
 core.app##+js(set-local-storage-item, should_display_cookie_banner_v2, false)
 v2.xmeye.net##+js(set-local-storage-item, showCookieUse, false)
 k33.com##+js(set-local-storage-item, showCookies, NO)
-negrasport.pl,pancernik.eu##+js(set-local-storage-item, show_consent_modal, 1)
+litteravera.pl,negrasport.pl,pancernik.eu##+js(set-local-storage-item, show_consent_modal, 1)
 cryptorank.io##+js(set-local-storage-item, show_cookies_popup, false)
 skanzen.hu##+js(set-local-storage-item, skanzen-cookie-consent, false)
 store.servicenow.com##+js(set-local-storage-item, sn.store.cookie_consent, 1)
