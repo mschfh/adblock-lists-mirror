@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6d/B604fPvObechNsCk/ug
-! Version: 202602180100
+! Checksum: tiuQZKullTp9CQ0mbH3Xxw
+! Version: 202602182125
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-02-18 01:00 UTC
+! Last modified: 2026-02-18 21:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -49983,6 +49983,7 @@ psyche.co##[data-ga-view-prompt="psyche_cta_pop_up_subscribe"]
 nytimes.com##[data-gtm-element="newsletter_loaf_form"]
 wsj.com##[data-inset_type="newsletterinset"]
 insideottawavalley.com##[data-lpos="headlines-newsletter"]
+surrealdb.com##[data-newsletter-root="newsletter"]
 thisismoney.co.uk##[data-newsletter]
 goodrx.com##[data-qa="NewsletterSignUpAlert"]
 nytimes.com##[data-scp="newsletter"]
