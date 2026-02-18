@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602181349
+! Version: 202602181429
 ! Title: EasyList
-! Last modified: 18 Feb 2026 13:49 UTC
+! Last modified: 18 Feb 2026 14:29 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 83d3434ab20432406cb897f2fe07d9865119ef25
+! Commit: 1fa28d33c23378fe1ca1f584375820e1614eed26
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21528,6 +21528,7 @@ browsershots.org#@#.advert_area
 ||bngwlt.com^
 ||bnhlpsmhvodae.online^
 ||bnhtml.com^
+||bniqoljokknzm.website^
 ||bnmkl.com^
 ||bnmqtggqjoqic.buzz^
 ||bnofjtuewcnca.site^
@@ -25019,6 +25020,7 @@ browsershots.org#@#.advert_area
 ||cqstbvkcpbqut.one^
 ||cqtmotizjuvwe.online^
 ||cqtownist.cyou^
+||cqtpnmishybab.site^
 ||cquozcdrrbcua.online^
 ||cqvxrmwcwyvad.site^
 ||cqxfpeudfzhoe.website^
@@ -26671,6 +26673,7 @@ browsershots.org#@#.advert_area
 ||dhyrlpxupgjcj.site^
 ||dhzahnrahzlpx.space^
 ||dhzqlqrfwjqgv.website^
+||dhzuwuufhfyrq.online^
 ||di7stero.com^
 ||diagnosiscontractortrophy.com^
 ||diagnosisintriguingorganizer.com^
@@ -35197,6 +35200,7 @@ browsershots.org#@#.advert_area
 ||hnsbsgnqcvqmn.site^
 ||hnsziqysnqozo.website^
 ||hnvhpxetfugpx.online^
+||hnvkkeyhqxh.com^
 ||hnwbhkraakeyp.site^
 ||hnwlazmnkzwxj.space^
 ||hnwqolckynifk.website^
@@ -35631,6 +35635,7 @@ browsershots.org#@#.advert_area
 ||hsusytdszttqs.site^
 ||hsvgxmljiaoob.fun^
 ||hsvnpfchuzpma.space^
+||hswrbfacmm.com^
 ||hswzdflhlmtpg.store^
 ||hsyjcigdkuegz.online^
 ||hszitmwllttjk.space^
@@ -46467,6 +46472,7 @@ browsershots.org#@#.advert_area
 ||ojonvpuqbtqul.site^
 ||ojprlvavhknyk.site^
 ||ojpvwrudzpojr.site^
+||ojqpnmnatg.com^
 ||ojrkqzpuntzxg.online^
 ||ojrq.net^
 ||ojscanbrogi.com^
