@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XJMY5wLI/R97oYCfytc72A
-! Version: 202602190125
+! Checksum: 2ZXzOUaIiAH19Xyz+bz73w
+! Version: 202602190950
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-02-19 01:25 UTC
+! Last modified: 2026-02-19 09:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -44251,7 +44251,7 @@ gazeta-n1.ru###bdModalCookie
 ecolipetsk.ru###bg_popup
 bankinform.ru###bisCookieCompliance
 hh.ru###bottom-cookies-policy-informer
-vip-tv.online###bottomInfoBar
+earth-chronicles.ru,vip-tv.online###bottomInfoBar
 yvid.ru###cbb
 mamba.ru###closeCookieBanner
 solgarvitamin.ru###consent-modal
@@ -44259,6 +44259,7 @@ gorodperm.ru###cookb
 cardiovascular.elpub.ru###cookie-banner-wrapper
 finam.ru###cookie-consent-popup
 ria-m.tv###cookie-msg
+companies.rbc.ru###cookie-popup
 aeroflot.ru###cookieInfo
 abok.ru###cookieNotice
 vladimir-city.ru###cookie_pp
@@ -45436,6 +45437,7 @@ ants.vn##.sg-popup-content
 !
 ! ---------- Russian ----------
 !
+||hmn.ru/cookie_funcs.js
 ||pikadil.ru/build/assets/ModalCookies-
 ||remixshop.com/bg/site/ajaxCheckCookiePolicy
 !
