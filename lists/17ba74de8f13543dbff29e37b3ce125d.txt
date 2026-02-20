@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602200914
+! Version: 202602200952
 ! Title: EasyList
-! Last modified: 20 Feb 2026 09:14 UTC
+! Last modified: 20 Feb 2026 09:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3caa106aa5dabca9d359db7019b4a5907352769e
+! Commit: 27facd4a8d75843384d9355b061a399c241099a7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20893,6 +20893,7 @@ browsershots.org#@#.advert_area
 ||betideyapp.shop^
 ||betimbur.com^
 ||betimelineny.cyou^
+||betingelampong.cyou^
 ||betkr.cc^
 ||betmasquerainchan.com^
 ||betmenaff.com^
@@ -42036,6 +42037,7 @@ browsershots.org#@#.advert_area
 ||luuming.com^
 ||luuspdbnxvyjs.site^
 ||luvianyao.cfd^
+||luwfaczcdafjb.online^
 ||luwt.cloud^
 ||luwumpgolmbra.xyz^
 ||luxadv.com^
@@ -46207,6 +46209,7 @@ browsershots.org#@#.advert_area
 ||oawkaajvnfkcu.site^
 ||oawosoulsouso.net^
 ||oaxcyzqojnyxy.online^
+||oaxmrjcmawocm.website^
 ||oazogrumou.net^
 ||obaerrs.cfd^
 ||obakkaqbwcnlh.global^
