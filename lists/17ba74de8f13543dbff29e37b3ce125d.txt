@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602201505
+! Version: 202602201545
 ! Title: EasyList
-! Last modified: 20 Feb 2026 15:05 UTC
+! Last modified: 20 Feb 2026 15:45 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c95e9bcba850e881077dfe3d0fd47d78014cc5b4
+! Commit: 6d9865a6ff5949efadf723d650d33cdd6e62ca1d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25168,6 +25168,7 @@ browsershots.org#@#.advert_area
 ||creativecdn.com^
 ||creativedisplayformat.com^
 ||creativeformatsnetwork.com^
+||creativehigh.pro^
 ||creativerestaurant.pro^
 ||creativesumo.com^
 ||creativetelephone.pro^
@@ -34259,6 +34260,7 @@ browsershots.org#@#.advert_area
 ||gzaghpuljkqxb.space^
 ||gzapiiwbckwny.online^
 ||gzarikakg.com^
+||gzberdhytgbsy.website^
 ||gzclatfhwvpsk.space^
 ||gzdcdayetqopi.site^
 ||gzdtgaxudnjun.site^
@@ -46752,6 +46754,7 @@ browsershots.org#@#.advert_area
 ||okanwoesgsogw.website^
 ||okapiacoot.qpon^
 ||okaysgrange.cyou^
+||okbjlfhbpeejgj.xyz^
 ||okcfdzfqcdemc.website^
 ||okdigital.me^
 ||okdvtupaha.com^
@@ -65210,6 +65213,7 @@ browsershots.org#@#.advert_area
 ||xmlrtb.com^
 ||xmlwiz.com^
 ||xmlwolf.com^
+||xmmnbpqmsmtpu.site^
 ||xmnpmchbnhddw.website^
 ||xmonwu59ojtz5fk3q.cfd^
 ||xmpoiotsmpkro.website^
@@ -66256,6 +66260,7 @@ browsershots.org#@#.advert_area
 ||ypnsqbosjtbpv.space^
 ||yprmiumi.xyz^
 ||yprzvrve2vmbxqy9gnk.cfd^
+||yptynzytbqnwm.site^
 ||ypulmrwnpxwkz.space^
 ||ypuupdvjvsvrm.website^
 ||ypvibqgydnejr.space^
