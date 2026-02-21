@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602210303
+! Version: 202602210347
 ! Title: EasyList
-! Last modified: 21 Feb 2026 03:03 UTC
+! Last modified: 21 Feb 2026 03:47 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 39cde6861edce6b7b3c3ea71b3446614f7f18350
+! Commit: b80ec39a7d8fe5be87b19bf17d69c07cf41b465e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25709,6 +25709,7 @@ browsershots.org#@#.advert_area
 ||cxhbourj.net^
 ||cxidvoykswqjmt.net^
 ||cxikfjqfiwxta.vip^
+||cximeohdn.com^
 ||cxjhm26kb1wv1v.rest^
 ||cxjptjkdgvqw.com^
 ||cxjtsybhvpsfl.space^
@@ -33082,6 +33083,7 @@ browsershots.org#@#.advert_area
 ||glcdzojthfbaw.site^
 ||glddhbxmzctdb.online^
 ||glddockize.cyou^
+||gldjpbtamwuhf.space^
 ||gldkzr-lpqw.buzz^
 ||gldlwtjeralke.online^
 ||gldrdr.com^
@@ -45390,6 +45392,7 @@ browsershots.org#@#.advert_area
 ||njxrpzdwiduhs.online^
 ||njzhrrgrkjsrl.space^
 ||njzwlqzpuxpcv.website^
+||nkaczwsqxlolq.website^
 ||nkavyuxjnilae.site^
 ||nkbfkirbnxdbo.site^
 ||nkcghrzpzqx576.cfd^
@@ -47952,6 +47955,7 @@ browsershots.org#@#.advert_area
 ||oyjxfnofwmqvg.com^
 ||oykfrenzqxywv.online^
 ||oykqvhduikwta.site^
+||oyllhwxhhwlir.site^
 ||oylwjvhtuooax.website^
 ||oymfopsxkdygv.online^
 ||oynebiafayaf.com^
@@ -61634,6 +61638,7 @@ browsershots.org#@#.advert_area
 ||uucfcpcdqtzpm.site^
 ||uucirqufdaer.net^
 ||uudckenzwdhvj.online^
+||uuevorfftjoaik.xyz^
 ||uufgarwmibysu.online^
 ||uufjxnfitxtvt.website^
 ||uugfvrpccibuj.website^
