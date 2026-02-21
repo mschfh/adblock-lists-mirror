@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602210553
+! Version: 202602210653
 ! Title: EasyList
-! Last modified: 21 Feb 2026 05:53 UTC
+! Last modified: 21 Feb 2026 06:53 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4bd5c5f77845d6e60625cd9f97ad2f411b9be2fe
+! Commit: a0c785381df307b6edb826f35ee79cdbe3c25bf8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29398,6 +29398,7 @@ browsershots.org#@#.advert_area
 ||eqddkngvrgvkw.site^
 ||eqehinvfxfexdvr.com^
 ||eqfesbkejvdxb.online^
+||eqfjyplitqrsvka.xyz^
 ||eqfqekkgkwpya.online^
 ||eqgztqakyjron.online^
 ||eqhpbxwjonvtq.site^
@@ -31930,6 +31931,7 @@ browsershots.org#@#.advert_area
 ||fugfixrgavvmu.com^
 ||fugfyhzilfnjb.website^
 ||fuggffela.com^
+||fuggyembowel.cyou^
 ||fugiogettersagogic.cyou^
 ||fugiotaenpennage.qpon^
 ||fugitivedepart.com^
@@ -34332,6 +34334,7 @@ browsershots.org#@#.advert_area
 ||h0w-t0-watch.net^
 ||h12-media.com^
 ||h2b1s.com^
+||h2bzr13ykk6gb8wbu626k36q8mn1o.rest^
 ||h2hc7ux8jmleib.cfd^
 ||h3yn6whlnn1hne7wfg25pf.rest^
 ||h48gqv7oi4fo7z5guxfmigrbuo815.cyou^
@@ -35771,6 +35774,7 @@ browsershots.org#@#.advert_area
 ||hrbaal0z.xyz^
 ||hrbcdtivtvcwq.site^
 ||hrdartsdtrmqu.site^
+||hrdcusbgevebxju.com^
 ||hreso.site^
 ||hressuipwxggy.online^
 ||hrhwtfnsmxtmn.site^
@@ -43561,6 +43565,7 @@ browsershots.org#@#.advert_area
 ||mktwoqyekxixh.website^
 ||mkyafpcctqmyi.website^
 ||mkyagjguvkfguj.net^
+||mkyattmdqt.com^
 ||mkybbjaracrvh.online^
 ||mkychymmi.com^
 ||mkyebumhdrhsg.store^
@@ -45315,6 +45320,7 @@ browsershots.org#@#.advert_area
 ||nimxbomdpgwms.site^
 ||ninancukankin.org^
 ||ninase.sbs^
+||nincommf.com^
 ||nineteenthasparagus.com^
 ||ninetweak.com^
 ||ninetyfitful.com^
@@ -45567,6 +45573,7 @@ browsershots.org#@#.advert_area
 ||nogginsglutaelsospiro.cyou^
 ||nognysknja.com^
 ||nohowsankhya.com^
+||nohurhr994yw3rj5zy.cfd^
 ||nointbrtpywqe.site^
 ||noisesperusemotel.com^
 ||noisewhoever.com^
@@ -49113,6 +49120,7 @@ browsershots.org#@#.advert_area
 ||pightelnumida.cfd^
 ||pignonalinota.cyou^
 ||pignorahenwife.qpon^
+||pigsdunted.shop^
 ||pigsneyepigene.cyou^
 ||pigtre.com^
 ||pihu.xxxpornhd.pro^
@@ -60269,6 +60277,7 @@ browsershots.org#@#.advert_area
 ||twwarolhgextk.online^
 ||twxeylaimubks.space^
 ||twznryfmalwge.site^
+||twzviugfoezfw.site^
 ||txbsilfgxiwiz.website^
 ||txbwpztu-oh.site^
 ||txcawohntmnkku.com^
@@ -61937,6 +61946,7 @@ browsershots.org#@#.advert_area
 ||vapouryheygh.cyou^
 ||vaprimate.cfd^
 ||vaqjgbsmdrqzp.website^
+||vaqyiofszrvet.online^
 ||vaqykqyvvazbz.top^
 ||varangigou.com^
 ||vardsusyseinpo.com^
@@ -64570,6 +64580,7 @@ browsershots.org#@#.advert_area
 ||wpvayxesdkpuq.space^
 ||wpvvlvzpneobl.website^
 ||wpwdwbunjutwd.online^
+||wpwnejtixioio.website^
 ||wpyqtdqwvchml.site^
 ||wq8byp9yonql951fq56gkhj9v4z1tmk.cfd^
 ||wqageeadtitps.online^
@@ -84648,6 +84659,7 @@ engadget.com##section.md\:min-h-\[310px\]
 mashable.com##section.mt-4 > div
 weather.com##section[aria-label="Sponsored Content"]
 bedbathandbeyond.com##section[class^="showcaseAds_container"]
+bestbuy.ca##section[data-automation="dynamic-content-featured-sku-list-home_fsl_sponsored"]
 bbc.com##section[data-e2e="advertisement"]
 foodandwine.com##section[id*="mntl-four-post--sponsored"]
 reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##shreddit-comments-page-ad
@@ -84927,6 +84939,7 @@ property24.com##.p24_tileContainer:has([src^="/Content/images/Optimized/Icons/ic
 thefederal.com##.pb-3 > .col-xl-3.col-lg-6.col-md-6:has(> [id^="ad_slot"])
 andronicos.com,haggen.com,randalls.com##.pc-grid-prdItem:has(span[data-qa="prd-itm-spnsrd"])
 sainsburys.co.uk##.pd-merchandising-product:has(.product-header--citrus[data-testid="product-header"])
+macys.com##.plp-page-row:has(.monetization-brand-label)
 hannaford.com##.plp_thumb_wrap:has([data-citrusadimpressionid])
 niagarathisweek.com##.polarBlock:has(.polarAds)
 404media.co##.post__content > p:has(a[href^="https://srv.buysellads.com/"])
