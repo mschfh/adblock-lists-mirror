@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602210519
+! Version: 202602210553
 ! Title: EasyList
-! Last modified: 21 Feb 2026 05:19 UTC
+! Last modified: 21 Feb 2026 05:53 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d925a3fc7eaf3158316ce788e61f2231ce43a1d3
+! Commit: 4bd5c5f77845d6e60625cd9f97ad2f411b9be2fe
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -43509,6 +43509,7 @@ browsershots.org#@#.advert_area
 ||mjekpownyklmv.online^
 ||mjexciysaiymxu.com^
 ||mjgmwrbkbbwak.space^
+||mjgqjvbrathgo.site^
 ||mjgxsmcfnddde.online^
 ||mjhjofacejzxi.space^
 ||mjiillaizjckm.website^
@@ -52066,6 +52067,7 @@ browsershots.org#@#.advert_area
 ||qygpcxfqqvfhr.online^
 ||qyjosnnv.link^
 ||qyjvjovkaglpqw.com^
+||qykjptypnuhjz.website^
 ||qylkhwawxhomr.site^
 ||qylofdsbhdluj.space^
 ||qymbjstqmpwow.site^
@@ -54382,6 +54384,7 @@ browsershots.org#@#.advert_area
 ||rzsyenebnyvgs.website^
 ||rzuqqpwtpkztw.online^
 ||rzvcdclxehmnd.global^
+||rzwkmyyomcutc.website^
 ||rzxirmnqefyfm.website^
 ||rzxnpocokpbcy.store^
 ||rzxxflvdnvtws.vip^
