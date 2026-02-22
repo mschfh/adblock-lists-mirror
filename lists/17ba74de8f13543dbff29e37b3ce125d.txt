@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602221322
+! Version: 202602221350
 ! Title: EasyList
-! Last modified: 22 Feb 2026 13:22 UTC
+! Last modified: 22 Feb 2026 13:50 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3fbd9abdd5d68d9fa194ad27581da94d6ecaf19d
+! Commit: 4517fb68c5aee2637e1491723b617d69d8cba52e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23060,6 +23060,7 @@ browsershots.org#@#.advert_area
 ||carvesenemas.cfd^
 ||carvyre.com^
 ||casalemedia.com^
+||casaltyar.cfd^
 ||caseaseravened.qpon^
 ||caseboxramus.cyou^
 ||casefulautist.shop^
@@ -23464,6 +23465,7 @@ browsershots.org#@#.advert_area
 ||cfdpaphgnwhpz.space^
 ||cfdwvcmkrcvf.xyz^
 ||cffa3cb187.com^
+||cffwjwvrymyod.website^
 ||cfgr1.com^
 ||cfgr5.com^
 ||cfgrcr1.com^
@@ -41966,6 +41968,7 @@ browsershots.org#@#.advert_area
 ||lozna.xyz^
 ||lp-preview.net^
 ||lp247p.com^
+||lpahravhqzxif.space^
 ||lparket.com^
 ||lpazvocghyepn.website^
 ||lpbpwvul.com^
@@ -61586,6 +61589,7 @@ browsershots.org#@#.advert_area
 ||updaight.com^
 ||updaterack.com^
 ||updeckdagos.help^
+||updowaiters.qpon^
 ||updservice.site^
 ||upedinburgh.com^
 ||upengoobsy.net^
@@ -69965,6 +69969,7 @@ browsershots.org#@#.advert_area
 ||housebutsoon.com^
 ||html-load.cc^
 ||huzzahwhatintently.com^
+||ickfinallyonly.com^
 ||impanelsnarling.com^
 ||insteadectoderm.com^
 ||insteadphooey.com^
