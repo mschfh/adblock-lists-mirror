@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602221443
+! Version: 202602221514
 ! Title: EasyList
-! Last modified: 22 Feb 2026 14:43 UTC
+! Last modified: 22 Feb 2026 15:14 UTC
 ! Expires: 4 days (update frequency)
-! Commit: cabf49e37c7d5a4708ad34eb0daa203976820f65
+! Commit: 30152b35e677c05e8918736c80689e2bd998a87f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45301,6 +45301,7 @@ browsershots.org#@#.advert_area
 ||nfcieoyoqljx.net^
 ||nfcliqjyhwatk.website^
 ||nfcyrakmlvyub.site^
+||nfddrliyknsm.com^
 ||nfdomuxlrdypk.site^
 ||nfdxprxptlubs.buzz^
 ||nfexcdiuvfyuu.online^
@@ -52991,6 +52992,7 @@ browsershots.org#@#.advert_area
 ||regimesangliae.cyou^
 ||regionads.ru^
 ||regionalavouchcreeping.com^
+||regir3m48nk5rlk.rest^
 ||registration423.fun^
 ||registrytodaylocked.com^
 ||regosolbarware.qpon^
@@ -54592,6 +54594,7 @@ browsershots.org#@#.advert_area
 ||rzeso.com^
 ||rzeuizwtvteer.online^
 ||rzfppnpgzkevn.site^
+||rzfzbarabhqmq.website^
 ||rzkecmrxhegnw.online^
 ||rzneekilff.com^
 ||rznjmobimrorl.space^
@@ -57672,6 +57675,7 @@ browsershots.org#@#.advert_area
 ||strwh.com^
 ||stscczovfaipx.website^
 ||stsejehaurbpx.site^
+||stsgtzbqgfmlz.website^
 ||stthykerewasn.com^
 ||stubsaistur.net^
 ||stucesaumpie.net^
@@ -60523,6 +60527,7 @@ browsershots.org#@#.advert_area
 ||txcslpvgwxeao.website^
 ||txdrzgmuwoqqh.site^
 ||txfzmurcavgqx.space^
+||txggmesrvgpyl.online^
 ||txgpgszrhedyl.online^
 ||txgtadnmmwwte.space^
 ||txgupjxzbxvsx.online^
@@ -64799,6 +64804,7 @@ browsershots.org#@#.advert_area
 ||worwmjeyrjyokq.com^
 ||woscxgnjprqzj.space^
 ||wosotodhizugp.space^
+||wotelnenrdecc.xyz^
 ||woucizameewha.net^
 ||woudaufe.net^
 ||woukrkskillsom.org^
@@ -65933,6 +65939,7 @@ browsershots.org#@#.advert_area
 ||xvzgfyqucqrbw.space^
 ||xw4xtknm94ov1yy.cfd^
 ||xwaairiivkxzo.online^
+||xwbq28luw9n9y86.cfd^
 ||xwfafjiihnpmy.space^
 ||xwgdcamizuhhp.online^
 ||xwgkbcbvjjvxr.website^
