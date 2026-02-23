@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602230745
+! Version: 202602230824
 ! Title: EasyList
-! Last modified: 23 Feb 2026 07:45 UTC
+! Last modified: 23 Feb 2026 08:24 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 18e9444cde0280a785787bca8da0e8fc2b853ec5
+! Commit: 245a4d05dffc20517b5d91621eec8d35b43a1e7f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38111,6 +38111,7 @@ browsershots.org#@#.advert_area
 ||jaijs.com^
 ||jailishwabbles.cfd^
 ||jailorscoman.cfd^
+||jailshoming.cyou^
 ||jaimirozadair.net^
 ||jaiphaugaw.net^
 ||jaiphoudidaust.net^
@@ -40317,6 +40318,7 @@ browsershots.org#@#.advert_area
 ||kreps.xyz^
 ||krffawlfeuqcc.online^
 ||krfqlrxvmoyrj.online^
+||krg4f5bo.xyz^
 ||krhmtdzuxxmsc.space^
 ||krhyrrfwvcx.xyz^
 ||krisydark.com^
@@ -43761,6 +43763,7 @@ browsershots.org#@#.advert_area
 ||mjgmwrbkbbwak.space^
 ||mjgqjvbrathgo.site^
 ||mjgxsmcfnddde.online^
+||mjhdppbv.com^
 ||mjhjofacejzxi.space^
 ||mjiillaizjckm.website^
 ||mjkjatrhfvjsd.website^
@@ -45149,6 +45152,7 @@ browsershots.org#@#.advert_area
 ||ncoyercwrriqc.website^
 ||ncqfppkwczjal.site^
 ||ncqhgmxnpywal.website^
+||ncqzyyjhjjoak.site^
 ||nctskfaizblyq.space^
 ||ncyxfrdxpacie.website^
 ||ncz3u7cj2.com^
@@ -48158,6 +48162,7 @@ browsershots.org#@#.advert_area
 ||ownthmorningb.org^
 ||owonchghcurdw.website^
 ||owougoodoom.net^
+||owptcpqzfeajd.site^
 ||owqbvomroabvp.online^
 ||owqscacur.com^
 ||owrelayzanzakermis.cyou^
@@ -59272,6 +59277,7 @@ browsershots.org#@#.advert_area
 ||throughthesumeme.com^
 ||throwcommercial.com^
 ||throwmewling.help^
+||thrtamykpggls.space^
 ||thrtle.com^
 ||thrumsheild.cfd^
 ||thrustinextricable.com^
