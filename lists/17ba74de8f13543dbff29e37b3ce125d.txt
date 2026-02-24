@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602241306
+! Version: 202602241343
 ! Title: EasyList
-! Last modified: 24 Feb 2026 13:06 UTC
+! Last modified: 24 Feb 2026 13:43 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 34bef97cd439151270c96edfd6573e9830b792d7
+! Commit: 79ecdeb205fd71e0c215605d127cda07b7268484
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29835,6 +29835,7 @@ browsershots.org#@#.advert_area
 ||etailtastan.net^
 ||etalageunwept.qpon^
 ||etatismdeary.cyou^
+||etauzbpdwghlu.website^
 ||etbbvbulyhyyo.space^
 ||etbtomrowbmji.website^
 ||etchedpernis.cyou^
@@ -30286,6 +30287,7 @@ browsershots.org#@#.advert_area
 ||eyovtnjvganvj.space^
 ||eyqbpifffccdc.net^
 ||eyqsrrwmvhavp.website^
+||eyqzarsbjscwq.online^
 ||eyrbobble.cfd^
 ||eyrzqduatrhmx.website^
 ||eysltgmwdejxnj.net^
@@ -46955,6 +46957,7 @@ browsershots.org#@#.advert_area
 ||odldzgdjzbksz.site^
 ||odlkpuok.com^
 ||odlospxkipf.com^
+||odlpxnvgroltc.online^
 ||odlxepapmasej.website^
 ||odmhljecbnazq.site^
 ||odnaknopka.ru^
@@ -47909,6 +47912,7 @@ browsershots.org#@#.advert_area
 ||orthalresshotfiant.qpon^
 ||orthantisabelartar.cyou^
 ||orthislardonwraple.qpon^
+||orttailing.cyou^
 ||ortuhaxjansbr.store^
 ||ortunitytostara.org^
 ||oruxmvyydrvkr.website^
@@ -51766,6 +51770,7 @@ browsershots.org#@#.advert_area
 ||qbzwwagbbagcf.online^
 ||qcbtygylmnfez.fun^
 ||qcdonicw.com^
+||qcdvlmoliqx.com^
 ||qcennhkrzskze.space^
 ||qcgzvywnvubee.online^
 ||qchmlmtkpbswf.buzz^
@@ -58827,6 +58832,7 @@ browsershots.org#@#.advert_area
 ||tallthirsty.com^
 ||tallwinter.pro^
 ||talonedveldman.rest^
+||talonspentice.cyou^
 ||talroebnwhbif.space^
 ||talusisatin.qpon^
 ||tamableperemptmiombo.qpon^
