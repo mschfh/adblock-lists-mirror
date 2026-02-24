@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602240526
+! Version: 202602240607
 ! Title: EasyList
-! Last modified: 24 Feb 2026 05:26 UTC
+! Last modified: 24 Feb 2026 06:07 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 113eece94dfdc72c72f0d2939b3cb9e0f5ae4f60
+! Commit: e8f732ad4b7d8bc088a2054cd841613fa672ae5a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16497,6 +16497,7 @@ browsershots.org#@#.advert_area
 ||7ooht8tc3xtukbfl1mni9qopon.cfd^
 ||7p57h86gnt6k7gu1lwcq.cfd^
 ||7pl3eg6tj1ob6wzb.cyou^
+||7qjp23853ovutp.cfd^
 ||7rh3wjf4o5czkicukz.cyou^
 ||7thvyebqhu7956.cfd^
 ||7v6n8qo83l71346kwz4nlq.rest^
@@ -18174,6 +18175,7 @@ browsershots.org#@#.advert_area
 ||aipoufoomsaz.xyz^
 ||aiqezguzrblsx.online^
 ||aiqidwcfrm.com^
+||aiqowflpg.com^
 ||airairgu.com^
 ||airampopsykter.shop^
 ||airartapt.site^
@@ -27320,6 +27322,7 @@ browsershots.org#@#.advert_area
 ||djqprujbvjcfx.space^
 ||djrkpoublcswv.store^
 ||djrtrzohpfgmi.site^
+||djsujkvvqykfh.online^
 ||djtdmgwjbq.com^
 ||djtsgzireukxr.online^
 ||djtsrgmx.com^
@@ -30488,6 +30491,7 @@ browsershots.org#@#.advert_area
 ||faroffteaching.pro^
 ||faroukwinnow.com^
 ||farphrasedirect.com^
+||farrantchopin.shop^
 ||farrelwaspier.cyou^
 ||farrierastayflinty.cyou^
 ||farriercategoryidentifier.com^
@@ -38480,6 +38484,7 @@ browsershots.org#@#.advert_area
 ||jfezwogpa.com^
 ||jffdicjopshin.space^
 ||jfhkvhobpfzoc.website^
+||jfhlakszikfxl.space^
 ||jfhmuymhjaiui.online^
 ||jfhquncaxsh.net^
 ||jfjle4g5l.com^
@@ -39628,6 +39633,7 @@ browsershots.org#@#.advert_area
 ||kdnbljfbgheqq.space^
 ||kdnmrypbekbki.online^
 ||kdnnhkwwbjr.net^
+||kdnuquia.com^
 ||kdpitybbkjusx.site^
 ||kdqrmjkug.com^
 ||kdqtmxmwygsny.space^
@@ -43673,6 +43679,7 @@ browsershots.org#@#.advert_area
 ||milky-silver.pro^
 ||milkygoodness.xyz^
 ||milkymonitor.pro^
+||milkyonrush.cyou^
 ||milkywaynewspaper.com^
 ||milkywonder.pro^
 ||milladvocacyunderstandable.com^
