@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602242042
+! Version: 202602242119
 ! Title: EasyList
-! Last modified: 24 Feb 2026 20:42 UTC
+! Last modified: 24 Feb 2026 21:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0af41e6b237882ee791f1a5cc37f6095f202baf5
+! Commit: e6ba809fd935cfb79ee9e370786832b983006b87
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18744,6 +18744,7 @@ browsershots.org#@#.advert_area
 ||analyzeunsettled.com^
 ||anamaembush.com^
 ||anamuel-careslie.com^
+||anankesfigurer.com^
 ||anapirate.com^
 ||anaquabchsheatful.cyou^
 ||anarchunlash.cyou^
@@ -31546,6 +31547,7 @@ browsershots.org#@#.advert_area
 ||fnyfiexpectth.org^
 ||fnyfsnfptvbfj.site^
 ||fnypcuvgop.xyz^
+||fo3u53hw4iok3vrmemrfpjt5p7k.rest^
 ||foacoolaijoad.net^
 ||foaglaid.xyz^
 ||foaloastoajez.net^
@@ -39551,6 +39553,7 @@ browsershots.org#@#.advert_area
 ||kalecaneton.shop^
 ||kaleidoscopic-coast.pro^
 ||kaleidoscopic-country.com^
+||kaleidoscopicoffer.pro^
 ||kaleidoscopictouch.com^
 ||kalganscope.com^
 ||kallimaalibamu.qpon^
@@ -40167,6 +40170,7 @@ browsershots.org#@#.advert_area
 ||klutzy-fortune.com^
 ||klutzy-minimum.pro^
 ||klutzyaldolsynaphe.cfd^
+||klvj2bmlxn5bpbh3.cfd^
 ||klwewlfsqakwu.store^
 ||klwlqpefhrfld.website^
 ||klwwhrhlnsyoa.website^
@@ -41459,6 +41463,7 @@ browsershots.org#@#.advert_area
 ||lgkdxzaslmiai.site^
 ||lgkjgunjzaort.website^
 ||lgklwhhssyxqe.space^
+||lglfxwensmcxoy.com^
 ||lgllejevhxigd.website^
 ||lglxxxadsjocm.website^
 ||lglykwrasnfzn.site^
@@ -44903,6 +44908,7 @@ browsershots.org#@#.advert_area
 ||mvjigogkqlgxo.icu^
 ||mvjkyodpnm.com^
 ||mvkntnglfdqoy.site^
+||mvnunbwjvgwef.site^
 ||mvofhqgmfeicz.space^
 ||mvovblzjltyec.online^
 ||mvqwxwnmwhbzb.website^
@@ -50192,6 +50198,7 @@ browsershots.org#@#.advert_area
 ||pojeyfymvpbww.space^
 ||pojnejmzcmbyj.online^
 ||pokdtetqhifzs.website^
+||pokomocolitic.cfd^
 ||pokomoofimbles.cyou^
 ||poktmnpzdfzgc.online^
 ||polackalien.cyou^
@@ -50996,6 +51003,7 @@ browsershots.org#@#.advert_area
 ||prplads.com^
 ||prpops.com^
 ||prqitqorszgwq.site^
+||prqpnnfnyqmvl.website^
 ||prrbmzwmxbbhu.store^
 ||prre.ru^
 ||prrhcnboldoap.site^
@@ -52364,6 +52372,7 @@ browsershots.org#@#.advert_area
 ||qtgyjrwkw.net^
 ||qtjlciojkhkfl.website^
 ||qtjqxpmynsjtg.online^
+||qtlpjjdflbdli.site^
 ||qtmcctlezxmvt.online^
 ||qtnhmmqmoyxzd.space^
 ||qtnljylmjmwpz.website^
@@ -54103,6 +54112,7 @@ browsershots.org#@#.advert_area
 ||rjsayvndhakyn.online^
 ||rjsdiikketqvt.online^
 ||rjspxvotpvkdz.online^
+||rjtvtede.xyz^
 ||rjtzqgeltwaep.store^
 ||rjubseameyqj.xyz^
 ||rjufuuktyxqqqc.xyz^
@@ -61844,6 +61854,7 @@ browsershots.org#@#.advert_area
 ||unntvrpwfzluf.store^
 ||unoblotto.net^
 ||unoiledturgors.qpon^
+||unoldswirls.cfd^
 ||unoptedtapuyan.cfd^
 ||unorderstress.shop^
 ||unpacedarmory.cyou^
@@ -63525,6 +63536,7 @@ browsershots.org#@#.advert_area
 ||volatintptr.com^
 ||voldarinis.com^
 ||volegilops.cfd^
+||volentitaboo.cfd^
 ||volform.online^
 ||volingloggias.cyou^
 ||volingpallidhalfly.cyou^
