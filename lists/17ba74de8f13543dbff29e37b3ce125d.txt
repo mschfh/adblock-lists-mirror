@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602241614
+! Version: 202602241706
 ! Title: EasyList
-! Last modified: 24 Feb 2026 16:14 UTC
+! Last modified: 24 Feb 2026 17:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 50de25e2bc0709e6ffb4b3be67f8612ca088a432
+! Commit: 76bff2a79c2175501aad87741239dc2c777ae557
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29385,6 +29385,7 @@ browsershots.org#@#.advert_area
 ||enlightencareerschronicle.com^
 ||enlightened-entry.pro^
 ||enlightened-quit.com^
+||enlightened-team.pro^
 ||enlightenedmountain.com^
 ||enlightenelevatorboycott.com^
 ||enlivenindex.com^
@@ -30117,6 +30118,7 @@ browsershots.org#@#.advert_area
 ||executivehoroscope.com^
 ||exejfbqkavbst.rocks^
 ||exemplary-scratch.pro^
+||exemptgovernorinterdependent.com^
 ||exemptjav128.fun^
 ||exercisepatronize.com^
 ||exertedbostalgaure.cfd^
@@ -36759,6 +36761,7 @@ browsershots.org#@#.advert_area
 ||iesqbiyuiiccz.online^
 ||ietwzcakupkfs.store^
 ||ieufkdgnl.com^
+||ieuuihjhggttw.site^
 ||iewixvvsbfkwd.world^
 ||iewjctcinxthi.space^
 ||ieyipznx.art^
@@ -42823,6 +42826,7 @@ browsershots.org#@#.advert_area
 ||magicianboundary.com^
 ||magicianmost.com^
 ||magnalesingly.cfd^
+||magnetchidden.qpon^
 ||magnificent-editor.pro^
 ||magnificent-listen.com^
 ||magnificentdates.com^
@@ -45307,6 +45311,7 @@ browsershots.org#@#.advert_area
 ||nbrwkwvgiafpk.online^
 ||nbtfiehtgxhvv.site^
 ||nbtuwnheoqmwc.online^
+||nbufdqsxmihqr.website^
 ||nbuipljbiahdp.website^
 ||nbuqsykgcikix.online^
 ||nbvlkenmkihrl.website^
@@ -47219,6 +47224,7 @@ browsershots.org#@#.advert_area
 ||ohtctjiuow.com^
 ||ohtwiqwhxovjlqi8fcb.cfd^
 ||ohufbtzfdzbhz.website^
+||ohufqjcvtgkgy.online^
 ||ohungoumpums.net^
 ||ohvmwffxfhwed.online^
 ||ohvvvmxtyzvix.online^
@@ -51360,6 +51366,7 @@ browsershots.org#@#.advert_area
 ||pundumringatu.cfd^
 ||pungent-shift.pro^
 ||pungentobservationwhispering.com^
+||pungentsecretary.pro^
 ||punicbices.cfd^
 ||punishencoder.cfd^
 ||punishgreater.com^
@@ -57672,6 +57679,7 @@ browsershots.org#@#.advert_area
 ||stagloatsaird.net^
 ||staid-shirt.pro^
 ||staiderkidhood.help^
+||staidlyunhitch.shop^
 ||staiglaugritcho.com^
 ||stailtoomt.net^
 ||staindessadness.com^
@@ -61432,6 +61440,7 @@ browsershots.org#@#.advert_area
 ||ukzemydream.com^
 ||ukzeylzjxqvjc.website^
 ||ulamuwhorgalt.net^
+||ulayarzq.com^
 ||ulbackgroundand.com^
 ||ulbackgroundandi.com^
 ||ulbruiqadlmaa.online^
