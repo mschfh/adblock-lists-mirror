@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602241812
+! Version: 202602241852
 ! Title: EasyList
-! Last modified: 24 Feb 2026 18:12 UTC
+! Last modified: 24 Feb 2026 18:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 57dfef654a9ceed829f178000eb05a23495a49b1
+! Commit: 70cdd2d6aa5eb457193b8b8ab64e46327d100b1a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20241,6 +20241,7 @@ browsershots.org#@#.advert_area
 ||bacteriaministry.com^
 ||bacteriapokemoney.com^
 ||baculisloyd.qpon^
+||bacunbegot.qpon^
 ||bacurypredy.com^
 ||bad-charge.pro^
 ||bad-return.pro^
@@ -37953,6 +37954,7 @@ browsershots.org#@#.advert_area
 ||itnwcttnwedtk.site^
 ||itponytaa.com^
 ||itpsfqhnjlkwl.space^
+||itqvyxlcgsior.site^
 ||itren.site^
 ||itrex.site^
 ||itrigra.ru^
@@ -39091,6 +39093,7 @@ browsershots.org#@#.advert_area
 ||jrnjcrgmiyzty.website^
 ||jrnoskvqntwhk.site^
 ||jrpkizae.com^
+||jrqksxcngkjhw.site^
 ||jrqroppxhvbna.site^
 ||jrqthgau.xyz^
 ||jrqzmiipckcvm.website^
