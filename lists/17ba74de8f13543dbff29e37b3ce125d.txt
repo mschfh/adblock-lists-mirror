@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602240923
+! Version: 202602241000
 ! Title: EasyList
-! Last modified: 24 Feb 2026 09:23 UTC
+! Last modified: 24 Feb 2026 10:00 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9fec6c447ec55171386112f253e6d1ca5da52cfc
+! Commit: d7270a7c8db580960bbfb78400d20284da0f7c2d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21933,6 +21933,7 @@ browsershots.org#@#.advert_area
 ||bottomsscopola.cyou^
 ||botvwyytbwpdb.site^
 ||boudja.com^
+||bouffonalants.qpon^
 ||bougarbengali.qpon^
 ||bougheddonor.cfd^
 ||bougieshepcats.com^
@@ -41129,6 +41130,7 @@ browsershots.org#@#.advert_area
 ||ldrtuisabstxa.store^
 ||ldscxvbgahtdh.online^
 ||ldsglxilxmczr.site^
+||ldslobvkvzfwx.online^
 ||lduaehhtvcfvv.online^
 ||ldubnqhe.digital^
 ||lduhtrp.net^
@@ -45295,6 +45297,7 @@ browsershots.org#@#.advert_area
 ||nctskfaizblyq.space^
 ||ncyxfrdxpacie.website^
 ||ncz3u7cj2.com^
+||nczneqqnzggfl.site^
 ||ndbgpajoibiqf.space^
 ||ndbign.com^
 ||ndbryaucgaupa.space^
@@ -51927,6 +51930,7 @@ browsershots.org#@#.advert_area
 ||qhurchaisrea.org^
 ||qhxtrmbxmcirh.onlin^
 ||qhxtrmbxmcirh.online^
+||qhyswqgjlojlt.online^
 ||qiaiiaqbzortj.space^
 ||qibiamaqtdu.xyz^
 ||qibjptkwyhudx.site^
@@ -64789,6 +64793,7 @@ browsershots.org#@#.advert_area
 ||wintrifleromantic.com^
 ||winzesmooring.qpon^
 ||winzessolicit.com^
+||wiowjexnwar.com^
 ||wipedcurved.com^
 ||wipedrehabilitation.com^
 ||wipehumorousbeen.com^
@@ -64877,6 +64882,7 @@ browsershots.org#@#.advert_area
 ||wjqpyvulryxtg.site^
 ||wjqtqnstdthrb.website^
 ||wjrjaeaaavckh.site^
+||wjryoolqjgo.com^
 ||wjssammow.com^
 ||wjtdpktsubtui.site^
 ||wjugygvvdouyk.space^
