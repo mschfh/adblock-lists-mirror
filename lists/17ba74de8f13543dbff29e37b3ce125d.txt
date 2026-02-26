@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602261854
+! Version: 202602261923
 ! Title: EasyList
-! Last modified: 26 Feb 2026 18:54 UTC
+! Last modified: 26 Feb 2026 19:23 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8c83a2537034d8c85c289b25c9790b07c0398790
+! Commit: 100fe678364de20a323e4f42d763d4e3206a3c25
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -27658,6 +27658,7 @@ browsershots.org#@#.advert_area
 ||dokkvnqunhiwt.website^
 ||dokondigit.quest^
 ||dokrithauw.net^
+||doksvqsc.com^
 ||dolcedrol.cyou^
 ||dolcianjaypie.shop^
 ||dolekaraokeoversleep.com^
@@ -46979,6 +46980,7 @@ browsershots.org#@#.advert_area
 ||oamsedsaiph.net^
 ||oamsoasoonsump.net^
 ||oamsursumsauz.net^
+||oamwrbrhcftgp.site^
 ||oangewha.net^
 ||oanimsen.net^
 ||oansadsolr.net^
@@ -54360,6 +54362,7 @@ browsershots.org#@#.advert_area
 ||rkcuxnnaoscefxq.xyz^
 ||rkdpzcdehop.fun^
 ||rkdswkcwbsp.com^
+||rkfcpvofbdlod.site^
 ||rkfhmcdvprsbz.website^
 ||rkgwzfwjgk.com^
 ||rkhovdiminatedmo.org^
@@ -67207,6 +67210,7 @@ browsershots.org#@#.advert_area
 ||yghhkouwxpvew.site^
 ||ygimeqcpvbtci.rocks^
 ||ygiuraqcxqgfmej.com^
+||ygkhbpnqycyog.site^
 ||ygkswbscgvukj.space^
 ||ygncvlnvzvsco.website^
 ||ygolbhqmlvhkz.online^
