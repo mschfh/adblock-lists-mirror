@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TkzIPKr64ERZBmtzoYi8Qw
-! Version: 202602260225
+! Checksum: BAZaBF28z/4JtEe8222TmA
+! Version: 202602260300
 ! Title: Fanboy's Newsletter List
-! Last modified: 2026-02-26 02:25 UTC
+! Last modified: 2026-02-26 03:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2609,7 +2609,7 @@ thegadgetflow.com##.gfl-blogpost-daily-digest
 albertafarmexpress.ca,canadiancattlemen.ca,country-guide.ca,grainews.ca,manitobacooperator.ca,producer.com##.gfm-subscriptions-in-content
 socialistworker.co.uk##.gform_fields
 centralmaine.com,childrenshealthdefense.org,kusc.org,mondoweiss.net,navyhistory.au,placenorthwest.co.uk,pv-magazine-usa.com,sumptuousliving.net,sunjournal.com,thecollegefix.com,threatpost.com,tylerwoodgroup.com,whoprofits.org,womensagenda.com.au,wvexplorer.com,yellowhammernews.com##.gform_widget
-atlanticcouncil.org,dictionary.com,eiwittrends.nl,pressherald.com,pv-magazine.com,reason.com,revolvermag.com,thefinancialbrand.com,undark.org,vtdigger.org##.gform_wrapper
+atlanticcouncil.org,dictionary.com,disruptionbanking.com,eiwittrends.nl,pressherald.com,pv-magazine.com,reason.com,revolvermag.com,thefinancialbrand.com,undark.org,vtdigger.org##.gform_wrapper
 platformer.news,therage.co##.gh-cta
 platformer.news##.gh-header
 team17.com##.global-newsletterBanner
@@ -3299,6 +3299,7 @@ backstage.com##.section--newsletter
 mygenefood.com##.section--optin
 theideasletter.org##.section--subscribe
 usrtk.org##.section-callout-newsletter
+wheresyoured.at##.section-cta
 crowdsupply.com##.section-email-signup
 247wallst.com##.section-email-sub
 developer.mozilla.org,findlaw.com,leouve.com.br,pcguide.com,topgear.nl##.section-newsletter
@@ -3349,7 +3350,7 @@ techerati.com##.sidebar-signup-form-container
 thesaturdaypaper.com.au##.sidebar-sticky--briefing
 coincodex.com,halfbakedharvest.com##.sidebar-subscribe
 fortune.com##.sidebarPlea
-evinfocus.com,pbs.org,readtangle.com##.sidebar__subscribe
+evinfocus.com,pbs.org,readtangle.com,wheresyoured.at##.sidebar__subscribe
 therecord.media##.sidebar__widget--newsletter
 masterinvestor.co.uk##.sidebar_nl
 vnews.com##.sidebaritem2018
