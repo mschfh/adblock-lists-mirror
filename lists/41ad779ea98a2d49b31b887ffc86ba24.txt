@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XJ/ueVaZ5BUwhsLQHrYHQQ
-! Version: 202602262150
+! Checksum: TepaBhkqiT+UJ7g7lRWZ1w
+! Version: 202602270025
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-02-26 21:50 UTC
+! Last modified: 2026-02-27 00:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -33390,7 +33390,6 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 ##.tx-dm-cookies
 ##.tx-ggcookiebanner
 ##.tx-modalcookiebanner-overlay
-##.tx-om-cookie-consent
 ##.tx-panda-cookie
 ##.tx-pascoe-consent-manager
 ##.tx-pnfcnil
