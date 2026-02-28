@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202602281447
+! Version: 202602281514
 ! Title: EasyList
-! Last modified: 28 Feb 2026 14:47 UTC
+! Last modified: 28 Feb 2026 15:14 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 00530cd55e893f1b2efae64629b88fbda032e339
+! Commit: 9b1de60f363ad32ff212ad1e5848bc373a787489
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24568,6 +24568,7 @@ browsershots.org#@#.advert_area
 ||cmbqnjwjyqzvv.online^
 ||cmbtgmurxfqc.com^
 ||cmccymjawtcpd.space^
+||cmdpeufwwou.com^
 ||cmdrogqpxvxtr.online^
 ||cmdtubyfwosoa.online^
 ||cmehuhokvoks.com^
@@ -29770,6 +29771,7 @@ browsershots.org#@#.advert_area
 ||eppsjynpsfvyy.store^
 ||eprgsfzkoakpj.site^
 ||eprpngzmxxgsq.website^
+||eprrjxorviyugq.xyz^
 ||epsoazeenoochal.net^
 ||epsooguthu.net^
 ||eptauchoam.net^
@@ -35257,6 +35259,7 @@ browsershots.org#@#.advert_area
 ||hbhpjolxaizkz.online^
 ||hbidfirrysrvw.global^
 ||hbiujovtvvhihia.com^
+||hbjxbfxgfo4nhh8z2ybxycwqg2fi5pw.cfd^
 ||hbloveinfo.com^
 ||hbmasrtzvfwvx.online^
 ||hbmjhfdxtwhwq.website^
@@ -36726,6 +36729,7 @@ browsershots.org#@#.advert_area
 ||hybuxute.com^
 ||hycantyoubelik.com^
 ||hycgnirrgbeuq.online^
+||hycmdemplull.com^
 ||hydnoidrobles.qpon^
 ||hydorrxacolif.website^
 ||hydridcodeias.qpon^
@@ -53133,6 +53137,7 @@ browsershots.org#@#.advert_area
 ||qvxrbcmwwtdudcm.net^
 ||qvzcjlybqjvgx.website^
 ||qvzxpcedohgjp.website^
+||qw1yqjte8igbq8m2mk3.rest^
 ||qwbjriqd.com^
 ||qwbrgeyutdnuj.website^
 ||qwcagaftfkepf.website^
@@ -63724,6 +63729,7 @@ browsershots.org#@#.advert_area
 ||vfhtgrjsmcdzi.site^
 ||vfigkfjtvaepv.space^
 ||vfjkrktoqhmoy.space^
+||vfjktzbecbede.space^
 ||vfjoawcligjcs.online^
 ||vfjvjwaiiicmw.online^
 ||vflapyjifhmrf.space^
@@ -66734,6 +66740,7 @@ browsershots.org#@#.advert_area
 ||xgaxtbrifshmc.website^
 ||xgbetzbmmdqbv.space^
 ||xgbzhyoeitomd.website^
+||xgefwokzxvuzx.space^
 ||xgeylqqpqp.com^
 ||xghklnjmyljlc.site^
 ||xgiiioziwwayu.store^
