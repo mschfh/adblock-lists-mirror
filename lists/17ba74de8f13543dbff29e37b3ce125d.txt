@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603011017
+! Version: 202603011046
 ! Title: EasyList
-! Last modified: 01 Mar 2026 10:17 UTC
+! Last modified: 01 Mar 2026 10:46 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 10030fd617b2d909ebe3c25e3bca2d94217b2a70
+! Commit: cc4efa84345d574194d698abd1a667aa95f48c37
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -26232,6 +26232,7 @@ browsershots.org#@#.advert_area
 ||daiwazumoawhy.net^
 ||dajrhxpnqcoclr.xyz^
 ||dakafxgnqcpmm.website^
+||dakbgsewfpljh.website^
 ||dakirbump.qpon^
 ||dakoitsredlegsfrankly.cyou^
 ||dakoitymorrice.cyou^
@@ -30963,6 +30964,7 @@ browsershots.org#@#.advert_area
 ||fcyp3iwho9pfxyl2e2nxh69qo9.cfd^
 ||fczaoudjmtonp.site^
 ||fd2722b11f.com^
+||fdazvpecrfqbq.site^
 ||fdbdzwnpffxcg.space^
 ||fdbepwymahhfi.website^
 ||fdbmvcdqkephc.website^
@@ -48548,6 +48550,7 @@ browsershots.org#@#.advert_area
 ||ornarysabaton.cyou^
 ||ornatechurch.com^
 ||ornatecomputer.com^
+||ornaterice.pro^
 ||ornerp.click^
 ||ornery-possible.com^
 ||ornnxfsfnkwbs.space^
@@ -64794,6 +64797,7 @@ browsershots.org#@#.advert_area
 ||vxt6i1oobprhtq.cfd^
 ||vxtozhkzlarln.site^
 ||vxumftnoc.net^
+||vxuvgslsciqly.online^
 ||vxvvdbqifajsy.site^
 ||vxvzcjxkyanrs.website^
 ||vxwmkbtkhtpru.today^
