@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603011511
+! Version: 202603011541
 ! Title: EasyList
-! Last modified: 01 Mar 2026 15:11 UTC
+! Last modified: 01 Mar 2026 15:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 513f265a7b2d985fdaed351abbcac46499f6027b
+! Commit: 81ce33c9f37c8f9ac5127a6e04d449efca2456ed
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -57829,6 +57829,7 @@ browsershots.org#@#.advert_area
 ||snurtergodic.cfd^
 ||snuzqsbfqbtzh.site^
 ||snvkkflgdoekk.site^
+||snvzgderiitwr.online^
 ||snxqmwjwvyvbg.online^
 ||so-gr3at3.com^
 ||so1cool.com^
@@ -59372,6 +59373,7 @@ browsershots.org#@#.advert_area
 ||svxxredmhli.net^
 ||svyixcelxerdo.space^
 ||svyksa.info^
+||svyxmeuyqwcrh.online^
 ||svzshmeczqudx.site^
 ||swabberflewed.shop^
 ||swabbiepiperly.qpon^
@@ -80723,6 +80725,7 @@ wcny.org###soliloquy-12716
 toumpano.net###sp-feature
 hilltimes.com###sp-mini-box
 toumpano.net###sp-right
+gamegpu.com###sp-top-banners
 vuejs.org###special-sponsor
 fastpeoplesearch.com###speedbumpWidgets
 coingape.com###spinbtn
