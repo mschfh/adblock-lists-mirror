@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603020925
+! Version: 202603020953
 ! Title: EasyList
-! Last modified: 02 Mar 2026 09:25 UTC
+! Last modified: 02 Mar 2026 09:53 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ee22b1d8cc5c5e85b136cf91b25378ef8df3d205
+! Commit: e1546613b32f04788c3897521321167e86240a41
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18383,6 +18383,7 @@ browsershots.org#@#.advert_area
 ||akmwjtoqyzvtz.site^
 ||akmxts.com^
 ||akndxbriij.com^
+||aknhzvljvupsv.site^
 ||akokkogoshiak.website^
 ||akondcdtcric.com^
 ||akopbrckuwtel.site^
@@ -31956,6 +31957,7 @@ browsershots.org#@#.advert_area
 ||fogvnoq.com^
 ||fogydomhelloes.cyou^
 ||fohshxrgpzlkj.site^
+||fohsrqorhgaea.space^
 ||foilbundle.com^
 ||foilunflaweduproot.com^
 ||foineddhaw.cyou^
@@ -52743,6 +52745,7 @@ browsershots.org#@#.advert_area
 ||qdypkafamvkko.site^
 ||qdystobstwtgpm.com^
 ||qdzsdexngdbff.online^
+||qdzxmcgcksfod.com^
 ||qeaaogshjobfk.site^
 ||qebbvfbwvisys.website^
 ||qecapwnpthdzf.site^
@@ -54076,6 +54079,7 @@ browsershots.org#@#.advert_area
 ||rebukeirresistiblesubstitute.com^
 ||rebukemusclesshark.com^
 ||rebukeparings.cfd^
+||rebukerganger.qpon^
 ||rebukergarceblarina.qpon^
 ||recalldys.cfd^
 ||recantetheric.cyou^
@@ -66787,6 +66791,7 @@ browsershots.org#@#.advert_area
 ||wuvrfvmvqabgc.store^
 ||wuvukvmntfarm.website^
 ||wuwhouhagrus.net^
+||wuwogyfkwifph.site^
 ||wuytb.com^
 ||wuytk.com^
 ||wuzbhjpvsf.com^
