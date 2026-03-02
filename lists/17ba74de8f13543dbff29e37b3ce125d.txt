@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603020953
+! Version: 202603021025
 ! Title: EasyList
-! Last modified: 02 Mar 2026 09:53 UTC
+! Last modified: 02 Mar 2026 10:25 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e1546613b32f04788c3897521321167e86240a41
+! Commit: 27d9e33645e349e63faa14710c16e1cba27fa9b2
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -32455,6 +32455,7 @@ browsershots.org#@#.advert_area
 ||fruzgaucho.cfd^
 ||frvkmiytaloks.site^
 ||frwgxofndcasv.site^
+||frwibqgkiqzpz.site^
 ||frwifrmgtrrqi.website^
 ||fryboldlymalice.com^
 ||frycornwhole.com^
@@ -35417,6 +35418,7 @@ browsershots.org#@#.advert_area
 ||hbgfotantkwpv.site^
 ||hbgtcfzuizxjf.site^
 ||hbgtfiaswkdam.site^
+||hbguncyexzxfj.website^
 ||hbhgvhgc.cfd^
 ||hbhood.com^
 ||hbhpjolxaizkz.online^
@@ -59454,6 +59456,7 @@ browsershots.org#@#.advert_area
 ||surfacyjudos.qpon^
 ||surfusecatted.com^
 ||surge.systems^
+||surgersslobber.cfd^
 ||surgicalaccuseoffended.com^
 ||surgicaljunctiontriumph.com^
 ||surgitooveeselt.net^
@@ -62651,6 +62654,7 @@ browsershots.org#@#.advert_area
 ||umglthyexxhkl.website^
 ||umgzvlbrqzyeq.online^
 ||umhkzidngrmor.website^
+||umiyvlxjamrlb.com^
 ||umjyfasxbvgal.online^
 ||umkbaaow.com^
 ||umlautknapplewaggel.cfd^
