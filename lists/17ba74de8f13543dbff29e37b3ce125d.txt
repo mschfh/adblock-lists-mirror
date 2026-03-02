@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603021349
+! Version: 202603021425
 ! Title: EasyList
-! Last modified: 02 Mar 2026 13:49 UTC
+! Last modified: 02 Mar 2026 14:25 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4f266440ae95958f6ed399b4eb22d5c10405e3a9
+! Commit: 8414d351dc668364b7279b63d1231caaeeadd2df
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31017,6 +31017,7 @@ browsershots.org#@#.advert_area
 ||fcghrjiduziwb.online^
 ||fcgwwfcc.net^
 ||fchigztmprrkp.website^
+||fchtwprnd.com^
 ||fcifaypfepfvy.space^
 ||fcilbhbadlxjf.online^
 ||fclynmebozkyh.space^
@@ -34086,6 +34087,7 @@ browsershots.org#@#.advert_area
 ||gobsfip.cfd^
 ||gochiftouts.net^
 ||gocmmwiotoiwp.online^
+||gocxnnxiy.com^
 ||goddedkrater.com^
 ||godkc.com^
 ||godkinhont.qpon^
@@ -56083,6 +56085,7 @@ browsershots.org#@#.advert_area
 ||saggierbingies.qpon^
 ||saggrowledetc.com^
 ||saghandkerchief.com^
+||sagierplugger.com^
 ||sagitalwalnut.cyou^
 ||sagpaisiaw.com^
 ||sagtbhshvpjwsgu.xyz^
@@ -63113,6 +63116,7 @@ browsershots.org#@#.advert_area
 ||untrueknuckle.com^
 ||untrustfondak.cyou^
 ||untwirlhider.world^
+||untzemeril.com^
 ||unuiemfbdkrjl.space^
 ||unurcyoeht.com^
 ||unused-roll.com^
@@ -64043,6 +64047,7 @@ browsershots.org#@#.advert_area
 ||veljpfftn.com^
 ||velkflirgbkvu.space^
 ||velledahip.cyou^
+||vellonpishaug.cyou^
 ||velocecdn.com^
 ||velocitycdn.com^
 ||velodran.com^
@@ -66805,6 +66810,7 @@ browsershots.org#@#.advert_area
 ||wugoji.xyz^
 ||wugroansaghadry.com^
 ||wui5ihfvyqe3vj.cfd^
+||wujrfwhsdtobv.space^
 ||wukcvtbrlyrxd.store^
 ||wukcwgopqoajg.website^
 ||wukgtkgfuccmi.online^
@@ -68534,6 +68540,7 @@ browsershots.org#@#.advert_area
 ||ypiohesltiqrj.space^
 ||ypjncwyawdzss.site^
 ||ypltqpi1xwmgzwxiwh536zr4uu1t91l.rest^
+||ypmaztesjxhxn.site^
 ||ypmrjyxltcrra.space^
 ||ypnsqbosjtbpv.space^
 ||yprmiumi.xyz^
