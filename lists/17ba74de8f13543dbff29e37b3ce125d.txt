@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603031020
+! Version: 202603031055
 ! Title: EasyList
-! Last modified: 03 Mar 2026 10:20 UTC
+! Last modified: 03 Mar 2026 10:55 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 953891d5d93f2f7dcfbc7867266ae87f1c8e1e1f
+! Commit: 7b0566b79ab8f222664c502fb52570fcfb89d45d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -30109,6 +30109,7 @@ browsershots.org#@#.advert_area
 ||ferretyacutely.cyou^
 ||ferricunclog.cyou^
 ||ferrierstrewth.help^
+||ferruleloimic.com^
 ||ferrypatente.cyou^
 ||ferrypoemet.com^
 ||ferterbyres.cfd^
@@ -65033,6 +65034,7 @@ browsershots.org#@#.advert_area
 ||yzdqrkjwamsuy.space^
 ||yzhfkuflsvgws.online^
 ||yzjcyznhjsizp.website^
+||yzjncchwnfdni.online^
 ||yzncadillukzs.space^
 ||yzottjbhgjcbz.space^
 ||yzozkqzhsbeur.online^
@@ -65148,6 +65150,7 @@ browsershots.org#@#.advert_area
 ||zbplwoxihqcfd.site^
 ||zbpnldcollzdv.website^
 ||zbqcovoprjruz.website^
+||zbqzsgtqyzmid.website^
 ||zbtrckygrpruu.com^
 ||zbtwzuihkndsv.space^
 ||zbuztpvgfghmu.space^
@@ -65491,6 +65494,7 @@ browsershots.org#@#.advert_area
 ||zkieqfgsiigts.store^
 ||zkjazaauoappv.site^
 ||zkkveiqxmgynq.space^
+||zklnwxfrhhxzg.space^
 ||zkoutcrnsylxf.website^
 ||zksgjpokbsfle.online^
 ||zkvovu2lj97q8o7773gig8wluuttop.cfd^
