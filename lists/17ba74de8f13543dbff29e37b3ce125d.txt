@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603031213
+! Version: 202603031303
 ! Title: EasyList
-! Last modified: 03 Mar 2026 12:13 UTC
+! Last modified: 03 Mar 2026 13:03 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b51952556adedc880cb836a2a7e93122e3373297
+! Commit: f63bed902c349d3b37e00f975b95ea853263617f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20339,6 +20339,7 @@ browsershots.org#@#.advert_area
 ||bcrhbyfufuub.xyz^
 ||bcrkmegrmnlio.website^
 ||bcsfpwmjulcxw.site^
+||bcswwwzqophyk.site^
 ||bctuafpdwarbm.site^
 ||bcusuopfexyrv.net^
 ||bcwpdvigokzca.space^
@@ -21796,6 +21797,7 @@ browsershots.org#@#.advert_area
 ||brcjvwooqneol.online^
 ||brdbwayjkebb.xyz^
 ||brdhbizupevpj.online^
+||brdjoupapcilx.online^
 ||brdlbkrzjudrg.online^
 ||bre7qol2g2v453ftk4c1yi6mhwyq.cfd^
 ||breachneatlylane.com^
@@ -24791,6 +24793,7 @@ browsershots.org#@#.advert_area
 ||crabtelegramdistracted.com^
 ||craccuskacha.qpon^
 ||crackdirtier.qpon^
+||crackingoptimistic.com^
 ||cracksingularstopper.com^
 ||crafkyilvvbai.site^
 ||craftilypendantwhinny.com^
@@ -24889,6 +24892,7 @@ browsershots.org#@#.advert_area
 ||crigmongery.help^
 ||crimeagc.com^
 ||crinalwaywode.help^
+||cringezonearistocracy.com^
 ||crinulaoutbegs.cfd^
 ||crippletouret.com^
 ||crisisinanehalted.com^
@@ -26728,6 +26732,7 @@ browsershots.org#@#.advert_area
 ||diverhaul.com^
 ||dividedintegrationtransparent.com^
 ||dividedscientific.com^
+||divingamends.com^
 ||divingsubmissionvocational.com^
 ||divinitygasp.com^
 ||divisiondrearilyunfiled.com^
@@ -34048,6 +34053,7 @@ browsershots.org#@#.advert_area
 ||hbmasrtzvfwvx.online^
 ||hbmjhfdxtwhwq.website^
 ||hbmnxmphnmyqa.space^
+||hbmufipefxfts.website^
 ||hboehzaifxnsn.website^
 ||hboylaaafqqwl.space^
 ||hbphppfjuonez.site^
@@ -34292,6 +34298,7 @@ browsershots.org#@#.advert_area
 ||heronattendedheartache.com^
 ||heronsantresceyx.help^
 ||heroptionssideway.com^
+||herparquet.com^
 ||herpassages.com^
 ||herriedpalsies.cyou^
 ||herringbucket.com^
@@ -35794,6 +35801,7 @@ browsershots.org#@#.advert_area
 ||iflzhipfmnxns.online^
 ||ifmxhabbjpjrm.website^
 ||ifnnrpduqbdsv.website^
+||ifnzvapjsaumr.site^
 ||ifont.site^
 ||ifourgoomoo.net^
 ||ifpiawqeievju.online^
@@ -37634,6 +37642,7 @@ browsershots.org#@#.advert_area
 ||jjlidyuaztsfj.online^
 ||jjotqokxxrpxk.website^
 ||jjpfohnj5mvxo9ri29h.cfd^
+||jjpqqbxodpnwc.website^
 ||jjptcakmqoityjk.xyz^
 ||jjryhyjbsykiqpv.net^
 ||jjsvnksizjvxu.site^
@@ -57731,6 +57740,7 @@ browsershots.org#@#.advert_area
 ||tkpmulayvctzq.site^
 ||tkpopp.com^
 ||tkqjtaurqpltn.store^
+||tkqltqpjokry.com^
 ||tktxnboxvrkfp.online^
 ||tktzgajycssox.site^
 ||tkxwz38iyrq1fwixr.cfd^
@@ -63454,6 +63464,7 @@ browsershots.org#@#.advert_area
 ||xcrghf.xyz^
 ||xctoquhnalqgn.vip^
 ||xctrlkvtbdwii.website^
+||xcuecskkzbqy.com^
 ||xcvfqnxr.net^
 ||xcvqlmvxltmde.website^
 ||xcxhwauuafhjl.space^
@@ -83539,7 +83550,6 @@ mg.co.za##article:has(.sponsored-single)
 tympanus.net##article:has(header:has(.ct-sponsored))
 foxnews.com##article[class|="article story"]:has(.sponsored-by)
 bedbathandbeyond.com##article[data-e2e="productTile"]:has(a[rel*="sponsored"])
-twitter.com,x.com##article[data-testid="tweet"]:has(path[d$="10H8.996V8h7v7z"])
 thetimes.com##article[id="article-main"] > div:has(#ad-header)
 costco.com##article[id][class]:has(img[alt*="Sponsored"])
 psychcentral.com##aside:has([data-empty])
