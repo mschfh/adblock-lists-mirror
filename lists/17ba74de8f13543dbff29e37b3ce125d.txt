@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603060912
+! Version: 202603060940
 ! Title: EasyList
-! Last modified: 06 Mar 2026 09:12 UTC
+! Last modified: 06 Mar 2026 09:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1dd3737d23903f2d82900fe562d862cde745e9ed
+! Commit: 1dae7a70eb1513b4731d110e8114d01c6a5ed893
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21648,6 +21648,7 @@ browsershots.org#@#.advert_area
 ||borzjournal.ru^
 ||bosaisoaftir.net^
 ||boshaulr.net^
+||boskiermoiling.cyou^
 ||bosohepteew.net^
 ||bosomspuppet.qpon^
 ||bosplyx.com^
@@ -26192,6 +26193,7 @@ browsershots.org#@#.advert_area
 ||dektprgshveuj.website^
 ||del-del-ete.com^
 ||delaineeoiths.cfd^
+||delawstooded.com^
 ||delaybagelblur.com^
 ||delayeddisputecommotion.com^
 ||delayedtour.pro^
@@ -31818,6 +31820,7 @@ browsershots.org#@#.advert_area
 ||fxrokhvydhadu.website^
 ||fxrqcwkbwhimb.site^
 ||fxrspbfktrwra.online^
+||fxrxwgofoga.com^
 ||fxsdyahhcwykb.website^
 ||fxsupzozeialv.online^
 ||fxthjlhiybnyf.space^
@@ -42820,6 +42823,7 @@ browsershots.org#@#.advert_area
 ||mikka.app^
 ||mikkvmklsfzwv.store^
 ||mikqukcumhivv.online^
+||mikvahvirally.shop^
 ||mikvehsblitz.cyou^
 ||mildcauliflower.com^
 ||mildconsciousness.com^
@@ -50196,6 +50200,7 @@ browsershots.org#@#.advert_area
 ||punjabihoaxers.cfd^
 ||punkahtollery.qpon^
 ||punkspyke.com^
+||punlesscasuals.qpon^
 ||punoocke.com^
 ||punosy.best^
 ||punosy.com^
@@ -50418,6 +50423,7 @@ browsershots.org#@#.advert_area
 ||pxptonxdhbgwd.site^
 ||pxpxauecpdbfj.website^
 ||pxqudpostizcp.online^
+||pxrjzziqqthqo.online^
 ||pxslenpdvprcb.net^
 ||pxsmfqhdndkce.online^
 ||pxvjgcsbmpjywh.xyz^
@@ -50958,6 +50964,7 @@ browsershots.org#@#.advert_area
 ||qnravllmrkpdo.space^
 ||qnrgspmds.com^
 ||qnsakkjtftgvb.online^
+||qnscvrwvccjme.online^
 ||qnsr.com^
 ||qnsxtvhfnajnw.global^
 ||qntbrpbuyprtm.website^
