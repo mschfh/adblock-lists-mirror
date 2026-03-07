@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rb9/i0X+i9j84ZJrv00pvQ
-! Version: 202603071050
+! Checksum: apX3ioHEae98fUclTZ307g
+! Version: 202603071125
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-03-07 10:50 UTC
+! Last modified: 2026-03-07 11:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -44596,6 +44596,7 @@ dom.ria.com##div[class^="GdprComponent"]
 stoloto.ru##div[class^="Provider_container"]
 aliexpress.ru##div[class^="SnowPrivacyPolicyBanner_"]
 bb.market##div[class^="_cookies_"]
+pulsesync.dev##div[class^="cookieConsent-module-"]
 asna.ru##div[class^="modalCookies_"]
 rencredit.ru##div[data-attention-id="3420"]
 yoomoney.ru##div[data-qa="gdpr"]
