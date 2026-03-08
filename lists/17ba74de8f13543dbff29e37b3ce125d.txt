@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603081812
+! Version: 202603081829
 ! Title: EasyList
-! Last modified: 08 Mar 2026 18:12 UTC
+! Last modified: 08 Mar 2026 18:29 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 512f39666b6c211481833114e911c71d71e0fbeb
+! Commit: 0193e4640ababdd7a4590b7194db4172514b5570
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -43558,6 +43558,7 @@ browsershots.org#@#.advert_area
 ||mmtgythuozksx.online^
 ||mmvideocdn.com^
 ||mmwpbzmagjyuo.site^
+||mmxhaeaqhcntk.website^
 ||mmxketjnqan.net^
 ||mmyyrvyjekrlw.website^
 ||mn1nm.com^
@@ -46502,6 +46503,7 @@ browsershots.org#@#.advert_area
 ||offerwall.site^
 ||offfurreton.com^
 ||office1266.fun^
+||officecornsoftware.com^
 ||officerbeginner.com^
 ||officerpersonalimmersed.com^
 ||official-importance.pro^
@@ -60965,6 +60967,7 @@ browsershots.org#@#.advert_area
 ||unlocky.xyz^
 ||unlordsarans.cfd^
 ||unluckasserta.com^
+||unlucky-chemical.pro^
 ||unluckydoubt.com^
 ||unluckyrecent.com^
 ||unlusheyespot.cyou^
