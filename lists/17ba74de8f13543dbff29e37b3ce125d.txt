@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603081204
+! Version: 202603081258
 ! Title: EasyList
-! Last modified: 08 Mar 2026 12:04 UTC
+! Last modified: 08 Mar 2026 12:58 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e78dc13bea08aa14dc2f036f1e65856067f08f6a
+! Commit: 42aa7b88e6c678208db2ac6b95e5946b5c67a912
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18743,6 +18743,7 @@ browsershots.org#@#.advert_area
 ||aninter.net^
 ||aniuqjldrjcoq.website^
 ||anjanstarved.com^
+||anjgdcgsuew.com^
 ||anjgdlkh.com^
 ||anjgxqnbefvpe.site^
 ||anjhdsmeukuwy.site^
@@ -26402,6 +26403,7 @@ browsershots.org#@#.advert_area
 ||dentileazurite.com^
 ||denunciationparted.com^
 ||denyerabomasa.cyou^
+||deobklgcaehba.online^
 ||deokxdgzwdyzm.website^
 ||deostr.com^
 ||departedcomeback.com^
@@ -38150,6 +38152,7 @@ browsershots.org#@#.advert_area
 ||jijeahjtjzpxr.space^
 ||jijrafocr.com^
 ||jijswitreaqv.in^
+||jikimsmw.com^
 ||jiklvyfqzeldr.store^
 ||jikrujajecmeksu.net^
 ||jilar.xyz^
@@ -42639,6 +42642,7 @@ browsershots.org#@#.advert_area
 ||maznsshrpkind.space^
 ||mazrwvacfmpdq.space^
 ||mazzardhaida.shop^
+||mazzngxxmaiul.site^
 ||mb-npltfpro.com^
 ||mb01.com^
 ||mb102.com^
@@ -44842,6 +44846,7 @@ browsershots.org#@#.advert_area
 ||neeltskoqvanu.site^
 ||neephougroo.net^
 ||neeptumeebaimop.net^
+||neepxgyaxjyfa.website^
 ||neeseocrea.cyou^
 ||nefasstulty.cfd^
 ||negateacted.com^
@@ -47419,6 +47424,7 @@ browsershots.org#@#.advert_area
 ||otsoasxgsyabr.online^
 ||otswhtxkfprcy.online^
 ||ottbquetbznbx.space^
+||otulninviwwls.space^
 ||otunmakpjbtga.website^
 ||otvjsfmh.tech^
 ||otvkdsepspckl.online^
