@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603091807
+! Version: 202603091834
 ! Title: EasyList
-! Last modified: 09 Mar 2026 18:07 UTC
+! Last modified: 09 Mar 2026 18:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: cee221f5283b6744f80f30c16ec0c6579b51acb0
+! Commit: dd055e2c66ea01bf8ec3ae3c38860eaefa9cc074
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31623,6 +31623,7 @@ browsershots.org#@#.advert_area
 ||frap.site^
 ||fraplepintano.cfd^
 ||fraudcapable.com^
+||fraudulentquarter.com^
 ||frautkgibbbwj.space^
 ||frayed-coat.pro^
 ||frayhalfyear.com^
@@ -64200,6 +64201,7 @@ browsershots.org#@#.advert_area
 ||wildmatch.com^
 ||wildxxxparties.com^
 ||wilkicja.in^
+||willing-lawyer.pro^
 ||willingcloud.pro^
 ||willinglybasketball.com^
 ||willinglybytedelusion.com^
