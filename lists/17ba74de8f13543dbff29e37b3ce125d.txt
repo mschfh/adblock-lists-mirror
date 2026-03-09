@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603091356
+! Version: 202603091427
 ! Title: EasyList
-! Last modified: 09 Mar 2026 13:56 UTC
+! Last modified: 09 Mar 2026 14:27 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1dd9b914200dbd70ba531559b52dd8d449294dc8
+! Commit: fd39b397bda3a046e8f0ad20f3968e485cf875d5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -12331,6 +12331,7 @@ _800x80_
 ##.mm-ads-adhesive-ad
 ##.mm-ads-gpt-adunit
 ##.mm-ads-leaderboard-header
+##.mm-ads-leaderboard-spacer
 ##.mmads
 ##.mntl-gpt-adunit
 ##.mntl-sc-block-adslot
@@ -30025,6 +30026,7 @@ browsershots.org#@#.advert_area
 ||eygzbrwnapgql.space^
 ||eyiccxilrwhpm.site^
 ||eyidtfpkxbbsl.website^
+||eykcjdmmtsoykl.com^
 ||eykzuhazborbc.online^
 ||eylzypoaxzyjs.online^
 ||eynbheeleyxyv.website^
@@ -33315,6 +33317,7 @@ browsershots.org#@#.advert_area
 ||goaserv.com^
 ||goasrv.com^
 ||goathaga.top^
+||goatsalmighty.com^
 ||goatsearlapflock.com^
 ||goavesyuruk.qpon^
 ||gobacktothefuture.biz^
@@ -36776,6 +36779,7 @@ browsershots.org#@#.advert_area
 ||impersonalsix.com^
 ||impertinencefiddledeplore.com^
 ||impetrenotice.com^
+||impetretangosuncool.cfd^
 ||impetuousseatspeck.com^
 ||impetusorgansseparation.com^
 ||impiesprosos.cfd^
@@ -57306,6 +57310,7 @@ browsershots.org#@#.advert_area
 ||stikineturma.cfd^
 ||stikroltiltoowi.net^
 ||stillawokeathwart.com^
+||stiltyfoist.shop^
 ||stimpaichoulr.net^
 ||stimtavy.net^
 ||stimulateartificial.com^
