@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603090503
+! Version: 202603090536
 ! Title: EasyList
-! Last modified: 09 Mar 2026 05:03 UTC
+! Last modified: 09 Mar 2026 05:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5ff295e18ea331494d0226ccd2e8ad138efc58e7
+! Commit: 20954882d2806423a4678713a90b5292fd5be8ef
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18141,6 +18141,7 @@ browsershots.org#@#.advert_area
 ||aircraftreign.com^
 ||airdropcassino.cfd^
 ||aireflayinggastly.cyou^
+||airestsemihot.shop^
 ||airfoiltapis.cfd^
 ||airgeecigee.net^
 ||airierpoiesis.cyou^
@@ -24899,6 +24900,7 @@ browsershots.org#@#.advert_area
 ||coveteddutifulprescribe.com^
 ||covettunica.com^
 ||coviddecil.help^
+||coviteilya.cfd^
 ||covivado.club^
 ||cowanbespate.cyou^
 ||cowardlyapex.com^
@@ -28010,6 +28012,7 @@ browsershots.org#@#.advert_area
 ||dyavcfwtujvuey.net^
 ||dyberamlhynnd.website^
 ||dyblpgaiomtdv.online^
+||dydrtlfcmcawa.online^
 ||dyefejywztloj.store^
 ||dyeingsbayamo.com^
 ||dyeniqzawtqsh.site^
@@ -29900,6 +29903,7 @@ browsershots.org#@#.advert_area
 ||experiencedbat.com^
 ||experimentscalp.com^
 ||expert-series.pro^
+||expertsdisplat.cyou^
 ||experttrafficcounter.com^
 ||expirevane.com^
 ||expirylutosetowan.cfd^
@@ -35204,6 +35208,7 @@ browsershots.org#@#.advert_area
 ||hkkhsppnknkoy.space^
 ||hknqnedmychml.online^
 ||hknztzqlkjzhc.space^
+||hkofvoigkcjur.site^
 ||hkpjnieraypcn.site^
 ||hkrshvakrvcvc.website^
 ||hkrxmmyfysvyf.site^
@@ -41931,6 +41936,7 @@ browsershots.org#@#.advert_area
 ||ltgigkgguxest.website^
 ||ltgllogtfmqjb.online^
 ||ltgmlmplaqcur.website^
+||lthglhksymoun.online^
 ||lthgyzbwpibcp.site^
 ||ltilrctxaonbe.space^
 ||ltingcoempa.org^
@@ -53815,6 +53821,7 @@ browsershots.org#@#.advert_area
 ||rougemaims.cfd^
 ||roughenmest.cfd^
 ||roughlydispleasureslayer.com^
+||roughtwealds.cfd^
 ||rougthatsidhe.org^
 ||rouilleunswung.cyou^
 ||roujonoa.net^
@@ -59848,6 +59855,7 @@ browsershots.org#@#.advert_area
 ||truishstep.cfd^
 ||trulyfakes.qpon^
 ||trulysuitedcharges.com^
+||trumanymcapiggle.cyou^
 ||trumpgorry.com^
 ||trumppig.work^
 ||trumpsupport.help^
