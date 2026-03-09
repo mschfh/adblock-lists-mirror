@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CF1Cgl9gkaRo9cLduYZPlA
-! Version: 202603090350
+! Checksum: 65Jm887Dml/zSha4R55z2Q
+! Version: 202603090850
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-03-09 03:50 UTC
+! Last modified: 2026-03-09 08:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -34965,6 +34965,7 @@ products.aspose.com###consent-banner-wall
 fitnesssf.com###consent-click-shield
 allsaints.com,avanihotels.com,can-am.brp.com,minorhotels.com,oakshotels.com,rag-bone.com###consent-dialog
 netcraft.com###consent-form
+pkgs.org###consent-notice
 nasdaq.com###consent-placeholder-onetrust
 audacityteam.org,tecadmin.net###consent-popup
 niwa.co.nz###consent-request
