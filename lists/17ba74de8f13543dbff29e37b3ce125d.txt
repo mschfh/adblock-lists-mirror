@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603101107
+! Version: 202603101139
 ! Title: EasyList
-! Last modified: 10 Mar 2026 11:07 UTC
+! Last modified: 10 Mar 2026 11:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5c0d256cc2e50c8e10be6b6356e486757c698c86
+! Commit: 0167c624bf52f7023375b31362a09dcea5ca8df2
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18934,6 +18934,7 @@ browsershots.org#@#.advert_area
 ||apbdefsgvncbw.site^
 ||apcdoxiqxiote.space^
 ||apcfgmcjbyida.space^
+||apciikxcsdzcu.website^
 ||apczazvwydwnz.club^
 ||apczvmejriytz.online^
 ||apdcekrulrpjd.online^
@@ -26687,6 +26688,7 @@ browsershots.org#@#.advert_area
 ||dgvfafhttmecp.site^
 ||dgvjozsvrzmnc.online^
 ||dgwboesxvv.com^
+||dgwprpvcqm.com^
 ||dgxdftuoicarr.site^
 ||dgxlxycmedbyv.online^
 ||dgyy59yc.xyz^
@@ -47410,6 +47412,7 @@ browsershots.org#@#.advert_area
 ||optad360.net^
 ||opticlygremio.com^
 ||optidownloader.com^
+||optimal730.com^
 ||optimeagast.cyou^
 ||optimesiredon.cfd^
 ||optimisticirresponsibility.com^
@@ -52840,6 +52843,7 @@ browsershots.org#@#.advert_area
 ||redeemcontagiontransmitted.com^
 ||redeemspaciousdevice.com^
 ||redeyetakt.help^
+||rediatruancy.qpon^
 ||redipsopaquer.com^
 ||rediptmanse.cfd^
 ||redirect-path1.com^
@@ -53106,6 +53110,7 @@ browsershots.org#@#.advert_area
 ||rentkosong.qpon^
 ||rentorshal.com^
 ||renugtqvhsnjb.space^
+||reoatkuasuhyd.space^
 ||reoccureucalyn.qpon^
 ||reocp.com^
 ||reoilsskinny.cfd^
@@ -53690,6 +53695,7 @@ browsershots.org#@#.advert_area
 ||rkocuezkhfizy.site^
 ||rkomf.com^
 ||rkscfrnebvnic.website^
+||rkv1.com^
 ||rkvhqhkztzlxk.website^
 ||rkwvcicqkupid.website^
 ||rkzjmfywwxfqd.website^
