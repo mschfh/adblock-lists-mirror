@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603110957
+! Version: 202603111011
 ! Title: EasyList
-! Last modified: 11 Mar 2026 09:57 UTC
+! Last modified: 11 Mar 2026 10:11 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 17773cbd7b290bb0b180e5c2c82c99e7afa60c97
+! Commit: 87382c0032049961a9f67b268856a89346aa4712
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -30555,6 +30555,7 @@ browsershots.org#@#.advert_area
 ||fdc9cefe70.com^
 ||fdcfbvikm.com^
 ||fdclwfmmfxwoa.website^
+||fdcvnprkhtbzy.com^
 ||fdddxeihynrwp.online^
 ||fdewqzozjbjuv.site^
 ||fdfuhymycyhuc.online^
@@ -39508,6 +39509,7 @@ browsershots.org#@#.advert_area
 ||kdandyckmfpvv.website^
 ||kdapucwnebjeu.site^
 ||kdbcijmfcfqok.space^
+||kdcarsrdqcuaxdx.com^
 ||kddaaqvrlf.net^
 ||kddlljplazsfp.website^
 ||kdhtlalmoodzn.website^
@@ -60560,6 +60562,7 @@ browsershots.org#@#.advert_area
 ||tuneupslbs.help^
 ||tunewilful.cfd^
 ||tungateoptics.help^
+||tungsmahumantapa.cyou^
 ||tunicastictis.com^
 ||tunitytostara.org^
 ||tunkexodic.cyou^
@@ -62503,6 +62506,7 @@ browsershots.org#@#.advert_area
 ||vbb4r3vttftucb5kwtmq979xn.rest^
 ||vbcojhroxkoaf.online^
 ||vbdozzrdqluca.store^
+||vbfprrpmkrdma.site^
 ||vbiaakxndtbww.xyz^
 ||vbjibjsftqxkq.site^
 ||vbjuqguxmgrhk.site^
