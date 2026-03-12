@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603121218
+! Version: 202603121303
 ! Title: EasyList
-! Last modified: 12 Mar 2026 12:18 UTC
+! Last modified: 12 Mar 2026 13:03 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bf2e5bb9b5a8707dc7d31fa5b6a74ad6b19018fb
+! Commit: 7b0932e66c6f8e47e3318b11df93ad8ed0fb389a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39545,6 +39545,7 @@ browsershots.org#@#.advert_area
 ||kasifbaikqhyq.online^
 ||kasrsihavelear.org^
 ||kassrzwxspyjm.site^
+||kassudawson.cyou^
 ||kastafor.com^
 ||kasteehoordopee.net^
 ||kaszzuhmyrvlh.site^
@@ -40114,6 +40115,7 @@ browsershots.org#@#.advert_area
 ||klutzestiming.com^
 ||klutzy-minimum.pro^
 ||klutzyaldolsynaphe.cfd^
+||klvadvvrbusee.website^
 ||klvj2bmlxn5bpbh3.cfd^
 ||klwewlfsqakwu.store^
 ||klwlqpefhrfld.website^
@@ -41006,6 +41008,7 @@ browsershots.org#@#.advert_area
 ||latticedispleased.com^
 ||latticeincriminate.com^
 ||latticeknop.cyou^
+||lattinstwixtebbman.qpon^
 ||latukacowlike.qpon^
 ||laucoagricops.net^
 ||laudecolleri.qpon^
@@ -43293,6 +43296,7 @@ browsershots.org#@#.advert_area
 ||mcytxdrqjmrly.fun^
 ||mczbf.com^
 ||mdbghksydfrlu.space^
+||mdcebngiogqlm.space^
 ||mddbdmylgchjx.space^
 ||mddbhpwxbwneo.space^
 ||mddsp.info^
@@ -52945,6 +52949,7 @@ browsershots.org#@#.advert_area
 ||ravaynore.com^
 ||ravbfjnxvdhww.online^
 ||ravedrizzle.com^
+||raveigryeggfj.website^
 ||ravenouspetition.com^
 ||ravenryspuing.cyou^
 ||ravenyautias.cfd^
@@ -57886,6 +57891,7 @@ browsershots.org#@#.advert_area
 ||stenexeb.xyz^
 ||stenozpanawoc.website^
 ||step-step-go.com^
+||stepmedieval.com^
 ||stepmothermultiplydust.com^
 ||stepnav.cyou^
 ||steppesequence.com^
@@ -59487,6 +59493,7 @@ browsershots.org#@#.advert_area
 ||thesauchusaucos.net^
 ||thesaurusdefrostwoodlands.com^
 ||these-split.pro^
+||theseandoand.qpon^
 ||thesestreet.pro^
 ||theseumcatcher.cfd^
 ||theseushymn.help^
@@ -63853,6 +63860,7 @@ browsershots.org#@#.advert_area
 ||vvkholowfoeku.website^
 ||vvlplnkzympin.online^
 ||vvnbeszocfcfs.site^
+||vvobyordqyq.com^
 ||vvolnzdglprvf.store^
 ||vvozhgxuksfkt.space^
 ||vvrjezyxwxhqd.store^
