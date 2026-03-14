@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lgj2Qc1YHSFxp5QzVwIHzg
-! Version: 202603141750
+! Checksum: r0gSLiYqFWaZ5S71/tvByA
+! Version: 202603141900
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-03-14 17:50 UTC
+! Last modified: 2026-03-14 19:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -34776,6 +34776,7 @@ wineinvestmentfund.com###Contentplaceholder1_TAEB3815A051_Col00
 fruugo.co.nz###CookieBanner
 mauldineconomics.com###CookieControl
 audiot.co.uk###CookieRequester
+target.com.au###CookieUseAgreement
 lttstore.com###Cookies-wrapper
 cardmarket.com###CookiesConsent
 saleappliancesltd.co.uk###CybotCookiebotDialogWrapper
