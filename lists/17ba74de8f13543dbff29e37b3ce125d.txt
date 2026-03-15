@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603151048
+! Version: 202603151115
 ! Title: EasyList
-! Last modified: 15 Mar 2026 10:48 UTC
+! Last modified: 15 Mar 2026 11:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 78d677d0a12d501f6bafa216e77c1b678edaa282
+! Commit: be36e1c9c3b1a836f144dcf09447a94c006a051b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19097,6 +19097,7 @@ browsershots.org#@#.advert_area
 ||appoineditardwide.com^
 ||appointeeivyspongy.com^
 ||appollo-plus.com^
+||apposedelbowertilapia.qpon^
 ||appraisevariability.com^
 ||appreciatelilacmakeover.com^
 ||apprenticelandfallenough.com^
@@ -48631,6 +48632,7 @@ browsershots.org#@#.advert_area
 ||otvkdsepspckl.online^
 ||otvojqdrozce.com^
 ||otwlfwmuubeue.space^
+||otwlxywfllfh.com^
 ||otxiytrhjrarw.website^
 ||otxvughziel451ue79ctmyvgk5978r.rest^
 ||otzyhprynowng.online^
@@ -64181,6 +64183,7 @@ browsershots.org#@#.advert_area
 ||vjlocpypzmhzr.website^
 ||vjpvucynwcssn.space^
 ||vjqefkvhrjyor.store^
+||vjrjvojuxlkhc.website^
 ||vjtbgysqkmngz.website^
 ||vjtpmzsmcwfko.online^
 ||vjuaeivpigdei.space^
@@ -66907,6 +66910,7 @@ browsershots.org#@#.advert_area
 ||xincascoliid.cfd^
 ||xintwnmzuwbhd.online^
 ||xiobpoetdfjyk.website^
+||xioxcrzwixuet.space^
 ||xiozrgajvpfry.site^
 ||xipaskbsdzlbj.online^
 ||xipteq.com^
