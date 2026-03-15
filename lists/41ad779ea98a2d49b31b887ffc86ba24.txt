@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nJa+wa05wDi64CKExh9roQ
-! Version: 202603150100
+! Checksum: 75eMztUUSxk4ULU9Qm2NdQ
+! Version: 202603150325
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-03-15 01:00 UTC
+! Last modified: 2026-03-15 03:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -43208,6 +43208,7 @@ madlan.co.il###cookie-root
 globes.co.il###cookiesConfirmDiv
 soltam.co.il###dfwt-gdpr-overlay
 bigelectric.co.il###gdprCookieBar
+davidson.org.il###gnb
 dunietz-elad.co.il###privacy_policy_popup
 ivory.co.il###removeBannerCookie
 ipo.co.il###rg-privacy-wrap
@@ -43234,6 +43235,7 @@ mtoys.co.il##.e2w-cookie-popup
 prashkovsky.co.il##.elementor-element-71e69a7
 xphone.co.il##.elementor-element-7f094b47
 yad-mordechai.co.il##.eupopup-container
+creative.co.il,playmobil.co.il##.footerpopup
 cinema-city.co.il,peamitstore.co.il##.gdpr-module
 bathandbodyworks.co.il,castro.com,delta.co.il,fixfixfixfix.co.il,lilit.co.il,panta-rei.com,urbanica-wh.com##.idus_popup_widget_cookie_popup
 ksp.co.il##.ltr-1075xo6
