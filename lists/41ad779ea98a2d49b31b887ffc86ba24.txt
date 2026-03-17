@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sCgW4afkPZrHWRRyZJYjoA
-! Version: 202603170325
+! Checksum: ehZ3UHHg3EBQd27OSO8KSw
+! Version: 202603170425
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-03-17 03:25 UTC
+! Last modified: 2026-03-17 04:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2642,6 +2642,7 @@ ms.now##.wp-block-msnbc-announcement
 san.com##.wp-block-san-news-popup
 techcrunch.com##.wp-block-techcrunch-inline-cta
 desmog.com##.wp-image-2011
+zh.wikipedia.org##.wp25eastereggs-vector-sitenotice-landmark
 dailyevergreen.com,thewalrus.ca##.wppopups-whole
 wionews.com##.writeforwionbanner
 aptnnews.ca##.your-story
@@ -49607,7 +49608,7 @@ searchenginejournal.com##.sej-subscribe-form
 searchenginejournal.com##.sej-widget
 iphoneincanada.ca##.send-footer
 ianvisits.co.uk##.sendysubscribe
-1000logos.net,ambitiouskitchen.com,cookincanuck.com,groovypost.com,jxnl.co,leadingsapiens.com,notthathardtohomeschool.com,passiveincomemd.com,retrogamecoders.com,sallysbakingaddiction.com,sundaysuppermovement.com,theconsciousplantkitchen.com,theroastedroot.net,wholefully.com,wyseguide.com##.seva-form
+1000logos.net,ambitiouskitchen.com,cookincanuck.com,groovypost.com,jxnl.co,leadingsapiens.com,notthathardtohomeschool.com,passiveincomemd.com,retrogamecoders.com,sallysbakingaddiction.com,sundaysuppermovement.com,theconsciousplantkitchen.com,theroastedroot.net,troypoint.com,wholefully.com,wyseguide.com##.seva-form
 alldayidreamaboutfood.com,inspiredtaste.net,laurenslatest.com##.seva-overlay
 webmd.com##.sf-nls-wrapper
 delacortereview.org,floridianpress.com,marktechpost.com,mediaplaynews.com,reasonstobecheerful.world,thefullpint.com##.sgpb-popup-dialog-main-div-wrapper
