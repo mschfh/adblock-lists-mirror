@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: /ujeMbc2URv4fnAZrTGpEw
+! Checksum: qzo9OIIYlnhBh8zW3AqrmQ
 ! Title: EasyList Hebrew
-! Last modified: 18 Mar 2026 04:28 UTC
+! Last modified: 18 Mar 2026 04:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/EasyListHebrew
 ! Licence: https://easylist.to/pages/licence.html
@@ -542,7 +542,6 @@ zoharajewels.com##*
 @@||bipbip.co.il/Images/Ads/$~third-party
 @@||bipbip.co.il/Style/Ads.css
 @@||biu.ac.il^*/stormcaster.js$script
-@@||bytheweb.info/websites_files/extra_css/$script,domain=kiftzuba.co.il
 @@||callil.co.il/content/Ads/$image,~third-party
 @@||cdn.flowplayer.com/releases/native/stable/plugins/google-analytics.min.js$script,domain=ynet.co.il
 @@||cdn.taboola.com/libtrc/inn-hebrew/loader.js$script,domain=inn.co.il
@@ -641,6 +640,7 @@ zoharajewels.com##*
 !
 ad.co.il#@#.ad-link
 adi.gov.il#@#.small-ad
+bezeq.co.il#@#.cookieAlert
 bipbip.co.il#@##printads
 bipbip.co.il#@#.adlist
 bipbip.co.il#@#.adpic
@@ -648,6 +648,7 @@ blms.co.il#@#.addtitle
 c14.co.il,now14.co.il#@##taboola-below-article-thumbnails
 c14.co.il,now14.co.il#@#.share-zone
 callil.co.il#@##AdTop
+davidson.org.il#@##gnb
 holmesplace.co.il#@#.image-advertisement
 homeless.co.il#@#.postad
 investing.com#@##findABroker
