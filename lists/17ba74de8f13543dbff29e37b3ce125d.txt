@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603180755
+! Version: 202603180828
 ! Title: EasyList
-! Last modified: 18 Mar 2026 07:55 UTC
+! Last modified: 18 Mar 2026 08:28 UTC
 ! Expires: 4 days (update frequency)
-! Commit: effbf45e6056f7ee321adf4e122bf1483d92ef0c
+! Commit: 9dd09ec3f01ae0427d3254c63148d6d525bc7ea2
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23780,6 +23780,7 @@ browsershots.org#@#.advert_area
 ||chaletrobber.qpon^
 ||chaliceguzzlerlandlord.com^
 ||chalkedretrieval.com^
+||chalkerfecundmannose.cfd^
 ||chalkleash.com^
 ||chalkoscerous.qpon^
 ||chalkyfablerstabler.cfd^
@@ -65884,6 +65885,7 @@ browsershots.org#@#.advert_area
 ||wellmov.com^
 ||welltodo-mouth.pro^
 ||welltodomanager.pro^
+||welltodosingle.com^
 ||wellworn-lead.com^
 ||wellworn-phrase.com^
 ||welsomflaunty.cyou^
