@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603182108
+! Version: 202603182149
 ! Title: EasyList
-! Last modified: 18 Mar 2026 21:08 UTC
+! Last modified: 18 Mar 2026 21:49 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3cc9cdbe24623e24f47fb602bfb3ca2bcf7e77b7
+! Commit: 98a9ef7464ad654fd404250b500b50ae1db49080
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -37272,6 +37272,7 @@ browsershots.org#@#.advert_area
 ||idnzhexoymrlc.space^
 ||idoelwwtfzkzo.website^
 ||idoeschikvwsn.website^
+||idoletunhazed.cfd^
 ||idolinflectiongentlemen.com^
 ||idolismbebang.cfd^
 ||idolized-treat.pro^
@@ -53922,6 +53923,7 @@ browsershots.org#@#.advert_area
 ||raidfrightbritain.com^
 ||raigleephi.net^
 ||raihanovoureew.net^
+||raillytottery.shop^
 ||railoosacoovo.net^
 ||railroadignorant.com^
 ||rainbowupmastervils.cfd^
@@ -63092,6 +63094,7 @@ browsershots.org#@#.advert_area
 ||unchairclawing.help^
 ||uncharycarnac.qpon^
 ||unchecktohome.cfd^
+||uncialsrefined.shop^
 ||unciatoi.com^
 ||uncinchambash.com^
 ||unclampescribe.qpon^
