@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603211007
+! Version: 202603211051
 ! Title: EasyList
-! Last modified: 21 Mar 2026 10:07 UTC
+! Last modified: 21 Mar 2026 10:51 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 419eff2b9ceeec625abbf9741c4d038da9203831
+! Commit: 460e47fae8aedcb047f2b4bb886d2ad9f74ea110
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20475,6 +20475,7 @@ browsershots.org#@#.advert_area
 ||bandoraclink.com^
 ||bandorneif.cfd^
 ||bandswell.com^
+||banefulpunkas.com^
 ||banerator.net^
 ||banfzuxtqkdnr.space^
 ||bangalaorrhoid.com^
@@ -40245,6 +40246,7 @@ browsershots.org#@#.advert_area
 ||jvergbdvwit.xyz^
 ||jvgdhsgjkdzdf.site^
 ||jvgdmbwxheeqd.website^
+||jvkapzajyuhnh.online^
 ||jvlrcbfxijxgk.store^
 ||jvmbgorjhyyao.click^
 ||jvnmstesxqmtf.website^
@@ -40385,6 +40387,7 @@ browsershots.org#@#.advert_area
 ||jzruvlfvoawfg.website^
 ||jzrvtgzcssxig.online^
 ||jztcnlvleqyxs.website^
+||jztxtlsupbqcu.site^
 ||jzuabmdorcxzb.space^
 ||jzuybtybvjcgm.website^
 ||jzvdrrgjsvcip.space^
@@ -42097,6 +42100,7 @@ browsershots.org#@#.advert_area
 ||lbieiveklaovp.website^
 ||lbkezllrokbev.top^
 ||lblfcddvvsnbi.website^
+||lblscpmfxuzqq.space^
 ||lblxdvabeshwj.site^
 ||lbmznmoboxffo.online^
 ||lbocf6ffn5ctelc.rest^
@@ -51329,6 +51333,7 @@ browsershots.org#@#.advert_area
 ||plfavetxktgvw.space^
 ||plfwetbvjrjsp.space^
 ||plgfbhohqpaiq.website^
+||plgtxprvrgume.site^
 ||plhflftix.com^
 ||pliantdummyexasperation.com^
 ||pliblc.com^
@@ -63772,6 +63777,7 @@ browsershots.org#@#.advert_area
 ||unrealistic-due.com^
 ||unrealistic-tell.com^
 ||unrealisticmaybe.pro^
+||unreelsrimples.com^
 ||unregisteredtraditional.com^
 ||unresolvedbuckwheat.com^
 ||unresolvedtame.com^
