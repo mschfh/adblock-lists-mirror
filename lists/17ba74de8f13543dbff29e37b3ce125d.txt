@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603211619
+! Version: 202603211637
 ! Title: EasyList
-! Last modified: 21 Mar 2026 16:19 UTC
+! Last modified: 21 Mar 2026 16:37 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1f729e30cae5963e104d4477b5a0200285aaab31
+! Commit: 97c09fa375457627bcd13bd6c81a1029b49e08f1
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25634,6 +25634,7 @@ browsershots.org#@#.advert_area
 ||crazesmalto.com^
 ||crazinessheirloom.com^
 ||crazy-baboon.com^
+||crazylatchdisturbance.com^
 ||crazylovepartners.com^
 ||crbbgate.com^
 ||crbmjfawckzh.com^
@@ -40354,6 +40355,7 @@ browsershots.org#@#.advert_area
 ||jxrceejdygfap.site^
 ||jxtzwthmfqppv.website^
 ||jxvhcvhdeaadf.site^
+||jxwwmbsgyhuae.online^
 ||jxyseijobkzzn.space^
 ||jybaekaqbmvwl.top^
 ||jycjkafbmpgoo.website^
@@ -43012,6 +43014,7 @@ browsershots.org#@#.advert_area
 ||lnbduvtwnvufv.site^
 ||lnbmxblofkntr.space^
 ||lnc24xu12imm72.cfd^
+||lnclhdaffuttr.space^
 ||lnddkooitabnj.online^
 ||lnejt9ziuhx67mcb.cfd^
 ||lnemejybcariz.space^
