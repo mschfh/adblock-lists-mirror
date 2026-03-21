@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603210820
+! Version: 202603210853
 ! Title: EasyList
-! Last modified: 21 Mar 2026 08:20 UTC
+! Last modified: 21 Mar 2026 08:53 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1697b77ac896bbe38ee2740cc63a08da68b26f5b
+! Commit: 9356928b0cdff6cfd6b7df85a7773e1a80edc582
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15504,6 +15504,7 @@ browsershots.org#@#.advert_area
 ||0980b6e8fe.com^
 ||09qin0pc.xyz^
 ||0af2a962b0102942d9a7df351b20be55.com^
+||0aior18v.xyz^
 ||0b63fb1aad.com^
 ||0b74655a28.com^
 ||0b8601f291.com^
@@ -25939,6 +25940,7 @@ browsershots.org#@#.advert_area
 ||cuckooretire.com^
 ||cuckootomb.com^
 ||cucmaugnooghog.net^
+||cucumbersinferphysically.com^
 ||cucuyliest.qpon^
 ||cuddlecoveragehiss.com^
 ||cuddlethehyena.com^
@@ -40082,6 +40084,7 @@ browsershots.org#@#.advert_area
 ||jubilantsignal.com^
 ||jubileebread.com^
 ||jubnaadserve.com^
+||jubnvmtaztqpa.website^
 ||jubvsofbhyzds.online^
 ||juc75kopmn318ywek25wc8ekp.cfd^
 ||judaicaravened.cyou^
@@ -48710,6 +48713,7 @@ browsershots.org#@#.advert_area
 ||omgt3.com^
 ||omgt4.com^
 ||omgt5.com^
+||omikxysshtvbs.space^
 ||ominouscedarwalker.com^
 ||ominousirritatingpictorial.com^
 ||ominousplant.com^
@@ -50448,6 +50452,7 @@ browsershots.org#@#.advert_area
 ||pedetescleanse.com^
 ||pedetesdorize.cfd^
 ||pedetesspleens.cfd^
+||pedjnohpdrthi.site^
 ||pedocaldriller.cfd^
 ||pedxbegjosaew.space^
 ||peebizowhoamapi.net^
