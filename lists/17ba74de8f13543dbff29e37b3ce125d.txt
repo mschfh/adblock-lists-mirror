@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603222141
+! Version: 202603222216
 ! Title: EasyList
-! Last modified: 22 Mar 2026 21:41 UTC
+! Last modified: 22 Mar 2026 22:16 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 53c132b04fe3b345daa5db10ff2b3c4f70342474
+! Commit: b2fd2259231cc051ebec0bdfc0b553a18af2c5f3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17699,6 +17699,7 @@ browsershots.org#@#.advert_area
 ||ambitiousanywhere.pro^
 ||ambitiousdemand.com^
 ||ambletakes.cyou^
+||ambosetness.cyou^
 ||amelatrina.com^
 ||amellusslangs.cfd^
 ||amendmentbutterfly.com^
@@ -18155,6 +18156,7 @@ browsershots.org#@#.advert_area
 ||arrivespeck.com^
 ||arrivingserpentoutbalance.com^
 ||arrnaught.com^
+||arrouseapodan.cfd^
 ||arsenylasearch.com^
 ||arsonincreasingmedic.com^
 ||arswabluchan.com^
@@ -46912,6 +46914,7 @@ browsershots.org#@#.advert_area
 ||oxgdifgt.com^
 ||oxggcpdorbixe.xyz^
 ||oxgnxuoxiizko.xyz^
+||oxhxtxgibfbycv.com^
 ||oxibjkpk.com^
 ||oxidfrisketspic.cyou^
 ||oxjjllkjlpkxs.online^
@@ -50694,6 +50697,7 @@ browsershots.org#@#.advert_area
 ||qjjqhcqxcyfex.tech^
 ||qjkktxnclsjywoj.com^
 ||qjkvxdkpzvrya.site^
+||qjlcjzjhjwsal.online^
 ||qjldydelwreqn.click^
 ||qjlyfestjozoo.site^
 ||qjpiosbrbh.net^
@@ -60666,6 +60670,7 @@ browsershots.org#@#.advert_area
 ||ulpradvpeaiqs.store^
 ||ulqaxfzytnnpp.site^
 ||ulqhhlhpevvif.space^
+||ulqlijlriiclv.online^
 ||ulsterscarices.com^
 ||ultaxvuxpgryi.site^
 ||ulteriorreporting.com^
@@ -63733,6 +63738,7 @@ browsershots.org#@#.advert_area
 ||wefctcecntztt.online^
 ||wefezokroukr.net^
 ||weflucombe.qpon^
+||wefreseambubo.qpon^
 ||wegetpaid.net^
 ||wegnpzpsgjpzx.space^
 ||wegoomtiltootie.net^
@@ -65408,6 +65414,7 @@ browsershots.org#@#.advert_area
 ||xiailvhqrdoml.website^
 ||xibflsqkdhsxiu.com^
 ||xidxktydwzica.website^
+||xifmjelngfvuf.site^
 ||xihoqsajpap.com^
 ||xihvhwbgdm.com^
 ||xiictvbnhmqnp.website^
@@ -65787,6 +65794,7 @@ browsershots.org#@#.advert_area
 ||xssqagquifueb.space^
 ||xssqdlcguplkd.space^
 ||xstjammrjbseq.site^
+||xstmgzvivatte.online^
 ||xsudqfks.com^
 ||xsvirldugvltc.net^
 ||xswtzxsxzwho.com^
