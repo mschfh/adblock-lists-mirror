@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603221419
+! Version: 202603221438
 ! Title: EasyList
-! Last modified: 22 Mar 2026 14:19 UTC
+! Last modified: 22 Mar 2026 14:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 067f6e31cc03e5a9484e68ee7af0257ea717cc3b
+! Commit: 628daf319ceea4baead16346c60642b39673908b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -53091,6 +53091,7 @@ browsershots.org#@#.advert_area
 ||roofywarst.qpon^
 ||roohoozy.net^
 ||rooibokuncruel.qpon^
+||rookeddecors.cfd^
 ||rookedpurees.cyou^
 ||rookieceibo.cyou^
 ||rookishbirde.com^
@@ -64932,6 +64933,7 @@ browsershots.org#@#.advert_area
 ||wwyujfttbpknx.website^
 ||wwzvxruceyuwh.online^
 ||wxanqgwnnxefh.site^
+||wxcpjtdrckkld.website^
 ||wxcwexcybkblu.website^
 ||wxcyfbbletwiu.site^
 ||wxeokkvnaogmu.space^
@@ -65022,6 +65024,7 @@ browsershots.org#@#.advert_area
 ||wzjatpffpycgu.online^
 ||wzlzgwdtasjfs.online^
 ||wznljcvyjyomk.site^
+||wzobwendrydoi.website^
 ||wzplcddnvdodh.xyz^
 ||wzqotpvpbyqhc.store^
 ||wzqrsmpwxeimn.online^
