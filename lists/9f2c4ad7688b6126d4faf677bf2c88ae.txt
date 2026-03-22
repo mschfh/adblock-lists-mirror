@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MzUo5Ip1q3bEGUVEovdoMA
-! Version: 202603221851
+! Checksum: SZN5U9+BCNIegLLJn3/D8A
+! Version: 202603221911
 ! Title: IndianList
-! Last modified: 22 Mar 2026 18:51 UTC
+! Last modified: 22 Mar 2026 19:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
