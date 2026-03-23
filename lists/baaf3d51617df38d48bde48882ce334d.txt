@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KngHrKuuf1m1lmReS1LubA
-! Version: 202603220250
+! Checksum: LYiUOcmGqFP4lhkreYx8eg
+! Version: 202603230225
 ! Title: Fanboy's Newsletter List
-! Last modified: 2026-03-22 02:50 UTC
+! Last modified: 2026-03-23 02:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2273,6 +2273,7 @@ neowin.net##.category-bar
 clinicaltrialsarena.com,cranestodaymagazine.com,faithwire.com,hoistmagazine.com,just-food.com,naval-technology.com,railway-technology.com,retail-insight-network.com,ttjonline.com,verdict.co.uk##.catfish
 crazyforcrust.com,easypeasyfoodie.com,thetinylife.com##.cb-box__wrapper-center_modal
 mygermanyvacation.com##.cb-ready
+community.firstinspires.org##.cblog-prefooter
 newsline.ccc.govt.nz##.ccc__newsline__models__newslinenewslettersignupcontentblock
 consumerreports.org##.cda-newsletter
 classicsdujour.com##.cdj-vip
@@ -3581,6 +3582,7 @@ boredpanda.com,todayonline.com##.subscription-block
 cnevpost.com##.subscription-container
 placenorthwest.co.uk##.subscription-cta__wrapper
 blog.phylum.io,newyorker.com##.subscription-form
+ibm.com##.subscription-form-inline
 tripsavvy.com##.subscription-island--home
 broadsheet.com.au##.subscription-modal
 takimag.com##.subscription-section
