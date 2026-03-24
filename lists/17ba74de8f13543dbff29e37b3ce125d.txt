@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603242120
+! Version: 202603242148
 ! Title: EasyList
-! Last modified: 24 Mar 2026 21:20 UTC
+! Last modified: 24 Mar 2026 21:48 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c505637d2d2c14f430797a47b3ab464af6a2ca22
+! Commit: a3b16515fddfd1ddf06dd1ffb6d63c225600fe4f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25210,6 +25210,7 @@ browsershots.org#@#.advert_area
 ||dofywkplspqvu.online^
 ||dogatesibucao.shop^
 ||dogeyintro.cyou^
+||dogeysphyllis.cyou^
 ||dogfallkeach.qpon^
 ||doggesshagar.qpon^
 ||doggishpharaoh.qpon^
@@ -57712,6 +57713,7 @@ browsershots.org#@#.advert_area
 ||suhxxpvrskltj.website^
 ||suibolo.cfd^
 ||suicidalruse.com^
+||suicismunscent.shop^
 ||suilineslashes.cfd^
 ||suinahuck.cfd^
 ||suinglyvinas.cyou^
@@ -62197,6 +62199,7 @@ browsershots.org#@#.advert_area
 ||uxiktllbqrryj.online^
 ||uxirxhplkjpke.website^
 ||uxjbffdmqinye.site^
+||uxkpztjxinsne.site^
 ||uxkrauhjb.net^
 ||uxktflcscvkja.site^
 ||uxljsbfuyqizt.store^
@@ -63687,6 +63690,7 @@ browsershots.org#@#.advert_area
 ||vwmtrauf.com^
 ||vwnjjfehgryri.space^
 ||vwoalbekrhqam.online^
+||vwohegzvjaosz.site^
 ||vwpttkoh.xyz^
 ||vwsezpkqtgaez.site^
 ||vwtcrfoovanir.online^
