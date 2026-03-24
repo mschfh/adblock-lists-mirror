@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603241723
+! Version: 202603241750
 ! Title: EasyList
-! Last modified: 24 Mar 2026 17:23 UTC
+! Last modified: 24 Mar 2026 17:50 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8ea2fba89fe9b8cd37cbaafd493aaa945c7042c3
+! Commit: 0542c8296580111e7d8cbd843e50d668ff279ede
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -36435,6 +36435,7 @@ browsershots.org#@#.advert_area
 ||izsbrnugzqrqq.online^
 ||izsiovszxzhqk.space^
 ||izt7j7594m8emuypvhjkoo42p8.cfd^
+||izvryzfwgldrg.site^
 ||izwhgqdebwqmq.site^
 ||izwypazcocjxj.store^
 ||izzatgleba.cyou^
@@ -40314,6 +40315,7 @@ browsershots.org#@#.advert_area
 ||lknvksrvlawsh.life^
 ||lknxdluctcdyou.com^
 ||lkovnhxkqljad.online^
+||lkoyknsumbkau.online^
 ||lkpmprksau.com^
 ||lkqagavhhaqrp.space^
 ||lkqd.net^
@@ -44401,6 +44403,7 @@ browsershots.org#@#.advert_area
 ||nhkstivqaqwvz.store^
 ||nhldzfyhzsgcx.site^
 ||nhlrspxvdmuea.site^
+||nhnkhosypgwvh.site^
 ||nhonnlvjebaid.site^
 ||nhpirzpjwmsgh.online^
 ||nhpkmzkgadrmm.site^
@@ -47756,6 +47759,7 @@ browsershots.org#@#.advert_area
 ||passewarestamp.help^
 ||passfixx.com^
 ||passingcounselrueful.com^
+||passingsynusia.cyou^
 ||passionatenormally.com^
 ||passirdrowns.com^
 ||passivealexis.com^
@@ -58759,6 +58763,7 @@ browsershots.org#@#.advert_area
 ||terrinecocco.qpon^
 ||tersatedtheother.com^
 ||terserhowffotalgia.cyou^
+||terveesitkan.cfd^
 ||tesixwsypxacc.online^
 ||tesmgbltszyxb.online^
 ||testcede.com^
