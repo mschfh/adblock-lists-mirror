@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603252308
+! Version: 202603252351
 ! Title: EasyList
-! Last modified: 25 Mar 2026 23:08 UTC
+! Last modified: 25 Mar 2026 23:51 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ff4690cd5de4fa2c062603945f033bcd35027ae2
+! Commit: 53b27df965cac6bd9ff8aec28d71204767bb87ba
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31304,6 +31304,7 @@ browsershots.org#@#.advert_area
 ||giwmicgil.com^
 ||giwypipteywvx.online^
 ||gixiluros.com^
+||gixto.xyz^
 ||gixwfkgeilejk.site^
 ||gizokraijaw.net^
 ||gjadyyxbjdshtsy.net^
@@ -38971,6 +38972,7 @@ browsershots.org#@#.advert_area
 ||kpniizdbduojc.website^
 ||kpofvsmewpokv.online^
 ||kposzngwqknai.space^
+||kppuqocsvzmye.site^
 ||kpqoiewdruvvr.website^
 ||kpqyxuicnazqf.website^
 ||kprfqilcurbct.online^
@@ -39575,6 +39577,7 @@ browsershots.org#@#.advert_area
 ||laptopchoose.com^
 ||laptopwhews.help^
 ||laqbwqpmuqygc.website^
+||laquyeoxkzrfv.website^
 ||larasub.conxxx.pro^
 ||larchenmukden.cyou^
 ||larchesrotates.com^
@@ -51281,6 +51284,7 @@ browsershots.org#@#.advert_area
 ||qhupphmzchsdo.space^
 ||qhurchaisrea.org^
 ||qhwpsevwlgqnm.com^
+||qhwslvhivllkp.online^
 ||qhwxkopseffxyg.com^
 ||qhxrexamnxunp.site^
 ||qhxtrmbxmcirh.onlin^
