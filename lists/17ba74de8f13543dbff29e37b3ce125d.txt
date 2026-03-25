@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603251016
+! Version: 202603251059
 ! Title: EasyList
-! Last modified: 25 Mar 2026 10:16 UTC
+! Last modified: 25 Mar 2026 10:59 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5e422585b20674c7e74691294562db0116376bf1
+! Commit: 877b74f5f7c0df4d5b3b6d4eada524bb3c893715
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18664,6 +18664,7 @@ browsershots.org#@#.advert_area
 ||awmbed.com^
 ||awmdelivery.com^
 ||awmplus.com^
+||awmradivlamtw.online^
 ||awmserve.com^
 ||awnexus.com^
 ||awnypearch.com^
@@ -25770,6 +25771,7 @@ browsershots.org#@#.advert_area
 ||dtpvgzuxgdgmu.website^
 ||dtrem.site^
 ||dtrurjpkugcsv.tech^
+||dtrvbwdwzuvif.space^
 ||dtsan.net^
 ||dtscdn.com^
 ||dtscout.com^
@@ -56247,6 +56249,7 @@ browsershots.org#@#.advert_area
 ||slise.xyz^
 ||slitterarustleakala.cyou^
 ||slivmux.com^
+||sliwercohue.top^
 ||sljahnmoeqlis.online^
 ||sljogyesezaoe.website^
 ||sllbaqteaonea8uia4ddcveggfogua1a.com^
@@ -68290,6 +68293,7 @@ browsershots.org#@#.advert_area
 ||zltjryfsqvcne.site^
 ||zlviiaom.space^
 ||zlwfvuhznixcn.store^
+||zlwkguohulqjm.site^
 ||zlwyiedcgsnco.store^
 ||zlx.com.br^
 ||zlxwsxcnkyeij.site^
@@ -68747,6 +68751,7 @@ browsershots.org#@#.advert_area
 ||zysjkaffgdzaz.website^
 ||zyusywfejzbya.fun^
 ||zyvlvbtnyixyx.online^
+||zywdoecwoilzj.website^
 ||zyxbltkkgkmon.site^
 ||zyyswnroeevpw.online^
 ||zyzapldgfoosg.site^
