@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: i+hWFnurJXzjPslLAJEL+g
-! Version: 202603252250
+! Checksum: 9dywmGYdG4T7a8kkFso1/w
+! Version: 202603252300
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-03-25 22:50 UTC
+! Last modified: 2026-03-25 23:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -43679,6 +43679,7 @@ tokyotokyo.jp##.annotation-area
 knb.ne.jp##.atention_cookie
 nhk.or.jp##.bottom_optout_announce
 moresco.co.jp##.box_cookie_allow
+xtech.nikkei.com##.bpPrivacy
 animatebookstore.com##.ccst_area
 ebarafoods.com##.consent_c
 get-cp.jp##.cookie-agreement
@@ -44051,6 +44052,7 @@ dlapacjenta.pl,lomixshop.pl##.notice_bar
 urbancity.pl##.notification-alert-wrapper
 ucando.pl##.notifications
 eltrox.pl##.overlay-gdpr
+wtp.waw.pl##.page-consent
 bilkom.pl##.policy
 mein-schauinsland.de##.popup-top-header
 masz.eu##.popupContent
@@ -45307,6 +45309,7 @@ today.ua##.politic_confidel
 forklog.com,forklog.com.ua##.terms_popup
 inter.ua##.warning
 kernel.ua,root-nation.com##[role="dialog"]
+mriia.gov.ua##app-cookie-dialog
 olx.ua##div[data-testid="cookies-overlay__container"]
 !
 ! ---------- Indonesian ----------
