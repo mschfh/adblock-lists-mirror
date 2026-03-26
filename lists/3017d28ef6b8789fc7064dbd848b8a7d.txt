@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202603261346
+! Version: 202603261439
 ! Title: EasyPrivacy
-! Last modified: 26 Mar 2026 13:46 UTC
+! Last modified: 26 Mar 2026 14:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2dbd94bdf77fd23655482861cbaad691f5330778
+! Commit: 8bc60d957a6e20960c93b28ac44205ad8ab3ceff
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -1959,6 +1959,7 @@
 /RcAnalyticsEvents.js
 /rcAnalyticsLib.js
 /rd-js-integration.min.js
+/rdtracker/rdtracker.min.js
 /readReceipt/notify/?img=$image
 /readthedocs-analytics.js
 /realtimeapi/impression?
@@ -5296,6 +5297,7 @@ omni.soundestlink.com$image
 ||minewhat.com^$third-party
 ||minkatu.com^$third-party
 ||mirabelsmarketingmanager.com^$third-party
+||mirakl.net^$third-party
 ||mixi.mn^$third-party
 ||mixpanel.com^$third-party
 ||mkt3261.com^$third-party
@@ -16083,6 +16085,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stapewithadblock.xyz/stat/
 ||starfiles.co/analytics.php
 ||startpage.com/sp/$ping
+||startpage.com/sp/atq/ep2/sodar/sodar2.js
 ||startpage.com/sp/dplpxs?
 ||startpage.com/sp/jst
 ||starzplay.com/resources/js/analytics.js
