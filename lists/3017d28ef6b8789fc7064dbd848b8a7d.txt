@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202603261304
+! Version: 202603261346
 ! Title: EasyPrivacy
-! Last modified: 26 Mar 2026 13:04 UTC
+! Last modified: 26 Mar 2026 13:46 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9ba5ebb1f735008c141ac23007f7c00a00f180d9
+! Commit: 2dbd94bdf77fd23655482861cbaad691f5330778
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15257,6 +15257,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||girlsofdesire.org/images/girlsofdesire.org/analytics.js
 ||github.com/_private/browser/stats
 ||github.dev/diagnostic?
+||givefreely.com/ingest/
 ||glassdoor.*/geb/events/
 ||glassmoni.researchgate.net^
 ||global.canon/00cmn/js/*/analytics-
@@ -54252,7 +54253,9 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||adat.travelo.hu^
 ||adat.veol.hu^
 ||adat.videa.hu^
+||arukereso.hu/*.impression?tt=
 ||beam.telex.hu^
+||checkout.arukereso.hu^$ping
 ||events.ingatlan.com^
 ||hirtv.hu/ajaxx/_stat/
 ||hirtv.hu/nx_general_stat.jpg?
