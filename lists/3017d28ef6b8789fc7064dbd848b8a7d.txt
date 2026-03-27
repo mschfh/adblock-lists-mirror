@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202603272251
+! Version: 202603272312
 ! Title: EasyPrivacy
-! Last modified: 27 Mar 2026 22:51 UTC
+! Last modified: 27 Mar 2026 23:12 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d219c59b5d5bde5db57eaf4e25fa7260860a4808
+! Commit: cac5c99e8291028b477fdd287eccdf03b14e8d09
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -8737,6 +8737,7 @@ omni.soundestlink.com$image
 ||waxsirens.com^
 ||wayjoyfarm.com^
 ||weatherbytes.net^
+||weatherpush.net^
 ||websitesdude.com^
 ||weeklybanner.com^
 ||wellgroomedapparel.com^
