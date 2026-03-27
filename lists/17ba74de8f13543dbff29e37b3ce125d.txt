@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603271119
+! Version: 202603271148
 ! Title: EasyList
-! Last modified: 27 Mar 2026 11:19 UTC
+! Last modified: 27 Mar 2026 11:48 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a149bebb5464b2eab8c1081db1fb4748505296fa
+! Commit: 70284d5a8b20d2c70e6a2e910d5eba4d20d16f17
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20958,6 +20958,7 @@ browsershots.org#@#.advert_area
 ||ccjzuavqrh.com^
 ||ccmiocw.com^
 ||ccn08sth.de^
+||ccncyngyyiwpz.space^
 ||ccoyaballots.com^
 ||ccpdaindrmyyx.online^
 ||ccresqutyc.com^
@@ -32290,6 +32291,7 @@ browsershots.org#@#.advert_area
 ||gravitationtaxpayer.com^
 ||gravyhuman.com^
 ||grayedcoptersthrip.cfd^
+||grayedmellit.com^
 ||grayerkhlysti.help^
 ||grayfelicity.com^
 ||graythought.pro^
@@ -55474,6 +55476,7 @@ browsershots.org#@#.advert_area
 ||scorchsschwa.cyou^
 ||scoredconnect.com^
 ||scornfacultative.com^
+||scornfulleg.com^
 ||scotiamyiasisdrawrod.cfd^
 ||scotiawinze.com^
 ||scoundrelbreakdown.com^
@@ -58196,6 +58199,7 @@ browsershots.org#@#.advert_area
 ||streetmonumentemulate.com^
 ||strekepetrols.com^
 ||stremmaraftage.com^
+||strengthdetention.com^
 ||strengthhaberdashery.com^
 ||strengthyellow.com^
 ||strenuoustarget.com^
@@ -65800,6 +65804,7 @@ browsershots.org#@#.advert_area
 ||wkptzopfmmezc.space^
 ||wkpuhmkdupgee.website^
 ||wkpvhgnzgxkyu.site^
+||wkqbmyjcuqfxm.site^
 ||wkqrwyzwkehjb.website^
 ||wkrqvffpntjzm.store^
 ||wksdimozlhixl.site^
@@ -67184,6 +67189,7 @@ browsershots.org#@#.advert_area
 ||xqvenulmbseas.space^
 ||xqvozdrhmwurw.website^
 ||xqvsufkeuiwde.website^
+||xqvtzwwblkcho.space^
 ||xqwaixyfvtvxy.space^
 ||xqwkfbmazxgwe.online^
 ||xqwrdegbmdfrv.top^
@@ -68026,6 +68032,7 @@ browsershots.org#@#.advert_area
 ||ylscmihqxrrda.global^
 ||yluemmumvvneh.online^
 ||yluqzwoggtdaa.online^
+||ylwbxiuajnvzz.space^
 ||ylwfbiqipjmuz.online^
 ||ylx-1.com^
 ||ylx-2.com^
