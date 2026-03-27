@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5RiIPixmoIoD+6MRef8Wyw
-! Version: 202603270702
+! Checksum: FOCNilvhgO+eqs/k1QHHVg
+! Version: 202603270732
 ! Title: RU, UA, UZ, KZ
-! Last modified: 27 Mar 2026 07:02 UTC
+! Last modified: 27 Mar 2026 07:32 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1142,7 +1142,6 @@ by,~mail.ru,ru,ua##.banner_box
 ##[href*="postlnk.com"]
 ##[href^="https://download.cdn.yandex.net/yandex-tag/weboffer/"]
 ~dzen.ru,~sportsdzen.ru##[href^="https://dzen.ru"]
-##[href^="https://dzen.ru"]
 ##[href^="https://pxl.leads.su/click/"]
 ##[href^="https://trkleads.su/click/"]
 ##[id^="n4p_"]
