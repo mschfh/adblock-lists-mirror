@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202603280603
+! Version: 202603280631
 ! Title: EasyList
-! Last modified: 28 Mar 2026 06:03 UTC
+! Last modified: 28 Mar 2026 06:31 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e6e085e1aa5be3658b303498ff00eb97078b2bf0
+! Commit: c6602ad31ce4677362003184ca1128eeb82a6447
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -64215,6 +64215,7 @@ browsershots.org#@#.advert_area
 ||vjkiaxkxnijvu.site^
 ||vjlckfkbcuswo.site^
 ||vjlocpypzmhzr.website^
+||vjmwnvteuhwhe.website^
 ||vjpvucynwcssn.space^
 ||vjqefkvhrjyor.store^
 ||vjrjvojuxlkhc.website^
@@ -65253,6 +65254,7 @@ browsershots.org#@#.advert_area
 ||wcwpnipkfluae.space^
 ||wcwxkbakmbtct.space^
 ||wcx4whygpeln92mfyp9zvf6e.cfd^
+||wcxgvwihfoimx.site^
 ||wcxnhozavolcv.online^
 ||wcyvjdpduqxym.site^
 ||wdbavpcutvvao.site^
@@ -68723,6 +68725,7 @@ browsershots.org#@#.advert_area
 ||yxajqojsxkdaa.site^
 ||yxbilyptbkhza.space^
 ||yxbjliiqxlnxw.website^
+||yxbzyppfgrhze.site^
 ||yxcxheuw.net^
 ||yxduqpodjkhks.space^
 ||yxfxmdeylp.xyz^
