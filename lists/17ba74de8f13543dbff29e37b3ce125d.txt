@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604011016
+! Version: 202604011102
 ! Title: EasyList
-! Last modified: 01 Apr 2026 10:16 UTC
+! Last modified: 01 Apr 2026 11:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f3d23dd03d06b76a0b5712062e4ac4c0b171e99b
+! Commit: 8f6d3bb3efd3e2e8deae3c2ea4160e98a6f3bb24
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20668,6 +20668,7 @@ browsershots.org#@#.advert_area
 ||bureauxcope.casa^
 ||burerosolio.cfd^
 ||burgersscathy.qpon^
+||burglargiggleportion.com^
 ||burglarycirculationintense.com^
 ||burgsmithra.cfd^
 ||burialhotter.com^
@@ -23738,6 +23739,7 @@ browsershots.org#@#.advert_area
 ||customslongest.com^
 ||custosfuhrerarcanum.cfd^
 ||cutbpmobdpitn.website^
+||cute-shot.pro^
 ||cuteab.com^
 ||cuterbond.com^
 ||cutescale.online^
@@ -37703,6 +37705,7 @@ browsershots.org#@#.advert_area
 ||jdauflfpdmoop.online^
 ||jdaxvtlwprmlz.space^
 ||jdcwuqcwgcqqa.space^
+||jddguaepajiwu.space^
 ||jdecansbndbbg.website^
 ||jdeekqk-bjqt.fun^
 ||jdewvyxxyuv.com^
@@ -42525,6 +42528,7 @@ browsershots.org#@#.advert_area
 ||lzkkjygncgoss.space^
 ||lzlfzexmeyjwm.space^
 ||lzljxgqazegmr.space^
+||lzmvhfpfxidbv.website^
 ||lznomkovxtesn.site^
 ||lznpaqtbynhke.site^
 ||lznvjcoceddyi.online^
@@ -48130,6 +48134,7 @@ browsershots.org#@#.advert_area
 ||oqrnjlyyqdhih.website^
 ||oqtxcfuumplee.website^
 ||oquaysx.club^
+||oqwgdahcmctpey.com^
 ||oqwyltgrpaeow.online^
 ||oqxpfydvttruz.site^
 ||oqyebtnuafqkb.site^
@@ -59016,6 +59021,7 @@ browsershots.org#@#.advert_area
 ||stampsflabile.cyou^
 ||stampsmindlessscrap.com^
 ||stampstallionpalpable.com^
+||stampszagged.cfd^
 ||standardcable.pro^
 ||standingbreederpitiful.com^
 ||standpointbluffybluffy.com^

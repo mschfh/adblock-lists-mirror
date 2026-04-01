@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604011016
+! Version: 202604011104
 ! Title: EasyPrivacy
-! Last modified: 01 Apr 2026 10:16 UTC
+! Last modified: 01 Apr 2026 11:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f3d23dd03d06b76a0b5712062e4ac4c0b171e99b
+! Commit: 9fdd68aef82e026df1f45bd9a6130b622ed96dd7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15697,6 +15697,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nextdoor.com/events/
 ||nflshop.com/api/track
 ||ngds.sap.com^
+||nid.barrons.com/prod/sp/nid_sp.js
 ||nid.mansionglobal.com^
 ||nid.thesun.co.uk^
 ||nid.thetimes.com^
@@ -15773,6 +15774,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||paypal.com/credit-presentment/log
 ||paypal.com/platform/tealeaftarget
 ||pb.ytmp3tube.com/js/script.js$domain=yt1s.com.co
+||pbc.barrons.com^
 ||pc-optimum.ada.support/api/business_events/track$domain=pcoptimum.ca
 ||pcgamesn.com/cdn-cgi/trace
 ||pcmag.com/js/ga.js
@@ -16243,6 +16245,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tags-event.woolworths.co.nz^
 ||tags.air1.com^
 ||tags.aljazeera.com^
+||tags.barrons.com^
 ||tags.johnlewis.com^
 ||tags.klove.com^
 ||tags.news.com.au^$script
