@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604010653
+! Version: 202604010736
 ! Title: EasyList
-! Last modified: 01 Apr 2026 06:53 UTC
+! Last modified: 01 Apr 2026 07:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0005368b9d7d09bfee96a9772eea0c93752b7c1b
+! Commit: aaf037543582b5538ebcaf1764ff10f9cd773385
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17598,6 +17598,7 @@ browsershots.org#@#.advert_area
 ||aisfokgqw.online^
 ||aisletowelreasoning.com^
 ||aiso.live^
+||aivzqagmhkndd.online^
 ||aixcdn.com^
 ||aixyiapiclvui.space^
 ||aiyrmwheuqzla.website^
@@ -25509,6 +25510,7 @@ browsershots.org#@#.advert_area
 ||dlefmrfkqjmyw.site^
 ||dlerwfqexgfoh.space^
 ||dletviqckubbb.space^
+||dlfzswefybaff.website^
 ||dlglvsxadvloc.online^
 ||dlhdcawqeawfb.space^
 ||dlhjgdhonjcsq.website^
@@ -27823,6 +27825,7 @@ browsershots.org#@#.advert_area
 ||enwoodmurakanaima.qpon^
 ||enwovenlengestgoddess.cfd^
 ||enyzcglevwwkc.space^
+||enztaeofhwwzb.site^
 ||eo94gkpnrncw1eh7.rest^
 ||eoaemmvtasnsi.online^
 ||eoaextrglkylg.site^
@@ -29995,6 +29998,7 @@ browsershots.org#@#.advert_area
 ||fluidbagfulwag.com^
 ||fluiyhtncueau.store^
 ||flukiergeal.qpon^
+||flukywarfaretipmost.cfd^
 ||flummoxmaney.help^
 ||flungperformgirlfriend.com^
 ||flushpersist.com^
@@ -35283,6 +35287,7 @@ browsershots.org#@#.advert_area
 ||hurrerrwynocking.qpon^
 ||hurriedlyslumremiss.com^
 ||hurtful-job.com^
+||hurtful-layer.pro^
 ||hurtful-message.com^
 ||hurtfulcell.com^
 ||hurtleswippendouse.cfd^
@@ -42333,6 +42338,7 @@ browsershots.org#@#.advert_area
 ||lvsapphbvbgxf.website^
 ||lvsvzwagckrai.website^
 ||lvtqzcfxlejtp.site^
+||lvuafqlps.com^
 ||lvualvjfekioz.space^
 ||lvubwrnhxktlo.online^
 ||lvvbqeaqvrmvy.top^
