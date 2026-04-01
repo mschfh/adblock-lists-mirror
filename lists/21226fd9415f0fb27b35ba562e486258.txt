@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: X4EzjmaB9saMEuQ7plk2IQ
+! Checksum: FnXCVmdykyDOOUrD2Se3cg
 ! Title: Easylist Cookie List
-! Last modified: 2026-03-31 23:25 UTC
+! Last modified: 2026-04-01 04:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19044,6 +19044,7 @@ shop.pricechopper.com##.pch-cookie-policy-bar
 5thavenue.co.za##.pd-consent-backdrop
 checkraka.com##.pdpa-popup
 classic-videogames.de,ess-news.com,pv-magazine.com,radio.com.pt,radiof.gmpress.pt,radios.pt##.pea_cook_wrapper
+huaweicloud.com##.pep-global-cookies
 spainhouses.net##.persistentMessage
 nordwindairlines.ru##.personal-data
 perfectcorp.com##.pf-header-cookiestatement
@@ -22639,6 +22640,7 @@ evernote.com##+js(set-local-storage-item, accepts-cookie-notice, true)
 drafthound.com##+js(set-local-storage-item, acceptsAnalyticsCookies, false)
 drafthound.com##+js(set-local-storage-item, acceptsNecessaryCookies, true)
 puregoldprotein.com##+js(set-local-storage-item, adsAccepted, false)
+agekey.org##+js(set-local-storage-item, agekey-cookie-consent, true)
 instantspoursoi.fr##+js(set-local-storage-item, agreeToCookie, false)
 renebieder.com##+js(set-local-storage-item, agreed-cookies, true)
 akasha.org##+js(set-local-storage-item, akasha__cookiePolicy, true)
@@ -26594,6 +26596,7 @@ life-webmaster.ru##.div152
 love.mail.ru##.dnQAZn.sc-iFMAoI
 bbcrussian.com##.e1nbsi9l0
 rutube.ru##.eu-cookie-popup-module__eu_cookie_popup
+v1.yaoilib.net##.ey_ez:has-text(cookie)
 7d.ru,bisexual.ru,datingspace.ru,idating.ru,love-tomsk.ru,love.am,lovegio.ru,mamba.ru,missingheart.ru,znakomstvagood.ru,znakomstve.ru##.fTqTJk
 ru.4game.ru##.fcw-wrap-ru
 wildberries.ru##.fixed-block__cookies
