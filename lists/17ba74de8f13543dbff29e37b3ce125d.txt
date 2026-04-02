@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604020801
+! Version: 202604020833
 ! Title: EasyList
-! Last modified: 02 Apr 2026 08:01 UTC
+! Last modified: 02 Apr 2026 08:33 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a0120839228690ad7af243b3564e2785870dcb64
+! Commit: 6783de6ffd1a137764caa4f7ad681aad5f4f1be4
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24973,6 +24973,7 @@ browsershots.org#@#.advert_area
 ||dfsubnnhamtad.site^
 ||dfsuphjlbrxmv.website^
 ||dfthroyqefqtv.website^
+||dfudoeehau.com^
 ||dfuijqrojtvcb.site^
 ||dfuvslppaxhzv.site^
 ||dfuxpeudrhrpj.online^
@@ -26317,6 +26318,7 @@ browsershots.org#@#.advert_area
 ||ducklebanon.com^
 ||duckletchuted.qpon^
 ||duckswillsmoochyou.com^
+||ductilevoider.com^
 ||dudderyvetusty.cyou^
 ||dudleyrevolutioninconsistent.com^
 ||dudoffpewzghy.space^
@@ -34019,6 +34021,7 @@ browsershots.org#@#.advert_area
 ||hddrfyoifiuad.website^
 ||hddymwhdqdnvh.site^
 ||hdeapukntskyp.online^
+||hdepvpjxbnqnr.space^
 ||hdexwslkxekj.net^
 ||hdfnsoytorpam.click^
 ||hdggrhgzgptxg.site^
@@ -47460,6 +47463,7 @@ browsershots.org#@#.advert_area
 ||offmantiner.com^
 ||offmyqnpxiqgb.space^
 ||offoonguser.com^
+||offseamedretints.cyou^
 ||offsetgobetween.com^
 ||offshuppetchan.com^
 ||offspringresolveddiminution.com^
@@ -52771,6 +52775,7 @@ browsershots.org#@#.advert_area
 ||qgpsrnpchevrc.site^
 ||qgrclhbmxc.com^
 ||qgrkbfewsasid.site^
+||qgrramsw.com^
 ||qgsaohnxbkpez.site^
 ||qgthiomylmdvo.online^
 ||qgtlndbjewjxa.website^
@@ -59988,6 +59993,7 @@ browsershots.org#@#.advert_area
 ||sutzotlenmcem.store^
 ||suvloxmlkfier.online^
 ||suvntjrxksruf.space^
+||suwgpealj.in^
 ||suwytid.com^
 ||suxbduziqbblv.store^
 ||suxjwbzqcibjd.online^
@@ -61862,6 +61868,7 @@ browsershots.org#@#.advert_area
 ||torrango.com^
 ||torrent-protection.com^
 ||torroneechea.qpon^
+||torsimurexan.cyou^
 ||tortamutismsantirs.qpon^
 ||tortulaoglers.cfd^
 ||torulakegler.cyou^
@@ -73389,6 +73396,7 @@ browsershots.org#@#.advert_area
 ||lacklong.com^
 ||madoverpricey.com^
 ||mehcleverly.com^
+||meritvainlydarn.com^
 ||middlegadzooks.com^
 ||midwifemoist.com^
 ||mostlyfor.com^
