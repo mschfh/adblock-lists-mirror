@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604040917
+! Version: 202604040953
 ! Title: EasyList
-! Last modified: 04 Apr 2026 09:17 UTC
+! Last modified: 04 Apr 2026 09:53 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b25a623b34baa27d3ec25894d6f6cec6974b2dbf
+! Commit: d2d6c962f245a9b01247fc50a69cfa09cf1983ec
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17296,6 +17296,7 @@ browsershots.org#@#.advert_area
 ||adzs.com^
 ||ae4a30136a.com^
 ||ae554bd9ee.com^
+||aeaeanphilip.cfd^
 ||aeckyijopoxsk.space^
 ||aed08832da.com^
 ||aeeg5idiuenbi7erger.com^
@@ -21792,6 +21793,7 @@ browsershots.org#@#.advert_area
 ||chooftookikip.net^
 ||choogeet.net^
 ||chookoolted.net^
+||chookygamins.qpon^
 ||choomsohidrie.net^
 ||choopsuptoarty.net^
 ||chooseroverlaidspecies.com^
@@ -30551,6 +30553,7 @@ browsershots.org#@#.advert_area
 ||fortuneswhichacceleration.com^
 ||forunfezanttor.com^
 ||forwardfishermanbidding.com^
+||forworkfolkmot.qpon^
 ||forworksyconus.com^
 ||forxwglaakohy.site^
 ||forzscabridmyotony.cfd^
@@ -50613,6 +50616,7 @@ browsershots.org#@#.advert_area
 ||piestprevot.com^
 ||pievsejhampai.online^
 ||piewifegee.qpon^
+||piffledomens.shop^
 ||pifinebowssennoxally.cfd^
 ||pifowotorfwvl.online^
 ||pigablepsy.cfd^
@@ -65931,6 +65935,7 @@ browsershots.org#@#.advert_area
 ||virtuallyprotestantamplitude.com^
 ||virtue1266.fun^
 ||virtuedeadlock.com^
+||virtuestoque.cfd^
 ||virtuous-beer.com^
 ||visaedsolanin.qpon^
 ||visaingkanamegrez.cyou^
@@ -68879,6 +68884,7 @@ browsershots.org#@#.advert_area
 ||xdstszdlgjsda.website^
 ||xdwstcvtdyyfg.website^
 ||xdyxzdkconsev.site^
+||xeaozefefkx.com^
 ||xebfomhenqxin.online^
 ||xecdcjxhuefhg.space^
 ||xedaifojosm.net^
