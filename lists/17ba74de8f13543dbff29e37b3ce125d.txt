@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604080633
+! Version: 202604080740
 ! Title: EasyList
-! Last modified: 08 Apr 2026 06:33 UTC
+! Last modified: 08 Apr 2026 07:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 85cb8f528243ba21fa273de1af7478ea0089d26a
+! Commit: 055ae45f06bb8f8586328ae974825677daab361e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22753,6 +22753,7 @@ browsershots.org#@#.advert_area
 ||coryphthrifty.qpon^
 ||coseierblowstalipat.cfd^
 ||cosetengarb.com^
+||coshesdecafidlongies.cfd^
 ||cosinecoot.cfd^
 ||cosinjalet.qpon^
 ||cosmeticsgenerosity.com^
@@ -34850,6 +34851,7 @@ browsershots.org#@#.advert_area
 ||jvcmzawlaxowm.space^
 ||jvcnxdiodvhbw.site^
 ||jvcqoxteuoycmy.com^
+||jvdoofddus.com^
 ||jvdoukkjmbwaq.website^
 ||jvergbdvwit.xyz^
 ||jvgdhsgjkdzdf.site^
@@ -48777,6 +48779,7 @@ browsershots.org#@#.advert_area
 ||pywnivhnlbizh.online^
 ||pyxbidiocnkkl.website^
 ||pyxium.net^
+||pyxpwpixcedlw.online^
 ||pzapumrittav.com^
 ||pzbtbwepicwjn.site^
 ||pzbxnlourkdrv.site^
@@ -55598,6 +55601,7 @@ browsershots.org#@#.advert_area
 ||sswqlvslgiium.space^
 ||sswsadybmidze.online^
 ||sswztocimyiid.site^
+||ssxbwqwhtzqyg.site^
 ||ssywocinjgmoi.space^
 ||st-to-uv.com^
 ||stabculpritconstrict.com^
@@ -66075,6 +66079,7 @@ browsershots.org#@#.advert_area
 ||ydrfibhfdbhv.com^
 ||ydrlapkhokpdr.space^
 ||ydsagcvrejuim.online^
+||ydskrpqevgtjc.site^
 ||ydssnzuqzdild.online^
 ||ydstinkle.com^
 ||ydtfvwvmeojpx.site^
@@ -66086,6 +66091,7 @@ browsershots.org#@#.advert_area
 ||ydvvzptycptlr.space^
 ||ydvwzgdgtanbg.online^
 ||ydwrubaluqe.com^
+||ydxssbhxitgqs.site^
 ||ydygwparjppsx.website^
 ||ydzgtvxtyeqzr.site^
 ||ydzivzuvmuwmy.space^
@@ -66538,6 +66544,7 @@ browsershots.org#@#.advert_area
 ||yoshatia.com^
 ||yoshdeum.com^
 ||yosoofpjzhigr.space^
+||yosznlse.com^
 ||youaixx.xyz^
 ||yougetwhatyoupayfor.net^
 ||yougottet.com^
@@ -67050,6 +67057,7 @@ browsershots.org#@#.advert_area
 ||zb94bheebq2bip.cfd^
 ||zbaleqvaffoqg.com^
 ||zbbmothculony.space^
+||zbeozhemp.com^
 ||zbgparrzfiywf.website^
 ||zbhfbgoskxqmz.online^
 ||zbhxbpkoqbysc.website^
