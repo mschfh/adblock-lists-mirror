@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604081101
+! Version: 202604081125
 ! Title: EasyList
-! Last modified: 08 Apr 2026 11:01 UTC
+! Last modified: 08 Apr 2026 11:25 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 41b294975d6614fb9964e045e6890f4879893a21
+! Commit: 9f2951295d93444b45a2fde30fba736b762ecb7d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29209,6 +29209,7 @@ browsershots.org#@#.advert_area
 ||grabbererf.qpon^
 ||graceful-operation.com^
 ||gracermasjids.cfd^
+||gracerrunletsnargil.qpon^
 ||gracious-parent.pro^
 ||gracioushaircut.com^
 ||graciousprofit.pro^
@@ -67950,6 +67951,7 @@ browsershots.org#@#.advert_area
 ||zwudejaxaemlb.online^
 ||zwuugxjievnkj.site^
 ||zwvprsvxlpzfi.space^
+||zwvtkjcaaorua.website^
 ||zwxlsbjicxmid.online^
 ||zwxmxmakzeymc.site^
 ||zwxwpnkdaswfn.site^
@@ -80788,6 +80790,7 @@ huffpost.com##.bottom-right-sticky-container
 crn.com##.bottom-section
 gamingdeputy.com##.bottom-sticky-offset
 coincodex.com##.bottom9
+cpstest.org##.bottomAdsection
 openguessr.com##.bottomFooterAds
 auto.hindustantimes.com##.bottomSticky
 softicons.com##.bottom_125_block
@@ -85367,6 +85370,7 @@ douglas.*##.cms-container:has([data-testid="CriteoAdFormatCategoryView"])
 douglas.*##.criteo-product-carousel
 kaufland.*##.exp-vision__ext-wrapper--spad
 yts.*##.home-content > div:has(.blue ~ a img[src*="/images/download"])
+streamsports99.*##.min-h-\[70px\]
 yandex.*##.mini-suggest__item[data-suggest-counter*="/yandex.ru/clck/safeclick/"]
 flashscore.*##.outrightWidget
 lazada.*##.pdp-block__product-ads
