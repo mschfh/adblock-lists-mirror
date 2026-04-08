@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604081035
+! Version: 202604081101
 ! Title: EasyList
-! Last modified: 08 Apr 2026 10:35 UTC
+! Last modified: 08 Apr 2026 11:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7723243d151554acfcd1b3ffaf98eb7a64fddad5
+! Commit: 41b294975d6614fb9964e045e6890f4879893a21
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24617,6 +24617,7 @@ browsershots.org#@#.advert_area
 ||dnpgwweaiepdu.top^
 ||dnqftnryxfngg.website^
 ||dnqmuubtrodvi.site^
+||dnskquei.com^
 ||dnus40re.xyz^
 ||dnvogsqirpcfq.space^
 ||dnwmeaivtrhfp.site^
@@ -45776,6 +45777,7 @@ browsershots.org#@#.advert_area
 ||pawedemmers.cyou^
 ||pawgleamed.com^
 ||pawheatyous.com^
+||pawinextricable.com^
 ||pawkyearing.cfd^
 ||pawniesoothe.help^
 ||pawnspostie.cfd^
@@ -65465,6 +65467,7 @@ browsershots.org#@#.advert_area
 ||xonthvcte.com^
 ||xoofjgbtvkzjf.store^
 ||xoojebxoyzves.online^
+||xopssova.com^
 ||xoqod.sbs^
 ||xoszyclagweyv.online^
 ||xotsxpboxljzv.website^
@@ -66865,6 +66868,7 @@ browsershots.org#@#.advert_area
 ||yvkjzpfqgbgxl.space^
 ||yvlrxavywfonx.online^
 ||yvmads.com^
+||yvmxflwujoerm.website^
 ||yvo9j76g19wuhjg7x1i5jvtkxfk93u27l.rest^
 ||yvoria.com^
 ||yvotaacxzzvub.website^
@@ -67589,6 +67593,7 @@ browsershots.org#@#.advert_area
 ||znjiryteilzih.site^
 ||znjvedmtgybbk.store^
 ||znjvqaexiaiag.space^
+||znjwdrbrsotej.website^
 ||znlkzudokdzth.website^
 ||znlmhgpgcjxmr.site^
 ||znntvpdicngpo.website^
