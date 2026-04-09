@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Md3DpBix0s/1i11bku/axg
-! Version: 202604091101
+! Checksum: 4YFWZv9lzDRP2eFU6jocWQ
+! Version: 202604091121
 ! Title: EasyList Spanish
-! Last modified: 09 Apr 2026 11:01 UTC
+! Last modified: 09 Apr 2026 11:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
