@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604101004
+! Version: 202604101041
 ! Title: EasyList
-! Last modified: 10 Apr 2026 10:04 UTC
+! Last modified: 10 Apr 2026 10:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3dfb96e5d1bd9fe7fab2beef63177a891bc65947
+! Commit: 3d7646617414f0437c8b601102aa2ef2fb419528
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -35565,6 +35565,7 @@ browsershots.org#@#.advert_area
 ||keetouchut.net^
 ||keetsea5o2na8lwia4ccbwsug1e.com^
 ||keewoach.net^
+||kefgdkgzzhuop.site^
 ||kegfopvreimjm.website^
 ||kegpjgnbjmnrh.space^
 ||kehalim.com^
@@ -37144,6 +37145,7 @@ browsershots.org#@#.advert_area
 ||lbbjokeqbzqqj.top^
 ||lbbjokeqbzwqk.top^
 ||lbbkrsxzhoumc.space^
+||lbbopwtbctjbb.website^
 ||lbdbxeionelgiba.com^
 ||lbdcneidh.com^
 ||lbdphmpwmwdzw.online^
@@ -46593,6 +46595,7 @@ browsershots.org#@#.advert_area
 ||pgdfbqnkprprf.space^
 ||pgdudllfjgeyy.online^
 ||pgfnciyodtbsm.store^
+||pgfoxwqwtjtxu.online^
 ||pgfviujllriob.website^
 ||pggheklolm.xyz^
 ||pghoker.cyou^
@@ -70695,6 +70698,7 @@ browsershots.org#@#.advert_area
 ||witharound.com^
 ||withoutandwhich.com^
 ||withouthuzzah.com^
+||wootscratch.com^
 ||worthequally.com^
 ||wqq881m8uwq1k5m-4p7lv7.xyz^
 ||yakunitfall.com^
