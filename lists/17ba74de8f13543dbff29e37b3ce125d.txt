@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604130652
+! Version: 202604130737
 ! Title: EasyList
-! Last modified: 13 Apr 2026 06:52 UTC
+! Last modified: 13 Apr 2026 07:37 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 79507367773470326c308dd97805d91afeb5929e
+! Commit: 24271bddca2f6f1e4298ce52eb2d258fed39ec17
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20949,6 +20949,7 @@ browsershots.org#@#.advert_area
 ||bukusukses.com^
 ||bulandagothics.com^
 ||bulbcochero.shop^
+||bulbousswoopskempts.qpon^
 ||bulgingextraordinary.com^
 ||bulginglair.com^
 ||bulgingreact.com^
@@ -21754,6 +21755,7 @@ browsershots.org#@#.advert_area
 ||ceyreesdxgvkd.site^
 ||cfarvjcutttkn.website^
 ||cfbgxtwssfqah.online^
+||cfbzstmlazlrg.site^
 ||cfcezivxdpevd.online^
 ||cfcwqpwvdtwux.online^
 ||cfdfasdvrrfnj.online^
@@ -24784,6 +24786,7 @@ browsershots.org#@#.advert_area
 ||dkcarxqotiviv.website^
 ||dkepsueazpneu.space^
 ||dkfkshfzzmxss.online^
+||dkflbsrscmjnl.space^
 ||dkfuetdfvsdmb.website^
 ||dkijnrhdtlvdm.fun^
 ||dkipfdjvrlird.love^
@@ -28892,6 +28895,7 @@ browsershots.org#@#.advert_area
 ||geckxmcccnhbc.space^
 ||gecl.xyz^
 ||geelbecnogaku.cyou^
+||geesmqgnmzpyq.online^
 ||geeyfircgahp.com^
 ||gefqbzyzufohv.online^
 ||geggeesublong.shop^
@@ -65641,6 +65645,7 @@ browsershots.org#@#.advert_area
 ||wpewsnqnlxvhx.com^
 ||wpfmovniimllu.online^
 ||wpftaxtgdh.com^
+||wpihnwkr.com^
 ||wpiofhviqhc.in^
 ||wpjhwhtgcyzep.site^
 ||wpjplnykjopdp.online^
