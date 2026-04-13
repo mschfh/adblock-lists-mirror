@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604130737
+! Version: 202604130846
 ! Title: EasyList
-! Last modified: 13 Apr 2026 07:37 UTC
+! Last modified: 13 Apr 2026 08:46 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 24271bddca2f6f1e4298ce52eb2d258fed39ec17
+! Commit: 08a83b01e4d791b5a016910e7bc5ab3552ebea96
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23952,6 +23952,7 @@ browsershots.org#@#.advert_area
 ||dcirxazv.com^
 ||dcjvnjnkhanpk.space^
 ||dcjxowgfytohp.space^
+||dckhrdhwdenqpap.com^
 ||dcleuevkxvzmr.site^
 ||dcmbaescepqsq.space^
 ||dcmbzbtgqiyvd.website^
@@ -24052,6 +24053,7 @@ browsershots.org#@#.advert_area
 ||decidedlytighten.com^
 ||decideharmpervert.com^
 ||decidesqueak.com^
+||decimal-impression.com^
 ||decimalair.com^
 ||decimalcursor.com^
 ||decimaldaysloaf.com^
@@ -25890,6 +25892,7 @@ browsershots.org#@#.advert_area
 ||egvmppvtammxw.site^
 ||egyptbullsavoury.com^
 ||egyydcehpdilj.site^
+||eh3pix0b.xyz^
 ||ehasnoconversat.org^
 ||ehclkqpxnvfqd.website^
 ||ehdmckprfptyg.store^
@@ -44042,6 +44045,7 @@ browsershots.org#@#.advert_area
 ||oackurtodreecm.net^
 ||oacmauthaignum.net^
 ||oacswwccezmvt.site^
+||oactgbgf.com^
 ||oacuwoaksaksu.net^
 ||oadehibut.xyz^
 ||oadsoapsoang.net^
@@ -45979,6 +45983,7 @@ browsershots.org#@#.advert_area
 ||oxfordmuggy.help^
 ||oxfpdgzelgkal.site^
 ||oxfygsqqgnfts.icu^
+||oxgacihwhjobk.site^
 ||oxgdifgt.com^
 ||oxggcpdorbixe.xyz^
 ||oxgnxuoxiizko.xyz^
@@ -53475,6 +53480,7 @@ browsershots.org#@#.advert_area
 ||rxkhzggwtrevg.online^
 ||rxkscizlldoak.website^
 ||rxlwugxyuw.com^
+||rxmklgldqtxor.online^
 ||rxnvg.com^
 ||rxqqxtyrshpkq.store^
 ||rxscledbyfgos.site^
@@ -60718,6 +60724,7 @@ browsershots.org#@#.advert_area
 ||ubiepvmfdzkhx.online^
 ||ubilinkbin.com^
 ||ubittetdbvwux.online^
+||ubizwydxpctut.website^
 ||ubjzmnbnhtdjj.site^
 ||ubkybaizijoct.website^
 ||ublasklnrnifs.site^
@@ -65065,6 +65072,7 @@ browsershots.org#@#.advert_area
 ||wiglikeleve.help^
 ||wignosy.com^
 ||wigvceapsow.com^
+||wigwamkykedegusts.cfd^
 ||wigwammangels.cfd^
 ||wihbqmopoxatd.site^
 ||wiheedasrfts.com^
@@ -66193,6 +66201,7 @@ browsershots.org#@#.advert_area
 ||xatocccuzzrwe.com^
 ||xatsjwiuwtgkm.site^
 ||xavions.shop^
+||xavraffhvoljg.online^
 ||xavujsiudycea.site^
 ||xawafinmijdrp.online^
 ||xawlop.com^
