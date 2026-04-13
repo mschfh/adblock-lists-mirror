@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604130846
+! Version: 202604130937
 ! Title: EasyList
-! Last modified: 13 Apr 2026 08:46 UTC
+! Last modified: 13 Apr 2026 09:37 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 08a83b01e4d791b5a016910e7bc5ab3552ebea96
+! Commit: 10bb127fa071c53ed700da60a83e16a844112ed1
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16070,6 +16070,7 @@ browsershots.org#@#.advert_area
 ||55yy56n7p2ug15lrwz.cfd^
 ||5608c7633c.com^
 ||564executors.com^
+||5692y28yxgtwmj7qkc9tnnlmrg5iyu.cfd^
 ||569toxxx1u7ey1l97m.cfd^
 ||56bfc388bf12.com^
 ||56gbgkvtd.xyz^
@@ -18917,6 +18918,7 @@ browsershots.org#@#.advert_area
 ||automobiledeem.com^
 ||autoportgen.space^
 ||autwbeanqsrou.website^
+||auusebyjasvtv.space^
 ||auxdciugyclyi.space^
 ||auxktjhdayeqbdj.xyz^
 ||auxml.com^
@@ -23486,6 +23488,7 @@ browsershots.org#@#.advert_area
 ||curcheswifelet.cfd^
 ||curchyrutate.cfd^
 ||curdingunfeary.qpon^
+||curfsreendow.qpon^
 ||curiambeant.cyou^
 ||curiarawolfkin.com^
 ||curiositycognition.com^
@@ -23885,6 +23888,7 @@ browsershots.org#@#.advert_area
 ||dationmalangadornic.cyou^
 ||daubalgeria.qpon^
 ||daughtersvariedfalse.com^
+||dauntskaty.cyou^
 ||daupddqkowvr.com^
 ||dawac.com^
 ||daweantsy.shop^
@@ -25095,6 +25099,7 @@ browsershots.org#@#.advert_area
 ||dqhvhpderqbsg.online^
 ||dqqdbvsqatomy.space^
 ||dqqlkywzqpvoz.store^
+||dqvpdufscjdmz.space^
 ||dqwnpdlgzpjni.space^
 ||dqwpkufwbinyi.website^
 ||dqwxixvisqmwx.space^
@@ -28227,6 +28232,7 @@ browsershots.org#@#.advert_area
 ||fqzxecinpjuws.space^
 ||fr0z3nc0zysm1le.xyz^
 ||fr3q7i2p5pxv5o1xib4egio.cfd^
+||frachecapris.cyou^
 ||fractionfridgejudiciary.com^
 ||fractionsadly.com^
 ||fracturebroadcastsaw.com^
@@ -30380,6 +30386,7 @@ browsershots.org#@#.advert_area
 ||hayliftjugulasuffice.cyou^
 ||haynelandauscottage.cfd^
 ||hazeledagynous.cyou^
+||hazellyparral.cyou^
 ||hazelmarks.com^
 ||hazelstrictlyheadless.com^
 ||hazicu.hothomefuck.com^
@@ -32755,6 +32762,7 @@ browsershots.org#@#.advert_area
 ||imasdk.googleapis.com^
 ||imatmqglwbfcl.website^
 ||imavqwrjaqu.com^
+||imb12v4xhkkue2xteb5mqnc3bi13.rest^
 ||imbedsclopped.qpon^
 ||imberbebromian.shop^
 ||imbercommavirales.qpon^
@@ -33871,6 +33879,7 @@ browsershots.org#@#.advert_area
 ||ivfisudhru.com^
 ||ivfjjyytna.com^
 ||ivgjsutqwoehq.online^
+||ivgkdijwawpli.space^
 ||ivhuajmjwjuru.website^
 ||iviesreducer.cyou^
 ||ivioukpnweuhr.space^
@@ -34552,6 +34561,7 @@ browsershots.org#@#.advert_area
 ||jguoldyoaqygi.online^
 ||jguroejplzivn.site^
 ||jgvynalsokllu.space^
+||jgwiveeokjknk.space^
 ||jgwlomfinvizq.site^
 ||jgwwszqkvyxcg.site^
 ||jgxcuimuapaue.space^
@@ -45566,6 +45576,7 @@ browsershots.org#@#.advert_area
 ||otices.com^
 ||oticlavash.cyou^
 ||otieu.com^
+||otihrqtkjjgupic.com^
 ||otilacicoppyi.site^
 ||otitishanded.com^
 ||otjthrnfwqqpq.site^
@@ -46751,6 +46762,7 @@ browsershots.org#@#.advert_area
 ||peadeplete.com^
 ||peafowlrosachakram.cyou^
 ||peaganapesgiven.cyou^
+||peaiismrozzersdimetry.cyou^
 ||peakclick.com^
 ||peakedslews.cfd^
 ||peakilygluten.com^
@@ -50916,6 +50928,7 @@ browsershots.org#@#.advert_area
 ||racespreachersupper.com^
 ||raceusid.com^
 ||rachialreautetubik.cfd^
+||rachkoorka.shop^
 ||rachuhaijaip.net^
 ||racialboats.com^
 ||racialregister.com^
@@ -54496,6 +54509,7 @@ browsershots.org#@#.advert_area
 ||semiprotylari.qpon^
 ||semitacense.cfd^
 ||semmetamharic.qpon^
+||semnaelyonese.cfd^
 ||semplesapolune.com^
 ||semqraso.net^
 ||semsicou.net^
@@ -58108,6 +58122,7 @@ browsershots.org#@#.advert_area
 ||tarpeiaooh.cyou^
 ||tarpeiapilger.cyou^
 ||tarponfains.cfd^
+||tarrgorhens.cyou^
 ||tarrowwauch.cyou^
 ||tarrybocking.qpon^
 ||tarsiaupsolve.cfd^
@@ -58215,6 +58230,7 @@ browsershots.org#@#.advert_area
 ||tbugquyckdqry.online^
 ||tburybrcvclih.online^
 ||tbwqvufmxnyst.space^
+||tbwrozbwpsiz.com^
 ||tbxdxxfi.com^
 ||tcaigdyrlxeox.online^
 ||tcbtwfvquujgd.website^
