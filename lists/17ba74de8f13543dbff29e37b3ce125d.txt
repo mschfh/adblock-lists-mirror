@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604131530
+! Version: 202604131628
 ! Title: EasyList
-! Last modified: 13 Apr 2026 15:30 UTC
+! Last modified: 13 Apr 2026 16:28 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 11ecd1347cfe3ffdd63518e14bc712a8e0c8886f
+! Commit: d80449251b850d88b23427ee469683bb2ddf1c41
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17371,6 +17371,7 @@ browsershots.org#@#.advert_area
 ||ae4a30136a.com^
 ||ae554bd9ee.com^
 ||aeaeanphilip.cfd^
+||aeasmgyhuqgto.space^
 ||aeckyijopoxsk.space^
 ||aed08832da.com^
 ||aeeg5idiuenbi7erger.com^
@@ -28881,6 +28882,7 @@ browsershots.org#@#.advert_area
 ||gcfubeywqiffq.website^
 ||gcgrabxewyxwe.website^
 ||gcj4q7j5u25hqb23xwruyku6cbmqt4.cfd^
+||gcjiqxikuiuwa.website^
 ||gcmogssktstxp.online^
 ||gcmwodwqcaqjw.space^
 ||gcpafttmstljb.website^
@@ -34471,6 +34473,7 @@ browsershots.org#@#.advert_area
 ||jenoga.xyz^
 ||jenonaw.com^
 ||jensonrasprelim.cyou^
+||jenxlqwnuoqxv.website^
 ||jeoawamqybkeb.top^
 ||jeobnwlvtqsqk.site^
 ||jeopardizeangrydetrimental.com^
@@ -35172,6 +35175,7 @@ browsershots.org#@#.advert_area
 ||jrpkizae.com^
 ||jrpsohjquh.com^
 ||jrqksxcngkjhw.site^
+||jrqmkykli.com^
 ||jrqqxelauuqhm.site^
 ||jrqroppxhvbna.site^
 ||jrqzmiipckcvm.website^
@@ -41461,6 +41465,7 @@ browsershots.org#@#.advert_area
 ||mozoo.com^
 ||mp3pro.xyz^
 ||mp3vizor.com^
+||mpacugpq.com^
 ||mpanythathaveresulte.com^
 ||mpanythathaveresultet.info^
 ||mpb9mizgl7zqbjyfb899.cfd^
@@ -43768,6 +43773,7 @@ browsershots.org#@#.advert_area
 ||nuleedsa.net^
 ||nulez.xyz^
 ||null-point.com^
+||nullarypanamicdarter.qpon^
 ||nullevaporate.com^
 ||nullsframe.com^
 ||nullsmibs.cfd^
@@ -62279,6 +62285,7 @@ browsershots.org#@#.advert_area
 ||uurufnyiiriee.online^
 ||uuslyuvgwkmhp.website^
 ||uutifvcedjrse.site^
+||uutwkzfzymcwd.website^
 ||uuuwxykgcvcgp.website^
 ||uuwktaijthizo.space^
 ||uuwqagukgxy.net^
