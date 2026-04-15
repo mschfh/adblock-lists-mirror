@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mU6y02IyzBJ4AF8PQSaieA
-! Version: 202604150025
+! Checksum: SJZh+SprtgGvt9tWRKH70w
+! Version: 202604150200
 ! Title: Fanboy's Newsletter List
-! Last modified: 2026-04-15 00:25 UTC
+! Last modified: 2026-04-15 02:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -5321,6 +5321,8 @@ webpronews.com##html:style(overflow: auto !important)
 ! klaviyo-prevent-body-scrolling
 aminoporssi.fi,brytesoft.com,europesnus.com,nutrifitt.com,psychiatrist.com,windupwatchshop.com##.kl-private-reset-css-Xuajs1.needsclick
 aminoporssi.fi,brytesoft.com,europesnus.com,nutrifitt.com,psychiatrist.com,windupwatchshop.com##body:style(overflow: auto !important)
+! thebarentsobserver.com
+thebarentsobserver.com##+js(set-cookie, mm_f_45691, true)
 ! addapinch.com
 addapinch.com##.cohoes-campaign
 addapinch.com##html:style(overflow: auto !important; position: initial !important;)
