@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604151034
+! Version: 202604151101
 ! Title: EasyList
-! Last modified: 15 Apr 2026 10:34 UTC
+! Last modified: 15 Apr 2026 11:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e54499bcd69b98ca31dd0e5c23d8524257bac15f
+! Commit: 0c7ecf407101f642abf3d7925270c4489ac3fbf6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22905,6 +22905,7 @@ browsershots.org#@#.advert_area
 ||contentmayinterest.com^
 ||contentproxy10.cz^
 ||contents-search-windows.com^
+||contextrewindfreed.com^
 ||contextweb.com^
 ||contineyuedi.org^
 ||contingentmusician.com^
@@ -31979,6 +31980,7 @@ browsershots.org#@#.advert_area
 ||hue2b.com^
 ||hueadsxml.com^
 ||huemulsoled.help^
+||hufbefsmcvfvwlb.com^
 ||huffermyna.cfd^
 ||hufflequieter.cfd^
 ||hufhqultarufi.online^
@@ -56080,6 +56082,7 @@ browsershots.org#@#.advert_area
 ||sloto.live^
 ||slotsmiling.com^
 ||slovenscrankly.com^
+||slovvcaojwrhv.space^
 ||slow-attitude.com^
 ||slowbeetle.cfd^
 ||slowdn.net^
@@ -59075,6 +59078,7 @@ browsershots.org#@#.advert_area
 ||tfrlwktyhhc.com^
 ||tfrmqgbkchtev.website^
 ||tfsnczzpek.com^
+||tfuhwheedqzrj.website^
 ||tfvilfxsydayn.space^
 ||tfwcjrwvswnfh.space^
 ||tfwjtrkuueobz.online^
@@ -59897,6 +59901,7 @@ browsershots.org#@#.advert_area
 ||tommylearningskilled.com^
 ||tomorrowlemonade.com^
 ||tomtechourtad.net^
+||tonalnaoswraths.cyou^
 ||tonemecoaptsbespot.cfd^
 ||tonemedia.com^
 ||tongactless.cyou^
