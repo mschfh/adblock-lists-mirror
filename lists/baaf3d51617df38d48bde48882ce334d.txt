@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SJZh+SprtgGvt9tWRKH70w
-! Version: 202604150200
+! Checksum: vkf6+lDcG6G8Zb8kBpsY8A
+! Version: 202604150325
 ! Title: Fanboy's Newsletter List
-! Last modified: 2026-04-15 02:00 UTC
+! Last modified: 2026-04-15 03:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2828,6 +2828,7 @@ history.com,parade.com##.m-brand-engagement
 thestreet.com##.m-custom-component
 lamag.com##.m-detail--body-iframe-embed
 parade.com##.m-flex-nav--right-engagement
+boston.com##.m-generic-cta
 boston.com##.m-generic-cta--email-signup
 minds.com##.m-modal-bg
 politifact.com##.m-supporter
@@ -3527,7 +3528,7 @@ mediatrust.com##.subscribe-callout-bar
 mbconfidential.com,news.itsfoss.com,untappedcities.com,words.filippo.io##.subscribe-cta
 noyb.eu##.subscribe-cta-block
 aorus.com,nutritioninsight.com,packaginginsights.com##.subscribe-div
-afaqs.com##.subscribe-div-body-right-side
+afaqs.com,indianstartupnews.com##.subscribe-div-body-right-side
 cafemom.com##.subscribe-enter-done
 punchline-gloucester.com##.subscribe-footer-container
 euroweeklynews.com##.subscribe-for-news
@@ -3543,6 +3544,7 @@ spaceref.com##.subscribe-line-link
 media4growth.com##.subscribe-ltr
 techpout.com##.subscribe-medium
 ia.acs.org.au,meetup.com##.subscribe-modal
+indianstartupnews.com##.subscribe-news-letter
 golem.de,versicherungsbote.de##.subscribe-newsletter
 fxleaders.com##.subscribe-newsletter-wrapper
 hawaiitribune-herald.com,wccftech.com,westhawaiitoday.com##.subscribe-now
