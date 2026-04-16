@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604161037
+! Version: 202604161107
 ! Title: EasyList
-! Last modified: 16 Apr 2026 10:37 UTC
+! Last modified: 16 Apr 2026 11:07 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 65bb09d6d4821f821ecc4c6683ba6d6b7e87a906
+! Commit: 2048879d7fa12210a0b02b75696bea02b669b67c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39847,6 +39847,7 @@ browsershots.org#@#.advert_area
 ||lysszxtzubnby.website^
 ||lythesimblot.cfd^
 ||lyticaframeofm.com^
+||lytvejmvbv.com^
 ||lyusuwiuwhwtl.online^
 ||lyvkvqitzktkx.store^
 ||lyvlbjzbozkxy.space^
@@ -48579,6 +48580,7 @@ browsershots.org#@#.advert_area
 ||polarstyphaquasky.cyou^
 ||polaxisleese.qpon^
 ||polehuspelchanner.cyou^
+||polewigattenddegerm.qpon^
 ||poleychoirs.cyou^
 ||poleynsset.com^
 ||policeair.com^
@@ -54622,6 +54624,7 @@ browsershots.org#@#.advert_area
 ||sbngfxrdhlwik.space^
 ||sboehtuuoyggh.space^
 ||sbpbgddksgdni.space^
+||sbqaopiedgjoo.site^
 ||sbqftczkszzfs.online^
 ||sbqjioehjqnzb.site^
 ||sbrxwyudkepkc.site^
@@ -62189,6 +62192,7 @@ browsershots.org#@#.advert_area
 ||ungirtsoloed.shop^
 ||ungriporthal.qpon^
 ||ungtkeltic.qpon^
+||ungyptrvngfqp.site^
 ||unhairraxesplotter.cfd^
 ||unhairsirrees.qpon^
 ||unhandyaimabletrichi.cfd^
