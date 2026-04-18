@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604181415
+! Version: 202604181456
 ! Title: EasyList
-! Last modified: 18 Apr 2026 14:15 UTC
+! Last modified: 18 Apr 2026 14:56 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 97bfd0720da0a550e62fce6bd8e1bae4b2da3bd5
+! Commit: b72296f461411a9c1f1faece98b46f73cdb8a5eb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21621,6 +21621,7 @@ browsershots.org#@#.advert_area
 ||carinaepodsdulcify.qpon^
 ||caring-might.pro^
 ||caring-union.pro^
+||caringfortune.pro^
 ||caringmake.pro^
 ||caringpast.com^
 ||cariouscannedroman.com^
@@ -34721,6 +34722,7 @@ browsershots.org#@#.advert_area
 ||kgslcxtpctxru.online^
 ||kgsxcozeuccrs.website^
 ||kgtwbxiuepiyv.website^
+||kgvhlxcevwbsb.space^
 ||kgwbngjoviypv.store^
 ||kgwookhjrqkui.com^
 ||kgzfmbpkbydoj.online^
@@ -36750,6 +36752,7 @@ browsershots.org#@#.advert_area
 ||lutetiamyelin.qpon^
 ||luuming.com^
 ||luuspdbnxvyjs.site^
+||luwjcqbkeeeni.site^
 ||luxadv.com^
 ||luxatenowness.com^
 ||luxbetaffiliates.com.au^
@@ -55110,6 +55113,7 @@ browsershots.org#@#.advert_area
 ||swattedoroide.cyou^
 ||swatterpatrick.com^
 ||swbbtzshzxsve.space^
+||swbihztgbtqcs.space^
 ||swcycyjwymqrw.website^
 ||swdjsnhtwoqp.com^
 ||swdqortugmmrj.online^
@@ -59684,6 +59688,7 @@ browsershots.org#@#.advert_area
 ||usitlnrkyhhbt.space^
 ||usix-udlnseb.space^
 ||usjbwvtqwv.com^
+||usjeardahfoqc.online^
 ||uskokvolutin.com^
 ||uslfmnchussgv.site^
 ||uslqdimcuxehp.store^
