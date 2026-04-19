@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4ehCwZWh2ICrQAbFx9jPpw
-! Version: 202604190650
+! Checksum: h0k/IGyCj9HpbCt/1VqnSQ
+! Version: 202604190700
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-04-19 06:50 UTC
+! Last modified: 2026-04-19 07:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -35522,7 +35522,7 @@ caymancompass.com###s-consent-modal
 smcworld.com###s-modal
 sanitas.com###sanitasCookieAlert
 larksuite.com###sc-cookie-banner
-01net.com,gizmodo.com###sd-cmp
+gizmodo.com###sd-cmp
 seetickets.com###seeGdprCookieConsent
 fcc-group.eu###set-win-coo
 halara.com###set_cookies_module
@@ -41250,6 +41250,9 @@ wertarbeit-steinfurt.de##.reveal
 !! reveal-overlay
 crazy-factory.com,frankfurt.de,gasunie.nl,habsburger.net,southwark.gov.uk,tangleangel.com,tendersdirect.co.uk,wertarbeit-steinfurt.de##.reveal-overlay
 crazy-factory.com,frankfurt.de,gasunie.nl,habsburger.net,southwark.gov.uk,tangleangel.com,tendersdirect.co.uk,wertarbeit-steinfurt.de##body,html:style(overflow: auto !important; position: initial !important;)
+! 01net.com
+01net.com###sd-cmp
+01net.com##html:style(overflow: auto !important)
 ! zsw-bw.de
 zsw-bw.de###cookienotice_box
 zsw-bw.de##body,html:style(overflow: auto !important; position: initial !important;)
