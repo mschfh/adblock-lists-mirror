@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604191212
+! Version: 202604191248
 ! Title: EasyList
-! Last modified: 19 Apr 2026 12:12 UTC
+! Last modified: 19 Apr 2026 12:48 UTC
 ! Expires: 4 days (update frequency)
-! Commit: fe5ff84fac87bdd4f3666897b1bda6a83bbf53ea
+! Commit: c7a7931c85060e1f48566abc0ae4441edfac1726
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28769,6 +28769,7 @@ browsershots.org#@#.advert_area
 ||franeski.net^
 ||franklycommission.com^
 ||franklyprocesses.com^
+||frankvehicle.com^
 ||frap.site^
 ||fraplersetoff.shop^
 ||frappuzarin.qpon^
@@ -47806,6 +47807,7 @@ browsershots.org#@#.advert_area
 ||qptfdtjasvzmb.site^
 ||qptzeceqokpup.space^
 ||qpuajvzdhsmrk.space^
+||qpufhoviouoby.website^
 ||qpvecedrioyco.website^
 ||qpvuwktomduva.website^
 ||qpweyjmudecjc.online^
@@ -49713,6 +49715,7 @@ browsershots.org#@#.advert_area
 ||rgjpcezrdyhuq.website^
 ||rgkccvmr.xyz^
 ||rglxpqjejwljl.website^
+||rgmhrvwugwlnd.website^
 ||rgmhynhrzzsao.site^
 ||rgmuksfuciowy.online^
 ||rgmuvspukfmfo.site^
@@ -51063,6 +51066,7 @@ browsershots.org#@#.advert_area
 ||ryddiuaiixndo.site^
 ||rydmuxmuocztf.space^
 ||rydresa.info^
+||rydtkrsegqpze.website^
 ||rydtyitkzhgzw.space^
 ||ryecypress.com^
 ||ryeincrediblerepresentation.com^
