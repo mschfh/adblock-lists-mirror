@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604190524
+! Version: 202604190552
 ! Title: EasyList
-! Last modified: 19 Apr 2026 05:24 UTC
+! Last modified: 19 Apr 2026 05:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: cf2c3e62a0d6864630546879220f0bdf5206aca2
+! Commit: 55dfcf19ad8cf7266b7a4504ee86034177990f26
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28855,6 +28855,7 @@ browsershots.org#@#.advert_area
 ||fromjoytohappiness.com^
 ||front-attention.pro^
 ||front-interest.com^
+||front-strength.pro^
 ||frontcrash.pro^
 ||fronthlpr.com^
 ||frontinventory.com^
@@ -46274,6 +46275,7 @@ browsershots.org#@#.advert_area
 ||protoawe.com^
 ||protocolchainflow.com^
 ||protocolsnappedimpure.com^
+||protonsjuicer.cyou^
 ||protrafficinspector.com^
 ||protrckit.com^
 ||proudlyfunkywanderer.com^
@@ -46648,6 +46650,7 @@ browsershots.org#@#.advert_area
 ||pubmatic.com^
 ||pubmine.com^
 ||pubnation.com^
+||pubnotify.com^
 ||pubonrace.com^
 ||pubpowerplatform.io^
 ||pubsunsethitherto.com^
@@ -47183,6 +47186,7 @@ browsershots.org#@#.advert_area
 ||qbiapxkofrlix.online^
 ||qbixxhbamudnt.space^
 ||qbjctubapshxf.website^
+||qbjdqctfqwuma.space^
 ||qbkofavetnrgr.site^
 ||qbkustbkzoheu.site^
 ||qbkzoovlstqom.website^
@@ -58483,6 +58487,7 @@ browsershots.org#@#.advert_area
 ||udcoogwabmyta.online^
 ||uddougqbgbhmg.website^
 ||udeljwbiglyt.com^
+||udemkaeajskcq.space^
 ||udeyzbhucafcod.com^
 ||udfaguykrfeur.site^
 ||udfkrokaielka.website^
@@ -61383,6 +61388,7 @@ browsershots.org#@#.advert_area
 ||vorpalzant.qpon^
 ||vorxovcbesyuo.net^
 ||vosfcwwsdurwp.site^
+||vosnbtvyzspne.website^
 ||vospnsjswih.com^
 ||vospzvrofurow.online^
 ||votduhwjkhilf.com^
