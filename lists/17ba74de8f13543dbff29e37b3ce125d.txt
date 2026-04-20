@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604200649
+! Version: 202604200739
 ! Title: EasyList
-! Last modified: 20 Apr 2026 06:49 UTC
+! Last modified: 20 Apr 2026 07:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7f11922fed37d9c41f3e4860548ce08a5ecc786a
+! Commit: 3f69fa141ba2f8081edbf5736f45317b2417cbdd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22202,6 +22202,7 @@ browsershots.org#@#.advert_area
 ||cheungtreron.qpon^
 ||chezoams.com^
 ||chfpgcbe.com^
+||chfqcsadfkkqw.space^
 ||chganwddpxhmw.online^
 ||chgoakspitied.cfd^
 ||chhencmmgwogk.space^
@@ -22535,6 +22536,7 @@ browsershots.org#@#.advert_area
 ||clevernt.com^
 ||cleverunjuicysolein.cyou^
 ||cleverwebserver.com^
+||clfctybv.com^
 ||clhxzrqdatxqm.store^
 ||clicadu.com^
 ||click-cdn.com^
@@ -33616,6 +33618,7 @@ browsershots.org#@#.advert_area
 ||iykrqkfbduoxn.site^
 ||iylmylijdicmv.site^
 ||iylwnmnnchzkq.website^
+||iymihwrynzdwx.online^
 ||iymvmpyfsqnui.site^
 ||iyodewlrk.com^
 ||iypxxhjdiwggg.website^
@@ -35216,6 +35219,7 @@ browsershots.org#@#.advert_area
 ||knudsengrillee.cyou^
 ||knutenegros.pro^
 ||knvhtkrrebdcv.space^
+||knwaiimhcziae.website^
 ||knwjmjujhadoo.site^
 ||knxcyvvibuvde.website^
 ||knxnrqidbmlen.site^
@@ -36983,6 +36987,7 @@ browsershots.org#@#.advert_area
 ||lvizjwwjbnhuh.space^
 ||lvjczzaojopzc.website^
 ||lvksiviwpenew.website^
+||lvlzdktkhjxsz.online^
 ||lvqcfuwngsaxmp.com^
 ||lvuafqlps.com^
 ||lvubwrnhxktlo.online^
@@ -54675,6 +54680,7 @@ browsershots.org#@#.advert_area
 ||thereafterblazingclass.com^
 ||thereare.cfd^
 ||thereforeprisoniso.com^
+||theresehoodingalcippe.qpon^
 ||theretenoned.com^
 ||theretounstuff.cyou^
 ||thermalcustom.com^
