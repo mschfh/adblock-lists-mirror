@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NA6YJ8Bfg1CIRqCimi2L3A
-! Version: 202604200300
+! Checksum: xZppeo4ohOMbYJ4rIPNmvw
+! Version: 202604200350
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-04-20 03:00 UTC
+! Last modified: 2026-04-20 03:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -49424,6 +49424,7 @@ pymnts.com##.ml-subscribe-form-5774674
 thebestcakerecipes.com##.ml-vertical-align-center
 lizzomusic.com##.mlform
 thestreet.com##.mm-navigation--multiple-menus
+forskersonen.no,forskning.no,sciencenorway.no##.mnm-form
 travelandleisure.com##.mntl-footer__newsletter
 stopmandatoryvaccination.com##.moOptinForm
 lung.org##.modaal-overlay
