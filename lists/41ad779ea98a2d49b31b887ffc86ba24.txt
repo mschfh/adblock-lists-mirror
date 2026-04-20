@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7iN6qw8k6HJ/gTm86GKSKw
-! Version: 202604200025
+! Checksum: NA6YJ8Bfg1CIRqCimi2L3A
+! Version: 202604200300
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-04-20 00:25 UTC
+! Last modified: 2026-04-20 03:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -48019,6 +48019,7 @@ thehackernews.com###email-outer
 disqus.com###email-signup
 statcounter.com###email-subscribe
 courthousenews.com###email-subscribers
+sheets.works###emailFloat
 airlinegeeks.com,avweb.com,flyingmag.com,planeandpilotmag.com###emailcapform
 planeandpilotmag.com###emailcaptform
 chemistryworld.com###eme-global-head
@@ -48857,7 +48858,7 @@ gwr.com##.css-pfotuc
 goodinternetmagazine.com##.ct-footer-cta
 businessplus.ie##.ct-link-text
 coincodecap.com,targettrend.com##.ct-newsletter-subscribe-container
-biznews.com,bridgemi.com,orbitaltoday.com,positive.news,propublica.org,tasteandtellblog.com,thenation.com##.cta
+biznews.com,bridgemi.com,orbitaltoday.com,positive.news,propublica.org,sheets.works,tasteandtellblog.com,thenation.com##.cta
 gamechangersmovie.com##.cta--inner
 themarkup.org##.cta--subscribe
 bigissue.com##.cta--subscription
