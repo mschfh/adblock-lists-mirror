@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604201850
+! Version: 202604201928
 ! Title: EasyList
-! Last modified: 20 Apr 2026 18:50 UTC
+! Last modified: 20 Apr 2026 19:28 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bde89888c7093ac1bab814c86d152ceef4c27807
+! Commit: 7725d15d804e924737ee24b8123d0d0f5815b4c0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18179,6 +18179,7 @@ browsershots.org#@#.advert_area
 ||amyctichourisrozzer.cfd^
 ||amylomjemwhare.cfd^
 ||amylpiete.shop^
+||amyrootdotiersylphs.qpon^
 ||amzdmgjigiolu.online^
 ||amzfepdudlyvb.site^
 ||anacarahunts.cyou^
@@ -22685,6 +22686,7 @@ browsershots.org#@#.advert_area
 ||clprfkljfcmnm.site^
 ||clprr.com^
 ||clqmmy2lhc2qnfjvyxigxe95wb.cfd^
+||clrqbqtonradt.online^
 ||clrstm.com^
 ||clrzytcxtu.com^
 ||cltdabpjiaqlw.space^
@@ -34819,6 +34821,7 @@ browsershots.org#@#.advert_area
 ||kdhpllntx.com^
 ||kdhwaqcwpqvwo.website^
 ||kdisbgxtxiyru.online^
+||kdkpsqklemvnu.site^
 ||kdluiznnaekvy.space^
 ||kdmizytjznodo.online^
 ||kdmyatytentionia.com^
@@ -34967,6 +34970,7 @@ browsershots.org#@#.advert_area
 ||khcenayroisqp.store^
 ||khdiamondcdn.space^
 ||khedassphene.com^
+||khheewubjsybg.space^
 ||khidlcdjhlsfu.space^
 ||khjpcjdg.com^
 ||khlhqwlnesbbm.space^
@@ -56587,6 +56591,7 @@ browsershots.org#@#.advert_area
 ||twrdzmduxxfjm.world^
 ||twrmnd.com^
 ||twspfzmzxlcyp.website^
+||twtegmvnemxxf.com^
 ||twvahbdsoavus.website^
 ||twvgoaewdmluf.online^
 ||twvujrrukfse.com^
