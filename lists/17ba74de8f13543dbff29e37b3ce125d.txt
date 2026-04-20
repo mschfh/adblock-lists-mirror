@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604202217
+! Version: 202604202252
 ! Title: EasyList
-! Last modified: 20 Apr 2026 22:17 UTC
+! Last modified: 20 Apr 2026 22:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 34d39937c0d67b6b22d5ee85e9b2bfe76066f394
+! Commit: 24c35dd2d477f389175d5982802b8e6c6119c76f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20677,6 +20677,7 @@ browsershots.org#@#.advert_area
 ||boostcpm.su^
 ||booster-vax.com^
 ||boosterunlovedtettish.cfd^
+||boostlo.xyz^
 ||boostog.net^
 ||boothmythevergreen.com^
 ||bootingunpickedusable.com^
@@ -33966,6 +33967,7 @@ browsershots.org#@#.advert_area
 ||jeopardizegrowled.com^
 ||jeqpqqqqwkmxk.store^
 ||jeqsuyzlpwjzy.rocks^
+||jerkafancgoil.space^
 ||jerktyjgpw.com^
 ||jeroud.com^
 ||jerseydiploma.com^
@@ -34616,6 +34618,7 @@ browsershots.org#@#.advert_area
 ||jwsltekcmzhkj.store^
 ||jwufajjpajnfq.website^
 ||jwuikmwpwrvae.site^
+||jwumqxedgchuo.site^
 ||jwxlupfcsmlkb.online^
 ||jwyqeonarrrit.website^
 ||jwzeoshnruedd.website^
