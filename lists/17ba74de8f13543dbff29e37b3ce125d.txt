@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604211306
+! Version: 202604211346
 ! Title: EasyList
-! Last modified: 21 Apr 2026 13:06 UTC
+! Last modified: 21 Apr 2026 13:46 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 31830fba3214bde27b54c189f6319d83ddf2ede7
+! Commit: e69e30ed6f379115fed56d0fa95a7b20bff6fde2
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20912,6 +20912,7 @@ browsershots.org#@#.advert_area
 ||braveramuser.cfd^
 ||braverybreezebinding.com^
 ||braverycavalryoats.com^
+||bravesgote.cyou^
 ||bravestionismtirve.cfd^
 ||bravotrk.com^
 ||bravuraoralogy.cyou^
@@ -60724,6 +60725,7 @@ browsershots.org#@#.advert_area
 ||waudoozookaupt.net^
 ||waufooke.com^
 ||waughtsschillu.cfd^
+||wauksbogach.qpon^
 ||waulslashing.help^
 ||wauqomhjliawq.store^
 ||wauratrouss.cfd^
@@ -65773,6 +65775,7 @@ browsershots.org#@#.advert_area
 ||ztwynkeinevag.website^
 ||ztxikzekacwtr.site^
 ||zuajnozwaotok.site^
+||zuazhkthrcdml.website^
 ||zubivu.com^
 ||zubniivgigntj.website^
 ||zubtvnuahsszj.site^
@@ -65982,6 +65985,7 @@ browsershots.org#@#.advert_area
 ||zzvvdnorisful.space^
 ||zzwbjmkgxwsqs.website^
 ||zzwhyoheusgza.site^
+||zzwmnwhbtqbpf.website^
 ||zzxrrcacgcsjf.site^
 ||zzxvxomlkpvcl.website^
 ||zzyxhvqjjtgxj.online^
