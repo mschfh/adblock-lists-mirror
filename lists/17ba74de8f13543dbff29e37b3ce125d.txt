@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604211802
+! Version: 202604211832
 ! Title: EasyList
-! Last modified: 21 Apr 2026 18:02 UTC
+! Last modified: 21 Apr 2026 18:32 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e890a5b540126b3cb2255432ce2e5ca86f24d40e
+! Commit: 3fb714d6cebcc0a1f943dcda10fd5d937afc2121
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23319,6 +23319,7 @@ browsershots.org#@#.advert_area
 ||corporaldispleased.com^
 ||corporalgelnobles.com^
 ||corpsenoodleflakes.com^
+||corpspatrol.cfd^
 ||corramba.lol^
 ||correapiddles.qpon^
 ||correctdilutetrophy.com^
@@ -40722,6 +40723,7 @@ browsershots.org#@#.advert_area
 ||ofcuboneom.com^
 ||ofcukorporatefi.com^
 ||ofdoyluowkolk.website^
+||ofdpmoabbtak.in^
 ||offalsfetusduffers.qpon^
 ||offalsswelled.com^
 ||offbeat-function.pro^
@@ -63059,6 +63061,7 @@ browsershots.org#@#.advert_area
 ||xjrwxfdphc.com^
 ||xjueekpdakm.com^
 ||xjuo8c9412htpcz5xzhxi5ko.rest^
+||xjuoopnalaycv.site^
 ||xjurarsoqdinb.website^
 ||xjvotbewtzmql.site^
 ||xjwcxexkllbns.space^
@@ -63479,6 +63482,7 @@ browsershots.org#@#.advert_area
 ||xtewwhvhyrazi.site^
 ||xtftkmthhfjpy.website^
 ||xtgrhgnbvwehy.website^
+||xtgrsenjpmvwm.online^
 ||xtidentinhp.net^
 ||xtidentinhp.xyz^
 ||xtirtlpvihklp.site^
