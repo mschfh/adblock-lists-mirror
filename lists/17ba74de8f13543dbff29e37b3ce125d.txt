@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604222102
+! Version: 202604222124
 ! Title: EasyList
-! Last modified: 22 Apr 2026 21:02 UTC
+! Last modified: 22 Apr 2026 21:24 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4932bd468749c1a0be4c156f4b6574274e6a830a
+! Commit: dbc70c4a0feb24e7278377de83477eaf2891704b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25390,6 +25390,7 @@ browsershots.org#@#.advert_area
 ||dnavexch.com^
 ||dnbkjfihvakfb.store^
 ||dncipukpuvstn.site^
+||dndkzrqtlozkv.online^
 ||dnemkhkbsdbl.com^
 ||dnfs24.com^
 ||dngzvmztykhkw.online^
@@ -27157,6 +27158,7 @@ browsershots.org#@#.advert_area
 ||ergent.xyz^
 ||erggaxbuuevsw.site^
 ||ergonomicparadeupstroke.com^
+||ergoscllcdbov.online^
 ||erhkyebogpkfk.online^
 ||erhlyvjhetcad.online^
 ||ericiuspatedairward.cyou^
@@ -27572,6 +27574,7 @@ browsershots.org#@#.advert_area
 ||exmwfltxyxwmr.website^
 ||exnesstrack.com^
 ||exoclick.com^
+||exodospaulian.shop^
 ||exodusjailhousetarantula.com^
 ||exofrwe.com^
 ||exogenydorperforbow.qpon^
@@ -29100,6 +29103,7 @@ browsershots.org#@#.advert_area
 ||frocompactcountless.com^
 ||frodo.space^
 ||froglegturio.qpon^
+||frogletbit.cfd^
 ||frogletutopism.com^
 ||frogmenewerernuchale.cyou^
 ||frohddwovyjno.online^
@@ -33451,6 +33455,7 @@ browsershots.org#@#.advert_area
 ||invitedexamine.com^
 ||inviteroot.com^
 ||invitinghonor.com^
+||invitingjanuaryneurotic.com^
 ||invitingpace.com^
 ||invivijydstsn.website^
 ||invl.me^
@@ -36898,6 +36903,7 @@ browsershots.org#@#.advert_area
 ||lokimaki.com^
 ||loktrk.com^
 ||lolco.net^
+||loliumlaceier.cfd^
 ||lollylenobhut.qpon^
 ||lolsefti.com^
 ||lominglaes.com^
@@ -44059,6 +44065,7 @@ browsershots.org#@#.advert_area
 ||polished-hook.com^
 ||polishleadennineteen.com^
 ||polishshone.com^
+||politanimala.cyou^
 ||polite1266.fun^
 ||politecabinet.com^
 ||politemajor.com^
