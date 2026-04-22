@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604220616
+! Version: 202604220703
 ! Title: EasyList
-! Last modified: 22 Apr 2026 06:16 UTC
+! Last modified: 22 Apr 2026 07:03 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 13bbf8a58575cbda1955913dba62f02592f8c6f5
+! Commit: 7c4c3ab77f2f1e9984e7aa10c1f84a0cd01d2070
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17650,6 +17650,7 @@ browsershots.org#@#.advert_area
 ||agendacomponent.com^
 ||agendadejection.com^
 ||agenteimmobiliare.info^
+||agexhbuxysqay.website^
 ||agfasjfhveoqf.online^
 ||aggerpunka.com^
 ||aggravatingboard.pro^
@@ -26753,6 +26754,7 @@ browsershots.org#@#.advert_area
 ||emptinsnast.shop^
 ||empty-advantage.pro^
 ||empty-airport.com^
+||emqmxiqultfhdv.com^
 ||emqokltbiegez.space^
 ||emraudjotas.shop^
 ||emrjmsbdgtlhl.website^
@@ -54065,6 +54067,7 @@ browsershots.org#@#.advert_area
 ||syconidharoset.qpon^
 ||syconidzoeas.cyou^
 ||sycosesunbase.com^
+||sycszolrv.com^
 ||sycuvdfe.com^
 ||sydcabegidwsg.store^
 ||sydswiples.cyou^
@@ -57371,6 +57374,7 @@ browsershots.org#@#.advert_area
 ||uhjcnbzhnnqqb.space^
 ||uhlomzqpdtduv.space^
 ||uhmfsydtgnaph.site^
+||uhmkdqahrtxdy.online^
 ||uhnrcmlqloxij.site^
 ||uhnrnjwey.xyz^
 ||uhnvoddrtwyeg.website^
@@ -58506,6 +58510,7 @@ browsershots.org#@#.advert_area
 ||usaronrajahs.cfd^
 ||usationstroll.com^
 ||usavmhnwphcmm.online^
+||usbhwjbltvbin.com^
 ||usbrowserspeed.com^
 ||uscahcjmcjyuj.space^
 ||usckthgqdbflv.site^
@@ -60627,6 +60632,7 @@ browsershots.org#@#.advert_area
 ||wacagokabab.cyou^
 ||wacksomewhymeaul.cfd^
 ||wacthobbegkx.net^
+||wacxepvqjrqym.site^
 ||wadauthy.net^
 ||wadecarbohydrate.com^
 ||waecfxgwypwoh.space^
