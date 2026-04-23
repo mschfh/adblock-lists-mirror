@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604230700
+! Version: 202604230805
 ! Title: EasyList
-! Last modified: 23 Apr 2026 07:00 UTC
+! Last modified: 23 Apr 2026 08:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 64e7c4139365391cf14083021122343e36a6e979
+! Commit: 196b7a90c7b960e09c4b3b223c6c0b1f159f4611
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21456,6 +21456,7 @@ browsershots.org#@#.advert_area
 ||bwrpksadewchb.website^
 ||bwtsfdwatsyhz.website^
 ||bwttasdajpduj.site^
+||bwusbdanadvvd.space^
 ||bwvgtmxrqmkwv.website^
 ||bwwardgyspxvy.site^
 ||bwwuveplotadr.site^
@@ -29401,6 +29402,7 @@ browsershots.org#@#.advert_area
 ||fwcavwstvmekw.online^
 ||fwciiqsskqyih.site^
 ||fwhiygzlhmklt.website^
+||fwinrsexuivnd.website^
 ||fwioqgqlohdoc.online^
 ||fwkjvuoqfqchj.online^
 ||fwlpazuvbhmkg.online^
@@ -33315,6 +33317,7 @@ browsershots.org#@#.advert_area
 ||innumerabledeclinedrepentance.com^
 ||innumerablemakeupreligious.com^
 ||innyweakela.co^
+||inobureleosirify.cyou^
 ||inocvsvmeopau.space^
 ||inopportuneattendants.com^
 ||inopportunelargestrumble.com^
@@ -35066,6 +35069,7 @@ browsershots.org#@#.advert_area
 ||kcdn.xyz^
 ||kcdnakioe.com^
 ||kcdnbeczdhqea.space^
+||kcdzmwgnhmut.com^
 ||kcerlelentmatc.org^
 ||kcftfzbpgkute.space^
 ||kcgjjpqihtwly.online^
@@ -41592,6 +41596,7 @@ browsershots.org#@#.advert_area
 ||ornaterice.pro^
 ||ornerp.click^
 ||ornery-possible.com^
+||orneryquiet.com^
 ||orneryspeed.pro^
 ||ornnxfsfnkwbs.space^
 ||ornogcjtywif.in^
@@ -49453,6 +49458,7 @@ browsershots.org#@#.advert_area
 ||rtbsystem.org^
 ||rtbterra.com^
 ||rtbtrail.com^
+||rtcaqnwh.com^
 ||rtcdupmicrfkp.site^
 ||rtceeemh.com^
 ||rtdgdfdfehzrv.space^
@@ -50015,6 +50021,7 @@ browsershots.org#@#.advert_area
 ||sagiestspiegel.qpon^
 ||sagingavigate.shop^
 ||sagitalwalnut.cyou^
+||sagoarenammites.cfd^
 ||sagssmuikantl.website^
 ||sagtbhshvpjwsgu.xyz^
 ||saharanrewin.com^
@@ -55819,6 +55826,7 @@ browsershots.org#@#.advert_area
 ||tmyjdymycilps.website^
 ||tnaczwecikco.online^
 ||tnanqkvvrqond.online^
+||tnaygpxwlubq.com^
 ||tnbigewpbffra.website^
 ||tnbmdavwrgygn.online^
 ||tncarking.qpon^
@@ -63971,6 +63979,7 @@ browsershots.org#@#.advert_area
 ||xwlketvkzf.com^
 ||xwlptajihmbkz.space^
 ||xwmcxqcxipcln.site^
+||xwndglzdegsvq.site^
 ||xwowmgmlnzrsk.website^
 ||xwpgeedhojjes.online^
 ||xwqea.com^
@@ -82770,6 +82779,7 @@ bankbazaar.com##[height="80"]
 airplaydirect.com,bankbazaar.com,cultofcalcio.com,dailynews.lk,economicconfidential.com,eve-search.com,lyngsat.com,newzimbabwe.com,opednews.com,roadtester.com.au,runechat.com,tfetimes.com##[height="90"]
 tokopedia.com##[href$="src=topads"]
 yourbittorrent.com##[href*="%20"][href$=".html"]
+readfrom.net##[href*="&aff"]
 photopea.com##[href*=".ivank.net"]
 nzbstars.com,upload.ee##[href*=".php"]
 complaintsingapore.com##[href*="/adv.php"]
