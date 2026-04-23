@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202604222349
+! Version: 202604230058
 ! Title: EasyPrivacy
-! Last modified: 22 Apr 2026 23:49 UTC
+! Last modified: 23 Apr 2026 00:58 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 146644567feb93a0b71c59a24d42843aa06c28c5
+! Commit: 37b589ad534b0b3cd0a13dda4cc73f51e66c09a6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17099,10 +17099,11 @@ abc17news.com,al.com,artforum.com,artnews.com,awkward.com,awkwardmom.com,bailiwi
 baeldung.com,cheatsheet.com,mensjournal.com,pwinsider.com##+js(rmnt, script, admiral)
 gbatemp.net##+js(set, admiral, noopFunc)
 usatoday.com##+js(set, gnt.x.adm, '')
+||operationsports.com/wp-json/navy/v1/tag?pid=
 ! noopjson
 ||acustomizedgift.com^$redirect=noopjs,script
 ||acustomizedgift.com^$redirect=noopjson,xmlhttprequest
-||inventorycache.com^$redirect=noopjson,xmlhttprequest
+||inventorycache.com^$redirect=noopjs,script
 ||kindhush.com^$redirect=noopjson,xmlhttprequest
 ||oceancloudhosts.com^$redirect=noopjson,xmlhttprequest
 ! anikore.jp
