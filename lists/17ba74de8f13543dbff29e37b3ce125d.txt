@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604230516
+! Version: 202604230615
 ! Title: EasyList
-! Last modified: 23 Apr 2026 05:16 UTC
+! Last modified: 23 Apr 2026 06:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8fb0f27e5c678cb2389a3a6ead7d52c2bd431619
+! Commit: 19bcd901af924d5e94a748682c9e1eb6de1086a0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16170,6 +16170,7 @@ browsershots.org#@#.advert_area
 ||5tukn694h3byqj.cfd^
 ||5vbs96dea.com^
 ||5vpbnbkiey24.com^
+||5w8v8395iej8n4jwefgm.cfd^
 ||5wuefo9haif3.com^
 ||5xd3jfwl9e8v.com^
 ||5xpbfj2oiv6g9kn1r.rest^
@@ -26471,6 +26472,7 @@ browsershots.org#@#.advert_area
 ||efyskiqcpfrgn.website^
 ||efyufxhdgwbkg.online^
 ||efzmgmnugopxs.site^
+||eg56fukm7tglfl3hzcfxf8lwnok.rest^
 ||egaxybiqeramc.space^
 ||egbggijlkjwoo.space^
 ||egctjciixiire.space^
@@ -27333,6 +27335,7 @@ browsershots.org#@#.advert_area
 ||etgetoexukprese.org^
 ||etgetxsjqwtir.site^
 ||ethanliassic.cfd^
+||ethcadtfumuzs.space^
 ||etheappyrincerta.com^
 ||ethecityonata.com^
 ||ethecityonatallcolu.org^
@@ -31292,6 +31295,7 @@ browsershots.org#@#.advert_area
 ||havingunderwear.com^
 ||havstpqgejqbw.site^
 ||hawaiiwinless.qpon^
+||hawbuckclypei.qpon^
 ||hawingour.qpon^
 ||hawkabsurd.com^
 ||hawkedbhang.shop^
@@ -31875,6 +31879,7 @@ browsershots.org#@#.advert_area
 ||hmvuezvlrxygm.website^
 ||hmxg5mhyx.com^
 ||hmxoufchteecf.world^
+||hmysbrkzrtana.space^
 ||hmzxoegngasft.site^
 ||hnbanvxtkavun.site^
 ||hnc53xcfyl38o83njrnrbe6cyvwr7.cfd^
@@ -32874,6 +32879,7 @@ browsershots.org#@#.advert_area
 ||ikqyazeadzqvo.space^
 ||ikubypxrzqjah.store^
 ||ikw6kuegmp67mt4y.rest^
+||ikxnncvyixros.website^
 ||ikzwvkuxrymqu.space^
 ||il2foh6wfcznb75tu2zz.cfd^
 ||ilaterdeallyig.info^
@@ -34673,6 +34679,7 @@ browsershots.org#@#.advert_area
 ||jsfuz.com^
 ||jsgohlhuxnvup.site^
 ||jsgvuduhprrzf.space^
+||jshtwambpnsdtf.com^
 ||jsmcrpu.com^
 ||jsmcrt.com^
 ||jsmentry.com^
@@ -39105,6 +39112,7 @@ browsershots.org#@#.advert_area
 ||muraplbwira.in^
 ||murathernias.com^
 ||murderassuredness.com^
+||murinespercalespright.qpon^
 ||muriumjitneurshantih.qpon^
 ||murky-claim.pro^
 ||murkybrashly.com^
@@ -39182,6 +39190,7 @@ browsershots.org#@#.advert_area
 ||mvovblzjltyec.online^
 ||mvptqo39pgz5369z49ve28k.cfd^
 ||mvrptblhcuehu.website^
+||mvsawhrfn.com^
 ||mvsdejyifaudl.space^
 ||mvstmjowjtxij.site^
 ||mvugvtzbonlik.website^
@@ -49512,6 +49521,7 @@ browsershots.org#@#.advert_area
 ||rubestdealfinder.com^
 ||rubiconproject.com^
 ||rubidicflexiveharking.cfd^
+||rubkfezraamr.in^
 ||rubricacunonia.cyou^
 ||rubricantired.cfd^
 ||rubyblu.com^
