@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604231932
+! Version: 202604232001
 ! Title: EasyList
-! Last modified: 23 Apr 2026 19:32 UTC
+! Last modified: 23 Apr 2026 20:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e616d0cd2b7d43ed59a0fc210501bdd37fe3d8e3
+! Commit: baa7ff0f7b93fa4b186729dae98968066644fd1a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17760,6 +17760,7 @@ browsershots.org#@#.advert_area
 ||ahlothpsubmvk.website^
 ||ahmjihatpva.in^
 ||ahmtescncvn.com^
+||ahmyebqzknlpj.website^
 ||ahort.xyz^
 ||ahqarmcpaovc.in^
 ||ahqgebqijkibt.space^
@@ -25117,6 +25118,7 @@ browsershots.org#@#.advert_area
 ||dipwsxfgtliob.online^
 ||diqartxheos.com^
 ||diqjitlusjki.com^
+||dirbvattydams.site^
 ||direcompulsion.com^
 ||direct-specific.com^
 ||directaclick.com^
@@ -33106,6 +33108,7 @@ browsershots.org#@#.advert_area
 ||impedimentorganized.com^
 ||impeditenomoty.com^
 ||impenetrablescald.com^
+||imperbransleurim.cfd^
 ||imperfectmedicine.pro^
 ||imperialsubjective.com^
 ||impersonalsix.com^
@@ -65118,6 +65121,7 @@ browsershots.org#@#.advert_area
 ||yqnqnvpunztoe.space^
 ||yqocbixitiqnc.space^
 ||yqohoxwuyu.club^
+||yqoktira.com^
 ||yqp-oxzxjecq.world^
 ||yqpaumufbetsu.space^
 ||yqpktmyrfacks.website^
@@ -65565,6 +65569,7 @@ browsershots.org#@#.advert_area
 ||zb94bheebq2bip.cfd^
 ||zbaleqvaffoqg.com^
 ||zbbmothculony.space^
+||zbdyhiafvbonu.website^
 ||zbeozhemp.com^
 ||zbgparrzfiywf.website^
 ||zbhfbgoskxqmz.online^
