@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604241304
+! Version: 202604241332
 ! Title: EasyList
-! Last modified: 24 Apr 2026 13:04 UTC
+! Last modified: 24 Apr 2026 13:32 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a121899dfb32f9817ae204f74acd9852ecc25ade
+! Commit: 8ae4d237b4b3327f077d6e3aec0d5d4bc7e1673c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21654,6 +21654,7 @@ browsershots.org#@#.advert_area
 ||caiqbjsmnpkkq.com^
 ||cairnaswellcrim.cyou^
 ||cajangtikker.cyou^
+||cajanreaping.qpon^
 ||cakeoverdoagenda.com^
 ||cakescelebrationrecalled.com^
 ||cakesinventory.com^
@@ -24999,6 +25000,7 @@ browsershots.org#@#.advert_area
 ||dgyy59yc.xyz^
 ||dgzykxavrvekj.site^
 ||dharmicafray.cfd^
+||dhaswilrehp.in^
 ||dhbfsbanlrmqm.website^
 ||dhcqlbteygqeg.site^
 ||dhdebdmvzljbk.site^
@@ -36327,6 +36329,7 @@ browsershots.org#@#.advert_area
 ||lbefscvpuihal.website^
 ||lbflkilpukb.com^
 ||lbhtkeffrcqxz.site^
+||lbjkrojavrquu.com^
 ||lbkezllrokbev.top^
 ||lblscpmfxuzqq.space^
 ||lbmznmoboxffo.online^
@@ -38644,6 +38647,7 @@ browsershots.org#@#.advert_area
 ||mkacyblu.com^
 ||mkbgzaxkwyilk.online^
 ||mkcmuoujzgsxv.online^
+||mkehaniyybtru.online^
 ||mkekzahca.com^
 ||mkfbgiwbkaslj.online^
 ||mkgbfykqrmwti.site^
@@ -40804,6 +40808,7 @@ browsershots.org#@#.advert_area
 ||nymllqnuvxbsz.online^
 ||nymphetunbloomtympano.qpon^
 ||nymsdhtpngjip.space^
+||nyphgxjomnbne.online^
 ||nyqisqlogwnnr.online^
 ||nyquazhpvouya.website^
 ||nyrtxtkgoaxad.online^
@@ -42454,6 +42459,7 @@ browsershots.org#@#.advert_area
 ||paginacube.com^
 ||pagkitahn.com^
 ||paglufbwaojh.in^
+||pagodacushvolapuk.qpon^
 ||pagrmqxj.com^
 ||pagrusautist.cyou^
 ||pagrusswangy.cyou^
@@ -56188,6 +56194,7 @@ browsershots.org#@#.advert_area
 ||toforeyest.cyou^
 ||toftmanwithier.shop^
 ||toftmenmurre.qpon^
+||toftscoelia.shop^
 ||tofusardeid.cyou^
 ||togachasse.cfd^
 ||togemanalgates.shop^
