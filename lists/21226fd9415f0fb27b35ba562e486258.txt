@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 4T2LPNnAYe8VfemV+GMxlg
+! Checksum: eQKKkTw+rwkm3az3+sZ8IA
 ! Title: Easylist Cookie List
-! Last modified: 2026-04-24 09:25 UTC
+! Last modified: 2026-04-24 11:50 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -22611,7 +22611,7 @@ titantvguide.com##+js(set-local-storage-item, COOKIE_CHECK, false)
 settings.gg##+js(set-local-storage-item, COOKIE_CONSENT, 1)
 ultrahuman.com##+js(set-local-storage-item, COOKIE_CONSENT, false)
 manuals.annafreud.org##+js(set-local-storage-item, COOKIE_CONSENT, no)
-mvideo.ru##+js(set-local-storage-item, COOKIE_NOTIFICATION_SUBMITED, true)
+mvideo.ru##+js(set-local-storage-item, COOKIE_NOTIFICATION_SUBMITED_v2, true)
 cpc2r.ch##+js(set-local-storage-item, CPCCookies, true)
 akkushop-turkiye.com.tr##+js(set-local-storage-item, CerezUyariGosterildi, true)
 teamtailor.com##+js(set-local-storage-item, CookieConsent--hideCookieConsent, true)
@@ -26695,7 +26695,6 @@ bestradio.fm,iblitzmods.ru,kinoby.ru,tvguru.ru##.message-alert
 npfb.ru##.messenger-popup
 mosreg.ru##.metrica-warning
 strana.one,strana.today##.modal
-mvideo.ru##.modal-wrapper
 asna.ru##.modalCookies_root__356Q-
 shophair.ru##.modal_popup_sessid_box
 nspk.ru##.modals-cookies
