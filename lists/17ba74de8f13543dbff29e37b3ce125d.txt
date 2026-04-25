@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604251025
+! Version: 202604251052
 ! Title: EasyList
-! Last modified: 25 Apr 2026 10:25 UTC
+! Last modified: 25 Apr 2026 10:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7d3c13d9cc837bcd76c663c711bc5735a9194dcb
+! Commit: 193b3910fd6ce99a2e471039c0256e528dba2b58
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -35508,6 +35508,7 @@ browsershots.org#@#.advert_area
 ||kiblahmafia.com^
 ||kickhoistsuccess.com^
 ||kickishsilt.cfd^
+||kicxabxrtkabg.space^
 ||kiddingainus.cfd^
 ||kidimportant.com^
 ||kidnapstrongestfeathers.com^
@@ -38181,6 +38182,7 @@ browsershots.org#@#.advert_area
 ||mcomwacfpafmugc.com^
 ||mcppsh.com^
 ||mcpuwpsh.com^
+||mcwtjxxpphqrs.online^
 ||mcxuorwlaqtyd.site^
 ||mcyaabdssxdlg.space^
 ||mcymghkpdhqmk.website^
@@ -40392,6 +40394,7 @@ browsershots.org#@#.advert_area
 ||nmluwlxnolamc.website^
 ||nmodihjmob.in^
 ||nmohwgqtxslxm.site^
+||nmpkfhczjd.com^
 ||nmunljgekpsrj.site^
 ||nmvjlztddvfdv.website^
 ||nmvxuqpeuhrgw.site^
