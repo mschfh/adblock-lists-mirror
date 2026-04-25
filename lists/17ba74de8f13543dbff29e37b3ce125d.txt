@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604251536
+! Version: 202604251619
 ! Title: EasyList
-! Last modified: 25 Apr 2026 15:36 UTC
+! Last modified: 25 Apr 2026 16:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 76d251a69caea412eee3770083d7a2a7069942ac
+! Commit: 7b2161f8f97c1fbf387624f9e65628b26a95ca6d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -34652,6 +34652,7 @@ browsershots.org#@#.advert_area
 ||jklxapwjjgyqb.space^
 ||jklxltljnrvnt.space^
 ||jkmdfnarliyun.website^
+||jkntebxbvq.com^
 ||jkqiweqrxsieb.website^
 ||jksmaafnkdyni.store^
 ||jktabzfgykmxa.top^
@@ -35847,6 +35848,7 @@ browsershots.org#@#.advert_area
 ||koklxkbyxhhzs.website^
 ||kokotrokot.com^
 ||kokuminfounderredlegs.qpon^
+||kokuwdvomxaja.website^
 ||kokzjh29wnttolm.cfd^
 ||kolaspravity.qpon^
 ||koleyo.xyz^
@@ -36726,6 +36728,7 @@ browsershots.org#@#.advert_area
 ||lgidoqcabrwia.website^
 ||lgiwpeqvbksng.website^
 ||lgjdmglqloopu.space^
+||lgjqtkdvnxfes.space^
 ||lgkdxzaslmiai.site^
 ||lgllejevhxigd.website^
 ||lglvpblubkfgd.site^
@@ -45536,6 +45539,7 @@ browsershots.org#@#.advert_area
 ||psibkjdxecrte.online^
 ||psicemephauk.net^
 ||psidmjbykhff.com^
+||psidwlsscbfpqci.com^
 ||psilaurgi.net^
 ||psiloizongora.cfd^
 ||psilsophulsich.net^
@@ -46761,6 +46765,7 @@ browsershots.org#@#.advert_area
 ||qkzrybopigalg.site^
 ||ql181i9foz886x4.cfd^
 ||ql75vr14ko62t3.cfd^
+||qlankrifncwbd.site^
 ||qlbqhgittewkb.space^
 ||qlbztvyadkhwk.website^
 ||qlciukpiefevz.online^
@@ -52480,6 +52485,7 @@ browsershots.org#@#.advert_area
 ||slipperymirror.pro^
 ||slise.xyz^
 ||slitterarustleakala.cyou^
+||slivegphbana.qpon^
 ||slivesapsago.cfd^
 ||slivmux.com^
 ||sliwercohue.top^
