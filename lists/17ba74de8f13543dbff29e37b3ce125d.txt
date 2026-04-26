@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604260555
+! Version: 202604260652
 ! Title: EasyList
-! Last modified: 26 Apr 2026 05:55 UTC
+! Last modified: 26 Apr 2026 06:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a000e7f9c8fb6c18619c945b858abcdd8f8df220
+! Commit: d90995cd8146650253cecb3aac9c5445e969750e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15664,6 +15664,7 @@ browsershots.org#@#.advert_area
 ||1om22nv93f678xfex75985tc4.cfd^
 ||1osb.com^
 ||1p8ln1dtr.de^
+||1pbi568k7vpkq3g16z.rest^
 ||1pqfa71mc.de^
 ||1push.io^
 ||1qgxtxd2n.com^
@@ -16541,6 +16542,7 @@ browsershots.org#@#.advert_area
 ||9c8b7403e9.com^
 ||9c8c9909e1.com^
 ||9cbj41a5.de^
+||9cuo1fv233p5x889jolrw7ybzcomnvvn4c53h.cfd^
 ||9d611c2d8a.com^
 ||9da190a7d9.com^
 ||9dmnv9z0gtoh.com^
@@ -19009,6 +19011,7 @@ browsershots.org#@#.advert_area
 ||atngumgams.in^
 ||atochavespoid.cfd^
 ||atokesoter.cyou^
+||atoleqhjnpkrx.website^
 ||atollmoline.cyou^
 ||atomex.net^
 ||atonato.de^
@@ -19060,6 +19063,7 @@ browsershots.org#@#.advert_area
 ||atticalgodshipthumps.qpon^
 ||atticcourthousetechnique.com^
 ||attirecideryeah.com^
+||attmzxgfkrnbn.com^
 ||attomyjelib.qpon^
 ||attpmhuguafrl.space^
 ||attqbruefzfsc.space^
@@ -19394,6 +19398,7 @@ browsershots.org#@#.advert_area
 ||azlonprovost.shop^
 ||azmexngawjzhx.space^
 ||aznapoz.info^
+||aznjmyopdl.in^
 ||azofierlogliketourize.cyou^
 ||azoniumtiangue.top^
 ||azoniumtigrina.cyou^
@@ -21837,6 +21842,7 @@ browsershots.org#@#.advert_area
 ||caplanameluyephede.cfd^
 ||caplesscotinggoobers.cyou^
 ||capletsammergilgul.qpon^
+||caplockcestas.cfd^
 ||capmxofwswpbf.website^
 ||capndr.com^
 ||cappingvic.qpon^
@@ -28608,6 +28614,7 @@ browsershots.org#@#.advert_area
 ||finishedneat.com^
 ||finishedwindscreen.com^
 ||finishingrex.com^
+||finjanwollop.qpon^
 ||finlearningcluster.com^
 ||finnersonly.cfd^
 ||finnysubgyregroped.qpon^
@@ -29760,6 +29767,7 @@ browsershots.org#@#.advert_area
 ||galaksion.com^
 ||galaxyearningsfly.com^
 ||galaxypush.com^
+||galeaedifformpapaio.qpon^
 ||galeaeevovae.com^
 ||galeateinocyte.cfd^
 ||galeindelicatedrove.com^
@@ -32101,6 +32109,7 @@ browsershots.org#@#.advert_area
 ||hlhguzuidislw.site^
 ||hlhuihrzbebkv.one^
 ||hlieylbicxtm.com^
+||hligoarcsbi.com^
 ||hlinit.com^
 ||hljhrqskvlpee.com^
 ||hlkwshtzpeuma.space^
@@ -37239,6 +37248,7 @@ browsershots.org#@#.advert_area
 ||lnfksfxtuojmk.site^
 ||lnfncvjaweewi.tech^
 ||lnfqqqnevxuvl.website^
+||lngbqjutikehs.online^
 ||lninwkhw9zopc9qq.rest^
 ||lnk8j7.com^
 ||lnkgoeumsip.com^
@@ -37820,6 +37830,7 @@ browsershots.org#@#.advert_area
 ||lyusuwiuwhwtl.online^
 ||lyvkvqitzktkx.store^
 ||lyvlbjzbozkxy.space^
+||lyvootnkgwxkq.online^
 ||lywfwxeexwcwc.online^
 ||lywuyxazjxmbt.site^
 ||lyxx864xku5j69nn7zirehv8mvqg.rest^
@@ -40191,6 +40202,7 @@ browsershots.org#@#.advert_area
 ||neylfbiplikrk.space^
 ||neynypjufelcs.site^
 ||neywckhoogxze.site^
+||nezeyrfoo.com^
 ||nezigkhbowjhs.site^
 ||neztlwbosrksr.online^
 ||nezygmobha.com^
@@ -41496,6 +41508,7 @@ browsershots.org#@#.advert_area
 ||oheplxkctxtdw.online^
 ||oheyffpqepntj.store^
 ||ohffs.com^
+||ohfuuzzotyffr.online^
 ||ohgbefqegvejj.store^
 ||ohgriforkvan.com^
 ||ohgwkaedrbujt.website^
@@ -42512,6 +42525,7 @@ browsershots.org#@#.advert_area
 ||oxulukobrtpcl.site^
 ||oxvaiahphegkq.online^
 ||oxvmctwdsernj.site^
+||oxwalfakz.in^
 ||oxwpsqfoyaxkc.website^
 ||oxwubxdszakdr.website^
 ||oxwytjjqlkoqm.website^
@@ -56570,6 +56584,7 @@ browsershots.org#@#.advert_area
 ||togetherefwuko.org^
 ||togglecrex.shop^
 ||toglooman.com^
+||togxfwvfslruy.space^
 ||toieetnnb.com^
 ||toiknxtfiyaht.site^
 ||toiletaudacity.com^
@@ -81671,6 +81686,7 @@ finextra.com##.module--sponsor
 webmd.com##.module-f-hs
 usmagazine.com##.module-storyme
 webmd.com##.module-top-picks
+topographic-map.com##.moduleAmazon
 fxsforexsrbijaforum.com##.module_ahlaejaba
 dfir.training##.moduleid-307
 dfir.training##.moduleid-347
