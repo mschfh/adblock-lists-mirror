@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604260434
+! Version: 202604260555
 ! Title: EasyList
-! Last modified: 26 Apr 2026 04:34 UTC
+! Last modified: 26 Apr 2026 05:55 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 481ccb7b86f9affe2c1a688dd0ffdc05dce50bb4
+! Commit: a000e7f9c8fb6c18619c945b858abcdd8f8df220
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21440,6 +21440,7 @@ browsershots.org#@#.advert_area
 ||burgersscathy.qpon^
 ||burglargiggleportion.com^
 ||burglarycirculationintense.com^
+||burgoolynched.cfd^
 ||burgsmithra.cfd^
 ||burialhotter.com^
 ||burialspoises.cfd^
@@ -23003,6 +23004,7 @@ browsershots.org#@#.advert_area
 ||coatsanguine.com^
 ||coaxwrote.com^
 ||coazdbbxocvgi.site^
+||coazoveekjecr.space^
 ||cobaltsanctionyodel.com^
 ||cobbiercurvet.shop^
 ||cobbingstokes.com^
@@ -26723,6 +26725,7 @@ browsershots.org#@#.advert_area
 ||eiotqjelvrceb.online^
 ||eipapwgvmipdi.online^
 ||eirnongray.qpon^
+||eirxecdhafmcju.com^
 ||eirxggijnfnto.space^
 ||eisellindues.com^
 ||eiteribesshaints.com^
@@ -28129,6 +28132,7 @@ browsershots.org#@#.advert_area
 ||fascialbel.shop^
 ||fascialdrawee.qpon^
 ||fascinegrudges.cfd^
+||faselsdoilies.cfd^
 ||fashionedstrengthen.com^
 ||faskaxpmuwzooo.com^
 ||faskiwftip.in^
@@ -30773,6 +30777,7 @@ browsershots.org#@#.advert_area
 ||graithexpire.com^
 ||graizoah.com^
 ||grallichalvas.com^
+||grameala.cyou^
 ||grammarsetfact.com^
 ||grammyopiate.com^
 ||gramyworsts.qpon^
@@ -31195,6 +31200,7 @@ browsershots.org#@#.advert_area
 ||gwotxytfckfor.store^
 ||gwpifpeauhhwk.online^
 ||gwqzmgmedlxrz.site^
+||gwrqslmseajux.site^
 ||gwrsyyrghwnuo.space^
 ||gwuclhycrqqjz.space^
 ||gwvdcsktrvzjc.site^
@@ -34178,6 +34184,7 @@ browsershots.org#@#.advert_area
 ||ixflv6oin5853xul.rest^
 ||ixgommzgtesvq.online^
 ||ixgyezjgpsnob.store^
+||ixhqrfzzijjjz.site^
 ||ixjqbrjolgrmf.store^
 ||ixjqjoscayasz.website^
 ||ixlimkqlecilk.online^
@@ -35024,6 +35031,7 @@ browsershots.org#@#.advert_area
 ||jtarfendijmmo.online^
 ||jtdkmjuiogidh.site^
 ||jtfsrnmxdcwtx.site^
+||jthkegumzcwkz.site^
 ||jthvhvisxilvq.space^
 ||jtijneiumjttd.space^
 ||jtinbgeyzmcjd.online^
@@ -35185,6 +35193,7 @@ browsershots.org#@#.advert_area
 ||jwcgmioafykme.site^
 ||jwcpgnlnwbukt.xyz^
 ||jwdyjlafpkxkf.space^
+||jweekuxflrgqj.site^
 ||jwfaregtarvql.space^
 ||jwfavmnbogdrf.site^
 ||jwgjcdqxtlrem.space^
@@ -42088,6 +42097,7 @@ browsershots.org#@#.advert_area
 ||osarmapa.net^
 ||oscseiyqeaafd.website^
 ||osculelost.com^
+||osdcwxakccviz.site^
 ||osdkublrgnidm.website^
 ||osdlavodqppy.in^
 ||osdvmhchowlvm.website^
@@ -45354,6 +45364,7 @@ browsershots.org#@#.advert_area
 ||proclaimsaneconviction.com^
 ||proclamationnimble.com^
 ||proclamationromp.com^
+||procneeclats.cfd^
 ||procuratorcauldron.com^
 ||procuredsheet.com^
 ||procureshaft.com^
@@ -47929,6 +47940,7 @@ browsershots.org#@#.advert_area
 ||razegimbal.help^
 ||razerstagua.cfd^
 ||razorcommentdisprove.com^
+||razorstomial.cyou^
 ||raztrwwjuefeo.website^
 ||razzedaurate.cfd^
 ||razziakinkly.help^
@@ -51489,6 +51501,7 @@ browsershots.org#@#.advert_area
 ||separatelysmackfibber.com^
 ||separationsufferinguptown.com^
 ||separtecallais.cyou^
+||sepdwelling.cyou^
 ||sephiraasperly.com^
 ||sephiramaths.cfd^
 ||sepiarypooris.com^
@@ -53979,6 +53992,7 @@ browsershots.org#@#.advert_area
 ||stiletbroom.shop^
 ||stillawokeathwart.com^
 ||stiltsglowed.com^
+||stiltydreckskangli.cfd^
 ||stiltyfoist.shop^
 ||stimpaichoulr.net^
 ||stimtavy.net^
