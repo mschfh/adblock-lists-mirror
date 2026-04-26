@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604260827
+! Version: 202604260859
 ! Title: EasyList
-! Last modified: 26 Apr 2026 08:27 UTC
+! Last modified: 26 Apr 2026 08:59 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6e4022051ce842c6427412399aaecad51283baba
+! Commit: 68f6453240237683ca6727eb7d66481d5fa79253
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19934,6 +19934,7 @@ browsershots.org#@#.advert_area
 ||begonaoidausek.com^
 ||begraysprags.qpon^
 ||begsterbranned.com^
+||beguilemaud.cfd^
 ||begunksplints.com^
 ||behalfplead.com^
 ||behavepassword.com^
@@ -23489,6 +23490,7 @@ browsershots.org#@#.advert_area
 ||cordplumb.com^
 ||core.dimatter.ai^
 ||coreadness.com^
+||coredsemeion.cyou^
 ||coresfaecal.qpon^
 ||corjlougqaicc.top^
 ||corkirouteat.qpon^
@@ -31182,6 +31184,7 @@ browsershots.org#@#.advert_area
 ||gvglgyoouewbt.online^
 ||gvgotlyefgqek.site^
 ||gvjhwvhmvidfh.website^
+||gvjnolhw.com^
 ||gvlntdvflisny.space^
 ||gvmogilshxbdg.store^
 ||gvokzhdxjylzk.site^
@@ -65285,6 +65288,7 @@ browsershots.org#@#.advert_area
 ||ygrgyhhexvwvs.site^
 ||ygtbzpdemamrn.online^
 ||ygtonnwghswtx.space^
+||ygtzipndentuz.online^
 ||yguychjhiayuj.site^
 ||ygvcpjsusxkfs.online^
 ||ygvxiyraogkfcy.com^
@@ -66137,6 +66141,7 @@ browsershots.org#@#.advert_area
 ||zagkozkvrqojx.online^
 ||zagvee.com^
 ||zahbvlocavpyv.website^
+||zahmrhjtzkgrt.online^
 ||zahvrkdkeulsy.site^
 ||zaigdumtnuvip.site^
 ||zaijoorainauza.net^
