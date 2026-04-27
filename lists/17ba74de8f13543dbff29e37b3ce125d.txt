@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604272216
+! Version: 202604272254
 ! Title: EasyList
-! Last modified: 27 Apr 2026 22:16 UTC
+! Last modified: 27 Apr 2026 22:54 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3121a6b4d63f07907e62274035f21300968ade5a
+! Commit: ef7b04a2cfa831b6c8bd19c88eb662598df754c9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21133,6 +21133,7 @@ browsershots.org#@#.advert_area
 ||brfpinjy.com^
 ||brgetizqltkfa.space^
 ||brgnthxurfpzf.space^
+||brhnedxrpvrzu.website^
 ||bri2u1kvwo3848bp2bv1fljrelem.rest^
 ||briaredbreaker.qpon^
 ||briarygimellegroom.cfd^
@@ -40773,6 +40774,7 @@ browsershots.org#@#.advert_area
 ||nmwjlaywnozwj.vip^
 ||nmyfedath.com^
 ||nmynalaphswdf.space^
+||nmzfdkjwktofb.site^
 ||nn125.com^
 ||nnacoevirghpr.store^
 ||nnblhywxxvofw.space^
@@ -41430,6 +41432,7 @@ browsershots.org#@#.advert_area
 ||objscancoollyfarci.cfd^
 ||objxnsqjqcdsf.online^
 ||obkotollchnkz.space^
+||obkquerawnkxr.site^
 ||obkrwyfmsoajc.space^
 ||oblaaezkiofaa.online^
 ||oblatesnowie.qpon^
