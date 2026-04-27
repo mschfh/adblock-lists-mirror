@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604271045
+! Version: 202604271140
 ! Title: EasyList
-! Last modified: 27 Apr 2026 10:45 UTC
+! Last modified: 27 Apr 2026 11:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8b5ce5430ea5d8a744668f0c735ba2346341bfdb
+! Commit: d87850707e37b00913e55bb6df3b490b57671492
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28790,6 +28790,7 @@ browsershots.org#@#.advert_area
 ||fkczwsqlpdokj.online^
 ||fkdwmpbpsggha.online^
 ||fkeiszrozsynl.space^
+||fkerpycwiqawm.com^
 ||fkgpewlsrzwiu.website^
 ||fkhqplyxmaafw.space^
 ||fkhwblrosnlrc.space^
@@ -30262,6 +30263,7 @@ browsershots.org#@#.advert_area
 ||ghnoqyfqgsoof.space^
 ||ghojgnahyzcyy.store^
 ||ghoksjqoceaww.online^
+||ghosterpycnial.qpon^
 ||ghostnewz.com^
 ||ghostsinstance.com^
 ||ghoulshuldah.cfd^
@@ -38669,6 +38671,7 @@ browsershots.org#@#.advert_area
 ||metatrckpixel.com^
 ||metavertising.com^
 ||metd11gim.com^
+||metelygufferpreman.cyou^
 ||meteortoffee.com^
 ||metershookdash.com^
 ||methodimperativebackground.com^
@@ -44748,6 +44751,7 @@ browsershots.org#@#.advert_area
 ||poanibaphowho.net^
 ||poarichivoawie.net^
 ||poarukeestoowie.net^
+||poatqpupaxsud.website^
 ||poavoabe.net^
 ||poawhecoothoan.net^
 ||poawoacaujaug.net^
@@ -53838,6 +53842,7 @@ browsershots.org#@#.advert_area
 ||sqmflktsfxqvf.site^
 ||sqowxfenvwht.com^
 ||sqpcjfvdgnemlhf.net^
+||sqpyclvkzpgnw.space^
 ||sqrekndc.fun^
 ||sqrutmdxmgsho.online^
 ||sqsclhamjsukz.site^
@@ -61485,6 +61490,7 @@ browsershots.org#@#.advert_area
 ||vrldejvphpidi.online^
 ||vrluvwemmoamuh.com^
 ||vrnfgjkurfxcl.site^
+||vrnlguanlempa.site^
 ||vrnzbidmiesbl.site^
 ||vrobuzbimodk.com^
 ||vroomsoutwickanglian.cfd^
@@ -62207,6 +62213,7 @@ browsershots.org#@#.advert_area
 ||wbsuckexjnhca.site^
 ||wbt9e9egqw6yq86ju2.cfd^
 ||wbtzciyvbektf.website^
+||wbunwbnmzkmos.site^
 ||wbwqvtqnggfjd.online^
 ||wbwtbhaowksqc.site^
 ||wbww9ouxolw7ji3i.rest^
@@ -65124,6 +65131,7 @@ browsershots.org#@#.advert_area
 ||xynthfjiefofs.site^
 ||xyntqqrtdrjzk.online^
 ||xyntwwaomkvtl.online^
+||xyowqtdc.com^
 ||xypfboanhelbs.space^
 ||xypmbdsisnrqe.site^
 ||xyqrkqolynwyi.site^
