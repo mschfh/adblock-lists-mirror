@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604271911
+! Version: 202604272003
 ! Title: EasyList
-! Last modified: 27 Apr 2026 19:11 UTC
+! Last modified: 27 Apr 2026 20:03 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ee1e662d7b6b3c0a27ccb0eba0d374b79e64d7c4
+! Commit: 534a466c776fcc9cf90f7dfd2b136906a9307698
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18916,6 +18916,7 @@ browsershots.org#@#.advert_area
 ||aspensripost.qpon^
 ||asperencium.com^
 ||asphaltniveau.qpon^
+||asphesimopnso.site^
 ||aspicszebub.cyou^
 ||aspignitean.com^
 ||aspirationprogrammecontains.com^
@@ -26099,6 +26100,7 @@ browsershots.org#@#.advert_area
 ||dtinryawvor.in^
 ||dtjzcyjeywfaa.website^
 ||dtmpub.com^
+||dtmypozttguhc.site^
 ||dtodayomegksc.site^
 ||dtpenovvvaux.com^
 ||dtpngkqmjyuff.store^
@@ -40197,6 +40199,7 @@ browsershots.org#@#.advert_area
 ||nckyebkwqugez.website^
 ||ncmeojlrybcza.online^
 ||ncnqvqyekbvno.site^
+||ncohonjzlyorv.site^
 ||ncovrokc.com^
 ||ncpicdowknqup.site^
 ||ncqfppkwczjal.site^
@@ -42207,6 +42210,7 @@ browsershots.org#@#.advert_area
 ||oqhvfroyxr1gh5b.rest^
 ||oqjzazobpofq.in^
 ||oqkhxgzljvqzr.store^
+||oqmacnov.in^
 ||oqmiadfkmlcwz.website^
 ||oqtoltlimot.in^
 ||oqtxcfuumplee.website^
@@ -45952,6 +45956,7 @@ browsershots.org#@#.advert_area
 ||psoussairsa.net^
 ||psouthiboordaub.net^
 ||psouwoardou.net^
+||pspibwwzpxofu.website^
 ||pspowofewvrzf.site^
 ||psqnvvhohipcm.site^
 ||psshqlfxthaza.online^
@@ -64517,6 +64522,7 @@ browsershots.org#@#.advert_area
 ||xjaazsfnlynkk.online^
 ||xjawvwhipohot.online^
 ||xjdkccwyttuqj.website^
+||xjeawdxiaiyulkm.com^
 ||xjeusvccvp.com^
 ||xjfhvjcsviyrg.site^
 ||xjhmuyvufdesh.space^
