@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604281036
+! Version: 202604281134
 ! Title: EasyList
-! Last modified: 28 Apr 2026 10:36 UTC
+! Last modified: 28 Apr 2026 11:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2c1e8210f5e8a5a20ad1565611266c1d3298414b
+! Commit: 52761c095a5f4ab200482de21eeab047b4c48cb7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20855,6 +20855,7 @@ browsershots.org#@#.advert_area
 ||bonusgew.com^
 ||bonusmaniac.com^
 ||bonuspis.com^
+||bonwtunwgboos.online^
 ||bonyspecialist.pro^
 ||boobausauhipsa.net^
 ||boobbounds.com^
@@ -24974,6 +24975,7 @@ browsershots.org#@#.advert_area
 ||demandingoverdriveunthread.com^
 ||demandrefreshment.com^
 ||demastseolith.qpon^
+||dembvurvkwmfo.online^
 ||dementedjudged.com^
 ||demeoremincypos.cfd^
 ||demiseskill.com^
@@ -26842,6 +26844,7 @@ browsershots.org#@#.advert_area
 ||ehzxvqyrxydqv.space^
 ||eiaffrjrykttz.online^
 ||eicbhvfrqwtof.space^
+||eicrpbaojyadd.online^
 ||eicyobandony.com^
 ||eidzzyexqbtnn.online^
 ||eiget.xyz^
@@ -27369,6 +27372,7 @@ browsershots.org#@#.advert_area
 ||eojnmxdvcgozv.space^
 ||eokbuxljvlfwm.space^
 ||eolgafayqqglt.online^
+||eomhdkmkemwow.online^
 ||eondunpea.com^
 ||eonwuljgmyjep.site^
 ||eonyagtfvpvuz.site^
@@ -28613,6 +28617,7 @@ browsershots.org#@#.advert_area
 ||fgmkedzcrvsyl.online^
 ||fgnvnqsoqehlp.space^
 ||fgoqfrzcwdmrh.online^
+||fgqxcrpyhuw.com^
 ||fgqymntnqmcby.website^
 ||fgqyxgbqfxyot.website^
 ||fgsuxvboquxjg.website^
@@ -35576,6 +35581,7 @@ browsershots.org#@#.advert_area
 ||kailsfrot.com^
 ||kaira18.com^
 ||kaiu-marketing.com^
+||kajfjxjrcn.com^
 ||kajyqgfjhohks.website^
 ||kakkechudic.shop^
 ||kakoswijwtdlj.online^
