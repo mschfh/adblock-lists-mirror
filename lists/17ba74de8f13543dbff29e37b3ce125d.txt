@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202604281335
+! Version: 202604281436
 ! Title: EasyList
-! Last modified: 28 Apr 2026 13:35 UTC
+! Last modified: 28 Apr 2026 14:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a2387f026e1c61332450b0c7b060fed2afa5f16e
+! Commit: bcb9a66f98a3a6855aa0f02fb4bc87931a28858f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18286,6 +18286,7 @@ browsershots.org#@#.advert_area
 ||amwmxldlxyc.com^
 ||amwoukrkskillso.com^
 ||amxrtb.com^
+||amxwubswyl.in^
 ||amyctichourisrozzer.cfd^
 ||amyldiarian.cfd^
 ||amylomjemwhare.cfd^
@@ -21794,6 +21795,7 @@ browsershots.org#@#.advert_area
 ||cagealas.com^
 ||cagjcsdkvyzmj.com^
 ||cagothie.net^
+||cahierswet.cyou^
 ||cahootdisodic.com^
 ||caiqbjsmnpkkq.com^
 ||cairnaswellcrim.cyou^
@@ -35605,6 +35607,7 @@ browsershots.org#@#.advert_area
 ||kaminari.systems^
 ||kamiyakeyaki.qpon^
 ||kamoiimclmryu.space^
+||kanaimasilency.cfd^
 ||kandjarordene.shop^
 ||kangaroointentions.com^
 ||kannenhexagynnervule.cfd^
@@ -37731,6 +37734,7 @@ browsershots.org#@#.advert_area
 ||lovrsdate.com^
 ||lowavituper.shop^
 ||lowboyrehair.qpon^
+||lowboystretch.cfd^
 ||loweredbowl.com^
 ||loweststernhaunting.com^
 ||lowlifewhateverspotless.com^
@@ -40727,6 +40731,7 @@ browsershots.org#@#.advert_area
 ||niqqanoywhgse.site^
 ||nirlsephetichunfysh.cyou^
 ||niromzkm.in^
+||nirweydhaawas.com^
 ||nirybekekiemu.website^
 ||niscprts.com^
 ||nishars.care^
@@ -40750,6 +40755,7 @@ browsershots.org#@#.advert_area
 ||niynetojcbet.com^
 ||nizarstream.xyz^
 ||njatwiklklyae.site^
+||njbdhmocyenk.com^
 ||njcgxydbhmckv.site^
 ||njdjdaoozplxj.site^
 ||njgkzmkkapqjv.online^
@@ -41536,6 +41542,7 @@ browsershots.org#@#.advert_area
 ||obligationdrummersculpture.com^
 ||obligationpaltryroute.com^
 ||obligedmeditatedazed.com^
+||obligorraif.cyou^
 ||obliquecensortend.com^
 ||obliquescallionexcavator.com^
 ||oblivionplaysaltered.com^
@@ -43806,6 +43813,7 @@ browsershots.org#@#.advert_area
 ||pennilessboost.com^
 ||pennilesscomingall.com^
 ||pennyotcstock.com^
+||penochilinodiquats.cfd^
 ||penplasson.qpon^
 ||penseesstores.help^
 ||pensephotog.cfd^
@@ -59305,6 +59313,7 @@ browsershots.org#@#.advert_area
 ||unhealthystickevents.com^
 ||unhelersicer.cyou^
 ||unhelmweiring.cfd^
+||unhewedranli.cyou^
 ||unhhxqsvirudt.online^
 ||unhivjqsbpvdg.space^
 ||unhoodtorrone.shop^
@@ -61547,6 +61556,7 @@ browsershots.org#@#.advert_area
 ||voidedreallot.qpon^
 ||voidthemhen.org^
 ||voiknrayaanxl.space^
+||voirpfhavircs.online^
 ||voitureinitive.cyou^
 ||voivodedicolon.cyou^
 ||vojxriaqujzlg.site^
@@ -61638,6 +61648,7 @@ browsershots.org#@#.advert_area
 ||voykjmggmpinak.net^
 ||vozpublic.com^
 ||vozukepyxuvag.website^
+||vpbhuddvufxvb.space^
 ||vpbigdsnehwam.today^
 ||vpbjuracackcm.online^
 ||vpbqnbodeknuk.online^
@@ -63038,6 +63049,7 @@ browsershots.org#@#.advert_area
 ||whkbqnkscmnwo.global^
 ||whktyaohgkycz.website^
 ||whldthsafmpam.online^
+||whlimyimgudxl.website^
 ||whngwfskm.com^
 ||whnlerwojyzhi.space^
 ||whoadhoxtojg.com^
@@ -64194,6 +64206,7 @@ browsershots.org#@#.advert_area
 ||wxlgtwrcruaui.online^
 ||wxmxrg3551onwl2wq.cfd^
 ||wxnbmpishocym.online^
+||wxngociwgiqin.online^
 ||wxoxhqasovdxy.space^
 ||wxpmgnvi.com^
 ||wxqhhskaltnbw.site^
