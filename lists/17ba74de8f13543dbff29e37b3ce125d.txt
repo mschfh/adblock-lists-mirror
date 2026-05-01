@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605010725
+! Version: 202605010820
 ! Title: EasyList
-! Last modified: 01 May 2026 07:25 UTC
+! Last modified: 01 May 2026 08:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9881d8f064fdef1b29306ee33dce0d961618b5c0
+! Commit: 406f4de2f33aa8338b79976fadfc01997411ead0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -32424,6 +32424,7 @@ browsershots.org#@#.advert_area
 ||hispidtux.com^
 ||hissharppremiere.com^
 ||histi.co^
+||histoneleppyglue.cyou^
 ||historianoutstandingoverwhelm.com^
 ||historicalaudible.com^
 ||historicaldefiniterare.com^
@@ -42163,6 +42164,7 @@ browsershots.org#@#.advert_area
 ||ohbognmxxssou.space^
 ||ohbtludnmaaqd.online^
 ||ohbxjiwpjzewd.online^
+||ohcifxucd.com^
 ||ohdaqtkuvnt.in^
 ||ohdbwbwxrlgsd.site^
 ||ohdhevxnilnvd.space^
@@ -60356,6 +60358,7 @@ browsershots.org#@#.advert_area
 ||uroovwrouh.com^
 ||uroxintyphons.cfd^
 ||urpaldueuqktf.website^
+||urpjftdfykkpz.site^
 ||urpqgcglytucg.online^
 ||urqpvwovevlni.site^
 ||urqtwkydh.com^
@@ -62379,6 +62382,7 @@ browsershots.org#@#.advert_area
 ||vvrjezyxwxhqd.store^
 ||vvtwasjebvswf.website^
 ||vvucsxbdqbjzg.site^
+||vvuixbnjzntpb.site^
 ||vvundtltrjars.site^
 ||vvusxpvwokviz.website^
 ||vvuttotofvazt.site^
