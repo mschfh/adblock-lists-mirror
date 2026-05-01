@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605010105
+! Version: 202605010150
 ! Title: EasyList
-! Last modified: 01 May 2026 01:05 UTC
+! Last modified: 01 May 2026 01:50 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 57765da3df5a0c23d8aa875bf499046d58ea81ad
+! Commit: a7b45880df4e8da9d7de16cdc57ba0adba082ef6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22509,6 +22509,7 @@ browsershots.org#@#.advert_area
 ||changelesschoir.com^
 ||changepowder.xyz^
 ||changesclomped.shop^
+||chanstoases.shop^
 ||chapahclower.cfd^
 ||chapturnjut.com^
 ||characteristicattractcheeky.com^
@@ -23467,6 +23468,7 @@ browsershots.org#@#.advert_area
 ||confinekibbler.com^
 ||confinementroguerecital.com^
 ||confirmationbiscuitdescriptive.com^
+||confitagree.shop^
 ||conflabbegan.com^
 ||conformityexpertgrounds.com^
 ||confrontation2.fun^
@@ -25301,6 +25303,7 @@ browsershots.org#@#.advert_area
 ||dginqrzlbgpcme.com^
 ||dgkkeiedhqgmp.top^
 ||dgmlivzogecdb.online^
+||dgmlsiurhcdij.space^
 ||dgmnnanjowm.com^
 ||dgnaytytjtowb.site^
 ||dgnrkluiozosx.online^
@@ -33136,6 +33139,7 @@ browsershots.org#@#.advert_area
 ||hydorrxacolif.website^
 ||hydrazocroceus.cfd^
 ||hydridcodeias.qpon^
+||hydroxygelder.shop^
 ||hydtrapish.cfd^
 ||hydubzqzcjacj.online^
 ||hyeqzfqgubqkj.space^
@@ -38388,6 +38392,7 @@ browsershots.org#@#.advert_area
 ||lznpaqtbynhke.site^
 ||lznzljcgtn.com^
 ||lzocczbksyjtt.online^
+||lzooxkoqvc.in^
 ||lzpiozkcngklw.site^
 ||lzrbw9i3859xjj2.rest^
 ||lzresfdeddzap.online^
@@ -48144,6 +48149,7 @@ browsershots.org#@#.advert_area
 ||quotationgambling.com^
 ||quotedrigorous.com^
 ||quotes.com^
+||quothbarges.cfd^
 ||qupeapzwhcbnx.space^
 ||qupnxsdvarzew.site^
 ||quppbriocuzkx.website^
@@ -65182,6 +65188,7 @@ browsershots.org#@#.advert_area
 ||xklpiowdefuaige.com^
 ||xkmhnekbfoibx.website^
 ||xkmxxgroronzy.online^
+||xknnagwnilyhhz.com^
 ||xkohqkhftqwlm.site^
 ||xkopvesrnertg.site^
 ||xkpbcd.com^
