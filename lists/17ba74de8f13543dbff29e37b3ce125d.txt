@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605031901
+! Version: 202605031930
 ! Title: EasyList
-! Last modified: 03 May 2026 19:01 UTC
+! Last modified: 03 May 2026 19:30 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7243ab798f2431b5f0e14c861e387fc86486b8fe
+! Commit: 49e9162d5fbdcf5a9ca711459dde47d82e00704a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31730,6 +31730,7 @@ browsershots.org#@#.advert_area
 ||guyjrraidsrlk.store^
 ||guyoetiepwijy.online^
 ||guyssleeted.qpon^
+||guytgaznvzzju.website^
 ||guyvztdqncxgu.online^
 ||guztaoowjw.com^
 ||guzzlealibied.cyou^
@@ -45189,6 +45190,7 @@ browsershots.org#@#.advert_area
 ||pitfoldmolding.qpon^
 ||pitholefantod.shop^
 ||pithosbaleinuclei.qpon^
+||pitlikesubfuskfaecula.cfd^
 ||pitnonoic.cyou^
 ||pitofficialfollower.com^
 ||pitomiebowknot.cfd^
