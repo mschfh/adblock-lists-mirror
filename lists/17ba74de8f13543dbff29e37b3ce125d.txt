@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605041308
+! Version: 202605041435
 ! Title: EasyList
-! Last modified: 04 May 2026 13:08 UTC
+! Last modified: 04 May 2026 14:35 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6c288664b52a24a9d4cd413f488ef85ea6ca8307
+! Commit: ae1ab754c410fee6953dea9181761462a7aff9bb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21596,6 +21596,7 @@ browsershots.org#@#.advert_area
 ||bugs2022.com^
 ||bugscrawled.com^
 ||bugweedsewnthegns.cfd^
+||buidpbvqkx.com^
 ||buiimifrliflc.website^
 ||buikolered.com^
 ||buildnaq91.site^
@@ -26015,6 +26016,7 @@ browsershots.org#@#.advert_area
 ||dobydeglory.cyou^
 ||docentcliquybepen.cyou^
 ||doceticreflets.shop^
+||docilemolies.qpon^
 ||dockerstagery.shop^
 ||docpicvggkfcp.site^
 ||doctorlambert.shop^
@@ -42327,6 +42329,7 @@ browsershots.org#@#.advert_area
 ||obufsqtvwc.com^
 ||obumlnwrmmewj.site^
 ||obuqhpqiqfgoe.love^
+||obuzgeyjbauom.com^
 ||obvdcylwtpaaa.tech^
 ||obvfwxmnasscj.space^
 ||obvious-report.pro^
@@ -45272,6 +45275,7 @@ browsershots.org#@#.advert_area
 ||pippinsbedamns.help^
 ||pipqgicbrxhwl.website^
 ||pipsol.net^
+||pipspicousmatzas.cyou^
 ||piquantamylin.shop^
 ||piqueuraftergo.cyou^
 ||piquiafarde.help^
@@ -61786,6 +61790,7 @@ browsershots.org#@#.advert_area
 ||vdtmacbhiltpf.website^
 ||vdukpbmavzcne.store^
 ||vdulz.org^
+||vdvexwplakqrx.site^
 ||vdxasdpf.com^
 ||vdxsvladcihnm.online^
 ||vdyjhikwomhkk.space^
@@ -66879,6 +66884,7 @@ browsershots.org#@#.advert_area
 ||ydpvpcnmwh.com^
 ||ydqhvlqqhtuli.website^
 ||ydqjjnyincwxu.site^
+||ydqohelavznqe.site^
 ||ydrfibhfdbhv.com^
 ||ydrlapkhokpdr.space^
 ||ydsagcvrejuim.online^
@@ -67241,6 +67247,7 @@ browsershots.org#@#.advert_area
 ||ykzzjyyshqniz.space^
 ||yladihsmkopov.xyz^
 ||ylbcwkazxnmjp.online^
+||ylblrqhpurxxo.website^
 ||ylcajkhefghaf.online^
 ||yldbt.com^
 ||yldmgrimg.net^
@@ -67826,6 +67833,7 @@ browsershots.org#@#.advert_area
 ||yxtnrafwvysku.online^
 ||yxtwurrbxqifz.website^
 ||yxunqfhyuwrxt.online^
+||yxwqaarrqpvxg.site^
 ||yxwwyxmpowqnm.space^
 ||yxykanwovbzfr.site^
 ||yxyrblnpmtahz.world^
