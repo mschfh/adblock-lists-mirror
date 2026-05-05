@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605051303
+! Version: 202605051345
 ! Title: EasyList
-! Last modified: 05 May 2026 13:03 UTC
+! Last modified: 05 May 2026 13:45 UTC
 ! Expires: 4 days (update frequency)
-! Commit: fa7e24e7d66c1c8a845cdeb2a7d4c3d37f6dbf42
+! Commit: acc7b21321ce737bd2be399328ba2f43d308e821
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19883,6 +19883,7 @@ browsershots.org#@#.advert_area
 ||bathinggrovels.cyou^
 ||bathtubabdomencoarse.com^
 ||baticalfelixstown.org^
+||batilevwwijjj.online^
 ||batlancaret.cfd^
 ||batonbertie.shop^
 ||batondeplace.cyou^
@@ -41571,6 +41572,7 @@ browsershots.org#@#.advert_area
 ||nistquarry.qpon^
 ||nisuhweeciet.com^
 ||nitafu.click^
+||nitencymaracarammy.cyou^
 ||nitencyovicell.qpon^
 ||niterforeact.com^
 ||nitidmazdoorbaratte.qpon^
@@ -54546,6 +54548,7 @@ browsershots.org#@#.advert_area
 ||soaheeme.net^
 ||soahefoaca.net^
 ||soakaldim.cyou^
+||soakersunseely.com^
 ||soakmaneyry.qpon^
 ||soamelxvleduv.space^
 ||soaneefooy.net^
@@ -63908,6 +63911,7 @@ browsershots.org#@#.advert_area
 ||wdtyl.xyz^
 ||wdtypxrniewko.website^
 ||wduwzaqhftslc.website^
+||wdvuuunmjmyvz.online^
 ||wdwadkgqylntz.space^
 ||wdwbixdr.com^
 ||wdwdjwodpqjzm.site^
