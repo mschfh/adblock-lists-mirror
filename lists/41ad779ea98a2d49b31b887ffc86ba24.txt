@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DJFNxR20BzmueiK89WqV/A
-! Version: 202605060050
+! Checksum: pcfmlkCbRr9NSQ9arwCOKg
+! Version: 202605060125
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-05-06 00:50 UTC
+! Last modified: 2026-05-06 01:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -14638,6 +14638,7 @@ _social_footer_
 ||shbarcelona.com/img/socialnetwork/
 ! fanboy_social_specific_hide.txt
 iflscience.com###FollowOnGoogleNewsBtn
+sfgate.com###HP-Sig-ChronFunds
 rockmods.net###LinkList76
 vnews.com###NNEsharearea
 catholicculture.org###SM_area
