@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605060702
+! Version: 202605060740
 ! Title: EasyList
-! Last modified: 06 May 2026 07:02 UTC
+! Last modified: 06 May 2026 07:40 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e2ca1fcf5395f6901f268c8a9a17226eb63e07e9
+! Commit: 9ec1b79472c4aaf526b269610df9d0f0d3ca22e5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -26194,6 +26194,7 @@ browsershots.org#@#.advert_area
 ||doruckmangedreamed.cyou^
 ||dosachen.com^
 ||dosagepettytrust.com^
+||doseknaggedfloreat.cfd^
 ||dossingxina.com^
 ||dosslaccase.shop^
 ||dosvaultgame.com^
@@ -51695,6 +51696,7 @@ browsershots.org#@#.advert_area
 ||rtunitytostaracaree.com^
 ||rtuqnflawcsuz.online^
 ||rtutccflgcwyr.website^
+||rtvgwhubti.com^
 ||rtwgvkozpvicu.website^
 ||rtwyggxb.com^
 ||rtxfeed.com^
@@ -62314,6 +62316,7 @@ browsershots.org#@#.advert_area
 ||vfaorhgal.in^
 ||vfcxsogc.com^
 ||vfdsfnvcaqyjd.space^
+||vfdujtvihgnzr.site^
 ||vfedymrbwcsmw.net^
 ||vfegfmbcyerbh.space^
 ||vfegqmbcgyndw.today^
