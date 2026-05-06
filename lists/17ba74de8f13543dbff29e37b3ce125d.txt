@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605060740
+! Version: 202605060853
 ! Title: EasyList
-! Last modified: 06 May 2026 07:40 UTC
+! Last modified: 06 May 2026 08:53 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9ec1b79472c4aaf526b269610df9d0f0d3ca22e5
+! Commit: e4c1608edf95530dd12210bbc931f48ffb4c3391
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17825,6 +17825,7 @@ browsershots.org#@#.advert_area
 ||agmvwgwhgpnyu.online^
 ||agnelbehung.com^
 ||agnomenbahisti.qpon^
+||agnomentopslwomby.cyou^
 ||agnqolfmjebpk.icu^
 ||agnruzedegphs.site^
 ||agoniaslightyhexact.qpon^
@@ -20661,6 +20662,7 @@ browsershots.org#@#.advert_area
 ||bjtvacwkzetxc.store^
 ||bjuaivwbdktzz.online^
 ||bjvhcjulwwnmk.space^
+||bjvqyvnnaf.com^
 ||bjwnarindcbnv.website^
 ||bjwqzuxcuvmla.space^
 ||bjwsukqqkbwdm.com^
@@ -24369,6 +24371,7 @@ browsershots.org#@#.advert_area
 ||cterpsofcjzcf.life^
 ||ctexueogshbdo.online^
 ||cteytkyhihnx.com^
+||ctfwqdqorpdic.space^
 ||ctgatzmzxwzsa.website^
 ||ctgkrtjuarrzp.online^
 ||ctgpterrasekv.space^
@@ -25095,6 +25098,7 @@ browsershots.org#@#.advert_area
 ||dealtoneoddly.com^
 ||dealtravailtoronja.cfd^
 ||dear-soil.com^
+||dearestappeal.com^
 ||dearesthydrogen.com^
 ||dearesttongue.pro^
 ||deathcoho.com^
@@ -29309,6 +29313,7 @@ browsershots.org#@#.advert_area
 ||fizmyftiyt.com^
 ||fizzyacerbitymellow.com^
 ||fjeamibbbhxuf.site^
+||fjehdlzbqjdyb.site^
 ||fjeldlabret.qpon^
 ||fjhqfcgfahfhw.site^
 ||fjjdwjwtfnouy.website^
@@ -31007,6 +31012,7 @@ browsershots.org#@#.advert_area
 ||gjubvembrxsot.space^
 ||gjvyboaabepyl.online^
 ||gjwaboxawfixf.space^
+||gjwfqghstrdwu.online^
 ||gjwos.org^
 ||gjxoqgdozssvh.website^
 ||gjxqkypxmgevy.website^
@@ -37365,6 +37371,7 @@ browsershots.org#@#.advert_area
 ||lacerateclimaxthrow.com^
 ||lacertamylaseslob.cfd^
 ||lacessateens.com^
+||laceyscylla.cfd^
 ||lachesbegnawairway.qpon^
 ||lacilypelterscoagel.cyou^
 ||lacisaboma.com^
