@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605060853
+! Version: 202605060953
 ! Title: EasyList
-! Last modified: 06 May 2026 08:53 UTC
+! Last modified: 06 May 2026 09:53 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e4c1608edf95530dd12210bbc931f48ffb4c3391
+! Commit: 62fcf2995c44e9ab1af8a46de46a10bf6d1d8aff
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17697,6 +17697,7 @@ browsershots.org#@#.advert_area
 ||affstreck.com^
 ||afftrack.com^
 ||afftrackr.com^
+||affyingambeer.cfd^
 ||affyrtb.com^
 ||afgenqtscnbaw.space^
 ||afgodscarpe.com^
@@ -20825,6 +20826,7 @@ browsershots.org#@#.advert_area
 ||blotecardthumb.com^
 ||blowersdialer.com^
 ||blowflymincesstichos.qpon^
+||blowgunbumpoff.cyou^
 ||blowierweskit.qpon^
 ||blowingwind.xyz^
 ||blpigisjqbykc.site^
@@ -23308,6 +23310,7 @@ browsershots.org#@#.advert_area
 ||cm-trk3.com^
 ||cm-trk5.com^
 ||cm65.com^
+||cm68nnlhbemii1n.rest^
 ||cmadserver.de^
 ||cmaxihlabsfpj.website^
 ||cmbestsrv.com^
@@ -35605,6 +35608,7 @@ browsershots.org#@#.advert_area
 ||jiqpagarc.in^
 ||jiquicryindexed.qpon^
 ||jirot.xyz^
+||jisqwlqhiojhe.site^
 ||jitanvlw.com^
 ||jitgibmibpayc.online^
 ||jitqwooztonj.in^
@@ -37348,6 +37352,7 @@ browsershots.org#@#.advert_area
 ||l2fmm7sp.xyz^
 ||l3qmzgpglx2m89uotr.cfd^
 ||l4brmr453jrcqbotg48zh.rest^
+||l543tw3x9z6vb5m3mxohj.cfd^
 ||l5ejbe9k5hkkl5mqjbe8uftubnv.cfd^
 ||l5lhhe1pouki6n.cfd^
 ||l5mkolerlnc5v33kmwfrhljrwwb.rest^
@@ -42480,6 +42485,7 @@ browsershots.org#@#.advert_area
 ||obeyingblellum.cfd^
 ||obeyroman.com^
 ||obeysatman.com^
+||obfirmslowfulscute.qpon^
 ||obfjheamcar.in^
 ||obhosmanw.in^
 ||obixlzxvxgcmf.site^
@@ -48758,6 +48764,7 @@ browsershots.org#@#.advert_area
 ||qtnhmmqmoyxzd.space^
 ||qtnljylmjmwpz.website^
 ||qtocttskrpfzi.space^
+||qtogakpeeqkeu.com^
 ||qtotkxbumapye.website^
 ||qtpalfofvpsw.com^
 ||qtpwhuodcsbtt.space^
@@ -49632,6 +49639,7 @@ browsershots.org#@#.advert_area
 ||rdizbuadhvcrs.site^
 ||rdjypzrfxctjo.site^
 ||rdkpidivntq.com^
+||rdkuqkllutvjr.site^
 ||rdlktrmgdsehk.online^
 ||rdlkuvqesmlva.store^
 ||rdmwvqumjfujk.online^
@@ -51545,6 +51553,7 @@ browsershots.org#@#.advert_area
 ||rrdfvxmumaxlt.online^
 ||rrdkcjhnwibop.website^
 ||rrdldrmfhefxf.online^
+||rrdzppesimjwm.space^
 ||rreawgiuphlul.website^
 ||rrentlysearchi.org^
 ||rretmobueggyz.site^
@@ -53028,6 +53037,7 @@ browsershots.org#@#.advert_area
 ||seemyresumefo.org^
 ||seenilskivvy.cfd^
 ||seepagecamail.shop^
+||seepedaphodal.cfd^
 ||seepingkol.cfd^
 ||seeptoag.net^
 ||seepyacracy.qpon^
@@ -61415,6 +61425,7 @@ browsershots.org#@#.advert_area
 ||uslfmnchussgv.site^
 ||uslqdimcuxehp.store^
 ||usmajesticrake.com^
+||usmjjucpnzait.online^
 ||usmxqdau.com^
 ||usneaers.cfd^
 ||usnihqekssbkq.space^
@@ -63828,6 +63839,7 @@ browsershots.org#@#.advert_area
 ||wastineediblesunsere.cyou^
 ||wastinghaplome.cyou^
 ||wastoowuth.net^
+||wastrelplait.qpon^
 ||watanabehono.info^
 ||watapehacek.qpon^
 ||watapesjazzesscalene.qpon^
@@ -65391,6 +65403,7 @@ browsershots.org#@#.advert_area
 ||wrathalkaidkneel.cfd^
 ||wrathfulclaim.com^
 ||wrathfulletter.com^
+||wrathprune.cfd^
 ||wrathyblesmol.com^
 ||wrazdlwgbgrvt.online^
 ||wrbaboroypgmq.online^
@@ -67076,6 +67089,7 @@ browsershots.org#@#.advert_area
 ||yarestengore.com^
 ||yarlyyappersinzer.qpon^
 ||yarphaapast.cyou^
+||yarphaservus.shop^
 ||yaryuujqckdco.site^
 ||yasequent.cfd^
 ||yashi.com^
