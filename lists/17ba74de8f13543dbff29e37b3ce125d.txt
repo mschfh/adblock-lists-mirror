@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605081842
+! Version: 202605081909
 ! Title: EasyList
-! Last modified: 08 May 2026 18:42 UTC
+! Last modified: 08 May 2026 19:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 109ef68d969e89cc7ea04677672acecafd21c9d0
+! Commit: bf59c625a9d10df9132c431e8843cc0cf8532f9d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22751,6 +22751,7 @@ browsershots.org#@#.advert_area
 ||challengingdevaluationperiods.com^
 ||chamberscrisiswalnut.com^
 ||chamberssnorted.com^
+||champbrusk.cyou^
 ||champeunhumanmpret.qpon^
 ||chancellorawaiting.com^
 ||chancellorcatchydeceived.com^
@@ -24041,6 +24042,7 @@ browsershots.org#@#.advert_area
 ||coucalhidated.com^
 ||coucalmildishbright.cyou^
 ||couijnmkgjdim.site^
+||couleefancifycalpul.cfd^
 ||coulierdomicil.shop^
 ||councernedasesi.org^
 ||counciladvertising.net^
@@ -33542,6 +33544,7 @@ browsershots.org#@#.advert_area
 ||htcwyzu.bar^
 ||htdixisbyvulc.store^
 ||htdvt.com^
+||hteisres.com^
 ||hteniplvbxeqt.space^
 ||hteznqyhsgahw.site^
 ||htgclhssrgikf.buzz^
@@ -64477,6 +64480,7 @@ browsershots.org#@#.advert_area
 ||xxmfopafuhkpe.space^
 ||xxmkvbqrbqcrz.website^
 ||xxnzjkioqzuyl.space^
+||xxpwdsggxpyrw.site^
 ||xxpzw73rq2h4vpjfepxxcbz.cfd^
 ||xxu6kju3p5lpwx8y6o.cfd^
 ||xxvfswapdzisf.website^
@@ -65992,6 +65996,7 @@ browsershots.org#@#.advert_area
 ||zbweattfkwerz.space^
 ||zbzfzftwtifyv.online^
 ||zcadqlurfhqgv.online^
+||zcakahvte.in^
 ||zcapieuheltue.store^
 ||zcbetcczfvylq.site^
 ||zcbwoorjvzbcu.online^
