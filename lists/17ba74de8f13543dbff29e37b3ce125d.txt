@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605090712
+! Version: 202605090832
 ! Title: EasyList
-! Last modified: 09 May 2026 07:12 UTC
+! Last modified: 09 May 2026 08:32 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0ed5d73825ca8ece3cd84caeadf6a1247939dbf5
+! Commit: e22fa070061ef58c173c590bb2b2485a7ed98d71
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20133,6 +20133,7 @@ browsershots.org#@#.advert_area
 ||becreepcartway.cyou^
 ||becrowdrecalls.cfd^
 ||becurstpoffle.cfd^
+||becutdubbed.shop^
 ||bedaffyamen.cfd^
 ||bedaregein.cfd^
 ||bedarksolans.cfd^
@@ -37622,6 +37623,7 @@ browsershots.org#@#.advert_area
 ||kzt2afc1rp52.com^
 ||kzu2lzp3ylel51it.rest^
 ||kzuqpscnidssd.website^
+||kzusrjeadgpry.space^
 ||kzvfolheruocg.space^
 ||kzxnxwznjezmq.website^
 ||kzzxfwvwxbfuu.website^
@@ -38141,6 +38143,7 @@ browsershots.org#@#.advert_area
 ||lfasterbiscusyse.org^
 ||lfavcwgydohba.store^
 ||lfaxbqqa.com^
+||lfbpvvmombyl.com^
 ||lfcnxhdzwwyka.space^
 ||lfcplotcfjqea.online^
 ||lfdepfhvoeygp.site^
@@ -43197,6 +43200,7 @@ browsershots.org#@#.advert_area
 ||ohbognmxxssou.space^
 ||ohbtludnmaaqd.online^
 ||ohbxjiwpjzewd.online^
+||ohcbrnxocudiu.online^
 ||ohcifxucd.com^
 ||ohdaqtkuvnt.in^
 ||ohdbwbwxrlgsd.site^
@@ -44303,6 +44307,7 @@ browsershots.org#@#.advert_area
 ||ozxlkegwyxfa.in^
 ||ozxvyaklufsce.space^
 ||ozyxnwnpfdiup.website^
+||p0b2hqyz.xyz^
 ||p12acx.com^
 ||p182qlx5wmkp5k3x1cb8.cfd^
 ||p1ib56kf957zj3b6qqnm.rest^
@@ -48026,6 +48031,7 @@ browsershots.org#@#.advert_area
 ||rbqfprbbtwgej.online^
 ||rbrightscarletcloaksan.org^
 ||rbrkiiwnfrgnqx.com^
+||rbscedjintfmb.online^
 ||rbsfckgfwpgnr.site^
 ||rbsifiqnyrhfd.space^
 ||rbtfit.com^
@@ -57077,6 +57083,7 @@ browsershots.org#@#.advert_area
 ||turtlerdhunchihiphalt.cfd^
 ||turtlestarterdirected.com^
 ||turtupeshou.net^
+||turturapproxjoked.qpon^
 ||tusayansamishtorsoes.cfd^
 ||tuscanypatens.shop^
 ||tushedmyeloidbrides.qpon^
@@ -66392,6 +66399,7 @@ browsershots.org#@#.advert_area
 ||ziekvasufucub.website^
 ||zifrppvunuhag.site^
 ||zigavpnmyqz.in^
+||zigzag-hurt.com^
 ||ziidgugyfrbvf.website^
 ||ziixnyrmrudmn.website^
 ||zijqohihvozks.space^
