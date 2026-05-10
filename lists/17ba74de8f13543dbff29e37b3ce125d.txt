@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605100059
+! Version: 202605100231
 ! Title: EasyList
-! Last modified: 10 May 2026 00:59 UTC
+! Last modified: 10 May 2026 02:31 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 72aabdf1d54617151b7854457b68e6653ff2e0b5
+! Commit: f4374559f3dab5f159be915ead30d2574328f8f5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22410,6 +22410,7 @@ browsershots.org#@#.advert_area
 ||caublarlpwmsn.site^
 ||caudexintrine.com^
 ||cauditcommernal.com^
+||caufdorminsanglo.qpon^
 ||cauliflowertoaster.com^
 ||caulomechookie.cyou^
 ||causeyexonian.com^
@@ -26085,6 +26086,7 @@ browsershots.org#@#.advert_area
 ||divtqucu.xyz^
 ||divulgezizzlepottah.cfd^
 ||divwbbyjikkkv.website^
+||diwanhebete.shop^
 ||diwvsftmdqhyo.space^
 ||dixxiowrgeame.online^
 ||dizhenmeehipj.space^
@@ -27921,6 +27923,7 @@ browsershots.org#@#.advert_area
 ||entailreprintfurnished.com^
 ||entangleversatile.com^
 ||entaspectsofc.org^
+||enteraessoign.cfd^
 ||enteringlacquergiant.com^
 ||entertainenslave.com^
 ||entertainlavish.com^
@@ -30423,6 +30426,7 @@ browsershots.org#@#.advert_area
 ||fulvenebocca.com^
 ||fulwasparplegushes.qpon^
 ||fulyvaxscaucd.club^
+||fumarinmoving.cfd^
 ||fumarylgypsyrypoucy.cfd^
 ||fumblingrun.com^
 ||fumblingvacation.pro^
@@ -31148,6 +31152,7 @@ browsershots.org#@#.advert_area
 ||ghuet.xyz^
 ||ghxjliswdiiax.space^
 ||ghxvylxnexmbc.website^
+||ghyfjpduegckx.site^
 ||ghyzimfjilvbt.online^
 ||ghzxqtvqjybuj.online^
 ||gialamebxneob.space^
@@ -32898,6 +32903,7 @@ browsershots.org#@#.advert_area
 ||heyserves.com^
 ||heyuhzdhoxcms.online^
 ||heyyounow.my^
+||heyzxededowik.site^
 ||hf5rbejvpwds.com^
 ||hfbhbzlflpuiz.site^
 ||hfcqcubumdrpp.website^
@@ -36509,6 +36515,7 @@ browsershots.org#@#.advert_area
 ||jweekuxflrgqj.site^
 ||jwfaregtarvql.space^
 ||jwfavmnbogdrf.site^
+||jwfdheuw.com^
 ||jwgjcdqxtlrem.space^
 ||jwhfxnravgzft.space^
 ||jwjcpzdprksgg.online^
@@ -44415,6 +44422,7 @@ browsershots.org#@#.advert_area
 ||packeteagle.com^
 ||packetsprewar.cfd^
 ||packlenseavesdrop.com^
+||packouabain.cfd^
 ||packsofgood.com^
 ||pacogage.cfd^
 ||pacteaten.com^
@@ -44703,6 +44711,7 @@ browsershots.org#@#.advert_area
 ||patacajabia.com^
 ||patakaendymal.top^
 ||patapatankhweevers.qpon^
+||patapatkerogen.cfd^
 ||patartnitchbuccal.cfd^
 ||patcans.club^
 ||patchportlyparking.com^
@@ -45288,6 +45297,7 @@ browsershots.org#@#.advert_area
 ||pickignoranceattacks.com^
 ||picklereunited.com^
 ||picklesbureaucracyconvene.com^
+||pickmeneluted.qpon^
 ||picmega.com^
 ||picoidpayout.com^
 ||picratenonane.shop^
@@ -46556,6 +46566,7 @@ browsershots.org#@#.advert_area
 ||prudesepulttestes.cyou^
 ||prudyascape.com^
 ||pruigoenows.cyou^
+||prukbxxjaevbvb.com^
 ||prussincomby.com^
 ||prutahcentre.qpon^
 ||pruvoyinnsvtk.com^
@@ -51836,6 +51847,7 @@ browsershots.org#@#.advert_area
 ||skycapsmissishribhus.qpon^
 ||skydemanded.com^
 ||skyeoutword.cfd^
+||skyfulrundlet.qpon^
 ||skyhexyl.shop^
 ||skyingwhuff.shop^
 ||skylindo.com^
@@ -52857,6 +52869,7 @@ browsershots.org#@#.advert_area
 ||spobkafwgzzzw.space^
 ||spodcobrqznaz.website^
 ||spodeliker.help^
+||spodespavesbulder.cfd^
 ||spoedlyyhexxr.online^
 ||spogelnaggerstopsail.cyou^
 ||spoilconsumerimmoral.com^
@@ -65749,6 +65762,7 @@ browsershots.org#@#.advert_area
 ||yrviuivtxhqay.store^
 ||yrvjauoibgcoa.website^
 ||yrwyaegirefcr.site^
+||yrxifyuacyaks.space^
 ||yrxyosdoumnfh.website^
 ||yryxwlovbdyjm.site^
 ||yrzjtrlzdrewa.site^
@@ -67070,6 +67084,7 @@ browsershots.org#@#.advert_area
 ||zuhiboomutoo.net^
 ||zuhityfzxjhan.website^
 ||zuidpnenuegax.site^
+||zuieggzsdlo.com^
 ||zuijvo.com^
 ||zuingdqirviqy.website^
 ||zukore.com^
@@ -77419,7 +77434,6 @@ thetvdb.com###ATF
 seafoodsource.com###Ad1-300x250
 seafoodsource.com###Ad2-300x250
 seafoodsource.com###Ad3-300x250
-nepalicalendar.rat32.com###adsnew
 boredbro.com###AdBox728
 moviekhhd.biz,webcarstory.com###Ads
 search.avast.com###AsbAdContainer
@@ -77610,6 +77624,7 @@ lingojam.com###adsense-area-label
 194.233.68.230###adsimgxatass
 ip-address.org###adsleft
 indiatimes.com###adslot_wrapper
+nepalicalendar.rat32.com###adsnew
 digitimes.com###adspace
 image.pi7.org###adswithloader
 byjus.com###adtech-related-links-container
