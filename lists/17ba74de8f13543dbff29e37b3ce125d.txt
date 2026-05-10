@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605101004
+! Version: 202605101024
 ! Title: EasyList
-! Last modified: 10 May 2026 10:04 UTC
+! Last modified: 10 May 2026 10:24 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ded3f3383bfaabccaed569f4e554a1295db66599
+! Commit: a5d4a371a175d1e5d92c0d8e8ea2fe5e40a0177a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -30382,6 +30382,7 @@ browsershots.org#@#.advert_area
 ||ftgsxcponsrcc.site^
 ||ftheusysianeduk.org^
 ||ftifoxnx.com^
+||ftilbfkyikdpe.online^
 ||ftiswpgasqepa.site^
 ||ftjcfx.com^
 ||ftmowtwqigrqn.site^
@@ -42067,6 +42068,7 @@ browsershots.org#@#.advert_area
 ||nikkiexxxads.com^
 ||nikkuddripple.cfd^
 ||niktmeeqgvogw.online^
+||nilgaushardockrameous.qpon^
 ||nimbedstrap.cyou^
 ||nimble-bench.com^
 ||nimble-tear.pro^
@@ -58515,6 +58517,7 @@ browsershots.org#@#.advert_area
 ||uniflowrenvoy.qpon^
 ||uniflowvifda.cfd^
 ||uniform-development.pro^
+||uniformwidgie.cfd^
 ||unikgoqgiissf.site^
 ||uniondistinction.com^
 ||unionshypnale.qpon^
@@ -60758,6 +60761,7 @@ browsershots.org#@#.advert_area
 ||vnazcqacydaqt.website^
 ||vnbbfvgbeklnf.store^
 ||vnbrcfmdndguz.life^
+||vnchlbtawhqpd.site^
 ||vncu4vvfiuyl226f1ep716czfl.rest^
 ||vndblupazzsaj.website^
 ||vndhbthmtxgzo.space^
