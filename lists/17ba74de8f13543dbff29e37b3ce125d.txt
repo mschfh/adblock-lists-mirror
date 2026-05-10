@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605100612
+! Version: 202605100711
 ! Title: EasyList
-! Last modified: 10 May 2026 06:12 UTC
+! Last modified: 10 May 2026 07:11 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 44b31b0595e7bf31fe315e9a69d2319c76b4a1d7
+! Commit: be96e9fbd123462330779d01113976b23da73bc5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19086,6 +19086,7 @@ browsershots.org#@#.advert_area
 ||asilusspirket.cfd^
 ||asinlovewiththem.org^
 ||asjitqwjvodhr.site^
+||askancerificolor.qpon^
 ||askdomainad.com^
 ||askewrefusaltrashy.com^
 ||asklrrpryvarf.website^
@@ -20105,6 +20106,7 @@ browsershots.org#@#.advert_area
 ||bdrvfuqkgp.com^
 ||bdrxcokcksbbr.store^
 ||bdsshofarmalls.cyou^
+||bdssxxmpobmpk.online^
 ||bdsynhotmkefy.online^
 ||bduwesnxbmmjq.site^
 ||be0ef76ec5.com^
@@ -20887,6 +20889,7 @@ browsershots.org#@#.advert_area
 ||blmpmttgukmsm.website^
 ||bloatedumiacks.cfd^
 ||bloatingexpectantretinal.com^
+||bloatsmatweed.com^
 ||bloblohub.com^
 ||bloboban.com^
 ||block-ad.com^
@@ -29148,6 +29151,7 @@ browsershots.org#@#.advert_area
 ||fedoq.com^
 ||fedreferawake.com^
 ||fedvdikxaazlp.space^
+||feebeshod.cfd^
 ||feechnyfafdgq.online^
 ||feed-ads.com^
 ||feed-xml.com^
@@ -33668,6 +33672,7 @@ browsershots.org#@#.advert_area
 ||htnejxlhoskug.love^
 ||htnswmuugnjpr.club^
 ||htnykujbhbmeu.site^
+||htofkaag.in^
 ||htsfxxvmeqmho.online^
 ||httooafldx.com^
 ||htubpsejzismh.website^
@@ -33804,6 +33809,7 @@ browsershots.org#@#.advert_area
 ||huzanqolwc.in^
 ||huzytgmqsnecd.website^
 ||huzzahkleig.cfd^
+||huzzasnickel.cyou^
 ||hvcjbpkakkeng.site^
 ||hvdzdrovccwom.site^
 ||hvefnbufkpxou.website^
@@ -36769,6 +36775,7 @@ browsershots.org#@#.advert_area
 ||kclyawmxkamyri.com^
 ||kcnapzqzueeii.website^
 ||kcoktkhntiubu.online^
+||kcpjcysrevmljns.com^
 ||kcqbrwygxixdh.site^
 ||kcrojyldwmhig.site^
 ||kcvtpramzyczk.online^
@@ -66091,6 +66098,7 @@ browsershots.org#@#.advert_area
 ||yzjncchwnfdni.online^
 ||yznaesnmfcitc.space^
 ||yzncadillukzs.space^
+||yznvhiongucvp.site^
 ||yzottjbhgjcbz.space^
 ||yzozkqzhsbeur.online^
 ||yzplgbuupbiwk.online^
