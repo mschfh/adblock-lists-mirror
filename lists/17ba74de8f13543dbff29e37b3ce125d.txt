@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605140935
+! Version: 202605141010
 ! Title: EasyList
-! Last modified: 14 May 2026 09:35 UTC
+! Last modified: 14 May 2026 10:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0898690f61cdcae726bf7b981c8736ac066b1e08
+! Commit: f692811f4ee7546a9ac7a231d3353d754fbd9f0c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28872,6 +28872,7 @@ browsershots.org#@#.advert_area
 ||exrcfdbcqiddp.space^
 ||exrtbsrv.com^
 ||ext-jscdn.com^
+||ext-offer.com^
 ||extatheses.cfd^
 ||extend.tv^
 ||extendedcontaminaterigorous.com^
@@ -30799,6 +30800,7 @@ browsershots.org#@#.advert_area
 ||fvmvdcwjpmoff.online^
 ||fvmvxkobtblgz.online^
 ||fvormhbpnzswo.space^
+||fvorzfbmhroau.online^
 ||fvpcmlmpoyldc.space^
 ||fvpsbdbaiobud.space^
 ||fvrpgjewjakqo.site^
@@ -35330,6 +35332,7 @@ browsershots.org#@#.advert_area
 ||intoxicatescrape.com^
 ||intrafic22.com^
 ||intrailoutpomp.cyou^
+||intratebarger.cyou^
 ||intrepidisland.pro^
 ||intricatewhilevertically.com^
 ||introductionnorthern.com^
@@ -42471,6 +42474,7 @@ browsershots.org#@#.advert_area
 ||nickeldefiancepriest.com^
 ||nickelstapoun.com^
 ||nickessence.com^
+||nickeyperatae.cfd^
 ||nickeysreplait.cfd^
 ||nicksana.shop^
 ||nicobarwhedder.cfd^
@@ -54176,6 +54180,7 @@ browsershots.org#@#.advert_area
 ||stoorybag.cyou^
 ||stootershaman.shop^
 ||stootsou.net^
+||stopads-now.com^
 ||stopensipper.cfd^
 ||stoplouse.com^
 ||stoppedcrag.com^
@@ -55419,6 +55424,7 @@ browsershots.org#@#.advert_area
 ||targetmatch.co^
 ||targetmusty.com^
 ||targetpilothermichermic.com^
+||tarhoodpreessans.cyou^
 ||tarhszehtlxis.website^
 ||tariemidline.shop^
 ||tarkhandoled.help^
@@ -66459,6 +66465,7 @@ browsershots.org#@#.advert_area
 ||yoxffovtpvwtr.online^
 ||yoxgbiywfdlsd.online^
 ||yoxggjogbagyt.online^
+||yoxtgxil.com^
 ||yoyadsdom.com^
 ||yoyjdfpylpyfl.space^
 ||yozturzruysxj.site^
@@ -67423,6 +67430,7 @@ browsershots.org#@#.advert_area
 ||zjabociwmcdgi.space^
 ||zjb9ewxq67jxb2iu2.cfd^
 ||zjbjpgmkjgxtb.website^
+||zjcgdbbuvpeup.space^
 ||zjd-nmdong.xyz^
 ||zjdac.com^
 ||zjeanifhgszfb.site^
@@ -80032,6 +80040,8 @@ albertsons.com##.abs-carousel-proxy > [aria-label="Promo or Ad Banner"]
 tfn.scot##.absolute-leaderboard
 tfn.scot##.absolute-mid-page-unit
 breitbart.com##.acadnotice
+leeapk.com##.acrp-ad-box-1
+leeapk.com##.acrp-ad-box-2
 gamesystemrequirements.com##.act_eng
 sneakernews.com##.active-footer-ad
 christianpost.com##.acw
