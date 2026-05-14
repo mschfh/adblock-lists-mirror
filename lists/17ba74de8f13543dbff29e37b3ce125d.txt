@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605142109
+! Version: 202605142203
 ! Title: EasyList
-! Last modified: 14 May 2026 21:09 UTC
+! Last modified: 14 May 2026 22:03 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2e3121d93ea3370f7e35b1d1ffc5376cfd80c82a
+! Commit: 1775f36831ccde638053470a0fcf82719e81e371
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -43355,6 +43355,7 @@ browsershots.org#@#.advert_area
 ||nyphgxjomnbne.online^
 ||nyqisqlogwnnr.online^
 ||nyquazhpvouya.website^
+||nyrrsmjenats.com^
 ||nyrtxtkgoaxad.online^
 ||nysfojqrviqoz.space^
 ||nythathaveresul.org^
@@ -45517,6 +45518,7 @@ browsershots.org#@#.advert_area
 ||pectosealvia.click^
 ||pectousfossilstae.cfd^
 ||pedaloflakierchicote.cyou^
+||pedchats.cfd^
 ||pedetescleanse.com^
 ||pedetesdorize.cfd^
 ||pedjnohpdrthi.site^
@@ -50302,6 +50304,7 @@ browsershots.org#@#.advert_area
 ||rtessfxxrqjbd.space^
 ||rtgio.co^
 ||rthformttet.com^
+||rthgioiiitlww.space^
 ||rthpetahceiol.space^
 ||rtibriolhapk.com^
 ||rtichevre.cfd^
@@ -58617,6 +58620,7 @@ browsershots.org#@#.advert_area
 ||ugfntiwdellss.space^
 ||ugfusydmy.net^
 ||ugfvthcny.com^
+||uggpqfwbzhbir.space^
 ||uggrcyzcgkbfr.space^
 ||uggwlgwan.com^
 ||uggwouhzwuhcb.website^
@@ -60137,6 +60141,7 @@ browsershots.org#@#.advert_area
 ||uwdqokjwmnfxu.site^
 ||uwemasfpdgnrj.site^
 ||uwfdngfnpiovxt.com^
+||uwfrrgmecphjw.com^
 ||uwfsrubjqlibq.store^
 ||uwhdtqwdubvdf.website^
 ||uwhevailoo.net^
