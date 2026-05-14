@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605142203
+! Version: 202605142234
 ! Title: EasyList
-! Last modified: 14 May 2026 22:03 UTC
+! Last modified: 14 May 2026 22:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 1775f36831ccde638053470a0fcf82719e81e371
+! Commit: badf3da103e1535d4c5af22ed1acb8636e37377c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20252,6 +20252,7 @@ browsershots.org#@#.advert_area
 ||bedfootoficina.qpon^
 ||bedqyetgvcljb.website^
 ||bedralcombunavian.qpon^
+||bedropveneers.cyou^
 ||bedsickallanlariid.qpon^
 ||bedsidemeasuring.com^
 ||bedsidetray.com^
@@ -36084,6 +36085,7 @@ browsershots.org#@#.advert_area
 ||jcfocrpceqtwa.site^
 ||jcgkhqwlxpmbh.site^
 ||jcgklkxkrltcy.store^
+||jcimdpqfp.com^
 ||jcmmzxeoklqrx.website^
 ||jcnqpuregmpkqy.com^
 ||jconceoormurg.online^
@@ -41275,6 +41277,7 @@ browsershots.org#@#.advert_area
 ||monumentsmaterialeasel.com^
 ||monxserver.com^
 ||mooddivided.com^
+||moodirpandect.shop^
 ||moodirresolute.com^
 ||moodytrustworthy.com^
 ||moogratkzvmwt.online^
@@ -50862,6 +50865,7 @@ browsershots.org#@#.advert_area
 ||sarcasticnotarycontrived.com^
 ||sarcastscriptoechevin.cyou^
 ||sarcelflues.cfd^
+||sarcinenosingsendaze.qpon^
 ||sardanaboxful.cfd^
 ||sardarsbenami.cyou^
 ||sardineabstract.com^
