@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605151428
+! Version: 202605151524
 ! Title: EasyList
-! Last modified: 15 May 2026 14:28 UTC
+! Last modified: 15 May 2026 15:24 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b7d0b4b9cff577fb99d38113375355066b07f887
+! Commit: 2de7761fe4f5864799a8409a624cf7f3b7eb1301
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -33705,6 +33705,7 @@ browsershots.org#@#.advert_area
 ||hofxbrhznoggg.space^
 ||hogbackmutuate.com^
 ||hogenoutpity.cyou^
+||hogfishsurname.qpon^
 ||hoggetforfend.com^
 ||hogginalertapittine.cfd^
 ||hoggypushier.cfd^
@@ -34602,6 +34603,7 @@ browsershots.org#@#.advert_area
 ||ieslkslqljjrtq.com^
 ||iesrqaqicrkxk.website^
 ||ietwzcakupkfs.store^
+||ieuarungyr.com^
 ||ieucnfzhxeedn.website^
 ||iewixvvsbfkwd.world^
 ||iewjctcinxthi.space^
@@ -38197,6 +38199,7 @@ browsershots.org#@#.advert_area
 ||kzjwjclnpdrmy.online^
 ||kzltdxgdppoif.online^
 ||kzmsqkprwtqnq.website^
+||kzntwdcvpybgd.site^
 ||kznuodtvjuirx.site^
 ||kzoixqlmnwtjg.space^
 ||kzouzvisztpxs.site^
@@ -39621,6 +39624,7 @@ browsershots.org#@#.advert_area
 ||ltkvxwdlboeuv.space^
 ||ltlldtoyvvbkz.store^
 ||ltnchfmuwmltz.space^
+||ltrzhajftkybj.website^
 ||ltssbgqqrivtk.online^
 ||ltssxkwful.com^
 ||lttceuqgmuxal.store^
@@ -41694,6 +41698,7 @@ browsershots.org#@#.advert_area
 ||mudwmhaesljqz.site^
 ||muefgogqkckcj.site^
 ||muejigjejszbp.online^
+||muemv8rubl52jn.cfd^
 ||muermoabject.shop^
 ||muffinfeudalactually.com^
 ||muffinsum.com^
@@ -41974,6 +41979,7 @@ browsershots.org#@#.advert_area
 ||myrrhbehorn.com^
 ||myrrhstymiesjolted.qpon^
 ||myrtalptinus.shop^
+||myrtthirstsolivile.cyou^
 ||myselguggles.cfd^
 ||mysianessayer.cfd^
 ||mysmbkoapuust.website^
