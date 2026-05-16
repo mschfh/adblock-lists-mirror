@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605162119
+! Version: 202605162157
 ! Title: EasyList
-! Last modified: 16 May 2026 21:19 UTC
+! Last modified: 16 May 2026 21:57 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d4b938366c21df7bcd55041a97cd601bb6baf8ab
+! Commit: e259426db75e6fc01b3fb6b189879ba51ec86774
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29204,6 +29204,7 @@ browsershots.org#@#.advert_area
 ||fagaldazinputtan.qpon^
 ||fagaldplaided.cyou^
 ||fagarauvitic.com^
+||faggerlazar.cyou^
 ||faggrim.com^
 ||faggyshopped.shop^
 ||fagotaucan.shop^
@@ -38815,6 +38816,7 @@ browsershots.org#@#.advert_area
 ||leqasforsalesre.org^
 ||leqfrrxllfeft.online^
 ||leqrcirjuawwi.site^
+||lequearcoleus.shop^
 ||lernodydenknow.info^
 ||lesjhcskvsgjw.site^
 ||lessescalzone.shop^
@@ -38852,6 +38854,7 @@ browsershots.org#@#.advert_area
 ||lexicoggeegaw.website^
 ||lexolbuvjhmau.online^
 ||lexorawebnet.com^
+||leydendiarian.shop^
 ||leymubpjmjtuq.online^
 ||lf21cgfgpg2cfz.cfd^
 ||lfafacbfqrsom.online^
@@ -51465,6 +51468,7 @@ browsershots.org#@#.advert_area
 ||scufflemodemtexans.cyou^
 ||scukeknekbomd.website^
 ||sculkedhogwort.help^
+||sculksburian.cyou^
 ||scullerbiker.cfd^
 ||sculloghindgut.qpon^
 ||scullssouring.cfd^
