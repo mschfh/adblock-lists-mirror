@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605171606
+! Version: 202605171641
 ! Title: EasyList
-! Last modified: 17 May 2026 16:06 UTC
+! Last modified: 17 May 2026 16:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8212f63d5711b50e9549e12d05213ca775644b16
+! Commit: b3b4f8f096ce8710ecddf080c5ae39ffcaf08c60
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31085,6 +31085,7 @@ browsershots.org#@#.advert_area
 ||fyqvlsvraskhk.online^
 ||fytbadthewihr.store^
 ||fyuwwosgka.com^
+||fywejdwwxuygc.website^
 ||fywettbfxscbh.online^
 ||fyxhvdyjwyilg.space^
 ||fyxkcsmxg.com^
@@ -64318,6 +64319,7 @@ browsershots.org#@#.advert_area
 ||wonyugeqyvfob.online^
 ||wooablelakh.qpon^
 ||woodboxsumacsforwarn.cfd^
+||woodcompartment.com^
 ||wooden-tank.pro^
 ||woodenside.pro^
 ||woodinereapplyalodium.cyou^
