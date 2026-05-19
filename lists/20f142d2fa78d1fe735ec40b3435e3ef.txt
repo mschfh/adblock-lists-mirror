@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 46AA49UsY1iol5LFteg4Tw
-! Version: 202605190001
+! Checksum: iDDEZuvev8U+PKL5lpWdBQ
+! Version: 202605190101
 ! Title: Fanboy's Social Blocking List
-! Last modified: 19 May 2026 00:01 UTC
+! Last modified: 19 May 2026 01:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
