@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605191918
+! Version: 202605192009
 ! Title: EasyList
-! Last modified: 19 May 2026 19:18 UTC
+! Last modified: 19 May 2026 20:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3a5240a6363be111fe0f2e034f3db23705d61dc4
+! Commit: c911e05626331393827a4cf926fc8ea07b77ccd4
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38153,6 +38153,7 @@ browsershots.org#@#.advert_area
 ||knpocsexswplq.space^
 ||knrhwhkxytfiu.com^
 ||knsoknmyvyhab.website^
+||knspyuburjnwa.space^
 ||knucklebelliedpawed.qpon^
 ||knucklemonthsedifice.com^
 ||knudsengrillee.cyou^
@@ -53755,6 +53756,7 @@ browsershots.org#@#.advert_area
 ||sqaqzeqcdigsy.site^
 ||sqbcgfrjznaao.space^
 ||sqbekhpudmmbi.website^
+||sqbhiwlotsww.com^
 ||sqbjrevvtnqlz.space^
 ||sqbzvlttwmodm.space^
 ||sqdhvjujwpjtb.site^
@@ -54019,6 +54021,7 @@ browsershots.org#@#.advert_area
 ||steep-square.pro^
 ||steeplederivedinattentive.com^
 ||steeplereconciliation.com^
+||steeptheme.com^
 ||steepto.com^
 ||steerensout.net^
 ||steeringsunshine.com^
@@ -55982,6 +55985,7 @@ browsershots.org#@#.advert_area
 ||tnfnfuvbfllyn.website^
 ||tnfqivurduflf.store^
 ||tnijhexxbrdag.online^
+||tnjdermbazjhx.site^
 ||tnjeontomin.qpon^
 ||tnjkwuzhilfgm.online^
 ||tnlmf8q8kxebq298wb7b.rest^
@@ -56481,6 +56485,7 @@ browsershots.org#@#.advert_area
 ||trendsrescuer.shop^
 ||trenpyle.com^
 ||trentbereal.com^
+||tressedagleycrapy.cyou^
 ||tressedtwalt.cfd^
 ||tresselwelsiumorejon.qpon^
 ||tressonchirataincas.cyou^
