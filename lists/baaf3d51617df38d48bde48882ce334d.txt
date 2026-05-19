@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kPzkT++wVCWFcs4IzjgrUA
-! Version: 202605190500
+! Checksum: HEOBeMQciDKLDRLo4toagg
+! Version: 202605190550
 ! Title: Fanboy's Newsletter List
-! Last modified: 2026-05-19 05:00 UTC
+! Last modified: 2026-05-19 05:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1885,7 +1885,7 @@ declassifieduk.org,retailwire.com,wlrn.org##.Campaign
 scrippsnews.com##.Campaign.sewaren-campaign
 nyctourism.com##.Container_newsletterBlock__LRiMf
 westword.com##.ContentFooterNewsletterSignup
-aftermath.site,defector.com,sf.gazetteer.co##.ContentGate_wrapper__tNtjt
+aftermath.site,defector.com##.ContentGate_wrapper__tNtjt
 brighteon.com##.CoverDark
 sourcegraph.com##.CustomHubspotForm_blogForm__6LtFv
 popsugar.com,thedodo.com##.EmailAcquisitonstyles__EmailAcquisitionOuterContainer-sc-1b9duud-0
@@ -1935,7 +1935,7 @@ marketplace.org##.NewsletterPrompt_newsletterSidebar__tYOqr
 cltampa.com##.NewsletterSignup
 gamedeveloper.com,iotworldtoday.com##.NewsletterSignupButton
 themirror.com##.NewsletterSignup_container__UINqe
-aftermath.site,nautil.us,sf.gazetteer.co##.NewsletterSignup_wrapper__rmf2c
+aftermath.site,nautil.us##.NewsletterSignup_wrapper__rmf2c
 wgbh.org##.NewsletterSubscribe
 ranker.com##.NewsletterSubscription_mainWrapper__GxgFi
 cntraveler.com##.NewsletterWrapper-JRxKg
@@ -3960,6 +3960,8 @@ medicalnewstoday.com##hl-newsletter-cta
 michiganmedicine.org##labcoat-promo
 arylic.com##newsletter-popup
 miamiherald.com##newsletter-signup-feature
+notus.org##notus-sunrise-dialog
+notus.org##notus-welcome-auth-sign-in-dialog
 bcg.com##ps-subscription-module
 extremetech.com##section > .mt-8
 forty.news##section.newspaper-column
