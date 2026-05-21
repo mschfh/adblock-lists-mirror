@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605211811
+! Version: 202605211908
 ! Title: EasyList
-! Last modified: 21 May 2026 18:11 UTC
+! Last modified: 21 May 2026 19:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 324226cbad6640d93613284569c310c2796619c0
+! Commit: 407dde26a452b3e76729b9f01774155b0519501d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24641,6 +24641,7 @@ browsershots.org#@#.advert_area
 ||crampleadspace.com^
 ||crampygrucche.cfd^
 ||cranegarnishextinct.com^
+||cranelyphasers.qpon^
 ||craniavestas.com^
 ||craniumsulpharaggedy.qpon^
 ||crankyderangeabound.com^
@@ -39826,6 +39827,7 @@ browsershots.org#@#.advert_area
 ||lockerdomecdn.com^
 ||lockersatelic.cam^
 ||locketsauce.com^
+||lockjawburgh.com^
 ||locksadvancedrelease.com^
 ||locksdrizzle.com^
 ||lockupaccede.com^
@@ -44370,6 +44372,7 @@ browsershots.org#@#.advert_area
 ||odeuwdapukoxz.website^
 ||odewcqwls.com^
 ||odeybruslekoq.website^
+||odfadkfryokt.in^
 ||odfqwsrz.com^
 ||odfuwbdguqkrj.site^
 ||odgmxwepbbfwe.online^
@@ -46620,6 +46623,7 @@ browsershots.org#@#.advert_area
 ||phonehalfmoonwild.com^
 ||phonemedutra.cyou^
 ||phoneysmelvie.cfd^
+||phonghiveinlet.shop^
 ||phonismsirex.cfd^
 ||phonydepth.com^
 ||phonyhardware.com^
@@ -46872,6 +46876,7 @@ browsershots.org#@#.advert_area
 ||pjtaxoejiicilsd.com^
 ||pjvcbvjfrzniy.site^
 ||pjwmzeaojwwyw.site^
+||pjxnjswqkn.com^
 ||pjxsszmrubqjb.site^
 ||pjzftkxmyzuat.space^
 ||pk910324e.com^
@@ -50866,6 +50871,7 @@ browsershots.org#@#.advert_area
 ||rodegedunk.cyou^
 ||rodeinfamous.com^
 ||rodesquad.com^
+||rodgerbyelawstharms.cfd^
 ||rodinalropani.com^
 ||rodletoutwash.cyou^
 ||rodolphavows.cyou^
