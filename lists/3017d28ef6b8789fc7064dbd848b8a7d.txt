@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202605221215
+! Version: 202605221320
 ! Title: EasyPrivacy
-! Last modified: 22 May 2026 12:15 UTC
+! Last modified: 22 May 2026 13:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 254dfabc7821a5956f8c2f365279bc04f1af0c29
+! Commit: 40f7b4ce0f6107c5fe2f9465eb15070bdb7b368b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -7411,7 +7411,6 @@ omni.soundestlink.com$image
 ||fitnessmapper.com^
 ||fivesidedsquare.com^
 ||fixedfold.com^
-||fjordsand.com^
 ||flakyfeast.com^
 ||flameuncle.com^
 ||flashtexting.com^
@@ -9011,6 +9010,7 @@ omni.soundestlink.com$image
 ||bikemag.com/.api/admiral
 ||mensjournal.com/.api/admiral
 ||paradehomeandgarden.com/.api/admiral
+||surfer.com/.api/admiral
 ! *** easylist:easyprivacy/easyprivacy_trackingservers_notifications.txt ***
 ! easyprivacy_trackingservers_notifications.txt
 ||actirinius.com^$third-party
