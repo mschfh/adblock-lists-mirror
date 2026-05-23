@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605231423
+! Version: 202605231502
 ! Title: EasyList
-! Last modified: 23 May 2026 14:23 UTC
+! Last modified: 23 May 2026 15:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 932f41997b1ae9b43c03a9f959fa07f7a0d66f4b
+! Commit: 3dfd61389d2b3266094cdd2e8352ac5cf85f9ed3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -25681,6 +25681,7 @@ browsershots.org#@#.advert_area
 ||dcsakxvzsdiaz.space^
 ||dcsomihsehwjfqc.com^
 ||dcssptrack.com^
+||dcteggysjcjwk.com^
 ||dcunkpgzsysvg.website^
 ||dcwnhlzrvnlnj.website^
 ||dcyzukablod.in^
@@ -26623,6 +26624,7 @@ browsershots.org#@#.advert_area
 ||djfflcgkioyz.com^
 ||djgdmnyuokahc.site^
 ||djgqucjpunwhs.store^
+||djgvjbukqawou.online^
 ||djhnxgqlswkfh.site^
 ||djinnxenons.qpon^
 ||djinsulnar.com^
@@ -29246,6 +29248,7 @@ browsershots.org#@#.advert_area
 ||exodospaulian.shop^
 ||exodusjailhousetarantula.com^
 ||exofrwe.com^
+||exogeneassigne.com^
 ||exogenydorperforbow.qpon^
 ||exolvemonimia.qpon^
 ||exonianskewlybusman.cfd^
@@ -35066,6 +35069,7 @@ browsershots.org#@#.advert_area
 ||idjhvn4m.pro^
 ||idkoguetmpdxk.online^
 ||idkymwzjfpefr.site^
+||idlbjpfuyvqll.site^
 ||idlenxmbgudpi.online^
 ||idlesliver.com^
 ||idlestupid.pro^
@@ -54784,6 +54788,7 @@ browsershots.org#@#.advert_area
 ||suawddlsmamci.website^
 ||sub.xxx-porn-tube.com^
 ||sub2.avgle.com^
+||subcomenitypert.com^
 ||subdatejutties.com^
 ||subditclypeal.cfd^
 ||subdividecola.com^
@@ -55398,6 +55403,7 @@ browsershots.org#@#.advert_area
 ||taboosouzo.cfd^
 ||taboredgoops.com^
 ||tabourswirled.cyou^
+||tabretwicht.com^
 ||tabstruancyclarina.cyou^
 ||tabusnichedknish.cfd^
 ||tackdisillusion.com^
@@ -59016,6 +59022,7 @@ browsershots.org#@#.advert_area
 ||uxygxxjnmyezz.site^
 ||uxyqugxmogylb.online^
 ||uxyudvnbaagag.website^
+||uxyyom52qf23k1f9p5mepmv.cfd^
 ||uxzkvkzxhxxjv.space^
 ||uxzybqtqlauaa.space^
 ||uy4el5xhwpy85z.rest^
@@ -65906,6 +65913,7 @@ browsershots.org#@#.advert_area
 ||ziomwtsqaimvv.online^
 ||zionistbilstedtineine.qpon^
 ||ziowmasylptgu.online^
+||zipcrypticbroadsheet.com^
 ||zipdealtdomestic.com^
 ||ziphoumt.net^
 ||zipitnow.cfd^
@@ -68672,6 +68680,7 @@ browsershots.org#@#.advert_area
 ||agreementdaily.com^
 ||amongstbirdbath.com^
 ||amongstgahboo.com^
+||annualrallybran.com^
 ||aroundveinfixed.com^
 ||bahpartridge.com^
 ||battleickhope.com^
