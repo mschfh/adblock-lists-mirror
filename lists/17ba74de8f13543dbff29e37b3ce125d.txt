@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605231104
+! Version: 202605231137
 ! Title: EasyList
-! Last modified: 23 May 2026 11:04 UTC
+! Last modified: 23 May 2026 11:37 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a38830a5a61d79a73bd637724a9f1d374d278dd1
+! Commit: 2b618867cc1f4613f51bc8d33d55807cb3a67efb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17124,6 +17124,7 @@ browsershots.org#@#.advert_area
 ||acictsjxqbsob.website^
 ||acidcostunnatural.com^
 ||acidicgreen.com^
+||acidickoshare.qpon^
 ||acidityrappist.qpon^
 ||acidylseseliperries.qpon^
 ||aciesdockman.shop^
@@ -30263,6 +30264,7 @@ browsershots.org#@#.advert_area
 ||fjwyfxmhv.com^
 ||fjxiqjmutcgqo.store^
 ||fjyzwineetnxc.website^
+||fjzxypsusfxaa.space^
 ||fk5lv2qyqoclnk.rest^
 ||fkbaqpqaptiid.site^
 ||fkbbaseodqexz.site^
@@ -49821,6 +49823,7 @@ browsershots.org#@#.advert_area
 ||rbdvwhcizpzoz.space^
 ||rbejwzfebcxaz.world^
 ||rbemdvyhqskji.site^
+||rbenpxldjggnj.online^
 ||rbfnporpsrazz.online^
 ||rbfopobkvokbt.online^
 ||rbgtakatwyhjm.com^
@@ -50796,6 +50799,7 @@ browsershots.org#@#.advert_area
 ||rihbxnftttvlp.website^
 ||rihgimsatawp.in^
 ||rihhfqeqwimni.website^
+||rihtyyebssben.space^
 ||rihurxgrxghfh.online^
 ||rijedoryxzsye.site^
 ||rijzjihnxvley.website^
