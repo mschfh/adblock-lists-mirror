@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605241425
+! Version: 202605241502
 ! Title: EasyList
-! Last modified: 24 May 2026 14:25 UTC
+! Last modified: 24 May 2026 15:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 50d2d8d00407c059aaf8ff007f8b5e346964ba3a
+! Commit: 526d9517a6f24b9922c436eccac96b0216b2e15c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23017,6 +23017,7 @@ browsershots.org#@#.advert_area
 ||cejaswati.com^
 ||cejidpicnzqlg.site^
 ||cejngruezlq.com^
+||ceknnoge.com^
 ||celai.site^
 ||celeb-ads.com^
 ||celebnewsuggestions.com^
@@ -33264,6 +33265,7 @@ browsershots.org#@#.advert_area
 ||gzipuspfu.in^
 ||gziwrearm.in^
 ||gzkignkqikrix.online^
+||gznyfblintdcj.website^
 ||gzomjiuoedpnu.website^
 ||gzooedejrrjog.website^
 ||gzoozkenpgaua.online^
@@ -35362,6 +35364,7 @@ browsershots.org#@#.advert_area
 ||iisclmekykjjr.store^
 ||iisipjvxdughv.site^
 ||iitazqaajeeui.site^
+||iiuzelzusndqi.website^
 ||iiwbooqgxbkig.site^
 ||iiwkyrrdmmbvw.site^
 ||iiwtetyjho.com^
@@ -38292,6 +38295,7 @@ browsershots.org#@#.advert_area
 ||kivkmopakxkwo.online^
 ||kiwdbeqcdmxjb.online^
 ||kiwfewsgypewbp.com^
+||kiwoejaeqyyjx.online^
 ||kiyala.uno^
 ||kiyaspurdashankle.cyou^
 ||kiycjwljmjovg.site^
