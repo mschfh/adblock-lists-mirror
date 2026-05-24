@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605241646
+! Version: 202605241721
 ! Title: EasyList
-! Last modified: 24 May 2026 16:46 UTC
+! Last modified: 24 May 2026 17:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f0e97a58652f8986baedc929f960f883331ada5b
+! Commit: d5e4edf2ee211e7ba1b7bf7af6301924884b7ffc
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22695,6 +22695,7 @@ browsershots.org#@#.advert_area
 ||caressfinancialdodge.com^
 ||carfaremissit.cfd^
 ||cargoattachment.com^
+||cariamacebid.qpon^
 ||caribalpicea.com^
 ||caribouconder.qpon^
 ||caricatureboretangle.com^
@@ -24469,6 +24470,7 @@ browsershots.org#@#.advert_area
 ||coppstempos.cyou^
 ||copraspremiss.shop^
 ||copyingavestan.cyou^
+||copymanannal.qpon^
 ||copyrightgenerateprotector.com^
 ||copyrighttruce.com^
 ||coqaahrmahfko.online^
@@ -25370,6 +25372,7 @@ browsershots.org#@#.advert_area
 ||cyvoxuwz778wnlj6cmm9k1un1m.cfd^
 ||cyvzavjhmduqn.online^
 ||cywsearoeguq.com^
+||cyxbmqbsncgll.site^
 ||cyxexdscsaphd.space^
 ||cyxyzrpolrjnh.online^
 ||czaawozddjbtu.site^
@@ -28218,6 +28221,7 @@ browsershots.org#@#.advert_area
 ||eladove.com^
 ||elajqjtwnoaef.space^
 ||elakpcsryesh.com^
+||elandslumpy.cfd^
 ||elapeolh.com^
 ||elasirenic.cyou^
 ||elastic-sync.xyz^
@@ -28751,6 +28755,7 @@ browsershots.org#@#.advert_area
 ||epqcgcxkfymlj.site^
 ||epqitbarjxwic.site^
 ||epqpwmkldycwt.website^
+||epqqoygdlxiri.site^
 ||eprgsfzkoakpj.site^
 ||epriobgjk.com^
 ||eprmcfsocdw.com^
@@ -34720,6 +34725,7 @@ browsershots.org#@#.advert_area
 ||hugyoilwaybulgier.cfd^
 ||hugysoral.digital^
 ||huhwryctykitp.space^
+||huicfordo.cyou^
 ||huitaintimote.shop^
 ||hujinbqzfqbvj.site^
 ||hujvbvdwewxmwe.com^
@@ -41790,6 +41796,7 @@ browsershots.org#@#.advert_area
 ||minorfortune.pro^
 ||minorscore.pro^
 ||minotaur107.com^
+||minpqrnayjvakou.com^
 ||mintaza.xyz^
 ||mintyswing.com^
 ||minuetdapichoneaps.qpon^
@@ -43052,6 +43059,7 @@ browsershots.org#@#.advert_area
 ||narrowmaidroyal.com^
 ||narrowveneeringsavoury.com^
 ||nasalfeudalanxious.com^
+||nascanascaredgoodbys.cfd^
 ||nashiraguddler.com^
 ||nasiclivuskhalal.cyou^
 ||nasikfvzxdpda.website^
