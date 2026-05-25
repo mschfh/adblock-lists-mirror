@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605251903
+! Version: 202605251936
 ! Title: EasyList
-! Last modified: 25 May 2026 19:03 UTC
+! Last modified: 25 May 2026 19:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 851a91dd23a089c59d79c016b32c425217b5a5a7
+! Commit: 5af55fe366c91f13ef133ed4e03c6c22afb90adf
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45541,6 +45541,7 @@ browsershots.org#@#.advert_area
 ||oplmbxdyndadi.website^
 ||oplnuqah.com^
 ||opnobbohq.com^
+||opoejchmxlppr.space^
 ||opopfwyzcsbpn.space^
 ||opositeasyse.org^
 ||opoxv.com^
@@ -51288,6 +51289,7 @@ browsershots.org#@#.advert_area
 ||rjtzqgeltwaep.store^
 ||rjw4obbw.com^
 ||rjxczvecqiipf.site^
+||rjxujpuoxmtlr.website^
 ||rjyqgtlazaijq.site^
 ||rjzbvmbybvokw.top^
 ||rjzkulworyqil.space^
@@ -54394,6 +54396,7 @@ browsershots.org#@#.advert_area
 ||speeb.com^
 ||speechcleopatraadmiral.com^
 ||speededhorsed.shop^
+||speederpelenggranth.cyou^
 ||speederscooch.cfd^
 ||speedingdeadlyplays.com^
 ||speedingstale.com^
