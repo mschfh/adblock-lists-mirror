@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605252138
+! Version: 202605252216
 ! Title: EasyList
-! Last modified: 25 May 2026 21:38 UTC
+! Last modified: 25 May 2026 22:16 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 88e2fe4c3b1bd302da98d9890dedd99de0863eb5
+! Commit: bc855cb76282bd08084a8177cc640a2a0ef9e32a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31344,6 +31344,7 @@ browsershots.org#@#.advert_area
 ||fumarylgypsyrypoucy.cfd^
 ||fumblingrun.com^
 ||fumblingvacation.pro^
+||fumerbracteatamise.cfd^
 ||fumersmisterm.cfd^
 ||fumestealwilfrid.com^
 ||fumettefasciae.cyou^
@@ -35591,6 +35592,7 @@ browsershots.org#@#.advert_area
 ||ilvzxlpvprsff.online^
 ||ilwmxyuboh.com^
 ||ilxfndokexkxi.online^
+||ilyakhokani.cfd^
 ||ilyaoipntdyol.space^
 ||ilyf4amifh.com^
 ||ilyrxghb.com^
@@ -43815,6 +43817,7 @@ browsershots.org#@#.advert_area
 ||nixingminiateunpetal.qpon^
 ||nixkfmaywtugk.site^
 ||nixongutwiseschools.qpon^
+||niyhpudr.com^
 ||niyimu.xyz^
 ||niynetojcbet.com^
 ||nizarstream.xyz^
@@ -65602,6 +65605,7 @@ browsershots.org#@#.advert_area
 ||ysbpoaoziiwno.space^
 ||yscjkhowwo.com^
 ||ysckhgcaqo.com^
+||yscmfdjssbuapmh.com^
 ||yscompartonged.cfd^
 ||yscuspceqmprq.site^
 ||ysdcfwvpmucdw.website^
