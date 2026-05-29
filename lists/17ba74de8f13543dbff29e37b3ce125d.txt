@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605291519
+! Version: 202605291637
 ! Title: EasyList
-! Last modified: 29 May 2026 15:19 UTC
+! Last modified: 29 May 2026 16:37 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 03127cf816f443efc73817dbb579aa06d706b3a6
+! Commit: 83329e6ee316616b8fe2ac3724edbddaf2d04aa5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15541,6 +15541,7 @@ browsershots.org#@#.advert_area
 ||1000replicas.com^
 ||100kia.xyz^
 ||101m3.com^
+||102cryoura.com^
 ||103092804.com^
 ||104processors.net^
 ||1090pjopm.de^
@@ -21107,6 +21108,7 @@ browsershots.org#@#.advert_area
 ||bioticchumpa.qpon^
 ||biotomylintel.qpon^
 ||biozoneteruah.qpon^
+||bipackgeraninmapped.cyou^
 ||biphic.com^
 ||bipkqlccec.com^
 ||bipolarcyc.qpon^
@@ -34245,6 +34247,7 @@ browsershots.org#@#.advert_area
 ||hemapodfubberyvoilier.cyou^
 ||hemathematica.org^
 ||hemineedunks.com^
+||hemisphere2meaning.com^
 ||hemopodfilao.qpon^
 ||hemopodkirningyutu.cyou^
 ||hempyhoker.qpon^
@@ -40681,6 +40684,7 @@ browsershots.org#@#.advert_area
 ||lnzitobjnmskk.space^
 ||lnzsinagpafgv.website^
 ||lo56b6nyj3ym1g4g7q8qkz664j4p.cfd^
+||load-res-static.lol^
 ||load-static-res.xyz^
 ||loadedbummer.com^
 ||loader.netzwelt.de^
@@ -66591,6 +66595,7 @@ browsershots.org#@#.advert_area
 ||ytsivzidynwtl.site^
 ||ytsjtdehsznbu.online^
 ||ytsmqchsmmozq.space^
+||ytsqggbvuwo.com^
 ||ytsuptbpkgdq.net^
 ||ytviyxhoiivvz.website^
 ||ytvpxycvnjtow.site^
@@ -67781,6 +67786,7 @@ browsershots.org#@#.advert_area
 ||zrmtrm.com^
 ||zrnpwfmyqzgvx.site^
 ||zrnslcqbtovnv.site^
+||zrnuxzjavlwak.website^
 ||zrouimweexxno.online^
 ||zrpdqcqm.com^
 ||zrprgcqjqjtkz.space^
@@ -67889,6 +67895,7 @@ browsershots.org#@#.advert_area
 ||zudzdfcrjcljy.site^
 ||zuekohojehjsx.space^
 ||zufasbhzijysh.site^
+||zufbfwccixrci.space^
 ||zufoadyldwkcz.website^
 ||zufolopinworm.qpon^
 ||zugedrpjyzgim.space^
@@ -68115,6 +68122,7 @@ browsershots.org#@#.advert_area
 ||zzzjhkyprpsvl.store^
 ||zzzmjfixezere.site^
 ||zzzn1j9m4evqno.rest^
+||zzztquhwysxyu.website^
 ! Anti-drainer eth phishing
 ||cdnweb3.pages.dev^
 ||certona.net^
@@ -74510,8 +74518,6 @@ browsershots.org#@#.advert_area
 ||clicknplay.to/api/spots/
 ||cloud.setupad.com^
 ||cloudbet.com/ad/
-||cloudfront.net/public/ct?cpguid=&
-||cloudfront.net/public/external/v2/htmlxf.
 ||cmas.sdcdns.com^
 ||coinmama.com/assets/img/banners/
 ||commercial.daznservices.com^
@@ -75028,6 +75034,8 @@ browsershots.org#@#.advert_area
 ||cloudfront.net/css/*.min.js$script,third-party
 ||cloudfront.net/images/*-min.js$script,third-party
 ||cloudfront.net/js/script_tag/new/sca_affiliate_
+||cloudfront.net/public/ct?cpguid=&
+||cloudfront.net/public/external/v2/htmlxf.
 ||d10ce3z4vbhcdd.cloudfront.net^
 ||d10lumateci472.cloudfront.net^
 ||d10lv7w3g0jvk9.cloudfront.net^
@@ -75074,6 +75082,7 @@ browsershots.org#@#.advert_area
 ||d14pwugcs00a42.cloudfront.net^
 ||d14x46ho6sn9yf.cloudfront.net^
 ||d14zhsq5aop7ap.cloudfront.net^
+||d153rqv8na4vs.cloudfront.net^
 ||d154nw1c88j0q6.cloudfront.net^
 ||d15bcy38hlba76.cloudfront.net^
 ||d15gt9gwxw5wu0.cloudfront.net^
