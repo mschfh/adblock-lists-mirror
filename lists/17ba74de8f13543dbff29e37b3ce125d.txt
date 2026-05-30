@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605300526
+! Version: 202605300637
 ! Title: EasyList
-! Last modified: 30 May 2026 05:26 UTC
+! Last modified: 30 May 2026 06:37 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4c9aafda3aa35c05ba96b4ec9fbbcf571f279ba1
+! Commit: ef56cc921a20f371de3dfc8d03bda63e7dbb05df
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19332,6 +19332,7 @@ browsershots.org#@#.advert_area
 ||artwareshambu.com^
 ||arubdaraqigxc.site^
 ||aruranmbqiyus.store^
+||arushaquoth.shop^
 ||aruurnbfs.com^
 ||arvigorothan.com^
 ||arwdcrdpiwinc.site^
@@ -21316,6 +21317,7 @@ browsershots.org#@#.advert_area
 ||blendedbird.com^
 ||blendesdoup.shop^
 ||blendortenacle.cfd^
+||blesmolwhelve.shop^
 ||blessedhurtdismantle.com^
 ||blessedsophia.com^
 ||blesseschazzen.com^
@@ -23902,6 +23904,7 @@ browsershots.org#@#.advert_area
 ||clannotillortale.com^
 ||clariesreleap.shop^
 ||clarinmeanest.com^
+||clarova2021.net^
 ||claryne.xyz^
 ||clashprobation.com^
 ||classic-bonus.com^
@@ -26474,6 +26477,7 @@ browsershots.org#@#.advert_area
 ||detour.click^
 ||detourgumby.cyou^
 ||detoxifylagoonsnugness.com^
+||detruckloessalkimono.qpon^
 ||deturbcordies.com^
 ||detvtjbbegrf.com^
 ||deujaoxlmnw.com^
@@ -29270,6 +29274,7 @@ browsershots.org#@#.advert_area
 ||erstonordersity.org^
 ||ertablisystation.org^
 ||erthfeoveukrn.org^
+||erucaballers.qpon^
 ||erucmouopjy.com^
 ||eruptedfusoidtwibil.cyou^
 ||eruptpriority.com^
@@ -32318,6 +32323,7 @@ browsershots.org#@#.advert_area
 ||genusesslitted.com^
 ||geoaddicted.net^
 ||geodator.com^
+||geogenyretired.qpon^
 ||geogenyveered.com^
 ||geographicalpaperworkmovie.com^
 ||geolcamelot.qpon^
@@ -35032,6 +35038,7 @@ browsershots.org#@#.advert_area
 ||howoqifakuugl.online^
 ||howsourmoolah.com^
 ||howwtmrkhjzfb.website^
+||hoxagkliugfdu.space^
 ||hoyaga.xyz^
 ||hoycgislfliei.store^
 ||hoymandiester.shop^
@@ -37658,6 +37665,7 @@ browsershots.org#@#.advert_area
 ||jihaxrndufelb.online^
 ||jihtuxgciawwy.website^
 ||jiixywykzgfcm.online^
+||jijamqodkojs.in^
 ||jijeahjtjzpxr.space^
 ||jijrafocr.com^
 ||jijswitreaqv.in^
@@ -39942,6 +39950,7 @@ browsershots.org#@#.advert_area
 ||lbtnxitwwfdqd.site^
 ||lbumpethohbsp.online^
 ||lbwdyjxdrzmia.online^
+||lbwjhzikhdoci.space^
 ||lbwonrxjqqf2m63fcmn.cfd^
 ||lbxvjhepgqpmy.online^
 ||lby2kd27c.com^
@@ -41205,6 +41214,7 @@ browsershots.org#@#.advert_area
 ||luggagesynchronize.com^
 ||lugirsbhpifnl.store^
 ||lugldnhhw.com^
+||luglgf6r816982rr45f2.cfd^
 ||lugwzalsqvacb.one^
 ||luhbnpeabgeqf.online^
 ||luhikxgnhksf.com^
@@ -41361,6 +41371,7 @@ browsershots.org#@#.advert_area
 ||lwxuo.com^
 ||lwyaqhuejrhtc.online^
 ||lwyqagwixoicl.space^
+||lwz186utv8m2cmbgexxjwgzovvymp5ube.rest^
 ||lwzrledcyonrw.site^
 ||lwzzgwonlrvgr.site^
 ||lx2rv.com^
@@ -42231,6 +42242,7 @@ browsershots.org#@#.advert_area
 ||methodinduced.com^
 ||methoxyunpaled.com^
 ||methsnacritepreview.qpon^
+||metklqryqtgnu.online^
 ||metothepointa.com^
 ||metradasheen.shop^
 ||metredesculic.com^
@@ -44387,6 +44399,7 @@ browsershots.org#@#.advert_area
 ||ninuptaaajrdk.space^
 ||niobefrogeye.com^
 ||niobicfrizers.cyou^
+||niobitecryable.qpon^
 ||nioljyrbuctyl.space^
 ||niolpwvcjjfvj.website^
 ||nip6mgvw1otkz6.rest^
@@ -45645,6 +45658,7 @@ browsershots.org#@#.advert_area
 ||ofluyplnfaqhi.site^
 ||ofmdohtxiotxm.site^
 ||ofmukindwould.org^
+||ofntikrchswfbw.com^
 ||ofpodconnmtyd.space^
 ||ofpohhcaxtu.in^
 ||ofppahlkiz.com^
@@ -49758,6 +49772,7 @@ browsershots.org#@#.advert_area
 ||pxnzwgdyvcaqd.online^
 ||pxp9.com^
 ||pxrjzziqqthqo.online^
+||pxtnuoekmucfd.space^
 ||pxu9czw585r4n3hk.rest^
 ||pxwqvvumecpsd.world^
 ||pxyfjkqxjcflu.space^
@@ -50040,6 +50055,7 @@ browsershots.org#@#.advert_area
 ||qguusmmvndeor.website^
 ||qguwsuivlnmxr.site^
 ||qgvbpbsqdxnni.store^
+||qgvflyftumwyj.space^
 ||qgvgqhfuessel.com^
 ||qgvjykjmhtnxz.store^
 ||qgvnjatloknbl.store^
