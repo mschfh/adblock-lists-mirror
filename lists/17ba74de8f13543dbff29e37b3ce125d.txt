@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202605311926
+! Version: 202605312009
 ! Title: EasyList
-! Last modified: 31 May 2026 19:26 UTC
+! Last modified: 31 May 2026 20:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 302ce2549e9a39ca0e7789614a7b56751e6bd443
+! Commit: ea67a4c8781df71c6f0dfad8b705fb2c1d8698bf
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -34183,6 +34183,7 @@ browsershots.org#@#.advert_area
 ||hasididlespeise.cyou^
 ||haspbrulziearayne.qpon^
 ||hasselsexalter.cfd^
+||hassockeggbawdric.cyou^
 ||hastediminutiondoes.com^
 ||hasteinternaladulatory.com^
 ||hastenassume.com^
@@ -37744,6 +37745,7 @@ browsershots.org#@#.advert_area
 ||jettedmitch.cfd^
 ||jetterlucayanfellic.cyou^
 ||jettonpeeredodalman.cyou^
+||jeukrmrdbdiea.com^
 ||jevmcmyyokaza.space^
 ||jevvfcpopjvhc.com^
 ||jevybnmrhousp.site^
@@ -40816,6 +40818,7 @@ browsershots.org#@#.advert_area
 ||ljbwzlmlzvmvj.top^
 ||ljbwzlmlzzezq.top^
 ||ljcazzzclwglt.site^
+||ljcfnvnvxwvyz.space^
 ||ljdvaknjzwjgm.com^
 ||ljdzjtpnijpns.space^
 ||ljeeonnslhcmb.store^
@@ -51763,6 +51766,7 @@ browsershots.org#@#.advert_area
 ||relatumrorid.com^
 ||relaxafford.com^
 ||relaxtime24.biz^
+||relaybaseinreplicas.net^
 ||relaylobuli.cfd^
 ||relearnopahs.com^
 ||releasedfinish.com^
@@ -53190,6 +53194,7 @@ browsershots.org#@#.advert_area
 ||rwglmbgecjkom.space^
 ||rwhnuqxubwqvn.one^
 ||rwhsexks.com^
+||rwhupdakjfzkb.online^
 ||rwjbdrzrqgsrf.space^
 ||rwlkmstaerhrt.site^
 ||rwlqbrfsmtvyd.online^
@@ -61875,6 +61880,7 @@ browsershots.org#@#.advert_area
 ||vnnrttxnoybxm.website^
 ||vnnvrstpewqyb.site^
 ||vnoeytklzthqu.website^
+||vnqxbktfukasp.space^
 ||vnrbjvbwbqfob.click^
 ||vntjfxxewlclre.com^
 ||vntsm.com^
