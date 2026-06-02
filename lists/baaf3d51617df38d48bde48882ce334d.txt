@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GNg0aE90m9NBOaQYCBM79A
-! Version: 202606020525
+! Checksum: bhItY4w56vJd7FLbFHXVjg
+! Version: 202606020725
 ! Title: Fanboy's Newsletter List
-! Last modified: 2026-06-02 05:25 UTC
+! Last modified: 2026-06-02 07:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2013,6 +2013,7 @@ getyourguide.com##.activity__newsletter-signup
 developingtelecoms.com##.acymailing_module
 walletinvestor.com##.ad-align-center
 crn.com##.ad-imu-sticky
+ipolitics.ca##.adblock
 independent.com##.ads-container
 drugtargetreview.com##.advads-background
 oled-info.com##.af-form
@@ -3012,6 +3013,7 @@ calgaryherald.com,edmontonjournal.com,nationalpost.com,vancouversun.com##.newsle
 mobilesyrup.com##.newsletter-article-container
 advocate.com,comicsands.com,out.com,thefulcrum.us##.newsletter-aside
 cityam.com##.newsletter-auto-inject
+healthing.ca##.newsletter-background
 pcguide.com##.newsletter-block-wrapper
 theintercept.com##.newsletter-block__content
 techfirstnow.com##.newsletter-body
