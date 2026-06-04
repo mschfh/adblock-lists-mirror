@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606041732
+! Version: 202606041810
 ! Title: EasyList
-! Last modified: 04 Jun 2026 17:32 UTC
+! Last modified: 04 Jun 2026 18:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: beba01275c4d5013ada6feeeaef89e147816619c
+! Commit: ab19754270e4f309eb41eb9b04426c7a43679ed5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18708,6 +18708,7 @@ browsershots.org#@#.advert_area
 ||apvdr.com^
 ||apvroftoomqjy.site^
 ||apwfflihednimr.com^
+||apxbzaptyz.in^
 ||apxdrlplpe.com^
 ||apxlbzpsvdife.site^
 ||apxlv.com^
@@ -21084,6 +21085,7 @@ browsershots.org#@#.advert_area
 ||brmyeyvjshqt.com^
 ||brnhvchjhorpy.com^
 ||brnju6iwxxgozijo3t.rest^
+||brnkn3c8ucv5ihv61713re47gbuh.rest^
 ||brnzq6n69vrr7x16k86ve.rest^
 ||broadensilkslush.com^
 ||broadsheetspikesnick.com^
@@ -21508,6 +21510,7 @@ browsershots.org#@#.advert_area
 ||bxnmviazvodeo.space^
 ||bxolifojkkbue.space^
 ||bxpryiusu.com^
+||bxpxdypiasrus.site^
 ||bxrlptloondxl.space^
 ||bxshallal.cfd^
 ||bxtjmnbqfsiqp.space^
@@ -24087,6 +24090,7 @@ browsershots.org#@#.advert_area
 ||cynodongirnel.com^
 ||cynodonrazzing.shop^
 ||cynzybmckvjxg.store^
+||cypgbugrausdm.site^
 ||cypsokydhdvfj.site^
 ||cysclatowtdxq.website^
 ||cysichvd.com^
@@ -27339,6 +27343,7 @@ browsershots.org#@#.advert_area
 ||euamsyybdrutu.online^
 ||eubobpzucyagl.online^
 ||euchresgabbart.cyou^
+||eucleidoban.cyou^
 ||euddkrjfolwrr.com^
 ||eueodxwdeww.com^
 ||euezpnhisvvhl.online^
@@ -30307,6 +30312,7 @@ browsershots.org#@#.advert_area
 ||go2rph.com^
 ||go2speed.org^
 ||go6shde9nj2itle.com^
+||go84mcgueyiw1w.cfd^
 ||goads.pro^
 ||goaffmy.com^
 ||goagpwzflvpnx.online^
@@ -34712,6 +34718,7 @@ browsershots.org#@#.advert_area
 ||jsgvuduhprrzf.space^
 ||jshtwambpnsdtf.com^
 ||jshvwhcznwigo.site^
+||jsieyfvosbgp.com^
 ||jsmcrpu.com^
 ||jsmcrt.com^
 ||jsmentry.com^
@@ -38078,6 +38085,7 @@ browsershots.org#@#.advert_area
 ||medicationspoons.com^
 ||medichalfwaypoetry.com^
 ||medievalkin.com^
+||medimnofisc.shop^
 ||mediocrebrilliant.com^
 ||mediocrecliffschangeless.com^
 ||mediocremoreoverbalcony.com^
@@ -46302,6 +46310,7 @@ browsershots.org#@#.advert_area
 ||rancidframingyet.com^
 ||rancidmorsel.com^
 ||ranciocapot.cyou^
+||randershooflet.cfd^
 ||randiul.com^
 ||randomadsrv.com^
 ||randomdnslab.com^
@@ -53572,6 +53581,7 @@ browsershots.org#@#.advert_area
 ||tokyotossycay.qpon^
 ||tokyowatch.cc^
 ||toldaspirationpointy.com^
+||toledoslongingrayas.qpon^
 ||tolerancewarily.com^
 ||tolerantdire.com^
 ||tolerantignorancepicturesque.com^
@@ -58786,6 +58796,7 @@ browsershots.org#@#.advert_area
 ||whishedrebuilt.com^
 ||whisheszinke.cfd^
 ||whiskinnuraghetrillil.cyou^
+||whisknitrite.cyou^
 ||whispered-dress.com^
 ||whispered-point.pro^
 ||whisperedgolf.com^
@@ -62601,6 +62612,7 @@ browsershots.org#@#.advert_area
 ||ytkaktsfmkmte.site^
 ||ytkfatevrpld.com^
 ||ytlsppuzpf.club^
+||ytluqctugedmm.site^
 ||ytmrujsfokpvb.space^
 ||ytmvizhokmrtqf.com^
 ||ytmwqfftkvood.store^
