@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606051838
+! Version: 202606051938
 ! Title: EasyList
-! Last modified: 05 Jun 2026 18:38 UTC
+! Last modified: 05 Jun 2026 19:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6a0ca92e2c1f68d7b664da66e0a8c395b204af2a
+! Commit: a96dd9381592ced7b51a675d77de240e5620b129
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19656,6 +19656,7 @@ browsershots.org#@#.advert_area
 ||balkanlivetin.shop^
 ||balkersestian.com^
 ||balkliving.com^
+||balletscorpnsyria.qpon^
 ||ballroomprudentauditorium.com^
 ||balmobligedelder.com^
 ||balmyrind.com^
@@ -26426,6 +26427,7 @@ browsershots.org#@#.advert_area
 ||editorovertimeradiation.com^
 ||editorviolentlick.com^
 ||edjbpudsjptpi.website^
+||edlacvhfxpidi.site^
 ||edlilu.com^
 ||edlllddsgkelx.space^
 ||ednewsbd.com^
@@ -29129,6 +29131,7 @@ browsershots.org#@#.advert_area
 ||frblernpdqkdq.space^
 ||frbsdeaewuhou.website^
 ||frcgllrgcrzal.com^
+||frctovigtdunp.site^
 ||freakishforgiving.com^
 ||freaksgreed.com^
 ||freckenstekan.cyou^
@@ -35993,6 +35996,7 @@ browsershots.org#@#.advert_area
 ||ktnwsfisfbvjl.space^
 ||ktocmwvtlivyq.site^
 ||ktrgtteucxzzu.website^
+||ktsaditrxdka.com^
 ||ktsnqchncbimr.space^
 ||ktwllzdco.com^
 ||ktwvbnfxd.com^
@@ -53005,6 +53009,7 @@ browsershots.org#@#.advert_area
 ||teeming-comfortable.com^
 ||teemingcoach.pro^
 ||teemingnumber.pro^
+||teemnooseeliminate.com^
 ||teemsztsggjav.website^
 ||teemtechnique.com^
 ||teenersqueueunbear.cyou^
@@ -53769,6 +53774,7 @@ browsershots.org#@#.advert_area
 ||tmrkyvvycpy.com^
 ||tmtojgy5jhp3gmeu.rest^
 ||tmtsumfxcvfvi.site^
+||tmwheidhghdphay.com^
 ||tmwzkukvxwdzl.website^
 ||tnaygpxwlubq.com^
 ||tnb8yc2gi52epb5.cfd^
