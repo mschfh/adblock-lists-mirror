@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606051339
+! Version: 202606051436
 ! Title: EasyList
-! Last modified: 05 Jun 2026 13:39 UTC
+! Last modified: 05 Jun 2026 14:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c463ba76cdda3aa53b9a327560db70474491f2bb
+! Commit: 63f3a5ead915d2bdefd86f4ef467d3d07c6a53cd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15741,6 +15741,7 @@ browsershots.org#@#.advert_area
 ||2022welcome.com^
 ||2024jphatomenesys35.top^
 ||2024jphatomenesys36.top^
+||2026services.com^
 ||202warehouses.net^
 ||2048hydreo.net^
 ||206ads.com^
@@ -24695,6 +24696,7 @@ browsershots.org#@#.advert_area
 ||delugerefluxunpinned.com^
 ||delusionalrevolt.com^
 ||delutza.com^
+||delvepsoitisovert.qpon^
 ||delvershybodusgeyan.qpon^
 ||demand.supply^$script
 ||demandedrucksackprivate.com^
@@ -28038,6 +28040,7 @@ browsershots.org#@#.advert_area
 ||fbrcwhntxwalbcr.com^
 ||fbrojczjqlcxh.online^
 ||fbthiaiy.com^
+||fbulmykkqnp.com^
 ||fbulwtgclh.com^
 ||fbvkusodvy.com^
 ||fbwenthmnj.com^
@@ -33541,6 +33544,7 @@ browsershots.org#@#.advert_area
 ||intendsopush.com^
 ||intendwaitresssalty.com^
 ||intent-buyer.pro^
+||intent-square.pro^
 ||intentanalysis.com^
 ||intentionalfahrenheit.com^
 ||intentionalhurt.pro^
@@ -47868,6 +47872,7 @@ browsershots.org#@#.advert_area
 ||rm358.com^
 ||rm7f1y4gwwlp33.cfd^
 ||rmajfshtdeoko.space^
+||rmazxvjbpymsz.website^
 ||rmb-trf.net^
 ||rmbalnswelwcp.online^
 ||rmbvggbudcszh.site^
@@ -47937,6 +47942,7 @@ browsershots.org#@#.advert_area
 ||rnqkdvlbmsggwln.com^
 ||rnrxtwbebbe.com^
 ||rnsjhswfssfva.website^
+||rnspydenvkyay.website^
 ||rntcycudcyzdu.online^
 ||rnuxzqjkiwiry.website^
 ||rnvaowijnewyn.site^
@@ -52887,6 +52893,7 @@ browsershots.org#@#.advert_area
 ||tdhnqclf.com^
 ||tdiziyfbhydbu.online^
 ||tdkaapcziaoty.website^
+||tdkfwctyeoayx.online^
 ||tdkwsppseymhf.space^
 ||tdlqvfegemqte.com^
 ||tdmogwlkwcgiu.site^
