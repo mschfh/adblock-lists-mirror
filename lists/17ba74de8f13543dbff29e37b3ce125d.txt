@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606052128
+! Version: 202606052210
 ! Title: EasyList
-! Last modified: 05 Jun 2026 21:28 UTC
+! Last modified: 05 Jun 2026 22:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 16f81085c2cc4e4fd4df5d4b641abce90174a8a0
+! Commit: 054ee7a92519d790631885383bbda3b63c7c9efc
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20311,6 +20311,7 @@ browsershots.org#@#.advert_area
 ||bidbrain.app^
 ||bidclickmedia.com^
 ||bidderads.com^
+||bidderssupper.cfd^
 ||bidfortraffic.com^
 ||bidster.net^
 ||bidswitch.net^
@@ -31524,6 +31525,7 @@ browsershots.org#@#.advert_area
 ||heartilyscales.com^
 ||heartlessanthemantiquity.com^
 ||heartlyzelmeguilp.cyou^
+||hearty-king.pro^
 ||hearty-text.pro^
 ||heartymisspell.com^
 ||heartyquit.com^
@@ -34406,6 +34408,7 @@ browsershots.org#@#.advert_area
 ||jexxcyworgopm.love^
 ||jexzbvkfnmmyw.store^
 ||jezer.site^
+||jezgteymvjesv.space^
 ||jeziahhostly.com^
 ||jf71qh5v14.com^
 ||jfacflmbkvxez.online^
@@ -50942,6 +50945,7 @@ browsershots.org#@#.advert_area
 ||songertringa.com^
 ||songsill.com^
 ||songtopbrand.com^
+||soniouacnode.shop^
 ||soniouchopped.cyou^
 ||sonioutwicer.qpon^
 ||sonnerie.net^
@@ -62796,6 +62800,7 @@ browsershots.org#@#.advert_area
 ||ypocjgogabqjj.website^
 ||ypocrasmelling.qpon^
 ||ypphgndtjnpyf.online^
+||yppplierehd.com^
 ||yprmiumi.xyz^
 ||yprzvrve2vmbxqy9gnk.cfd^
 ||yptynzytbqnwm.site^
