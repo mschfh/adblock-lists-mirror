@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7rwUVh/+pxTHp8Hh+lIjkg
-! Version: 202606060925
+! Checksum: yhcj8p7HoQOsJcyUwz59UA
+! Version: 202606061150
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-06-06 09:25 UTC
+! Last modified: 2026-06-06 11:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -50712,6 +50712,7 @@ sportsline.com,theinfatuation.com##[data-testid="newsletter"]
 thurrott.com##[data-thurrott-layout-section-footer-section="newsletter"]
 thurrott.com##[data-thurrott-section="inline-form"]
 ft.com##[data-trackable="story:related-promo"]
+townandcountrymag.com##[data-vars-block-type="Newsletter"]
 torontosun.com##[data-widget="newsletter"]
 oann.com##[href="/alerts"]
 tfn.scot##[href="/bulletin"]
