@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +aI9ljTmpMBilA1xm8aO0A
-! Version: 202606070500
+! Checksum: pvv6AwmjcvhM5z+IbLUayw
+! Version: 202606070625
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-06-07 05:00 UTC
+! Last modified: 2026-06-07 06:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2262,6 +2262,7 @@ climeworks.com##.footerCtaBanner
 grist.org##.footer__cta-wrapper
 pbs.org##.footer__donate
 tweaktown.com##.footer_bottom
+sltrib.com##.fp-marketing-message-wrapper
 novayagazeta.eu##.fqOWT
 peoplefor.org##.fun-widget-backdrop-holder
 publicdomainreview.org##.fundraiser-banner
@@ -14917,6 +14918,7 @@ rbth.com##.Popup-telegram
 sfstandard.com##.PopupSharer_container__Nhcrt
 aerospaceglobalnews.com##.PostMetaBar__Social
 cricketcountry.com##.PreferredSourcesDesktop
+thehealthsite.com##.PreferredSourcesDetails
 whatcar.com##.ReviewSocialSection_reviewSocialSection__qzV0o
 ndtv.com##.SSR_drp
 abc.net.au##.ShareBanner_container__OX63I
@@ -15481,7 +15483,7 @@ kyivpost.com##.google-news-preffer-button
 bleedingcool.com##.google-news-source
 essentiallysports.com##.google-perference_googlePerference__h94ae
 timesofisrael.com##.google-prefer-module
-ringsidenews.com,tmz.com##.google-preferred-btn
+ringsidenews.com,thehealthsite.com,tmz.com##.google-preferred-btn
 realestate.com.au##.google-preferred-link
 sammobile.com##.google-preferred-news-source-cta
 cultofmac.com##.google-preferred-source
@@ -16150,6 +16152,7 @@ spillsomebeans.com##.socials-counter
 9anime.se##.socials-group
 phys.org##.socials-wrapper
 blog.resy.com##.socials2
+thehealthsite.com##.socialsIconBlackWhite
 ntvkenya.co.ke##.socials_bar
 thepopverse.com##.socials_promo
 eatwell101.com##.socialsaveur
