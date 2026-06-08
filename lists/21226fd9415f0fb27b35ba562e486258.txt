@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: lfV7iiTiCCMAo5Od24XX1A
+! Checksum: Ahk7c/qpA1kXtcl3jn3ryA
 ! Title: Easylist Cookie List
-! Last modified: 2026-06-07 05:00 UTC
+! Last modified: 2026-06-08 00:25 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -24182,7 +24182,7 @@ bluesnews.de##.ce_rsce_oneo_fixed_note
 foodjobs.de##.ckOuter
 boley.de##.ckmsg
 sberbankdirect.de##.cm
-alex-fm.de,antik-vehrs.de,nahkampfkunst.de,naturheilpraxis-schweig.de##.cm-cookie-container
+alex-fm.de,antik-vehrs.de,da-glaser.de,nahkampfkunst.de,naturheilpraxis-schweig.de##.cm-cookie-container
 hifi-janssen.de##.cm-wp-container
 immoscout24.ch##.cmOzGN
 ihk-weiterbildung.de##.cmnstr
