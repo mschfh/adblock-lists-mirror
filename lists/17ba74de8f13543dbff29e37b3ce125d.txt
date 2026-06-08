@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606082147
+! Version: 202606082229
 ! Title: EasyList
-! Last modified: 08 Jun 2026 21:47 UTC
+! Last modified: 08 Jun 2026 22:29 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d4f792843b48e406b09f4f33df259a57ab0fe661
+! Commit: 069ff6c1f4fdac93aae4afd7f8f5760737554e4c
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18478,6 +18478,7 @@ browsershots.org#@#.advert_area
 ||ananterblatta.cyou^
 ||ananymyokel.cfd^
 ||anapirate.com^
+||anarchyfamuli.qpon^
 ||anastasia-international.com^
 ||anastasiasaffiliate.com^
 ||anattospursier.com^
@@ -24712,6 +24713,7 @@ browsershots.org#@#.advert_area
 ||dealtoneoddly.com^
 ||dear-soil.com^
 ||dearestappeal.com^
+||dearestfunny.pro^
 ||dearesthydrogen.com^
 ||dearesttongue.pro^
 ||deathcoho.com^
@@ -26086,6 +26088,7 @@ browsershots.org#@#.advert_area
 ||dsuylgujnxqes.site^
 ||dsuyspjorroea.site^
 ||dsuzbf.com^
+||dsvfbu.com^
 ||dsvidbernlibi.site^
 ||dswagqnjedlcq.site^
 ||dswckxxivdrjj.website^
@@ -27422,6 +27425,7 @@ browsershots.org#@#.advert_area
 ||epjlfziryrpkg.site^
 ||epldjrxblnvpa.store^
 ||eplixxwmbkoqp.space^
+||eplrhascktu.com^
 ||epnredirect.ru^
 ||eponymysienite.cfd^
 ||eppjwjoomvfxx.space^
@@ -44252,6 +44256,7 @@ browsershots.org#@#.advert_area
 ||pmmxeavnflhkl.website^
 ||pmnlcpdlljaie.website^
 ||pmpcklcmbarih.space^
+||pmphzyhobbkgf.site^
 ||pmpvkncwwmlpd.site^
 ||pmqnknenfcrgq.space^
 ||pmtveblemefkc.com^
@@ -45541,6 +45546,7 @@ browsershots.org#@#.advert_area
 ||pzmgdixojqhhl.online^
 ||pzoapdfmzfrqz.website^
 ||pzpkfoioljn.com^
+||pzpvweoxjm.com^
 ||pzqrhgqndswqn.store^
 ||pzwzitvbdhpiw.website^
 ||pzxjjwbdvxxbi.store^
@@ -50047,6 +50053,7 @@ browsershots.org#@#.advert_area
 ||solujav.my^
 ||solutionbiologyisle.com^
 ||solutionswith401.com^
+||soluujnjqwsta.online^
 ||solvemilitaryconsulate.com^
 ||somainpdeirit.online^
 ||somber-fold.pro^
@@ -50874,6 +50881,7 @@ browsershots.org#@#.advert_area
 ||strifeschronol.cyou^
 ||strigilemystrochid.cyou^
 ||strikebreaker3x.fun^
+||strikecrinosefoetid.cyou^
 ||striking-personal.pro^
 ||strikingcondolences.com^
 ||stringbuild.com^
@@ -77489,6 +77497,7 @@ bedbathandbeyond.com##section[class^="showcaseAds_container"]
 bestbuy.ca##section[data-automation="dynamic-content-featured-sku-list-home_fsl_sponsored"]
 bbc.com##section[data-e2e="advertisement"]
 foodandwine.com##section[id*="mntl-four-post--sponsored"]
+woolworths.com.au##shared-header-adaptive-menu-panel.category-list .featured
 reddit.com##shreddit-ad-post
 reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##shreddit-comments-page-ad
 tempostorm.com##side-banners
@@ -77894,6 +77903,7 @@ maisonsdumonde.com##[data-el="product-card-grid"] article:has([data-el="product-
 pixiv.net##[data-gtm-recommend-zone="index"] li:has(> div > iframe[name$="rectangle"])
 avxhm.se##[data-localize]:has(a[href^="https://canv.ai/"])
 softonic.com##[data-meta="placeholder-slot"]:has([data-label="Advertisement"])
+target.com##[data-module-type="GlobalRecommendedProducts"]:has(> [data-test*="sponsored_items"])
 etsy.com##[data-page-type="listing_page_similar_listings_grid"]:has([id^="ad-listing-title-"])
 etsy.com##[data-page-type="listing_page_similar_listings_row"]:has([id^="ad-listing-title-"])
 etsy.com##[data-page-type="market"]:has([id^="ad-listing-title-"])
@@ -77910,6 +77920,7 @@ bestbuy.com##[data-testid="story-wrapper-row"] div:has(> [data-story-name="spons
 linuxcommandlibrary.com##[href^="/"]:has([src*=".webp"])
 alibaba.com##[id^="sse-fluent-wending"]:has(.creative-ad-tag)
 kayak.com##[role="button"]:has([class*="ad-marking"])
+staples.com##[role="complementary"] #observer-id-temp:has(> #SKU_FeaturedProductCarousel)
 kayak.com##[role="tab"]:has([class*="sponsored"])
 unknowncheats.me##[style*="justify-content"]:has([rel^="sponsored"]) + [style]
 manomano.*##a[class]:has(> .UWP_c8)
@@ -78019,7 +78030,8 @@ facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##div
 flipkart.com##div[style="max-width:1200px;width:100%"]:has(source[srcset^="https://rukminim1.flixcart.com/fk-p-flap/1570/520/image/eb2033142a4a8eab.png"])
 thisday.app##div[style="min-height: 340px;"]:has(div.ad)
 robtex.com##div[style]:has(> ins.adsbygoogle[data-ad-slot])
-dribbble.com##drb-infinite-scroll div[data-username]:has(drb-tooltip[data-promoted-badge])
+dribbble.com##drb-infinite-scroll .service-result:has(drb-tooltip[data-featured-badge])
+dribbble.com##drb-infinite-scroll div[data-username]:has(drb-tooltip[data-featured-badge])
 fdiintelligence.com#?#.undefined:has-text(Advertisement)
 90min.com##figure:has(> div > #mm-player-placeholder-large-screen)
 unsplash.com##figure[itemprop="image"]:has(div[class*="sponsorLabelContainer-"])
