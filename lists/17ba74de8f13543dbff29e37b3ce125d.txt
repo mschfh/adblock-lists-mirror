@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606122026
+! Version: 202606122106
 ! Title: EasyList
-! Last modified: 12 Jun 2026 20:26 UTC
+! Last modified: 12 Jun 2026 21:06 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 491e4e2edff64d68b2b8e9593390b526d9b80d1a
+! Commit: b27e481ac9213946be4f179f053fa281ec9dd2ff
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -33031,6 +33031,7 @@ browsershots.org#@#.advert_area
 ||horizontallypolluteembroider.com^
 ||horizontallyresearchpolar.com^
 ||horizonungyve.cyou^
+||horlajohan.qpon^
 ||horncreature.com^
 ||horndestructnosebleed.com^
 ||hornistcopens.qpon^
@@ -40475,6 +40476,7 @@ browsershots.org#@#.advert_area
 ||mqutibglqfjmq.website^
 ||mqwdgnbntkgen.space^
 ||mqxbtsawpuulc.store^
+||mqzfvlchjfiki.com^
 ||mr2cnjuh34jb.com^
 ||mr9rxihn18wbh4pqkkjzb6go86.cfd^
 ||mraza2dosa.com^
@@ -43286,6 +43288,7 @@ browsershots.org#@#.advert_area
 ||oqgnkkepymcdj.site^
 ||oqisfnvewbcaz.online^
 ||oqiuuznwfdqbb.website^
+||oqivylqsofnnl.site^
 ||oqjzazobpofq.in^
 ||oqkhxgzljvqzr.store^
 ||oqmacnov.in^
