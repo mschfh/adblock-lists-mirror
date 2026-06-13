@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606132137
+! Version: 202606132158
 ! Title: EasyList
-! Last modified: 13 Jun 2026 21:37 UTC
+! Last modified: 13 Jun 2026 21:58 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0d1998cb4b4c5edcf492612f465fe07282624353
+! Commit: ccd9f579acb355b9b03c0b274fb74c5659a9f886
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19376,6 +19376,7 @@ browsershots.org#@#.advert_area
 ||atjlwaqzym.in^
 ||atkoxjrndvsct.online^
 ||atlastwo.com^
+||atlbhrkdrcmxg.online^
 ||atmalinks.com^
 ||atmenttogether.org^
 ||atmuyqevsfk.com^
@@ -26487,6 +26488,7 @@ browsershots.org#@#.advert_area
 ||dsincy.com^
 ||dsjoiyflhvxpq.website^
 ||dsjvjv.com^
+||dskbcl.com^
 ||dskcjy.com^
 ||dskgna.com^
 ||dskkye.com^
@@ -36399,6 +36401,7 @@ browsershots.org#@#.advert_area
 ||jzpbspijbwroi.site^
 ||jzrmxnvcniwmj.online^
 ||jzrooqbeqfvg.com^
+||jztedfglzlwjf.site^
 ||jztxtlsupbqcu.site^
 ||jzurskxzpkrpw.website^
 ||jzvtfmnpdikdw.website^
@@ -56520,6 +56523,7 @@ browsershots.org#@#.advert_area
 ||vengingtrental.com^
 ||venialpetalia.shop^
 ||veningspond.org^
+||veniseireless.cfd^
 ||venocfzxlropn.store^
 ||venomhouris.top^
 ||venomythrap.cfd^
