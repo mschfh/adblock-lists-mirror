@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606162300
+! Version: 202606162336
 ! Title: EasyList
-! Last modified: 16 Jun 2026 23:00 UTC
+! Last modified: 16 Jun 2026 23:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9033af0da834d3dce23073ae7142b5bff3fb159f
+! Commit: 0d9a0fe0225150b3080de0d1e7160675cd005f4e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18035,6 +18035,7 @@ browsershots.org#@#.advert_area
 ||agtdrohiboc.com^
 ||agudistlamusintl.cyou^
 ||aguisereasonfatling.cyou^
+||agurasiluretwine.qpon^
 ||agurgeed.net^
 ||agvbugbix.com^
 ||agwagnfaqtc.in^
@@ -26310,6 +26311,7 @@ browsershots.org#@#.advert_area
 ||dswhem.com^
 ||dswlpq.com^
 ||dswmrn.com^
+||dswocr.com^
 ||dswppe.com^
 ||dswqea.com^
 ||dswrqh.com^
@@ -30051,6 +30053,7 @@ browsershots.org#@#.advert_area
 ||fxxogvmdpnwgw.online^
 ||fxyfurcqwygxmtc.com^
 ||fxyjzqckjnezs.website^
+||fxzbgdweisumj.online^
 ||fyauuswqwavou.website^
 ||fybzuyvspginc.website^
 ||fycdnhwmaitdg.online^
@@ -33683,6 +33686,7 @@ browsershots.org#@#.advert_area
 ||imirki78.com^
 ||imirkin6.com^
 ||imitrck.net^
+||imjarvnpcxsmm.site^
 ||imjbtmaesjvam.space^
 ||imjprkvybgfdw.space^
 ||imkirh.com^
@@ -35686,6 +35690,7 @@ browsershots.org#@#.advert_area
 ||jwufajjpajnfq.website^
 ||jwuikmwpwrvae.site^
 ||jwuvgefatybvbnv.com^
+||jwuxryzdclpzp.site^
 ||jwxlupfcsmlkb.online^
 ||jwyvtewajahc.in^
 ||jwzeoshnruedd.website^
@@ -39976,6 +39981,7 @@ browsershots.org#@#.advert_area
 ||mtypitea.net^
 ||mtyxmamrsjxyr.space^
 ||mu5bfngkp9lwjtnxyvirk5.cfd^
+||muapuxxyabwtfo.com^
 ||muckingcrochsien.qpon^
 ||mucoidbaniwa.cyou^
 ||mucusesburgoutaeacus.cyou^
@@ -49468,6 +49474,7 @@ browsershots.org#@#.advert_area
 ||shuttlelikingcabinet.com^
 ||shwnoyrwgmyli.online^
 ||shy-clothes.com^
+||shy4dynamics.com^
 ||shydastidu.com^
 ||shylength.pro^
 ||shyplan.com^
