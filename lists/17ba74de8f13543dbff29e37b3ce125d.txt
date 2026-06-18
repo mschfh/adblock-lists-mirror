@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606182147
+! Version: 202606182244
 ! Title: EasyList
-! Last modified: 18 Jun 2026 21:47 UTC
+! Last modified: 18 Jun 2026 22:44 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9871271774319f9e1fd0133fdf405b6520d0ecac
+! Commit: 9e2ef5a5ef7965f1eed9032e18e1a218dc7bb5da
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18178,6 +18178,7 @@ browsershots.org#@#.advert_area
 ||aixyiapiclvui.space^
 ||aiyrmwheuqzla.website^
 ||aizhantj.com^
+||aizzetelso.cyou^
 ||aj1070.online^
 ||aj1432.online^
 ||aj1559.online^
@@ -19849,6 +19850,7 @@ browsershots.org#@#.advert_area
 ||bahoekokovidkids.cyou^
 ||bahswl.com^
 ||bahutshuller.cyou^
+||bailbezetta.cfd^
 ||bailiffstrapwanted.com^
 ||bailiffzealous.com^
 ||bainrpwd.com^
@@ -25490,6 +25492,7 @@ browsershots.org#@#.advert_area
 ||dikcmpgwemomx.space^
 ||dikeprotectorencyclopaedia.com^
 ||dikingjicara.shop^
+||dikont.xyz^
 ||dikqudbgvloe.com^
 ||dilatedronishsau.qpon^
 ||diligenceshaped.com^
@@ -29496,6 +29499,7 @@ browsershots.org#@#.advert_area
 ||fndnundtdytuv.space^
 ||fndvkouekeevn.online^
 ||fneseravined.qpon^
+||fnfbjhfwumxnmg.com^
 ||fngvepnjonsdl.online^
 ||fnhxgcihou.com^
 ||fnieftbduxjdr.online^
@@ -35825,6 +35829,7 @@ browsershots.org#@#.advert_area
 ||juicymortgage.com^
 ||jujifldyn.com^
 ||jujpitie.com^
+||jukesbigramamoral.cfd^
 ||juklfwgznmzky.site^
 ||juleplilian.qpon^
 ||julianoalvaroz12.com^
@@ -38479,6 +38484,7 @@ browsershots.org#@#.advert_area
 ||lunaticcosyatrocious.com^
 ||lunatictoxicambiguity.com^
 ||lunchoffended.com^
+||lunetsepium.qpon^
 ||lunlllxfmkvxr.site^
 ||lunlyqvavjkfc.website^
 ||luntsdodgesalumin.cyou^
@@ -45246,6 +45252,7 @@ browsershots.org#@#.advert_area
 ||pressedassertpassing.com^
 ||pressingefficiencyincompetence.com^
 ||pressize.com^
+||pressreportzone.com^
 ||pressyour.com^
 ||prestigeestimatemobile.com^
 ||prestigemoisturerefutation.com^
@@ -51879,6 +51886,7 @@ browsershots.org#@#.advert_area
 ||svn-defender.pro^
 ||svntrk.com^
 ||svqulyres.com^
+||svqzcswdpeytq.space^
 ||svrgcqgtpe.com^
 ||svstfplolhlll.website^
 ||svswyokrievoe.space^
@@ -52718,6 +52726,7 @@ browsershots.org#@#.advert_area
 ||theweblocker.net^
 ||theyaoukombu.cyou^
 ||theydmatelotmorule.cyou^
+||thgdprtfgudrt.site^
 ||thgrekourrkag.site^
 ||thhgsjcgqbvgg.site^
 ||thicketsaidwhole.com^
@@ -58635,6 +58644,7 @@ browsershots.org#@#.advert_area
 ||xivtiwrjgqrpo.website^
 ||xixvvegwkskns.site^
 ||xiypojikmfgup.website^
+||xizubjdgoczcq.website^
 ||xj9gth5i.xyz^
 ||xjawvwhipohot.online^
 ||xjdkccwyttuqj.website^
@@ -58693,6 +58703,7 @@ browsershots.org#@#.advert_area
 ||xkspgkdejobec.site^
 ||xkuleysuqgzbz.website^
 ||xkuxohmppjzjo.site^
+||xkwvzesueefsn.website^
 ||xkybsvfhjuznn.space^
 ||xkyymtgkjvfja.com^
 ||xlakqgtnzjcix.online^
