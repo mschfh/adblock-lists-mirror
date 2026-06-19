@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606191530
+! Version: 202606191657
 ! Title: EasyList
-! Last modified: 19 Jun 2026 15:30 UTC
+! Last modified: 19 Jun 2026 16:57 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0ccaa8f62e5c2fbe92d4519c6dce638159426c80
+! Commit: b3d61c6b1dcf91c61c5647850bec3b57ffdfa83d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19724,6 +19724,7 @@ browsershots.org#@#.advert_area
 ||azmexngawjzhx.space^
 ||aznapoz.info^
 ||aznjmyopdl.in^
+||azofierleggincanela.cfd^
 ||azofierlogliketourize.cyou^
 ||azolemimmed.qpon^
 ||azoniumtiangue.top^
@@ -30163,6 +30164,7 @@ browsershots.org#@#.advert_area
 ||fumestealwilfrid.com^
 ||fumosenair.cyou^
 ||funcallback.com^
+||functions8.com^
 ||functionsinfix.net^
 ||functionsout9.net^
 ||functionssubqueries.com^
@@ -39821,6 +39823,7 @@ browsershots.org#@#.advert_area
 ||mjxfrupqhxpcd.website^
 ||mjxrcnuntghni.space^
 ||mjymhibmdwqlk.online^
+||mjyoryuw.com^
 ||mkacyblu.com^
 ||mkbgzaxkwyilk.online^
 ||mkcmuoujzgsxv.online^
@@ -39898,6 +39901,7 @@ browsershots.org#@#.advert_area
 ||mmbwpzthsmbul.online^
 ||mmchkbriryqrl.space^
 ||mmctsvc.com^
+||mmdcokadaklfg.website^
 ||mmeagerlystaff.com^
 ||mmentorapp.com^
 ||mmfykwayhgftt.space^
@@ -40429,6 +40433,7 @@ browsershots.org#@#.advert_area
 ||mtpmbrpe.com^
 ||mttfstnlcnrwv.online^
 ||mttkrmejmzbpu.space^
+||mtttadmylojfd.online^
 ||mtuyddahzbvcr.online^
 ||mtvwgmaqvnipg.com^
 ||mtx3m2ukvpiv68.cfd^
@@ -40605,6 +40610,7 @@ browsershots.org#@#.advert_area
 ||mvstmjowjtxij.site^
 ||mvtureen.shop^
 ||mvugvtzbonlik.website^
+||mvuqmnnxfxfba.space^
 ||mvuzjyfunvkzw.store^
 ||mvvlsvwtgoxlj.space^
 ||mvvlwyftnouio.space^
@@ -40660,6 +40666,7 @@ browsershots.org#@#.advert_area
 ||mxoiuuceaesfg.space^
 ||mxptint.net^
 ||mxqvygpfsmtfk.space^
+||mxqxqpumgtpzl.website^
 ||mxrgzkyrwigqb.online^
 ||mxryddheuisve.store^
 ||mxwiqgbnb.com^
@@ -40868,6 +40875,7 @@ browsershots.org#@#.advert_area
 ||nasikfvzxdpda.website^
 ||naskhizeroingmeissa.qpon^
 ||nasodresser.com^
+||nasprgpucbdnv.space^
 ||nasrolrt.com^
 ||nasty-technology.pro^
 ||nastylayer.com^
@@ -45490,6 +45498,7 @@ browsershots.org#@#.advert_area
 ||prioritylotantagonize.com^
 ||priortreasonpositive.com^
 ||prisalarmseye.cyou^
+||prism-assets.online^
 ||prism-cdn.online^
 ||pristine-creative.com^
 ||pristineswing.pro^
@@ -46824,6 +46833,7 @@ browsershots.org#@#.advert_area
 ||quarterly-golf.pro^
 ||quarterlybeyond.pro^
 ||quarterlyimportance.pro^
+||quasargurge.qpon^
 ||quasheenunhood.com^
 ||quasicurrant.com^
 ||quasly.net^
@@ -77325,6 +77335,7 @@ crictracker.com##div[class^="ad-block-"]
 fodors.com,thehulltruth.com##div[class^="ad-placeholder"]
 gamingdeputy.com##div[class^="ad-wrapper-"]
 goodrx.com##div[class^="adContainer"]
+pixabay.com##div[class^="adSponsoredMediaContainer-"]
 statsroyale.com##div[class^="adUnit_"]
 goodrx.com##div[class^="adWrapper-"]
 90min.com,investing.com,newsday.com##div[class^="ad_"]
@@ -77365,6 +77376,7 @@ windowsreport.com##div[class^="refmedprd"]
 windowsreport.com##div[class^="refmedprod"]
 geekchamp.com##div[class^="rk-"]
 kijiji.ca##div[class^="sponsored-"]
+pixabay.com##div[class^="sponsoredSection-"]
 target.com##div[class^="styles__PubAd"]
 semafor.com##div[class^="styles_ad"]
 unmineablesbest.com##div[class^="uk-visible@"]
@@ -77448,6 +77460,7 @@ cults3d.com##div[data-zone-bsa]
 miaminewtimes.com,westword.com##div[gpt-slot-config-id]
 miaminewtimes.com,westword.com##div[gpt-slot-div-id-base]
 serververify.com##div[hx-get="https://serververify.com/advertisement/load"]
+noon.com##div[id*="-adProductsListBanner-"]
 spin.com##div[id*="-promo-lead-"]
 spin.com##div[id*="-promo-mrec-"]
 chrome-stats.com##div[id*="billboard_responsive"]
@@ -78108,6 +78121,7 @@ pexels.com##[data-testid="column"] [data-testid="item"]:has([class*="AIGCAdShare
 pexels.com##[data-testid="column"] [data-testid="item"]:has([data-heading*="Sponsored"])
 pexels.com##[data-testid="column"] [data-testid="item"]:has([data-text="Sponsored Photos"])
 pexels.com##[data-testid="column"] [data-testid="item"]:has([data-title*="Sponsored"])
+pexels.com##[data-testid="column"] [data-testid="item"]:has(a[rel*="sponsored"])
 farfetch.com##[data-testid="featured"]:has([data-ffref*="sponsoredBy"])
 samsclub.com##[data-testid="item-stack"] > .mb0:has(a[href^="https://www.samsclub.com/midas/sams-crs/track?"])
 petco.com##[data-testid="product-buy-box"]:has([class*="SponsoredText"])
