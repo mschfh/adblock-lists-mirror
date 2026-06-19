@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606190229
+! Version: 202606190401
 ! Title: EasyList
-! Last modified: 19 Jun 2026 02:29 UTC
+! Last modified: 19 Jun 2026 04:01 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bfdb14afd983ccd2314947f6a2a8e5c5d084feca
+! Commit: 40c8a4ae0acf58723870bea96488b6c16d25f414
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19610,6 +19610,7 @@ browsershots.org#@#.advert_area
 ||awrgykbzmzmjz.online^
 ||awrrujbcua.in^
 ||awrwwedcoeeyq.site^
+||awryau.com^
 ||aws-itcloud.net^
 ||awsoszfpeag.in^
 ||awsurveys.com^
@@ -20538,6 +20539,7 @@ browsershots.org#@#.advert_area
 ||bhheuhvupxzpk.space^
 ||bhistiehaverel.qpon^
 ||bhivpvsbhskzv.site^
+||bhiwhpjkcamqe.com^
 ||bhjmacgkyiiux.website^
 ||bhketuklhhavv.website^
 ||bhlilxdjkidij.site^
@@ -28753,6 +28755,7 @@ browsershots.org#@#.advert_area
 ||fcdfjjbnrxrufd.com^
 ||fcf18679b7.com^
 ||fcfgnzaozklfp.space^
+||fcgfwjaxlwvamvw.com^
 ||fchyhxyuloju.com^
 ||fcifaypfepfvy.space^
 ||fckhwsfvgsebk.website^
@@ -30078,6 +30081,7 @@ browsershots.org#@#.advert_area
 ||fudzceoandzhm.website^
 ||fuecnkpqtnkjp.space^
 ||fuelingjejuna.qpon^
+||fufmlgpnqzafv.site^
 ||fufstxtytywhx.website^
 ||fuget.xyz^
 ||fugitivedepart.com^
@@ -31334,6 +31338,7 @@ browsershots.org#@#.advert_area
 ||goveiesyrxxls.site^
 ||govfhrimbmzvt.store^
 ||govrrobif.com^
+||govzzpzvfwctr.site^
 ||gowferbumped.shop^
 ||gowningberi.cfd^
 ||gowofhdmdtdhi.online^
@@ -32801,6 +32806,7 @@ browsershots.org#@#.advert_area
 ||hnchrbjicjcxq.space^
 ||hnfuvjqpmzzey.website^
 ||hngnmcggjoyhp.space^
+||hnhezwicvtcnm.website^
 ||hnhgbcod.com^
 ||hnhmwvomvllai.website^
 ||hnizzwyxyqcfa.online^
@@ -33703,6 +33709,7 @@ browsershots.org#@#.advert_area
 ||ifngvkvrc.com^
 ||ifnzvapjsaumr.site^
 ||ifpiawqeievju.online^
+||ifqurqkzqnupr.site^
 ||ifsqiyjvlu.com^
 ||iftuzvnyudfus.online^
 ||ifvpwyestq.com^
@@ -35142,6 +35149,7 @@ browsershots.org#@#.advert_area
 ||jcavguudmzlif.site^
 ||jcbcfthnhbcb.com^
 ||jcbnozxsotycs.website^
+||jcducnmrnmznb.online^
 ||jcdwjcetiikar.website^
 ||jcerqxksfqyqc.com^
 ||jcfocrpceqtwa.site^
@@ -36276,6 +36284,7 @@ browsershots.org#@#.advert_area
 ||kehalim.com^
 ||kehkbsknnedlv.site^
 ||kektds.com^
+||kelfnfabbwugq.online^
 ||kellegkjuglar.cyou^
 ||kelliabyzant.com^
 ||kelpiesregna.com^
@@ -37113,6 +37122,7 @@ browsershots.org#@#.advert_area
 ||l1ukynvvml1l2r.cfd^
 ||l1vec4ms.com^
 ||l2fmm7sp.xyz^
+||l2jnxmbrmge5xi.cfd^
 ||l3qmzgpglx2m89uotr.cfd^
 ||l3uvrk68bj4bw1l1ttqpguw12bt9b.cfd^
 ||l543tw3x9z6vb5m3mxohj.cfd^
@@ -41686,6 +41696,7 @@ browsershots.org#@#.advert_area
 ||nqbukatzrtcve.site^
 ||nqcpwqqo.com^
 ||nqctkgwzccadj.space^
+||nqddcruxvklfa.site^
 ||nqdgrzcyyeiul.online^
 ||nqdpqbfihaids.store^
 ||nqdrbwtcsu.com^
@@ -46252,6 +46263,7 @@ browsershots.org#@#.advert_area
 ||qejsyzyisvzzg.space^
 ||qekbmjyvbbjkr.top^
 ||qekdrdaajvcfx.space^
+||qeo85flunkg45eljijelj.rest^
 ||qeogeasqdfowh.site^
 ||qepcdyswlsodj.space^
 ||qepeerkeskxhn.site^
@@ -47627,6 +47639,7 @@ browsershots.org#@#.advert_area
 ||remorsetrumpet.com^
 ||remote-director.pro^
 ||remote-record.pro^
+||remote4350.net^
 ||remotebrightesttumor.com^
 ||remotelyhundreds.com^
 ||remoterbearhug.cyou^
@@ -56360,6 +56373,7 @@ browsershots.org#@#.advert_area
 ||vokegwzgjivii.online^
 ||volatichyoides.qpon^
 ||voldarinis.com^
+||voledrheaedingly.cyou^
 ||volform.online^
 ||volleysstrany.cyou^
 ||volumesundue.com^
