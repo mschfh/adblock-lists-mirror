@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606192333
+! Version: 202606192355
 ! Title: EasyList
-! Last modified: 19 Jun 2026 23:33 UTC
+! Last modified: 19 Jun 2026 23:55 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b4cbc6ced6aa92182f073bfc9c9437c8668d7ff0
+! Commit: 6998a2f8439082f6895e748964bd3443215acdcb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28883,6 +28883,7 @@ browsershots.org#@#.advert_area
 ||featuregangster.com^
 ||featurelockout.com^
 ||febeb.xyz^
+||febflqfojuqdqm.com^
 ||febresescuela.qpon^
 ||februarybogus.com^
 ||februaryinjectionproudly.com^
@@ -56409,6 +56410,7 @@ browsershots.org#@#.advert_area
 ||viznfzhbiiual.space^
 ||vizoalygrenn.com^
 ||vizzycurted.com^
+||vjdxmpqsoqolt.space^
 ||vjehbytyxzsom.site^
 ||vjhfsebbyxwru.website^
 ||vjhixkkzjtlau.online^
@@ -78812,6 +78814,7 @@ mail.yahoo.com##li:has(a[href^="https://api.taboola.com/"])
 yahoo.com##li[data-test-locator="stream-related-ad-item"]
 ! youtube
 ! youtube.com###mealbar-promo-renderer
+youtube.com###contents > ytd-rich-item-renderer:has(> ytd-ad-slot-renderer)
 youtube.com###description-inner > ytd-merch-shelf-renderer > #main.ytd-merch-shelf-renderer
 youtube.com###shopping-timely-shelf
 youtube.com###shorts-inner-container > .ytd-shorts:has(> .ytd-reel-video-renderer > ytd-ad-slot-renderer)
