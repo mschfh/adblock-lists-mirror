@@ -2,9 +2,9 @@
 ! Description: Adult content domains
 ! Homepage: https://github.com/blocklistproject/Lists
 ! License: MIT
-! Last modified: 2025-12-19 16:39:33 UTC
+! Last modified: 2026-06-22 00:09:00 UTC
 ! Format: AdGuard
-! Entries: 500,282
+! Entries: 500,295
 ! URL: 
 !
 ! This list is maintained by The Block List Project
@@ -22891,6 +22891,7 @@
 ||amater.canalblog.com^
 ||amater.com^
 ||amaterfoto.cz^
+||amateri.com^
 ||amateri.cz^
 ||amateri.pl^
 ||amateri.sk^
@@ -150765,6 +150766,7 @@
 ||fansexygirls.tumblr.com^
 ||fanshaw63.tumblr.com^
 ||fansitez.de^
+||fansly.com^
 ||fanstalker.net^
 ||fanstasmesexuel.canalblog.com^
 ||fansygay.com^
@@ -151353,6 +151355,7 @@
 ||fapngo.tumblr.com^
 ||fapnnaprus.tumblr.com^
 ||fapon.me^
+||faponhd.com^
 ||faponline.tumblr.com^
 ||fapooh.com^
 ||fapoption.tumblr.com^
@@ -314070,6 +314073,7 @@
 ||nubilespics.com^
 ||nubilesplus.com^
 ||nubilesporn.net^
+||nubilespornfan.com^
 ||nubilespussy.com^
 ||nubilesteens.blogspot.com^
 ||nubilesteens.com^
@@ -342832,6 +342836,7 @@
 ||pornhawks.com^
 ||pornhd.co^
 ||pornhd.com^
+||pornhd.tv^
 ||pornhd.xyz^
 ||pornhd365.com^
 ||pornhd3x.net^
@@ -343257,6 +343262,7 @@
 ||pornkitten.com^
 ||pornkoala.tumblr.com^
 ||pornkolors.com^
+||pornkoo.com^
 ||pornkook.com^
 ||pornkorean.net^
 ||pornkr.blogspot.com^
@@ -369248,6 +369254,7 @@
 ||rule34ofhentai.tumblr.com^
 ||rule34porn.net^
 ||rule34sex.com^
+||rule34video.com^
 ||rule34world.tumblr.com^
 ||rule36vx.tumblr.com^
 ||rulecam.net^
@@ -446131,6 +446138,7 @@
 ||thepornbar.com^
 ||thepornbaron.com^
 ||thepornbay.net^
+||thepornbay.org^
 ||thepornblogger.net^
 ||thepornblognetwork.tumblr.com^
 ||thepornblogxxx.blogspot.com^
@@ -451834,6 +451842,7 @@
 ||tkni.de^
 ||tkotech.com^
 ||tkplover.tumblr.com^
+||tktube.com^
 ||tkyltime.tumblr.com^
 ||tladies.com^
 ||tlady.com^
@@ -487626,6 +487635,7 @@
 ||xnxx.pet^
 ||xnxx.pro^
 ||xnxx.su^
+||xnxx.tv^
 ||xnxx.vc^
 ||xnxx.webobo.com^
 ||xnxx.wordpresstube.net^
@@ -488803,6 +488813,7 @@
 ||xtwinkvideos.com^
 ||xtwisted.com^
 ||xtwotails.tumblr.com^
+||xtxxx.com^
 ||xtynaaa.tumblr.com^
 ||xuantinh.com^
 ||xubu.moy.su^
@@ -488923,6 +488934,7 @@
 ||xvideos.tv^
 ||xvideos.us^
 ||xvideos1.webobo.com^
+||xvideos2.com^
 ||xvideos5.com.br^
 ||xvideos6.com^
 ||xvideosadomaso.com^
@@ -491689,6 +491701,7 @@
 ||xxxfhg.com^
 ||xxxfile.net^
 ||xxxfile.org^
+||xxxfiles.com^
 ||xxxfiles.dk^
 ||xxxfiles.dr.ag^
 ||xxxfiles.free.fr^
