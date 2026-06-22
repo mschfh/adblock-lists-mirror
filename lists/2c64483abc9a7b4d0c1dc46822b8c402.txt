@@ -2,7 +2,7 @@
 ! Description: Adult content domains
 ! Homepage: https://github.com/blocklistproject/Lists
 ! License: MIT
-! Last modified: 2026-06-22 09:52:57 UTC
+! Last modified: 2026-06-22 15:34:59 UTC
 ! Format: AdGuard
 ! Entries: 500,269
 ! URL: 
