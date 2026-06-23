@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zXKOOhGp9MnW0aykwIrHAQ
-! Version: 202606230450
+! Checksum: sndf1wE3YUQ1QLyCX0OpVg
+! Version: 202606230525
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-06-23 04:50 UTC
+! Last modified: 2026-06-23 05:25 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -48385,6 +48385,7 @@ oag.ca.gov###ag-newsletter
 safetyfirstaid.co.uk###ajaxNewsletter
 jobisjob.co.uk###alert-box-multiple
 jobisjob.co.uk###alert-footer-div
+blog.hydroponictrash.solar###announcement-bar-root
 bramptonguardian.com,simcoe.com###app-overlay
 independent.co.uk###article-im-prompt
 thebarentsobserver.com###article-newsletter
