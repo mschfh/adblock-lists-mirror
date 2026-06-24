@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606242241
+! Version: 202606242304
 ! Title: EasyList
-! Last modified: 24 Jun 2026 22:41 UTC
+! Last modified: 24 Jun 2026 23:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5236b78c2f932c409b01a1e7fbc2a6a53b1d83c2
+! Commit: 82bc52bb9e716e94e517d9ec19db700e9d837507
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21779,6 +21779,7 @@ browsershots.org#@#.advert_area
 ||buddhasoppy.cfd^
 ||buddlesnomial.cfd^
 ||budgeencodeunions.com^
+||budlniydym.com^
 ||budsminepatent.com^
 ||budwhlooxgjpi.site^
 ||budwutadb.com^
@@ -59492,6 +59493,7 @@ browsershots.org#@#.advert_area
 ||xbzcorkefbfrl.site^
 ||xcazgiktebquy.website^
 ||xcbaaofcfwrhc.website^
+||xccxuhbcfjufv.website^
 ||xcdizpnjkxwsc.website^
 ||xceavbango.in^
 ||xcebawedhllzp.website^
@@ -59607,6 +59609,7 @@ browsershots.org#@#.advert_area
 ||xfvslsqqtyeeb.store^
 ||xfwblpomxc.com^
 ||xfwhrqkwf.com^
+||xfxagcqndbkrl.website^
 ||xgahbeklumki.com^
 ||xgaxtbrifshmc.website^
 ||xgbetzbmmdqbv.space^
