@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606242014
+! Version: 202606242047
 ! Title: EasyList
-! Last modified: 24 Jun 2026 20:14 UTC
+! Last modified: 24 Jun 2026 20:47 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 410388c6915d1961f81cc1a25ca3c0910cf44c74
+! Commit: ee3d95ead4cec229833cb1fc0d9ed26c2511032b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -38432,6 +38432,7 @@ browsershots.org#@#.advert_area
 ||livenedcoders.cyou^
 ||liverstopped.com^
 ||livesexbar.com^
+||livethzapupe.shop^
 ||livezombymil.com^
 ||livia-jcl.com^
 ||livid-factor.com^
@@ -56269,6 +56270,7 @@ browsershots.org#@#.advert_area
 ||utvuveiklresu.website^
 ||utwghbrzkywjb.website^
 ||utxcfwjjjpsjt.space^
+||utxtehvydvtus.website^
 ||utysolomonaut.com^
 ||utzimatzbld.com^
 ||utzzytfmbfekv.website^
