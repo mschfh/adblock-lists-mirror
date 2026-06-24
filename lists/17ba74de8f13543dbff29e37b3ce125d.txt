@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606242141
+! Version: 202606242241
 ! Title: EasyList
-! Last modified: 24 Jun 2026 21:41 UTC
+! Last modified: 24 Jun 2026 22:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9425565dfb3e792782c9a433164f108b322c39a2
+! Commit: 5236b78c2f932c409b01a1e7fbc2a6a53b1d83c2
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17039,6 +17039,7 @@ browsershots.org#@#.advert_area
 ||abrasiveslayerrequires.com^
 ||abretskulls.shop^
 ||abroadsuicidaleliminated.com^
+||abront.xyz^
 ||abroodhaemoid.cfd^
 ||abruptalertness.com^
 ||abruptcooperationbummer.com^
@@ -32641,6 +32642,7 @@ browsershots.org#@#.advert_area
 ||hcioruffodhya.store^
 ||hcitukntuo.in^
 ||hcjjizmrsilri.online^
+||hcjqgdkjoljarh.com^
 ||hclcvthefqyac.space^
 ||hclgbntmci.com^
 ||hclmnarlsmleo.site^
@@ -36017,6 +36019,7 @@ browsershots.org#@#.advert_area
 ||jobblemanletgenetta.qpon^
 ||jobmkewkzwbkq.top^
 ||jochhumin.cyou^
+||jockeyaloofefluky.qpon^
 ||jodcvjpnvcmua.website^
 ||joemaddv.com^
 ||jofddomgfztan.website^
@@ -53569,6 +53572,7 @@ browsershots.org#@#.advert_area
 ||tfqaofjptonea.online^
 ||tfqrifustrybg.store^
 ||tfrkbyualptil.online^
+||tftfbezn.com^
 ||tfwjtrkuueobz.online^
 ||tfxipmcetrqiu.website^
 ||tfxswxtxcickc.space^
@@ -57316,6 +57320,7 @@ browsershots.org#@#.advert_area
 ||voetenlaminae.shop^
 ||voetfencedwedgies.cfd^
 ||vofztrnxcutcr.com^
+||vogsjiomclaah.website^
 ||vogueoval.com^
 ||voguesebkhabrucina.cyou^
 ||voicedstart.com^
@@ -57374,6 +57379,7 @@ browsershots.org#@#.advert_area
 ||vovlacjs.cfd^
 ||vovlacjs.cyou^
 ||vowelfemininecherish.com^
+||vowelshorae.cfd^
 ||vowsavageskim.com^
 ||vowthreehilarious.com^
 ||vowwyaqxc.com^
@@ -58832,6 +58838,7 @@ browsershots.org#@#.advert_area
 ||wnlabbsupkwuu.space^
 ||wnlnufsbeepus.site^
 ||wnmejreldlzcu.online^
+||wnmtwgjtoozaq.space^
 ||wnnatyfziksqt.website^
 ||wnoeyhmmzfmlt.online^
 ||wnotrbrxpealj.online^
@@ -59029,6 +59036,7 @@ browsershots.org#@#.advert_area
 ||wpftaxtgdh.com^
 ||wpftubkwnddeh.online^
 ||wpgtgost.com^
+||wphefiaictrsr.space^
 ||wphwblykxoiia.online^
 ||wpihnwkr.com^
 ||wpiofhviqhc.in^
@@ -59482,6 +59490,7 @@ browsershots.org#@#.advert_area
 ||xbxftidubqfagfc.com^
 ||xbxyymigpvwbx.space^
 ||xbzcorkefbfrl.site^
+||xcazgiktebquy.website^
 ||xcbaaofcfwrhc.website^
 ||xcdizpnjkxwsc.website^
 ||xceavbango.in^
