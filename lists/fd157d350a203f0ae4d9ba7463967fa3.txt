@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: g0MVGohtrfFVCH7OixKVuA
-! Version: 202606252102
+! Checksum: eIXV4y4M6+fD0Ep0ncA3pA
+! Version: 202606252151
 ! Title: RU, UA, UZ, KZ
-! Last modified: 25 Jun 2026 21:02 UTC
+! Last modified: 25 Jun 2026 21:51 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -23601,6 +23601,7 @@ igdz1.ru^$script,domain=igdz.ru
 ||vsetop.org/uploads/yabr.
 ||vsetyt.us/uploads/ruscams.
 ||vsluh.ru/system/*banners/
+||vveu.spdmpgcdn.com/
 ||vvru.spdmpgcdn.com/
 ||vyksarf.ru^$domain=xn--80ady2a0c.xn--p1ai
 ||walking-dead.ru/banners.js
