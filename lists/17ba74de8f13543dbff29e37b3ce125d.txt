@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606251815
+! Version: 202606251919
 ! Title: EasyList
-! Last modified: 25 Jun 2026 18:15 UTC
+! Last modified: 25 Jun 2026 19:19 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9e0c9d8f215263d18086bf9b502ebd1732faf8c1
+! Commit: 15dfa0a3f4ae5c48eebd1d196970c542dcb5fbbe
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15933,6 +15933,7 @@ browsershots.org#@#.advert_area
 ||2mke5l187.de^
 ||2mo3neop.de^
 ||2mpx9wr2u7ikinehxtngk1.cfd^
+||2nhlu4qwkxuvhnfbowzn8iwzl67i.rest^
 ||2nn7r6bh1.de^
 ||2nqmub5hzuxm4prm.cfd^
 ||2olyjbvcxc7ck38ken7bgg7jj.cfd^
@@ -19206,6 +19207,7 @@ browsershots.org#@#.advert_area
 ||aruurnbfs.com^
 ||arvigorothan.com^
 ||arwdcrdpiwinc.site^
+||arwhpetevielbj.com^
 ||arwqwawwlo.com^
 ||arwriptatfwe.in^
 ||arwzyuzkblj.com^
@@ -20245,6 +20247,7 @@ browsershots.org#@#.advert_area
 ||bcqmzvuvurmop.website^
 ||bcsfpwmjulcxw.site^
 ||bcswwwzqophyk.site^
+||bcsyfuhahnlmh.online^
 ||bct2gukt38ycb7ui.cfd^
 ||bctuafpdwarbm.site^
 ||bcvnlkjybkksk.com^
@@ -34208,6 +34211,7 @@ browsershots.org#@#.advert_area
 ||ieenhijxbigyt.space^
 ||ieeucpssxsepw.online^
 ||ieglcoaqlzesp.store^
+||iegzaknrowaju.online^
 ||iehbhejfnetvc.site^
 ||iehyqwcwt.com^
 ||ieiecooqvvmp.com^
@@ -38075,6 +38079,7 @@ browsershots.org#@#.advert_area
 ||lcxxrkqi.com^
 ||lczcvvcxgmqdl.website^
 ||ldcumoqpdhule.store^
+||ldeemoyx.com^
 ||ldjkgoeognmgj.space^
 ||ldjknwnjif.com^
 ||ldmlvobrl.com^
@@ -41089,6 +41094,7 @@ browsershots.org#@#.advert_area
 ||mtttadmylojfd.online^
 ||mtuyddahzbvcr.online^
 ||mtvwgmaqvnipg.com^
+||mtwataveihajz.space^
 ||mtx3m2ukvpiv68.cfd^
 ||mtxjnuslfrkgs.website^
 ||mtxuhmtkyqpte.site^
@@ -41915,6 +41921,7 @@ browsershots.org#@#.advert_area
 ||ngepfoguoouph.space^
 ||ngexcelelernodyd.org^
 ||ngexcelelernodyde.org^
+||ngfncpvxigzvz.website^
 ||nghnbogvkojlk.space^
 ||ngiythskwknpf.site^
 ||ngjmbezvfwwmf.website^
@@ -54606,6 +54613,7 @@ browsershots.org#@#.advert_area
 ||tqridfwbrbvucae.com^
 ||tqrjalckwwhpd.com^
 ||tqrmlgjertjht.online^
+||tqswwgfjomczh.space^
 ||tqtlyzaztpngj.site^
 ||tqytbkhwrtyk.com^
 ||tqzdwtyaa.com^
@@ -55003,6 +55011,7 @@ browsershots.org#@#.advert_area
 ||tswanafldxt.com^
 ||tswzrqpkvltnx.website^
 ||tsxccsxbdloxt.online^
+||tsxrqncxqgcpl.online^
 ||tsyndicate.com^
 ||tsztqlwravxkl.site^
 ||ttbm.com^
