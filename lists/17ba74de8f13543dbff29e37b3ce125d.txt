@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606252202
+! Version: 202606252241
 ! Title: EasyList
-! Last modified: 25 Jun 2026 22:02 UTC
+! Last modified: 25 Jun 2026 22:41 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2c86c04adf31abd3ce893504ef1d363461e82b05
+! Commit: 58cc57f2d08f86dd9bdc83157c982ffb8b77c37a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23187,6 +23187,7 @@ browsershots.org#@#.advert_area
 ||citizenagreementacting.com^
 ||citizenhid.com^
 ||citizenshadowrequires.com^
+||citralschancrecensing.qpon^
 ||citrousamex.cyou^
 ||cityadspix.com^
 ||citydsp.com^
@@ -32574,6 +32575,7 @@ browsershots.org#@#.advert_area
 ||hanselsgipping.com^
 ||hanssubside.com^
 ||hanypkwwltkhj.online^
+||hapidextral.cyou^
 ||haplessglochidloeing.qpon^
 ||haplitecauson.cfd^
 ||haploidtongueymeubles.cyou^
@@ -38769,6 +38771,7 @@ browsershots.org#@#.advert_area
 ||lmvylvrpfyscz.online^
 ||lmzzrvmmcm9c6r34cv4j4uh.cfd^
 ||lnabew.com^
+||lnaxgfnttnrye.online^
 ||lnbjvhefrwuxh.website^
 ||lnbkckhipmi.com^
 ||lnctspdrqbargs.com^
@@ -39453,6 +39456,7 @@ browsershots.org#@#.advert_area
 ||macawscaratch.cyou^
 ||maccuseloign.cfd^
 ||macerbarie.qpon^
+||macherabemaim.shop^
 ||machinemerrimentresent.com^
 ||machinerydistractattest.com^
 ||machinerymainlandsport.com^
@@ -41796,6 +41800,7 @@ browsershots.org#@#.advert_area
 ||neoftheownouncillo.info^
 ||neonsacroama.qpon^
 ||neousaunce.com^
+||neowlqgaveupf.online^
 ||nepalvaned.cyou^
 ||nephriasebasichutia.cyou^
 ||nephriasewarwolffia.cyou^
@@ -44857,6 +44862,7 @@ browsershots.org#@#.advert_area
 ||pcbxuayssmqkn.online^
 ||pcccxvckbqdlb.site^
 ||pccxfiekp.com^
+||pcdeyoepvaxdl.site^
 ||pcdwm.com^
 ||pcexhftbidjqk.site^
 ||pcfeoayammroh.website^
@@ -55409,6 +55415,7 @@ browsershots.org#@#.advert_area
 ||tzegilo.com^
 ||tzepbopyvsdav.site^
 ||tzgeylerqwbot.website^
+||tzgjzzhj.com^
 ||tzhg8m37q1m8xumkw4voe9lx.cfd^
 ||tzifafpdvzcxl.website^
 ||tzitroju.in^
