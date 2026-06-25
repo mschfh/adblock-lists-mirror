@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606251721
+! Version: 202606251815
 ! Title: EasyList
-! Last modified: 25 Jun 2026 17:21 UTC
+! Last modified: 25 Jun 2026 18:15 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 75b65c0d89e1d66fcc994c988b56e544f292f3de
+! Commit: 9e0c9d8f215263d18086bf9b502ebd1732faf8c1
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18719,6 +18719,7 @@ browsershots.org#@#.advert_area
 ||anguishaddition.com^
 ||anguishedphone.pro^
 ||angularpoppyrobbing.com^
+||angulustwale.cyou^
 ||anhwasdohccp.com^
 ||anientechetahs.cfd^
 ||anihazels.com^
@@ -19092,6 +19093,7 @@ browsershots.org#@#.advert_area
 ||ardentlydrivablepagan.com^
 ||ardodfrar.in^
 ||ardont.xyz^
+||ardosffaffi.in^
 ||ardtzyompk.in^
 ||arduretrowing.cyou^
 ||areallystaiatownies.qpon^
@@ -25666,6 +25668,7 @@ browsershots.org#@#.advert_area
 ||dggazqmcpmtwc.website^
 ||dginqrzlbgpcme.com^
 ||dgkkeiedhqgmp.top^
+||dgmmntcknzljy.space^
 ||dgmnnanjowm.com^
 ||dgnrkluiozosx.online^
 ||dgorwwtpltxnklf.com^
@@ -29536,6 +29539,7 @@ browsershots.org#@#.advert_area
 ||finescocoasfoliar.cyou^
 ||finessebaitsupply.com^
 ||finewedcaserns.com^
+||fingalwaggondilling.cyou^
 ||fingercough.xyz^
 ||fingerrealistic.com^
 ||fingrampalaversandra.cfd^
@@ -33661,6 +33665,7 @@ browsershots.org#@#.advert_area
 ||hsfcuorcijlne.website^
 ||hsjjoaotgdfzw.online^
 ||hsjpqusfppyjf.site^
+||hskdsrrhfeyqp.website^
 ||hslfwaivfolvz.site^
 ||hsmehkdosatlz.space^
 ||hsmgnobyomsea.space^
@@ -36138,6 +36143,7 @@ browsershots.org#@#.advert_area
 ||jnvwjvpquelgr.website^
 ||jnwcubaojvaqh.site^
 ||jnwgcsnbsh.com^
+||jnwkuvbddbmzf.space^
 ||jnwpcellgwqbz.space^
 ||jnxm2.com^
 ||jnzkk46yzcuqeo857ppjlt.cfd^
@@ -36314,6 +36320,7 @@ browsershots.org#@#.advert_area
 ||jr5lbhqwtqx7ct5tit4.cfd^
 ||jr5wtgo7v273wfgg9.cfd^
 ||jr8kk9957u75e92i.rest^
+||jraaraflargqt.website^
 ||jravekvyeyovb.top^
 ||jravekvyeyyvq.top^
 ||jrbbavbvqmbaz.top^
@@ -43831,6 +43838,7 @@ browsershots.org#@#.advert_area
 ||orbsdiacle.com^
 ||orbsrv.com^
 ||orbura.net^
+||orceinshushing.shop^
 ||orchatvoltaic.cyou^
 ||orcrcolf.in^
 ||orcvupxik.com^
@@ -45948,6 +45956,7 @@ browsershots.org#@#.advert_area
 ||potlinechukka.shop^
 ||potmqiirlfjdu.store^
 ||potoopiperslindsay.cfd^
+||potphx.com^
 ||potpxgxuszbiu.online^
 ||potskolu.net^
 ||potslascivious.com^
@@ -48967,6 +48976,7 @@ browsershots.org#@#.advert_area
 ||ricewukbgater.org^
 ||rich-day.com^
 ||richanswer.pro^
+||richeryawp.com^
 ||richeseventsphysics.com^
 ||richinfo.co^
 ||richstallar.cyou^
@@ -59950,6 +59960,7 @@ browsershots.org#@#.advert_area
 ||xixvvegwkskns.site^
 ||xiypojikmfgup.website^
 ||xizubjdgoczcq.website^
+||xj6n818rl2129fc18z4gw1jefq.cfd^
 ||xj8z6umrlxw23k6k5ygtnp9.cfd^
 ||xj9gth5i.xyz^
 ||xjawvwhipohot.online^
@@ -78458,6 +78469,7 @@ scotsman.com##div[class^="TopBanner"]
 cnbc.com##div[class^="TopBanner-"]
 dailymotion.com##div[class^="VideoInfo__videoInfoAdContainer"]
 makeitmeme.com##div[class^="_adContainer_"]
+semafor.com##div[class^="_adDivider_"]
 cyprus-mail.com##div[class^="_amHorizontal_"]
 timeout.com##div[class^="_inlineAdWrapper_"]
 timeout.com##div[class^="_sponsoredContainer_"]
@@ -78567,6 +78579,8 @@ producthunt.com##div[data-test^="ad-slot-"]
 startribune.com##div[data-testid$="-ad"]
 costco.com##div[data-testid="AdSet-all-sponsored_products_-_search_bottom"]
 costco.com##div[data-testid="AdSet-all-sponsored_products_-_search_top"]
+semafor.com##div[data-testid="ad-body"]
+semafor.com##div[data-testid="ad-sticky-header"]
 copilot.microsoft.com##div[data-testid="ads-card"]
 alternativeto.net##div[data-testid="adsense-wrapper"]
 hotstar.com##div[data-testid="bbtype-video"]
