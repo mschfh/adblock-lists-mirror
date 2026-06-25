@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606250945
+! Version: 202606251054
 ! Title: EasyList
-! Last modified: 25 Jun 2026 09:45 UTC
+! Last modified: 25 Jun 2026 10:54 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bdc0c823990ad8a8330a08a36124c6881224012c
+! Commit: ceabea5e0db51bcd76a1bcc53bfeda9333025405
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18650,6 +18650,7 @@ browsershots.org#@#.advert_area
 ||amxdxahyhsvjpr.com^
 ||amxrtb.com^
 ||amxwubswyl.in^
+||amxxetzokeezx.space^
 ||amylaseredears.cyou^
 ||amyldiarian.cfd^
 ||amylojobbers.cyou^
@@ -18836,6 +18837,7 @@ browsershots.org#@#.advert_area
 ||anytimebananarecoil.com^
 ||anytimespurt.com^
 ||anzzixca.in^
+||aoajgwnhfzuww.website^
 ||aoakpnxffvpnb.online^
 ||aoalmfwinbsstec23.com^
 ||aocaxppjxvhfj.online^
@@ -36866,6 +36868,7 @@ browsershots.org#@#.advert_area
 ||kerbsboatmen.cfd^
 ||kercherbumpsy.com^
 ||kernelbudstwig.com^
+||kernespalatalthigger.cfd^
 ||kerot.xyz^
 ||kerriasoutliptreaty.cyou^
 ||kerricastesokras.cfd^
@@ -37681,6 +37684,7 @@ browsershots.org#@#.advert_area
 ||kyvaeggfnvefc.space^
 ||kyvnrifs.com^
 ||kywivixcdwbsm.online^
+||kywvfarsxnohn.com^
 ||kyxonasaiwycf.site^
 ||kzaflsrymgag.com^
 ||kzagvdulumvgl.site^
@@ -40449,6 +40453,7 @@ browsershots.org#@#.advert_area
 ||mlnadvertising.com^
 ||mlnbsdowzejzz.website^
 ||mlnkndrxf.com^
+||mlpstxhfndbzv.site^
 ||mlptyzbdtleiq.site^
 ||mlqcixbbgdwij.online^
 ||mlrhqstznhemx.site^
@@ -52074,6 +52079,7 @@ browsershots.org#@#.advert_area
 ||squamaeamp.cyou^
 ||squamlettic.cyou^
 ||squaremagician.com^
+||squarerluigi.qpon^
 ||squareroof.pro^
 ||squashprinterhissed.com^
 ||squashreservebrim.com^
