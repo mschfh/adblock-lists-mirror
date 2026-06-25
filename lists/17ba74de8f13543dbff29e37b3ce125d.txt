@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606251919
+! Version: 202606252010
 ! Title: EasyList
-! Last modified: 25 Jun 2026 19:19 UTC
+! Last modified: 25 Jun 2026 20:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 15dfa0a3f4ae5c48eebd1d196970c542dcb5fbbe
+! Commit: b4e5ff38e15a97f9b4c30bf2663f67a136fb871e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19777,6 +19777,7 @@ browsershots.org#@#.advert_area
 ||ayarkkbmakkja.top^
 ||aycrxa.com^
 ||ayctbhlndyarx.space^
+||aycygyzfhvolf.space^
 ||ayeararu.qpon^
 ||ayfixvgbijkba.online^
 ||ayghoddmrzret.space^
@@ -20482,6 +20483,7 @@ browsershots.org#@#.advert_area
 ||beraptthrusts.qpon^
 ||beratessnifterloafers.cyou^
 ||beratsighed.cfd^
+||berendearnfulinfame.qpon^
 ||berendogizzard.cyou^
 ||bergletonticfuril.qpon^
 ||beridefemceesorose.cyou^
@@ -34417,6 +34419,7 @@ browsershots.org#@#.advert_area
 ||ilgpscfvwohwr.space^
 ||ilhangrnyaubr.site^
 ||ilhtossuwjwcg.online^
+||iliaufrtcostive.qpon^
 ||iliqdfncivkkp.online^
 ||iliummothedturnup.qpon^
 ||iliykdbfcofbi.site^
@@ -34467,6 +34470,7 @@ browsershots.org#@#.advert_area
 ||ilwmxyuboh.com^
 ||ilxflobhpk.com^
 ||ilxfndokexkxi.online^
+||ilxhembbenvbcyj.com^
 ||ilyakhokani.cfd^
 ||ilyaoipntdyol.space^
 ||ilyf4amifh.com^
@@ -37766,6 +37770,7 @@ browsershots.org#@#.advert_area
 ||kzhcgaopneknp.online^
 ||kzjwjclnpdrmy.online^
 ||kzltdxgdppoif.online^
+||kzlxuywvjriqb.online^
 ||kzmsqkprwtqnq.website^
 ||kznuodtvjuirx.site^
 ||kzoixqlmnwtjg.space^
@@ -55468,6 +55473,7 @@ browsershots.org#@#.advert_area
 ||ubzmzxtdosgdh.online^
 ||ubztowsnyurmy.space^
 ||ucaavjcweklhn.space^
+||ucateopgdhrbq.online^
 ||ucationininance.org^
 ||ucawakeup.shop^
 ||uccfioqedzfom.site^
