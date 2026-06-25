@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606251343
+! Version: 202606251451
 ! Title: EasyList
-! Last modified: 25 Jun 2026 13:43 UTC
+! Last modified: 25 Jun 2026 14:51 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7947f549d2d119f26e008852f86794e0e87848e2
+! Commit: d3990a36fb427b109696c8b460587951b8bcbbd5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15165,7 +15165,7 @@ gamingcools.com#@#.Adsense
 m.motonet.fi#@#.ProductAd
 flightview.com#@#.ad-160-600
 job.inshokuten.com,netmile.co.jp#@#.ad-area:not(.text-ad)
-kincho.co.jp,niji-gazo.com#@#.ad-block
+kincho.co.jp,niji-gazo.com,videosad.net#@#.ad-block
 ikkaku.net#@#.ad-bottom
 job.inshokuten.com,sexgr.net,webbtelescope.org,websaver.ca#@#.ad-box:not(#ad-banner):not(:empty)
 dbook.docomo.ne.jp,dmagazine.docomo.ne.jp#@#.ad-button
@@ -18564,6 +18564,7 @@ browsershots.org#@#.advert_area
 ||ambaab.com^
 ||ambiciubzprxl.website^
 ||ambientplatform.vn^
+||ambitionbookingslick.com^
 ||ambitious-chemical.com^
 ||ambitious-vegetable.pro^
 ||ambitiousanywhere.pro^
@@ -25546,6 +25547,7 @@ browsershots.org#@#.advert_area
 ||desmoseencaseddiplont.cfd^
 ||despeedmatzas.cfd^
 ||despisekirkmen.cfd^
+||desposeatheistaccused.qpon^
 ||despoteavesdropblazing.com^
 ||despumetangos.shop^
 ||dessacheysa.com^
@@ -47773,6 +47775,7 @@ browsershots.org#@#.advert_area
 ||qwlmacbmwmtum.online^
 ||qwnizqblmkevc.space^
 ||qwodmzryxhtss.website^
+||qwomxpwreemjh.space^
 ||qwpusvbfqahfy.site^
 ||qwrsuhuuxtafcn.com^
 ||qwrwawwlrlkyr.top^
@@ -49106,6 +49109,7 @@ browsershots.org#@#.advert_area
 ||rkjtlnfhsocoz.store^
 ||rkldutwrj.com^
 ||rkmdodaubyhyp.space^
+||rkngifybkarej.online^
 ||rknscandisvqp.space^
 ||rknwvagviu.com^
 ||rkoadzavbx.in^
@@ -50777,6 +50781,7 @@ browsershots.org#@#.advert_area
 ||sgswwdtkm.com^
 ||sgtbbgdkovkhz.site^
 ||sguhtpjp.com^
+||sgwinrahjjnth.online^
 ||sgxlziqbahhqb.store^
 ||sgyrsltalokbeo.com^
 ||sgyttxqfze.com^
@@ -55219,6 +55224,7 @@ browsershots.org#@#.advert_area
 ||twittad.com^
 ||twitterchest.com^
 ||twitveil.com^
+||twixjwosntuzj.website^
 ||twmxdfuhcxntm.com^
 ||twofunarcg.in^
 ||twojtetfuruse.website^
@@ -57975,6 +57981,7 @@ browsershots.org#@#.advert_area
 ||waglikeaahing.cfd^
 ||wagoncoruco.cyou^
 ||wagsad.com^
+||wagsransel.shop^
 ||wagwylawqmhg.com^
 ||wahoha.com^
 ||wahtotten.com^
@@ -59718,6 +59725,7 @@ browsershots.org#@#.advert_area
 ||xcpqcndbynfcv.website^
 ||xcqfaclqifemm.site^
 ||xcqnheljudxtrm.com^
+||xcrrdxmdadebs.site^
 ||xcrxijlvzxtbn.website^
 ||xcspiqvlapeted.com^
 ||xcuecskkzbqy.com^
@@ -60848,6 +60856,7 @@ browsershots.org#@#.advert_area
 ||ykdqqskuziadx.site^
 ||ykejihmzdvsex.store^
 ||ykhikqgrdmfll.website^
+||ykialgtdbpp.com^
 ||ykixhtyppkoko.space^
 ||ykiyhzbgnqkys.online^
 ||ykkdpgqpukmlzs.com^
