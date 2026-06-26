@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DyMjA2zABlJD/RsX7RKK8g
-! Version: 202606260300
+! Checksum: 0TTZKCcVgp1uCCReD5EaSA
+! Version: 202606260450
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-06-26 03:00 UTC
+! Last modified: 2026-06-26 04:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -41341,6 +41341,7 @@ neofinancial.com##+js(set-local-storage-item, neoCookiesAdvertisingConsent, 1)
 neofinancial.com##+js(set-local-storage-item, neoCookiesPerformanceConsent, 1)
 home.shortcutssoftware.com##+js(set-local-storage-item, ngx-webstorage|cookies, false)
 cape.co##+js(set-local-storage-item, no-cookie-notice-dismissed, true)
+nonli.com##+js(set-local-storage-item, nonli_google_analytics_consent, denied)
 cwallet.com##+js(set-local-storage-item, ns_cookies, 1)
 omroepflevoland.nl##+js(set-local-storage-item, of_cookies_consent, YES)
 omroepflevoland.nl##+js(set-local-storage-item, of_cookiewall_banner_seen, YES)
@@ -53891,6 +53892,7 @@ swisscows.com##.home-link-instruction
 msn.com##.homepage-banner
 ft.com##.instant-alert-cta
 forum.adrenaline.com.br##.js-enablePushContainer
+fandom.com##.marketing-notifications
 recyclingproductnews.com##.modal-notifications
 correiobraziliense.com.br##.noticia_notificacao
 mdjonline.com##.notification-button
