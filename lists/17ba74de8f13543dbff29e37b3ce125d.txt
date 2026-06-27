@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202606270521
+! Version: 202606270625
 ! Title: EasyList
-! Last modified: 27 Jun 2026 05:21 UTC
+! Last modified: 27 Jun 2026 06:25 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bacfdd77f8dc2b593c8cec4a8b2f95544a828d63
+! Commit: 086b8666c5f6d1905bac636fd7b61e4bd027418f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18335,6 +18335,7 @@ browsershots.org#@#.advert_area
 ||akinlongish.qpon^
 ||akiqckgsj.com^
 ||akjfsoqhcjjpx.store^
+||akkoknlfoa.in^
 ||akkotnpm.in^
 ||aklvbooruyymz.website^
 ||akmaumets.cfd^
@@ -19739,6 +19740,7 @@ browsershots.org#@#.advert_area
 ||awmdelivery.com^
 ||awmplus.com^
 ||awmradivlamtw.online^
+||awnedkibbercapcase.cyou^
 ||awnexus.com^
 ||awnypearch.com^
 ||awokensilicyl.cyou^
@@ -27800,6 +27802,7 @@ browsershots.org#@#.advert_area
 ||ekyngoyzuutls.website^
 ||ekyqmiffifosj.space^
 ||ekzasriadpwqi.site^
+||ekzwoygfoevjf.online^
 ||ekzyqldtqnnth.online^
 ||el8e4ke81e5euv.cfd^
 ||elaborate-fan.pro^
@@ -29248,6 +29251,7 @@ browsershots.org#@#.advert_area
 ||fbkxhltufvarpj.com^
 ||fblndqobxs.com^
 ||fbnimeaujrbup.website^
+||fboirhttd.com^
 ||fboxiumttqayd.space^
 ||fbqhhioxipvfn.space^
 ||fbrcwhntxwalbcr.com^
@@ -30709,6 +30713,7 @@ browsershots.org#@#.advert_area
 ||fuokxmhzdvolq.website^
 ||fuopjqprxhkl.com^
 ||fuozidrjmtitj.space^
+||fupbtabgzyprm.space^
 ||fupqitrviyhbf.space^
 ||fuqemedzceklr.online^
 ||fuqkdijxnoqswf.com^
@@ -31873,6 +31878,7 @@ browsershots.org#@#.advert_area
 ||gomain2.pro^
 ||gomatinequisheoi.com^
 ||gomeisasie.qpon^
+||gomgptwhzpqxp.space^
 ||gomnlt.com^
 ||gonjvollibuj.com^
 ||gonnsiiixhmfp.website^
@@ -36908,6 +36914,7 @@ browsershots.org#@#.advert_area
 ||k2o2ls46.xyz^
 ||k2rh2bcgq83w2b31zxk92ph4jcnxzrrc.cfd^
 ||k3bm5qrgx7h3krx.cfd^
+||k3jk6x9pbcprmi.cfd^
 ||k3rb5bjv6fhjluw68hbzte.cfd^
 ||k55p9ka2.de^
 ||k587hwf13i24pzrbichg4lbym.rest^
@@ -42758,6 +42765,7 @@ browsershots.org#@#.advert_area
 ||nqagqrgmn.com^
 ||nqaivjdsswukc.website^
 ||nqbigg1bcfxbk3h3.rest^
+||nqbiv17ul27xztly.rest^
 ||nqbukatzrtcve.site^
 ||nqcpwqqo.com^
 ||nqddcruxvklfa.site^
@@ -54632,6 +54640,7 @@ browsershots.org#@#.advert_area
 ||tlfdnmipkqp.com^
 ||tlfeivdeybass.store^
 ||tlgpglndhwfvq.site^
+||tlgpjfcwkmsdt.com^
 ||tlgxcblyhd.com^
 ||tlhbzimbrhqbg.online^
 ||tlhrenkzzrwzc.online^
@@ -57538,6 +57547,7 @@ browsershots.org#@#.advert_area
 ||vfwpaocvysbpo.site^
 ||vfxcdhckojsqd.store^
 ||vfyfldhdthlin.space^
+||vfytswyxqfgzp.space^
 ||vg4u8rvq65t6.com^
 ||vgbllzycxjrub.online^
 ||vgbvqutapetpb.website^
@@ -59782,6 +59792,7 @@ browsershots.org#@#.advert_area
 ||wqyenrdmgkikd.site^
 ||wqyfjcxwyuuxyf.com^
 ||wqyw8umjobny1b1pelqu.cfd^
+||wqyygiuxkqxxa.space^
 ||wrangleclaspinteract.com^
 ||wrapstupendous.com^
 ||wrathfulclaim.com^
