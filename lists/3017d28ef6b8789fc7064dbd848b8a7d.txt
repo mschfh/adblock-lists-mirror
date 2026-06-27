@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202606271303
+! Version: 202606271405
 ! Title: EasyPrivacy
-! Last modified: 27 Jun 2026 13:03 UTC
+! Last modified: 27 Jun 2026 14:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: fd02d142870229a70b4e30bbb5b6c61e7219cdb8
+! Commit: d388e1ad8764858f343525d94da6bd8e353965fd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -56006,6 +56006,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ! 
 ! ---------- Japanese ----------
 ! 
+@@||a.run.app/api/stat?$domain=cocowa.app
 @@||allabout.co.jp/mtx_cnt.js$script,~third-party
 @@||analytics.digitalpfizer.com/js/prod/pcc/pf_appmeasurement.js$domain=pfizer-covid19-vaccine.jp
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
