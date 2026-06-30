@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Qw40rew1vTI2oAQvvSi+lw
-! Version: 202606301211
+! Checksum: UOmo+zvsfd6EC/KZzb8FEw
+! Version: 202606301312
 ! Title: EasyList Germany
-! Last modified: 30 Jun 2026 12:11 UTC
+! Last modified: 30 Jun 2026 13:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.github.io/
 ! Licence: https://easylist.github.io/pages/licence.html
