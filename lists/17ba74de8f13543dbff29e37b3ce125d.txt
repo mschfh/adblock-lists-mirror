@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607011703
+! Version: 202607011809
 ! Title: EasyList
-! Last modified: 01 Jul 2026 17:03 UTC
+! Last modified: 01 Jul 2026 18:09 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a0dbecfc3280e05c33abf6a620a1056b3edbf4da
+! Commit: 568063c913117f03a28afe458ae1f825a61c3d03
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18373,6 +18373,7 @@ browsershots.org#@#.advert_area
 ||amlzndgkbicak.store^
 ||ammanparulis.qpon^
 ||ammhmvurnghxn.space^
+||ammnugdazobz.in^
 ||ammonicdowsing.com^
 ||ammzmkpzmfijv.website^
 ||amnew.net^
@@ -22851,6 +22852,7 @@ browsershots.org#@#.advert_area
 ||codeinakentontubulus.qpon^
 ||codeonclick.com^
 ||coderformylife.info^
+||codersswarmer.cyou^
 ||codspirlietouzles.cyou^
 ||codzcuagowz.com^
 ||coeditenternat.qpon^
@@ -32203,6 +32205,7 @@ browsershots.org#@#.advert_area
 ||iaolegnbazkbd.space^
 ||iaopbzjfhemrb.website^
 ||iapegsvax.com^
+||iapetuslepero.cfd^
 ||iapygiietcher.qpon^
 ||iaqqtkhksqbbs.site^
 ||iarekbazzdlqm.space^
@@ -33918,6 +33921,7 @@ browsershots.org#@#.advert_area
 ||jitgibmibpayc.online^
 ||jitiroundly.cyou^
 ||jitneydopatta.shop^
+||jitrosidewayindaba.qpon^
 ||jitsjnlwupbdh.site^
 ||jitterendeavour.com^
 ||jitterspauperusher.com^
@@ -37093,6 +37097,7 @@ browsershots.org#@#.advert_area
 ||mandrelkluckerbeisa.cyou^
 ||mandscarus.cfd^
 ||manehconule.cfd^
+||mangananesokia.qpon^
 ||mangerolympicssnort.com^
 ||maniefenrir.cyou^
 ||manifestbeardlozenge.com^
@@ -40712,6 +40717,7 @@ browsershots.org#@#.advert_area
 ||oooxizemrslcq.site^
 ||ooozxxadrsnpo.space^
 ||ooralisdecimagranes.cfd^
+||oordheel.cfd^
 ||oorljoimmwspw.website^
 ||ooryprosed.cyou^
 ||oosbocswffckr.website^
@@ -43109,6 +43115,7 @@ browsershots.org#@#.advert_area
 ||producerheron.com^
 ||producingcouncilman.com^
 ||productivejudgmentgait.com^
+||producttofirefly.net^
 ||proeroclips.pro^
 ||profaneanxietyasa.com^
 ||profergigeria.qpon^
@@ -48164,6 +48171,7 @@ browsershots.org#@#.advert_area
 ||spicy-effect.com^
 ||spicy-two.com^
 ||spicycopy.com^
+||spicydrama.pro^
 ||spicyram.com^
 ||spielsbeni.com^
 ||spikersfootageongaro.cyou^
@@ -48366,6 +48374,7 @@ browsershots.org#@#.advert_area
 ||srowvggksbuvv.vip^
 ||srpsnvtisuznr.site^
 ||srrdmwjqwn.com^
+||srrncifitkfez.website^
 ||srtrak.com^
 ||srtrupwxwmqax.space^
 ||srv224.com^
@@ -49235,6 +49244,7 @@ browsershots.org#@#.advert_area
 ||symivbxtgw.com^
 ||symmdpxeplqou.space^
 ||symmorybewept.com^
+||symowrqrcbomw.online^
 ||sympatheticleague.com^
 ||sympatheticnerve.pro^
 ||sympatheticrequirement.pro^
@@ -49629,6 +49639,7 @@ browsershots.org#@#.advert_area
 ||teleiaplumierostmark.cfd^
 ||telemansnacks.qpon^
 ||televisiongrownupcrowd.com^
+||telexedassoil.shop^
 ||telferrukh.cyou^
 ||telliesmawks.com^
 ||telllwrite.com^
@@ -50177,6 +50188,7 @@ browsershots.org#@#.advert_area
 ||tmqrajsnydfyf.site^
 ||tmrjmp.com^
 ||tmrkyvvycpy.com^
+||tmuminkmobw5tfmhqh9kex24ow39.cfd^
 ||tmwheidhghdphay.com^
 ||tmwzkukvxwdzl.website^
 ||tmyy7u24p2tplyx3wicjg9x6e3wihqbf52.rest^
@@ -50459,6 +50471,7 @@ browsershots.org#@#.advert_area
 ||tqlqpxzywbomi.online^
 ||tqnogxuqgwlmj.space^
 ||tqoktissnsrqqf.com^
+||tqphpshuyxiij.website^
 ||tqpuvxhsrcoon.store^
 ||tqqixldkdkcvi.site^
 ||tqridfwbrbvucae.com^
@@ -52581,6 +52594,7 @@ browsershots.org#@#.advert_area
 ||verificationscrub.com^
 ||verifygoog.cfd^
 ||veritrol.com^
+||verlrhm1ch1mtmryo63u.rest^
 ||verminloughskentia.cyou^
 ||verminybatlerbanyoro.qpon^
 ||vermixwaltzerhavance.cyou^
@@ -52912,6 +52926,7 @@ browsershots.org#@#.advert_area
 ||vkhjpjucdqfgg.site^
 ||vkiibgvoxf.com^
 ||vkiqovvfivibd.space^
+||vkjhbnngmefp.com^
 ||vkjiwgmipziva.space^
 ||vkkcpopwaoehpl.com^
 ||vkofmhfpfjyak.online^
@@ -53958,6 +53973,7 @@ browsershots.org#@#.advert_area
 ||whimsicalcoat.com^
 ||whinedeity.com^
 ||whinemalnutrition.com^
+||whiningbulten.cfd^
 ||whippedbetraygranddaughter.com^
 ||whippedredsnowman.com^
 ||whiprayoutkill.com^
