@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607012258
+! Version: 202607012338
 ! Title: EasyList
-! Last modified: 01 Jul 2026 22:58 UTC
+! Last modified: 01 Jul 2026 23:38 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3e810c0d757724a207f90204cac817caba0e157a
+! Commit: 723e318b7cdd6efd49ac4d1f5f44e90e0ba2b9e0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21655,6 +21655,7 @@ browsershots.org#@#.advert_area
 ||calinutfizgigfacings.qpon^
 ||calinutpyjama.cyou^
 ||caliphaefauld.cfd^
+||caliteeschars.qpon^
 ||calitemistyriels.qpon^
 ||caljdjxsfofll.store^
 ||calkagenumbly.qpon^
@@ -21957,6 +21958,7 @@ browsershots.org#@#.advert_area
 ||ccflxer9b5tg2q9x.rest^
 ||ccfvhquaynxcp.space^
 ||ccgateway.net^
+||ccgbernpkbwid.com^
 ||cchvgvgnqxrjr.space^
 ||ccjfxvnyiqcfv.space^
 ||ccjzuavqrh.com^
@@ -46978,6 +46980,7 @@ browsershots.org#@#.advert_area
 ||sermonperoneimamie.cfd^
 ||serootdaimons.qpon^
 ||seropalame.cfd^
+||serpensguarabu.qpon^
 ||serpentine-bat.pro^
 ||serranberime.com^
 ||sertinglamer.cyou^
@@ -47031,6 +47034,7 @@ browsershots.org#@#.advert_area
 ||settings2021.net^
 ||settings4learn.net^
 ||settingsinauthor.com^
+||settingsoutpier.net^
 ||settleddisembarkinborn.com^
 ||settlementlaying.com^
 ||settlingbucket.com^
@@ -53557,6 +53561,7 @@ browsershots.org#@#.advert_area
 ||warilyclickframes.com^
 ||warilyencases.cfd^
 ||warineambatchgreeney.qpon^
+||warkbanefulscaly.cfd^
 ||warlikebcfspheric.cyou^
 ||warlikecouple.com^
 ||warliketruck.com^
