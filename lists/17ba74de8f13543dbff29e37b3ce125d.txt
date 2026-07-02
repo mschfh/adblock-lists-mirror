@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607021930
+! Version: 202607022023
 ! Title: EasyList
-! Last modified: 02 Jul 2026 19:30 UTC
+! Last modified: 02 Jul 2026 20:23 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e91f10f22e4d9961b71e0d0ef4298abdf9e05b78
+! Commit: a3bd60613009722a6fe2655ebeacad8727975583
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19720,6 +19720,7 @@ browsershots.org#@#.advert_area
 ||barrackmuppetunhealthy.com^
 ||barrasdockage.com^
 ||barrelaffloofatrophy.qpon^
+||barrier2plugins.net^
 ||barsshrug.com^
 ||bartcons.com^
 ||bartererfaxtingling.com^
@@ -23386,6 +23387,7 @@ browsershots.org#@#.advert_area
 ||cosshencoital.com^
 ||cosystraight.com^
 ||cothambaumetoroid.cyou^
+||coticealophasmuffs.qpon^
 ||coticoffee.com^
 ||cotrck.com^
 ||cottaeinglesaforold.qpon^
@@ -27313,6 +27315,7 @@ browsershots.org#@#.advert_area
 ||etjrkgaqrkfad.space^
 ||etkybhmigxoyt.site^
 ||etneanlaos.cfd^
+||etnxtlqhknmmb.space^
 ||etphoneme.com^
 ||ettaletted.cfd^
 ||etuiplucktuchit.qpon^
@@ -29074,6 +29077,7 @@ browsershots.org#@#.advert_area
 ||fsmfceljvhwfg.space^
 ||fsmozsiqsdapq.store^
 ||fsnkdjtnifxze.site^
+||fsoqblxrfljyf.site^
 ||fsqgocmhgaikr.site^
 ||fsrqhkcwfsrlc.online^
 ||fssrdeeivg.com^
@@ -31875,6 +31879,7 @@ browsershots.org#@#.advert_area
 ||hotterydiseur.shop^
 ||hottiecwm.shop^
 ||hottmatchy.com^
+||hotueyhvfuqhh.space^
 ||hotwords.com^
 ||houbmjcujavil.store^
 ||houcedqscszcu.space^
@@ -46036,6 +46041,7 @@ browsershots.org#@#.advert_area
 ||roots.baby^
 ||rootzaffiliates.com^
 ||roowt5l491yq6hb2v.cfd^
+||ropabcagapfvy.com^
 ||ropakkmnqyglf.site^
 ||ropesscrapeboutique.com^
 ||roqeke.xyz^
@@ -55405,6 +55411,7 @@ browsershots.org#@#.advert_area
 ||xlmamdeykpist.online^
 ||xlmevfxdcbeak.site^
 ||xlmuhiaozekzh.site^
+||xlraqugclbwly.space^
 ||xlrdr.com^
 ||xlrm-tech.com^
 ||xlsfswiaqcrxc.xyz^
