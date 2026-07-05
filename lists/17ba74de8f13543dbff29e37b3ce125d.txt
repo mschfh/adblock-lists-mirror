@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607052204
+! Version: 202607052227
 ! Title: EasyList
-! Last modified: 05 Jul 2026 22:04 UTC
+! Last modified: 05 Jul 2026 22:27 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bfc48c35c53e5cd9cfb411bf6ff6faacd17cc016
+! Commit: 1bc852f8990cde57a8b0e3013307b1261e887663
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -33814,6 +33814,7 @@ browsershots.org#@#.advert_area
 ||isabellaentire.com^
 ||isabellalive.cfd^
 ||isaminvagancy.cfd^
+||isarlnajbrwpw.online^
 ||isatinspleurae.shop^
 ||isatismortify.cyou^
 ||isawthenews.com^
@@ -35867,6 +35868,7 @@ browsershots.org#@#.advert_area
 ||kryvidmqdmlnm.space^
 ||krzkasckoqvad.site^
 ||krzsueygruwdl.online^
+||ksbrnidhtqssq.online^
 ||ksbxthpfiyrrg.online^
 ||ksdamndwucubm.online^
 ||ksehinkitw.hair^
@@ -44997,6 +44999,7 @@ browsershots.org#@#.advert_area
 ||qqznesheignkm.site^
 ||qr-player-new.com^
 ||qr08uw9e.xyz^
+||qrafhypxswp.com^
 ||qramxcijceyve.online^
 ||qraollantiaiv.online^
 ||qrayduqzmtuhl.online^
