@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607062015
+! Version: 202607062104
 ! Title: EasyList
-! Last modified: 06 Jul 2026 20:15 UTC
+! Last modified: 06 Jul 2026 21:04 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e503c774bce0e1e6f833c31bcebcf03a698a85a2
+! Commit: d6bf8104f24c4a1082db2dc4116e1264f402811a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17177,6 +17177,7 @@ browsershots.org#@#.advert_area
 ||acqxanjap.in^
 ||acrasingraters.cfd^
 ||acrdfrcfapzvn.site^
+||acreakkolas.cfd^
 ||acrebackcharacter.com^
 ||acredo.space^
 ||acreinterstatethe.com^
@@ -20519,6 +20520,7 @@ browsershots.org#@#.advert_area
 ||bkmmafrixfake.website^
 ||bknegcvfkxvsm.space^
 ||bkpmmpsqgluwj.online^
+||bkqcbtjdhuhvd.site^
 ||bkqodnnsomnon.website^
 ||bkqykixrzrgwr.space^
 ||bkrxfveyilyqu.site^
@@ -22069,6 +22071,7 @@ browsershots.org#@#.advert_area
 ||cbtxlvpoczxxr.space^
 ||cbvnzczrbcjoq.online^
 ||cbvyghlu.com^
+||cbxdyffyyezkx.space^
 ||cbxxfascjrdjm.space^
 ||cbzjerbxjdiph.online^
 ||cbzxy.com^
@@ -27412,6 +27415,7 @@ browsershots.org#@#.advert_area
 ||estimatedeferbulk.com^
 ||estuousmoo.com^
 ||esujpsusqcmnf.online^
+||esumsibhngetz.space^
 ||esusaryproced.com^
 ||esveabkwjvkcj.space^
 ||esvsojlfyppbv.website^
@@ -27996,6 +28000,7 @@ browsershots.org#@#.advert_area
 ||fastidiousilliteratehag.com^
 ||fastidiouso.com^
 ||fastincognitomode.com^
+||fastinglefties.qpon^
 ||fastishequinia.com^
 ||fastlgtrk.com^
 ||fastnativead.com^
@@ -29063,6 +29068,7 @@ browsershots.org#@#.advert_area
 ||fraidcodices.cfd^
 ||fraikidyll.cyou^
 ||frail-benefit.com^
+||fraiymmrjeiwf.site^
 ||francegave.com^
 ||franecki.net^
 ||franeski.net^
