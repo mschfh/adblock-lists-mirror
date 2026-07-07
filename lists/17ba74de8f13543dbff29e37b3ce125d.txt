@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607071912
+! Version: 202607072008
 ! Title: EasyList
-! Last modified: 07 Jul 2026 19:12 UTC
+! Last modified: 07 Jul 2026 20:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: eec59310751060c126c3c1d47318101028e5dce8
+! Commit: a355079312e7895c70d5847930d7525b075312fd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19531,6 +19531,7 @@ browsershots.org#@#.advert_area
 ||aztumqassickf.space^
 ||azurestealth.com^
 ||azwvcioqzjtu.in^
+||azyfgghezmgho.site^
 ||azygotesonless.com^
 ||azymousmascots.qpon^
 ||azzncoswof.com^
@@ -25238,6 +25239,7 @@ browsershots.org#@#.advert_area
 ||disloyalmidnight.pro^
 ||disloyalmoviesfavor.com^
 ||dismantlepenantiterrorist.com^
+||dismawgassynascan.cyou^
 ||dismisscomplicatedfoolproof.com^
 ||dismissportraypioneer.com^
 ||disobeyrecreate.com^
@@ -35913,6 +35915,7 @@ browsershots.org#@#.advert_area
 ||kxaazgvdumsle.site^
 ||kxapewakwxtyy.site^
 ||kxbqaaxjeqjqk.website^
+||kxencag.com^
 ||kxexlhdbaosee.website^
 ||kxfnuquwjicjt.site^
 ||kxfvdkxarxejz.space^
@@ -54459,6 +54462,7 @@ browsershots.org#@#.advert_area
 ||warypool.com^
 ||warypress.pro^
 ||wasangomartens.com^
+||wasfilledwi.com^
 ||wasgiwiththinleld.org^
 ||wasgvfoivfaop.store^
 ||washedadvance.com^
@@ -57311,6 +57315,7 @@ browsershots.org#@#.advert_area
 ||zbvbmifryccxd.website^
 ||zbweattfkwerz.space^
 ||zbzfzftwtifyv.online^
+||zcacbymusrtrr.space^
 ||zcapieuheltue.store^
 ||zcbetcczfvylq.site^
 ||zcfuoqjyzgksa.online^
@@ -57598,6 +57603,7 @@ browsershots.org#@#.advert_area
 ||zkyboxukmxmwc.website^
 ||zkzenlcagknfi.world^
 ||zlacraft.com^
+||zladljbgfgdbk.space^
 ||zlaosdshglcjt.space^
 ||zlavxbjuyekwo.site^
 ||zlbzfuzrszxfb.space^
