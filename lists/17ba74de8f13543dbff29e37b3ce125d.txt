@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607072316
+! Version: 202607080002
 ! Title: EasyList
-! Last modified: 07 Jul 2026 23:16 UTC
+! Last modified: 08 Jul 2026 00:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0fb48a88f0a37c51f36c832e786b3c0bcd169f4b
+! Commit: 0f468ea99e0754a8ec67a2bb509f70c81509d122
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -22954,6 +22954,7 @@ browsershots.org#@#.advert_area
 ||clutchlilts.com^
 ||cluttercallousstopped.com^
 ||clutteredbrush.pro^
+||clutteredclaim.com^
 ||cluttervisiterstudium.qpon^
 ||clvafteebrdfk.space^
 ||clyblajtkoopx.site^
@@ -24960,6 +24961,7 @@ browsershots.org#@#.advert_area
 ||dfuvslppaxhzv.site^
 ||dfvruigpfghpi.site^
 ||dfwjcksuusdzf.site^
+||dfxemvvaxyxbt.online^
 ||dfyawvajhov.in^
 ||dfyzanpmamz.in^
 ||dfzuxtkanxwxx.space^
@@ -32002,6 +32004,7 @@ browsershots.org#@#.advert_area
 ||hmthcqphqwppf.online^
 ||hmtqdbdg.com^
 ||hmufbqtreuybh.website^
+||hmvtwfudecij.com^
 ||hmvuezvlrxygm.website^
 ||hmxg5mhyx.com^
 ||hmxoufchteecf.world^
@@ -33681,6 +33684,7 @@ browsershots.org#@#.advert_area
 ||iqmfsawtxbyit.online^
 ||iqoczawzdbpai.space^
 ||iqofmyendnfju.site^
+||iqsmuqiuopvii.site^
 ||iqtest365.online^
 ||iqtvvevbydoat.online^
 ||iqtwobocorvscc.com^
@@ -36606,6 +36610,8 @@ browsershots.org#@#.advert_area
 ||ligatus.com^
 ||ligcspstbrvgf.online^
 ||liggewaeful.com^
+||lightbrights1.xyz^
+||lightbrights2.xyz^
 ||lightenslush.com^
 ||lighterdeletes.cyou^
 ||lighterdrowngrammar.com^
@@ -42207,6 +42213,7 @@ browsershots.org#@#.advert_area
 ||partsoptimisticrebound.com^
 ||partsroll.xyz^
 ||partsroll1.xyz^
+||partsroll2.xyz^
 ||partyinglongitudekept.com^
 ||partyjerk.com^
 ||partypartners.com^
@@ -57624,6 +57631,7 @@ browsershots.org#@#.advert_area
 ||zjvjeghnomike.website^
 ||zjvrbcwdfdrky.store^
 ||zjwjcjiozdear.online^
+||zjxdontsmepul.website^
 ||zjxmrrgeqndlx.space^
 ||zjzmqczmvdfbz.site^
 ||zjzpezeicfnbn.site^
@@ -57797,6 +57805,7 @@ browsershots.org#@#.advert_area
 ||zpguxkvsnjobx.website^
 ||zpifugiaprqwn.store^
 ||zplxavnqigfrp.site^
+||zpnfabznyzmuc.site^
 ||zpqfqxoczrwfq.space^
 ||zpuavdcswqnml.online^
 ||zpv7v3olgl7el9b.rest^
@@ -65655,6 +65664,7 @@ $third-party,xmlhttprequest,domain=mega4upload.net
 ||bestblackhatforum.com/images/my_compas/
 ||bestlittlesites.com/plugins/advertising/getad/
 ||bettingads.365scores.com^
+||bettingoffer.xyz/ads.php
 ||bibleatlas.org/botmenu
 ||bibleh.com/b2.htm
 ||biblehub.com/botmenu
