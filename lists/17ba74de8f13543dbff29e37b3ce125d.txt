@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607090921
+! Version: 202607091018
 ! Title: EasyList
-! Last modified: 09 Jul 2026 09:21 UTC
+! Last modified: 09 Jul 2026 10:18 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7a5c8c7fd61c40d49ca9fb8776fada369580f55a
+! Commit: b1b2a209f745c248ff09a77e82fd2fb52749a889
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19029,6 +19029,7 @@ browsershots.org#@#.advert_area
 ||asgarddeanbhunder.cyou^
 ||asgclick.com^
 ||asgmtwatson.qpon^
+||asgukrpapiiyp.online^
 ||ashamed-diamond.com^
 ||ashamed-temperature.com^
 ||ashamedleague.pro^
@@ -21270,6 +21271,7 @@ browsershots.org#@#.advert_area
 ||briskyfab.cyou^
 ||brissdutchy.shop^
 ||bristlechurch.com^
+||bristolarchfoe.cfd^
 ||britageens.com^
 ||britainbetrayalbands.com^
 ||britainhands.com^
@@ -27962,6 +27964,7 @@ browsershots.org#@#.advert_area
 ||exweuxkvvckho.website^
 ||exxqwatyibrmj.site^
 ||exxtended-access.com^
+||exygzvytvsboj.site^
 ||exzocglvthjxr.space^
 ||exzumzcaqqdny.site^
 ||ey3jun9c55oov13uwvhoozxmbu.cfd^
@@ -28472,6 +28475,7 @@ browsershots.org#@#.advert_area
 ||feudalrival.com^
 ||feudistteuch.cyou^
 ||feuillearcs.cyou^
+||fevdissbagesem.com^
 ||feverfreeman.com^
 ||feversfewmand.com^
 ||fevfmquikbacu.online^
@@ -31475,6 +31479,7 @@ browsershots.org#@#.advert_area
 ||haplessglochidloeing.qpon^
 ||haplitecauson.cfd^
 ||haploidtongueymeubles.cyou^
+||haplycozily.qpon^
 ||happedromany.cfd^
 ||happenedquantity.com^
 ||happensusan.com^
@@ -43849,6 +43854,7 @@ browsershots.org#@#.advert_area
 ||prankhistorian.com^
 ||pranktetui.cfd^
 ||pratscearin.shop^
+||prawntrahshagged.cfd^
 ||prayedcanezouformic.qpon^
 ||prayersoriginate.com^
 ||prayratesantibiotic.com^
@@ -49336,6 +49342,7 @@ browsershots.org#@#.advert_area
 ||spellingdelicatessenremove.com^
 ||spellingunforgivablesneak.com^
 ||spendsdetachment.com^
+||spendsmagilp.shop^
 ||spentgeographical.com^
 ||speragephallin.cfd^
 ||sperans-beactor.com^
@@ -56837,6 +56844,7 @@ browsershots.org#@#.advert_area
 ||xwkvojadxcnyd.space^
 ||xwkwiakgumoyz.site^
 ||xwlketvkzf.com^
+||xwlpghhsnddie.site^
 ||xwlptajihmbkz.space^
 ||xwmcxqcxipcln.site^
 ||xwqvytuiko.com^
@@ -64129,6 +64137,7 @@ browsershots.org#@#.advert_area
 ||proto2ad.durasite.net^
 ||proxy6.net/static/img/b/
 ||proxysolutions.net/affiliates/
+||ptn.divulg.org^
 ||pub-81f2b77f5bc841c5ae64221394d67f53.r2.dev^
 ||pub.dv.tech^
 ||pub.neartonet.com^
