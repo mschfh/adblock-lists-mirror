@@ -1076,6 +1076,8 @@ cracksmid.com##div[style=""] > center > center
 ||meetu.usd1.party^$doc
 ! https://x.com/kansoku_module/status/2072293114958721169
 ||fanbox.autos^$all
+! https://x.com/masaomi346/status/2075180544158228949
+||luxoriahub.shop^$all
 
 ! scam sites
 ||webuzz.me^$doc
@@ -2632,6 +2634,10 @@ gemfellowship.org##+js(rmnt, script, TextDecoder)
 ||idverification-cdn.info^$all
 ##html > #bw-cf-root
 
+! https://github.com/uBlockOrigin/uAssets/issues/33217
+##body > .page > #mainVerifyRow
+##body > .page > .verify-row
+
 ! ClickFix Errtrafficv2
 ! https://urlscan.io/result/019f0fdb-f020-775c-939d-f27f2e700a44/
 ! https://www.sekoia.com/blog/unveiling-errtraffic-inside-a-growing-clickfix-malware-distribution-framework
@@ -2646,6 +2652,8 @@ longhall.consulting##+js(rmnt, script, /document\.currentScript\.remove|0x0/)
 
 ! https://x.com/Malwarehunterr/status/2074934202274025568
 ###uc-cf-overlay
+! https://x.com/Malwarehunterr/status/2074434348833820955
+###turnstile[onclick="handleClick()"]
 
 ! !SECTION: ClickFix
 
@@ -6265,10 +6273,6 @@ top##body > center + .A + .post
 
 ! https://github.com/uBlockOrigin/uAssets/issues/33169
 ||shrtweb.site^$all
-
-! https://github.com/uBlockOrigin/uAssets/issues/33217
-##body > .page > #mainVerifyRow
-##body > .page > .verify-row
 
 ! https://github.com/uBlockOrigin/uAssets/issues/33298
 ||bisque-bison-333202.hostingersite.com^$all
