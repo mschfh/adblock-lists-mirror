@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202607110936
+! Version: 202607111031
 ! Title: EasyPrivacy
-! Last modified: 11 Jul 2026 09:36 UTC
+! Last modified: 11 Jul 2026 10:31 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3a44b4661609bc8f5a141eb436ceea5fe1b7c509
+! Commit: 35338cb099444900e9b0ee0f1c4530841ce40e88
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -16772,7 +16772,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||x.com/1.1/graphql/user_flow.json
 ||x.com/1.1/jot
 ||x.com/9/measurement/
-||x.com/i/api/1.1/flow/viewer.json
+! ||x.com/i/api/1.1/flow/viewer.json
 ||x.com/i/api/1.1/graphql/app_context.json
 ||x.com/i/api/1.1/graphql/error_log.json
 ||x.com/i/api/1.1/graphql/user_flow.json
@@ -17297,6 +17297,8 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||curos.ca/res/*/resources/scripts/lib/fingerprint.js$important,redirect=fingerprint2.js,script
 ! https://github.com/uBlockOrigin/uAssets/issues/31330
 ||metrics.streaks.jp^$redirect=noop.txt,xmlhttprequest
+! https://github.com/uBlockOrigin/uAssets/issues/33072
+x.com##+js(no-xhr-if, /i/api/1.1/flow/viewer.json)
 ! -----------------Individual cname tracking systems-----------------!
 ! *** easylist:easyprivacy/easyprivacy_specific_cname_dataunlocker.txt ***
 ! easyprivacy_specific_cname_dataunlocker.txt
