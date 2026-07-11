@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607111952
+! Version: 202607112017
 ! Title: EasyList
-! Last modified: 11 Jul 2026 19:52 UTC
+! Last modified: 11 Jul 2026 20:17 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 91d25a72e168fd11144c9c09cec3494e43054671
+! Commit: a9fd530696ea9048b75d47310bf79853f824788e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -21351,6 +21351,7 @@ browsershots.org#@#.advert_area
 ||briquettwasome.qpon^
 ||briseisnodules.cyou^
 ||brisk-cold.pro^
+||brisk22001.net^
 ||briskbluffer.cfd^
 ||brisketleafboy.qpon^
 ||brisknessdebtordismiss.com^
@@ -27813,6 +27814,7 @@ browsershots.org#@#.advert_area
 ||esumsibhngetz.space^
 ||esusaryproced.com^
 ||esveabkwjvkcj.space^
+||esvgyfsgpi.com^
 ||esvsojlfyppbv.website^
 ||esvunifeyiqhk.website^
 ||eswfsinghtywb.website^
@@ -31047,6 +31049,7 @@ browsershots.org#@#.advert_area
 ||gqbkxohbonzxt.online^
 ||gqbpkzehdkjur.site^
 ||gqbzbszzbqsdi.online^
+||gqdqkwvrfolav.space^
 ||gqgqdkfcylzqz.store^
 ||gqhufphizxbjc.site^
 ||gqihdorufksiq.online^
@@ -32417,6 +32420,7 @@ browsershots.org#@#.advert_area
 ||hlixavvcrnj.com^
 ||hlkgyijzhlxno.com^
 ||hlkwshtzpeuma.space^
+||hlltmmaivyurb.site^
 ||hlnsdkaqstzlc.website^
 ||hlobzlwykghmf.website^
 ||hlomxkssdybcx.website^
@@ -33319,6 +33323,7 @@ browsershots.org#@#.advert_area
 ||ifdnzact.com^
 ||iffiestpolacca.qpon^
 ||ifigent.com^
+||ifikexfkaskbn.online^
 ||iflfnermnmnhj.space^
 ||ifmxhabbjpjrm.website^
 ||ifnzvapjsaumr.site^
@@ -52179,6 +52184,7 @@ browsershots.org#@#.advert_area
 ||tonicheaviness.com^
 ||tonicsgullets.shop^
 ||tonjonduppa.com^
+||tonletsmucosaetoyshop.cyou^
 ||tonngmhhvemqr.space^
 ||tonsilresolvedbark.com^
 ||tonsvewbbofzi.site^
