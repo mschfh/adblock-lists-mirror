@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607111556
+! Version: 202607111621
 ! Title: EasyList
-! Last modified: 11 Jul 2026 15:56 UTC
+! Last modified: 11 Jul 2026 16:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bd66db3a22cde267bb2d4f4ea881a0ffad036d88
+! Commit: 3d872311cc944ba372102263a082eb271f3c7994
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -47192,6 +47192,7 @@ browsershots.org#@#.advert_area
 ||rjsayvndhakyn.online^
 ||rjsdiikketqvt.online^
 ||rjtzqgeltwaep.store^
+||rjvggbskx.com^
 ||rjvgkmahuzded.site^
 ||rjw4obbw.com^
 ||rjxczvecqiipf.site^
@@ -48604,6 +48605,7 @@ browsershots.org#@#.advert_area
 ||sequenceclickmeasles.com^
 ||sequentmalus.shop^
 ||ser678uikl.xyz^
+||seraglicliquewedgies.qpon^
 ||seraphswynn.qpon^
 ||serbianalgenib.shop^
 ||serbianskyreparded.cyou^
@@ -53815,6 +53817,7 @@ browsershots.org#@#.advert_area
 ||uoyphicg955k24viilqwb61.cfd^
 ||uozbwocqypahe.site^
 ||up62xjt5ewkxr3t.cfd^
+||upaitqexpunnz.online^
 ||upandsawhwh.com^
 ||uparceuson.com^
 ||upbbklofphpay.online^
@@ -54148,6 +54151,7 @@ browsershots.org#@#.advert_area
 ||uwnqfhnsmveti.icu^
 ||uwnzmswxqezot.space^
 ||uwoaptee.com^
+||uwpepnmdtltrd.website^
 ||uwppdmkzyykwk.site^
 ||uwqxdgtenyjdd.online^
 ||uwsmamsebynub.site^
@@ -54631,6 +54635,7 @@ browsershots.org#@#.advert_area
 ||vgrmgnzkbcpjj.site^
 ||vgtdmpyau.com^
 ||vgtevnzhlujfv.website^
+||vgujbafemwklg.site^
 ||vgukgvtglfjnp.space^
 ||vgutxnvrwydey.website^
 ||vguvlebxydqby.site^
@@ -57928,6 +57933,7 @@ browsershots.org#@#.advert_area
 ||yjsfcjneajgdv.com^
 ||yjsnhansijjpy.online^
 ||yjtojoboqokts.site^
+||yjuxuvcryc.com^
 ||yjvecnmwjvfoe.site^
 ||yjvyixarcwhfy.site^
 ||yjwajohilqxia.online^
