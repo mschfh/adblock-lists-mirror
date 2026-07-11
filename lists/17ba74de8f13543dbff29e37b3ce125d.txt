@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607111225
+! Version: 202607111307
 ! Title: EasyList
-! Last modified: 11 Jul 2026 12:25 UTC
+! Last modified: 11 Jul 2026 13:07 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 45add26b1147dc63bff4dfe6771fc8fc354ce6cc
+! Commit: 5bd16438e849e8a74b69243956d7d1497a4887a6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17586,7 +17586,6 @@ browsershots.org#@#.advert_area
 ||ads-blocker.app^
 ||ads-blocker.pro^
 ||ads-static.conde.digital^
-||ads-twitter.com^
 ||ads.lemmatechnologies.com^
 ||ads1-adnow.com^
 ||ads1-adqva.com^
@@ -20346,6 +20345,7 @@ browsershots.org#@#.advert_area
 ||betr-for-tod.com^
 ||betrailsysout.shop^
 ||betrayalbadger.com^
+||betrendwells.cfd^
 ||bettentacruela.com^
 ||better-u.vip^
 ||betteradsystem.com^
@@ -22432,6 +22432,7 @@ browsershots.org#@#.advert_area
 ||cellfancied.com^
 ||cellspitch.com^
 ||celoe.xyz^
+||celticmurgeon.shop^
 ||celxkpdir.com^
 ||cemaolocavmti.website^
 ||cematuran.com^
@@ -24095,6 +24096,7 @@ browsershots.org#@#.advert_area
 ||csfijhywqxquh.space^
 ||csfuiuwdubtyr.online^
 ||csgiwgquicwsc.space^
+||csichided.cyou^
 ||csjdhxlelvqpa.site^
 ||csjdlngaavfilh.com^
 ||csjggncfpbhnq.space^
@@ -35480,6 +35482,7 @@ browsershots.org#@#.advert_area
 ||jxcuywnprilwi.space^
 ||jxdgcaekgisb.com^
 ||jxelkzydvftdn.space^
+||jxeuizpayazsy.space^
 ||jxfmkz6pw3zft4p.cfd^
 ||jxgncozqhyfo1v5zmnzc6u.cfd^
 ||jxhytrgxvybqb.online^
@@ -35493,6 +35496,7 @@ browsershots.org#@#.advert_area
 ||jxmofulihtbzr.space^
 ||jxnncepmitwxh.space^
 ||jxohdspewpcl.com^
+||jxosahadavqzd.website^
 ||jxoycbnnwsmfj.space^
 ||jxpieseudktcy.site^
 ||jxrceejdygfap.site^
@@ -35965,6 +35969,7 @@ browsershots.org#@#.advert_area
 ||kiomthavsruuk.online^
 ||kippingfissura.shop^
 ||kipvptyusewoq.space^
+||kiqglpbntlqbu.online^
 ||kirantifandoms.cfd^
 ||kirbiescurfmuckman.cfd^
 ||kireibox.xyz^
@@ -43288,6 +43293,7 @@ browsershots.org#@#.advert_area
 ||permissioncoma.com^
 ||permittedcenterrevolve.com^
 ||permittedrearstub.com^
+||pernineatwindazotea.qpon^
 ||peropustautogs.cyou^
 ||peroutsell.qpon^
 ||perpetratoralimony.com^
@@ -64858,6 +64864,7 @@ browsershots.org#@#.advert_area
 ||ssp.qc.coccoc.com^
 ||static-cloudflare.workers.dev^
 ||static-resources.workers.dev^
+||static.ads-twitter.com^
 ||static.ifruplink.net/static_src/mc-banner/
 ||static.prd.datawars.io/static/promo/
 ||static.sunmedia.tv/integrations/
