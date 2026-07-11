@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607112017
+! Version: 202607112045
 ! Title: EasyList
-! Last modified: 11 Jul 2026 20:17 UTC
+! Last modified: 11 Jul 2026 20:45 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a9fd530696ea9048b75d47310bf79853f824788e
+! Commit: 87df325bd5bfe798eaccbc9084cf9f7c3a71d59e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -36214,6 +36214,7 @@ browsershots.org#@#.advert_area
 ||koifpdfagsxjk.website^
 ||koio36.com^
 ||koitay.cyou^
+||kojpwdxgyantb.online^
 ||kokilamysel.shop^
 ||kokmwwsshmhup.online^
 ||kokotrokot.com^
@@ -37651,6 +37652,7 @@ browsershots.org#@#.advert_area
 ||loonykenyans.shop^
 ||loopersamania.qpon^
 ||loopme.me^
+||loor38.com^
 ||loosebelt.com^
 ||loosedboolcardon.cyou^
 ||loosestasok.shop^
@@ -41643,6 +41645,7 @@ browsershots.org#@#.advert_area
 ||ofcamerupta.com^
 ||ofcgcdcvk.com^
 ||ofclaydolr.com^
+||ofcxgjeyguapy.site^
 ||ofdougmlfyd.com^
 ||ofdoyluowkolk.website^
 ||offenceperiod.com^
