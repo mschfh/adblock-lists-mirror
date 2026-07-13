@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607132210
+! Version: 202607132246
 ! Title: EasyList
-! Last modified: 13 Jul 2026 22:10 UTC
+! Last modified: 13 Jul 2026 22:46 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 41854d84904945fd3ad0279f925bcae165151d40
+! Commit: d579ca4a47a29cef523d3f307ec9514ce46fc5dc
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23728,6 +23728,7 @@ browsershots.org#@#.advert_area
 ||coohauwhob.net^
 ||cooikoomseerun.com^
 ||cookedtower.pro^
+||cookedupper.pro^
 ||cookersillites.qpon^
 ||cookeryshed.com^
 ||cookieless-data.com^
@@ -26449,6 +26450,7 @@ browsershots.org#@#.advert_area
 ||dsuzbf.com^
 ||dsvfbu.com^
 ||dsvidbernlibi.site^
+||dsvtrq.com^
 ||dsvxfq.com^
 ||dsvyby.com^
 ||dsvyrt.com^
@@ -44413,6 +44415,7 @@ browsershots.org#@#.advert_area
 ||pndvhjgixorbq.online^
 ||pneumahameil.com^
 ||pnhcgwupnyjji.website^
+||pnhoppacwh.com^
 ||pnlgtgdkpyvdy.space^
 ||pnmxahlvqeaaa.space^
 ||pnn3u5nyuhew8ynwomi.rest^
@@ -56024,6 +56027,7 @@ browsershots.org#@#.advert_area
 ||wacagosamechsapochae.qpon^
 ||wackphebelyance.cyou^
 ||wacsstance.cyou^
+||wactnsyvobquu.website^
 ||wactzluhhgzdz.com^
 ||wadecarbohydrate.com^
 ||wadxfdqzocbof.site^
@@ -56328,6 +56332,7 @@ browsershots.org#@#.advert_area
 ||wdjtyigmvcgtx.space^
 ||wdlflqnfoowj.com^
 ||wdlltvftsokwy.space^
+||wdnnruzsuaekn.site^
 ||wdnqfnniorfbx.store^
 ||wdozzmihxphvo.site^
 ||wdppwawnhehxn.space^
@@ -57347,6 +57352,7 @@ browsershots.org#@#.advert_area
 ||wthggqjzcbknn.space^
 ||wthoeewyxgbyc.site^
 ||wtjxgdwbdtbqy.online^
+||wtlfrlrhzwtru.site^
 ||wtmufjwypjjdg.website^
 ||wtmxfcptueyoz.store^
 ||wtoujbtnafmds.online^
