@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607131844
+! Version: 202607131936
 ! Title: EasyList
-! Last modified: 13 Jul 2026 18:44 UTC
+! Last modified: 13 Jul 2026 19:36 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3c68645cf6305cee12d04ad086bbeb561da80d81
+! Commit: d6829793c8feed7041d2c59364a24dfa3ce5efcd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19538,6 +19538,7 @@ browsershots.org#@#.advert_area
 ||awlpiert.shop^
 ||awlsqqofnkse.com^
 ||awltovhc.com^
+||awltzbrmwmzlf.site^
 ||awmbed.com^
 ||awmdelivery.com^
 ||awmplus.com^
@@ -21320,6 +21321,7 @@ browsershots.org#@#.advert_area
 ||brankiewringle.cyou^
 ||brannedalbinosstaw.cyou^
 ||brarowmannetbigwigs.cfd^
+||brasanoxiasegos.qpon^
 ||brashespresa.cyou^
 ||brashgrandchild.com^
 ||brassedcreme.cfd^
@@ -26076,6 +26078,7 @@ browsershots.org#@#.advert_area
 ||dpvowksnrdhxv.site^
 ||dpvztnqfkmlbs.store^
 ||dqciuftqqizon.website^
+||dqcnhcmiaosjv.online^
 ||dqdsnemauijvc.online^
 ||dqeozccymwpqw.online^
 ||dqfzbnhbqeqox.space^
@@ -27275,6 +27278,7 @@ browsershots.org#@#.advert_area
 ||ekogulzaxpito.site^
 ||ekqlj8o5wpcc1hi.cfd^
 ||ekrpjrrovubka.club^
+||ekrvzaqtbhxjx.site^
 ||ektmyescfvnmb.website^
 ||ektxsfkdnciut.space^
 ||ekvhgfruqyadw.site^
@@ -28853,6 +28857,7 @@ browsershots.org#@#.advert_area
 ||festivalpronoundeserve.com^
 ||festtube.com^
 ||fetchlately.com^
+||fetchtosensitive.com^
 ||fetclarity.qpon^
 ||fettersbatties.qpon^
 ||fetusphytome.cfd^
@@ -37174,6 +37179,7 @@ browsershots.org#@#.advert_area
 ||ldnkepcuqetum.online^
 ||ldodcckzbfgop.site^
 ||ldofvnruxhixg.site^
+||ldoiaupitddx.com^
 ||ldoxmvlsvzban.online^
 ||ldpdhccjkfarr.online^
 ||ldpwpfjyhwvnb.space^
