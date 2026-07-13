@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EwAt8PkPWb41qR9RE9b7FA
-! Version: 202607130125
+! Checksum: 1nambFOLsT0hSEKy8027LA
+! Version: 202607130150
 ! Title: Fanboy's Newsletter List
-! Last modified: 2026-07-13 01:25 UTC
+! Last modified: 2026-07-13 01:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2026,6 +2026,8 @@ developingtelecoms.com##.acymailing_module
 walletinvestor.com##.ad-align-center
 crn.com##.ad-imu-sticky
 ipolitics.ca##.adblock
+theonion.com##.adp-popup
+theonion.com##.adp-popup-overlay
 independent.com##.ads-container
 drugtargetreview.com##.advads-background
 oled-info.com##.af-form
