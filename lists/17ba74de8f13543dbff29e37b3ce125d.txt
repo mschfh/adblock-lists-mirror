@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607131504
+! Version: 202607131555
 ! Title: EasyList
-! Last modified: 13 Jul 2026 15:04 UTC
+! Last modified: 13 Jul 2026 15:55 UTC
 ! Expires: 4 days (update frequency)
-! Commit: c83e03426f7a37cb838530bbde88a3fed105a228
+! Commit: 68604212cde52593b6f6dc48f33b44c63a26933b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -37717,6 +37717,7 @@ browsershots.org#@#.advert_area
 ||lkuxyvrptazgk.online^
 ||lkvngplmrmjlc.store^
 ||lkwnfkysbo.com^
+||lkxprcef.com^
 ||llarnafgopads.website^
 ||llatemxzxfvwl.site^
 ||llboqelaevqjy.top^
@@ -38215,6 +38216,7 @@ browsershots.org#@#.advert_area
 ||lumpyactive.com^
 ||lumpyage.pro^
 ||lumujmndxyyzm.website^
+||lunaabear.qpon^
 ||lunatedalert.cyou^
 ||lunaticcosyatrocious.com^
 ||lunatictoxicambiguity.com^
@@ -53555,6 +53557,7 @@ browsershots.org#@#.advert_area
 ||tzepbopyvsdav.site^
 ||tzgdlbeljybbr.site^
 ||tzgeylerqwbot.website^
+||tzghzehorktna.website^
 ||tzgjzzhj.com^
 ||tzhg8m37q1m8xumkw4voe9lx.cfd^
 ||tzifafpdvzcxl.website^
@@ -53678,6 +53681,7 @@ browsershots.org#@#.advert_area
 ||uddougqbgbhmg.website^
 ||udfaguykrfeur.site^
 ||udggmzfrdhxcs.site^
+||udickegdvorrn.website^
 ||udjolmaphsyfo.online^
 ||udjvwsvv.com^
 ||udknsbanxlrfh.site^
@@ -54304,6 +54308,7 @@ browsershots.org#@#.advert_area
 ||unwritmirific.com^
 ||unwritten-cash.com^
 ||unwrittenfront.com^
+||unwrqbskzhhpi.online^
 ||unwrycert.qpon^
 ||unwwovelionced.cyou^
 ||uo1yblpu9gckyuj5og9hp3ff9xmo.cfd^
@@ -55407,6 +55412,7 @@ browsershots.org#@#.advert_area
 ||vjlckfkbcuswo.site^
 ||vjlocpypzmhzr.website^
 ||vjmwnvteuhwhe.website^
+||vjnecgxhugnqt.online^
 ||vjpraiveafxow.space^
 ||vjqefkvhrjyor.store^
 ||vjrfsrpvnznto.site^
