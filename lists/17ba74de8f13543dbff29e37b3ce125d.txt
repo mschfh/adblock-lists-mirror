@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607132155
+! Version: 202607132210
 ! Title: EasyList
-! Last modified: 13 Jul 2026 21:55 UTC
+! Last modified: 13 Jul 2026 22:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 44b36bf230f4ba550a6f1370b2c8a92fa9d9d2c6
+! Commit: 41854d84904945fd3ad0279f925bcae165151d40
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24185,6 +24185,7 @@ browsershots.org#@#.advert_area
 ||crushespileate.cyou^
 ||crushingaspect.pro^
 ||crusileletted.cfd^
+||crusortalmayduke.qpon^
 ||crustdisagreeable.com^
 ||crustedmailbag.qpon^
 ||crutchstubbornultimatum.com^
@@ -27090,6 +27091,7 @@ browsershots.org#@#.advert_area
 ||efcmdpfbepeba.site^
 ||efdgiceidhinekm.com^
 ||efdjphnd.com^
+||efdldoqzzm.com^
 ||efecksoime.cfd^
 ||eff8a530f3.com^
 ||effectivecpmcontent.com^
@@ -28933,6 +28935,7 @@ browsershots.org#@#.advert_area
 ||fgoqfrzcwdmrh.online^
 ||fgqymntnqmcby.website^
 ||fgqyxgbqfxyot.website^
+||fgsildmh.com^
 ||fgsuxvboquxjg.website^
 ||fgtpvheoxosfk.site^
 ||fgxllefnphgtu.site^
@@ -53829,6 +53832,7 @@ browsershots.org#@#.advert_area
 ||uglytraining.com^
 ||ugmhqqlicdaqg.online^
 ||ugmkqqvmfcylp.website^
+||ugmmmbheyvcih.space^
 ||ugmqisybzpplo.space^
 ||ugnyuemxxrdsv.site^
 ||ugqpgweplprjq.website^
