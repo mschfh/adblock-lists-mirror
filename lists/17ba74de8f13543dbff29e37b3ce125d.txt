@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607131652
+! Version: 202607131724
 ! Title: EasyList
-! Last modified: 13 Jul 2026 16:52 UTC
+! Last modified: 13 Jul 2026 17:24 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8f824caca36871108198804311291f17cde71587
+! Commit: 82f9c92f67ad11df1b94a9cb200dbbf181fa37b2
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18720,6 +18720,7 @@ browsershots.org#@#.advert_area
 ||antoiew.com^
 ||antonythwartlead.com^
 ||antresboing.qpon^
+||antrumshoboe.cfd^
 ||antsstudio.world^
 ||anubinwofully.cyou^
 ||anunqsghebpjy.store^
@@ -24227,6 +24228,7 @@ browsershots.org#@#.advert_area
 ||csxbezadpeazu.site^
 ||csxqqewstnvup.com^
 ||ct11.biz^
+||ctailhmpxgzlr.online^
 ||ctasnet.com^
 ||ctbfleegqpvkx.online^
 ||ctbucqcndifdt.online^
@@ -24514,6 +24516,7 @@ browsershots.org#@#.advert_area
 ||cycrtitiqxykp.space^
 ||cycuratedhi.com^
 ||cydoniacavorts.qpon^
+||cydonialah.qpon^
 ||cydontopply.shop^
 ||cyeitxjzgsmef.online^
 ||cyfiaeojxyrsu.space^
@@ -24656,6 +24659,7 @@ browsershots.org#@#.advert_area
 ||daftarfilles.shop^
 ||daggersaimore.cfd^
 ||dagglespirates.qpon^
+||dagglybung.qpon^
 ||dagheshweaselsbelcher.cyou^
 ||dagnar.com^
 ||dagobacotland.cyou^
@@ -25233,6 +25237,7 @@ browsershots.org#@#.advert_area
 ||desposeatheistaccused.qpon^
 ||despoteavesdropblazing.com^
 ||dessacheysa.com^
+||dessdzeren.cfd^
 ||dessly.ru^
 ||destinynisan.qpon^
 ||destroyedspear.com^
@@ -25328,6 +25333,7 @@ browsershots.org#@#.advert_area
 ||dgdzhsuqzpjed.website^
 ||dgfsajonlckrp.store^
 ||dggazqmcpmtwc.website^
+||dghrvnqutzcim.site^
 ||dgmaubdjrranx.site^
 ||dgmmntcknzljy.space^
 ||dgnrkluiozosx.online^
@@ -26138,6 +26144,7 @@ browsershots.org#@#.advert_area
 ||dressedoutrageousrun.com^
 ||dressfatiguethrow.com^
 ||dressingcomplete.com^
+||drewteemful.cyou^
 ||dreycusps.com^
 ||dreyeli.info^
 ||drfpywclmelnd.site^
@@ -26179,6 +26186,7 @@ browsershots.org#@#.advert_area
 ||droppingbowmemorandum.com^
 ||droppinglevelspacious.com^
 ||droptescolar.shop^
+||drossedruffledvalois.cyou^
 ||drossesareca.com^
 ||drossesgonidbenches.cfd^
 ||drossswish.cfd^
@@ -29244,6 +29252,7 @@ browsershots.org#@#.advert_area
 ||fleraprt.com^
 ||fleshlymaslin.qpon^
 ||fletchmoirberwick.cyou^
+||fleurypungy.cyou^
 ||flexlinks.com^
 ||fleysingers.cfd^
 ||flfazfrdjpntc.website^
@@ -34237,6 +34246,7 @@ browsershots.org#@#.advert_area
 ||interbasewhirlwindwalrus.com^
 ||interceptfarrierreap.com^
 ||interclics.com^
+||interdependentvaluable.com^
 ||interestphysics.com^
 ||interestspawnmulticultural.com^
 ||interesttingg.com^
@@ -36227,6 +36237,7 @@ browsershots.org#@#.advert_area
 ||kilotows.cfd^
 ||kiltyfarris.qpon^
 ||kimberlite.io^
+||kimmorisked.cfd^
 ||kimnelpinkeys.cyou^
 ||kinbootchatons.qpon^
 ||kind-credit.com^
@@ -37597,6 +37608,7 @@ browsershots.org#@#.advert_area
 ||liquidateneville.com^
 ||liquiddopersmakale.cfd^
 ||liquidfire.mobi^
+||liquidwaiters.cfd^
 ||liquorssquab.com^
 ||liquoryinearth.cfd^
 ||lirdawkin.com^
@@ -37728,6 +37740,7 @@ browsershots.org#@#.advert_area
 ||lldurjwqquqbk.site^
 ||lldxpwcrun.com^
 ||lleana.com^
+||lleusudoral.shop^
 ||llfmhykgqdue.com^
 ||llfpaondsunun.site^
 ||llfvusbsdffxr.website^
@@ -42615,6 +42628,7 @@ browsershots.org#@#.advert_area
 ||orientationcutlet.com^
 ||orientscoigne.shop^
 ||orientsweptautopsy.com^
+||origanhunyak.cyou^
 ||origin1266.fun^
 ||origin8888.com^
 ||origintube.com^
@@ -45355,6 +45369,7 @@ browsershots.org#@#.advert_area
 ||punchpantherwhip.com^
 ||punctuationbandycontradict.com^
 ||pungent-care.com^
+||pungenttonight.com^
 ||pungledtuno.qpon^
 ||punglehoist.shop^
 ||punicinbumelia.com^
@@ -49526,6 +49541,7 @@ browsershots.org#@#.advert_area
 ||silentvalleyhill.com^
 ||silenuspsis.cyou^
 ||silesiadeuces.com^
+||siliceagrane.shop^
 ||silklanguish.com^
 ||silkrolesilicin.cyou^
 ||sillaltica.cyou^
@@ -53837,6 +53853,7 @@ browsershots.org#@#.advert_area
 ||uizhndydahcum.online^
 ||uizjfyakmsawn.site^
 ||uizrqsrizjwfe.store^
+||ujbsxfnou.com^
 ||ujdsaljmviudi.space^
 ||ujdtnsgiagbxx.click^
 ||ujdvvfrqujgfl.space^
