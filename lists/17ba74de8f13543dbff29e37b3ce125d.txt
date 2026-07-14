@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607141533
+! Version: 202607141625
 ! Title: EasyList
-! Last modified: 14 Jul 2026 15:33 UTC
+! Last modified: 14 Jul 2026 16:25 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 64ab77a1ba107b1e6c41521294ec3340aef155e8
+! Commit: 7ebc8c04fa6627eaefa6dcce27cf311792cdd089
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -40110,6 +40110,7 @@ browsershots.org#@#.advert_area
 ||mrcuqjfaneqvv.space^
 ||mrdmca.com^
 ||mrdmjqbjgty.com^
+||mrdobbjlssee.com^
 ||mrdxkdkoqv.com^
 ||mrdzuibek.com^
 ||mrebfofligkfs.site^
@@ -40664,6 +40665,7 @@ browsershots.org#@#.advert_area
 ||nativesprivately.com^
 ||nativessupervisor.com^
 ||nativevegetablesentered.com^
+||natpeiezp.com^
 ||natprb.ru^
 ||natqurshes.shop^
 ||natqzyaatmnga.store^
@@ -42809,6 +42811,7 @@ browsershots.org#@#.advert_area
 ||orientationcutlet.com^
 ||orientscoigne.shop^
 ||orientsweptautopsy.com^
+||orificeairthresinic.cyou^
 ||origanhunyak.cyou^
 ||origin1266.fun^
 ||origin8888.com^
@@ -43257,6 +43260,7 @@ browsershots.org#@#.advert_area
 ||ozmafxvzuv.in^
 ||ozmbrfwzfreie.space^
 ||ozmmzgezcybxp.website^
+||oznggpyfrnnso.space^
 ||ozonateplock.qpon^
 ||ozonemedia.com^
 ||ozonicarboret.qpon^
@@ -44910,6 +44914,7 @@ browsershots.org#@#.advert_area
 ||pqexpfqppdfqe.site^
 ||pqfdfzjajlqhk.website^
 ||pqixbnllqzmfp.space^
+||pqkgglsxdovex.website^
 ||pqlrfrtotmzpt.website^
 ||pqluujnrudl.com^
 ||pqmv5xir9y5zb6h.rest^
@@ -46376,6 +46381,7 @@ browsershots.org#@#.advert_area
 ||qtrqasyavyzcx.online^
 ||qtslcoufpilnd.com^
 ||qtutulebptizh.website^
+||qtyjaeozpufux.online^
 ||qtyjvrosgqwsq.online^
 ||quachilratingspsoroid.cfd^
 ||quachilsidder.shop^
@@ -46626,6 +46632,7 @@ browsershots.org#@#.advert_area
 ||qzizvxzcdvxnd.website^
 ||qzjcjpugwmdda.site^
 ||qzogulnggdfsi.online^
+||qzonbrrnisqql.space^
 ||qzoxaijuvxzwv.online^
 ||qzpifnofrtvrd.store^
 ||qzpnlrckbpcwe.online^
@@ -47020,6 +47027,7 @@ browsershots.org#@#.advert_area
 ||rearrangecomecosy.com^
 ||rearrangesubsequentlyloosen.com^
 ||reasonable-bet.com^
+||reasonable-satisfaction.pro^
 ||reasonable-source.com^
 ||reasonable-track.pro^
 ||reasoningcarry.com^
@@ -47916,6 +47924,7 @@ browsershots.org#@#.advert_area
 ||rlovygavhheuf.com^
 ||rlrsfxkewwgww.site^
 ||rlsnntgffqnli.online^
+||rlsuohvbqvbxa.space^
 ||rltovwwkqqxbd.space^
 ||rludahcaewkfd.online^
 ||rluhlgvsxabon.online^
