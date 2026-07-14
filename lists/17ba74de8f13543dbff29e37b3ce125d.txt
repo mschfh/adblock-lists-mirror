@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607141804
+! Version: 202607141827
 ! Title: EasyList
-! Last modified: 14 Jul 2026 18:04 UTC
+! Last modified: 14 Jul 2026 18:27 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 73ba8a958fea3991d4301d303446c8c4193a5171
+! Commit: 12c300bc5bca1156cbae61a7bf8489b70afa2661
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20424,6 +20424,7 @@ browsershots.org#@#.advert_area
 ||betimbur.com^
 ||betmasquerainchan.com^
 ||betmenaff.com^
+||betmhlyylvcvuof.com^
 ||betotodilea.com^
 ||betowelpandits.cyou^
 ||betr-for-tod.com^
@@ -30417,6 +30418,7 @@ browsershots.org#@#.advert_area
 ||garbagefit.com^
 ||garbagepictish.cyou^
 ||garbageshallotsnowiness.com^
+||garbntspicer.cyou^
 ||garbsbasics.cyou^
 ||garconleak.com^
 ||garconmervnace.cyou^
@@ -46057,6 +46059,7 @@ browsershots.org#@#.advert_area
 ||qgvbpbsqdxnni.store^
 ||qgvjykjmhtnxz.store^
 ||qgvnjatloknbl.store^
+||qgwi829h4bupn2.rest^
 ||qgwyazvkzafrh.website^
 ||qgxbluhsgad.com^
 ||qgxdgxsrfxyyy.online^
@@ -57247,6 +57250,7 @@ browsershots.org#@#.advert_area
 ||wndfziyuixzzr.site^
 ||wnedandlookedv.org^
 ||wneecilp.net^
+||wneprfkzrpnfs.space^
 ||wngegvxrgpsvm.site^
 ||wngphwgajdaek.space^
 ||wngtyiufnsuhp.online^
@@ -58383,6 +58387,7 @@ browsershots.org#@#.advert_area
 ||xvcefcdyvbyyx.website^
 ||xvcwbxjzdecpi.store^
 ||xvegvlkqovqqr.online^
+||xvenqhybvuwqw.online^
 ||xvfarnkhampqi.space^
 ||xvfihpbojtftl.website^
 ||xviggvimgldin.website^
