@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607151101
+! Version: 202607151203
 ! Title: EasyList
-! Last modified: 15 Jul 2026 11:01 UTC
+! Last modified: 15 Jul 2026 12:03 UTC
 ! Expires: 4 days (update frequency)
-! Commit: fac760ae4fe4824800056b0c9d525e54254098bd
+! Commit: e5aa8c0210509d5d3f097588b82861d2454dc888
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -29028,6 +29028,7 @@ browsershots.org#@#.advert_area
 ||ffdlzdsluvwjn.online^
 ||fff3cd7d36.com^
 ||ffguuahiakcxd.online^
+||ffhkeevfzibsq.website^
 ||ffhuaiwestbtl.site^
 ||ffjrpdfduteic.website^
 ||ffjzmuwqcpdsq.online^
@@ -29340,6 +29341,7 @@ browsershots.org#@#.advert_area
 ||fkyelofoqnndn.space^
 ||fkysfnkphrljo.site^
 ||fkzcrofqtjawk.space^
+||flabileamber.qpon^
 ||flaconshe.qpon^
 ||flagads.net^
 ||flaggynasi.com^
@@ -29620,6 +29622,7 @@ browsershots.org#@#.advert_area
 ||foghug.site^
 ||fogramcheersdecenyl.cyou^
 ||fogvnoq.com^
+||fogxtahbqavpo.website^
 ||fogydomhariana.cfd^
 ||fohshxrgpzlkj.site^
 ||foicuoxmzjthm.site^
@@ -33718,6 +33721,7 @@ browsershots.org#@#.advert_area
 ||idolizedestimate.pro^
 ||idpgakrenkmki.store^
 ||idpvgjtqaiygt.space^
+||idqeknhxvricy.website^
 ||idqmcmowhjmps.website^
 ||idqodpsjvxftt.online^
 ||idqxcpofspalj.space^
@@ -33900,6 +33904,7 @@ browsershots.org#@#.advert_area
 ||ikhgxaeobmbb.com^
 ||ikikigxywqcrf.site^
 ||ikkakvnicwguw.store^
+||ikndbndvadnuh.website^
 ||ikonsripcordslice.qpon^
 ||ikqtzvhuhddod.online^
 ||ikquaycaaygib.space^
@@ -36242,6 +36247,7 @@ browsershots.org#@#.advert_area
 ||kdhwaqcwpqvwo.website^
 ||kdisbgxtxiyru.online^
 ||kdkpsqklemvnu.site^
+||kdlgoaounowvi.online^
 ||kdluiznnaekvy.space^
 ||kdlzhlzdielmy.site^
 ||kdmizytjznodo.online^
@@ -42238,6 +42244,7 @@ browsershots.org#@#.advert_area
 ||odewjqygsvtnhhl.com^
 ||odeybruslekoq.website^
 ||odfuwbdguqkrj.site^
+||odgljbx.com^
 ||odgmxwepbbfwe.online^
 ||odgsaxlabmvgi.online^
 ||odhdnbucgpwly.website^
@@ -46818,6 +46825,7 @@ browsershots.org#@#.advert_area
 ||r63engo6xw8jtkpze.cfd^
 ||r66net.com^
 ||r66net.net^
+||r6883e4wqhecxtjx2u.cfd^
 ||r6h2ww744xk62t7.cfd^
 ||r7q58o51bl9lwkertbpurn78fjri.rest^
 ||r8bz.com^
@@ -49968,6 +49976,7 @@ browsershots.org#@#.advert_area
 ||silverwhitebirds.co^
 ||silylcanhoop.cfd^
 ||simardj.qpon^
+||simbaresumeangered.cfd^
 ||simblumpunter.shop^
 ||simdzjrftxwvf.site^
 ||simhtgguozodp.online^
@@ -58718,6 +58727,7 @@ browsershots.org#@#.advert_area
 ||xzzoiprvfobyw.space^
 ||y1jxiqds7v.com^
 ||y1zoxngxp.com^
+||y2ccezxjrfzb1fz6qok4fh7t6z.rest^
 ||y2ehvxgs.xyz^
 ||y2j5emrkfrm9htbouguh.cfd^
 ||y2mmqm12x629ok.cfd^
@@ -76461,6 +76471,7 @@ opensubtitles.org##a[target="_blank"][href^="https://www.amazon.com/gp/search"]
 classicstoday.com##a[target="_blank"][rel="noopener"] > img
 megaplay.cc,wiztube.xyz##a[title="Free money easy"]
 kroger.com##a[title^="Advertisement:"]
+thisismoney.co.uk##ad-slot
 rottentomatoes.com##ad-unit
 cryptodaily.co.uk##advert
 cooljugator.com##amp-auto-ads
