@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607151203
+! Version: 202607151237
 ! Title: EasyList
-! Last modified: 15 Jul 2026 12:03 UTC
+! Last modified: 15 Jul 2026 12:37 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e5aa8c0210509d5d3f097588b82861d2454dc888
+! Commit: e01a5b533eb83da98aa38035ebddfff0152fd328
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -36357,6 +36357,7 @@ browsershots.org#@#.advert_area
 ||kfbjqsqbvnmrj.site^
 ||kfeiovrksdezl.online^
 ||kfesqxzagfxgr.online^
+||kfiqxtcuthefp.online^
 ||kfjhd.com^
 ||kfjwapsftuxtw.online^
 ||kfkewuaghmbfm.website^
@@ -36561,6 +36562,7 @@ browsershots.org#@#.advert_area
 ||kjgnidnhlxugm.icu^
 ||kjhlxuvkdqteb.website^
 ||kjhyxdphquxwd.website^
+||kjidqqdsliqyh.site^
 ||kjjzj4c9kx8phini.cfd^
 ||kjk9m7x4yngol85h4.cfd^
 ||kjljrwoibgbso.site^
@@ -40196,6 +40198,7 @@ browsershots.org#@#.advert_area
 ||mpocadpbnevwa.site^
 ||mppiorwmiggdo.space^
 ||mpqemzwqwsfhg.online^
+||mprrahadtzdct.space^
 ||mprsxxhbdhewe.online^
 ||mprxyititjxbb.online^
 ||mpsfwrurozogw.space^
@@ -43478,6 +43481,7 @@ browsershots.org#@#.advert_area
 ||padskis.com^
 ||padslims.com^
 ||padspms.com^
+||padxuflmisux.com^
 ||paeastei.net^
 ||paehakooyuygo.website^
 ||paehceman.com^
