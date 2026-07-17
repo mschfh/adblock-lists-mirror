@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607171847
+! Version: 202607171922
 ! Title: EasyList
-! Last modified: 17 Jul 2026 18:47 UTC
+! Last modified: 17 Jul 2026 19:22 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e02645ca25f1def601dc56e91768f3915083283a
+! Commit: 6e17d407f59960bf463b734d1923fc4f25255fdb
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -39223,6 +39223,7 @@ browsershots.org#@#.advert_area
 ||mapcawing.com^
 ||mapdevelopcleverness.com^
 ||maper.info^
+||mappenbastesoutlain.cfd^
 ||maprajna.cyou^
 ||mapwisemulder.qpon^
 ||mapxdidwwp.com^
@@ -42851,6 +42852,7 @@ browsershots.org#@#.advert_area
 ||okcfdzfqcdemc.website^
 ||okdcrqtemifgo.online^
 ||okdigital.me^
+||okdqnljk.com^
 ||okeebobbedancre.cyou^
 ||okeezyxflelvs.website^
 ||okhzwjshcpqjz.site^
@@ -50528,6 +50530,7 @@ browsershots.org#@#.advert_area
 ||sjambokcursesramex.qpon^
 ||sjbnwzwwmcubf.site^
 ||sjbtqzptourxf.online^
+||sjdkqtmogbnhq.website^
 ||sjeiqeuhroksi.site^
 ||sjfyupmvpazsj.store^
 ||sjgvokmmsgudn.space^
@@ -52736,6 +52739,7 @@ browsershots.org#@#.advert_area
 ||taypwqoprmcap.space^
 ||tazlo.cloud^
 ||tb6ugk975vxc74xg3pxq6ett3qklnh.cfd^
+||tbaiatgrlgsdf.space^
 ||tbavixmkrnspx.space^
 ||tbcwxfln.com^
 ||tbdhrjsywgjcq.tech^
