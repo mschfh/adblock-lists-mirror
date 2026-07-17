@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M04aYAxk60O56sAmiz+Ijg
-! Version: 202607170641
+! Checksum: 5GnMV6rW93Ym4zWusDsoSQ
+! Version: 202607170741
 ! Title: Liste AR
-! Last modified: 17 Jul 2026 06:41 UTC
+! Last modified: 17 Jul 2026 07:41 UTC
 ! Expires: 1 days (fréquence des mises à jour automatiques)
 ! Homepage: https://code.google.com/p/liste-ar-adblock/
 !
