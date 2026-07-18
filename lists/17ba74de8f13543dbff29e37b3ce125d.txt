@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607181659
+! Version: 202607181726
 ! Title: EasyList
-! Last modified: 18 Jul 2026 16:59 UTC
+! Last modified: 18 Jul 2026 17:26 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4f0fc11b043b7db325538c06f300a140c8fe61a0
+! Commit: df648205695263286f7f8663fa3b526e94e6e1d6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18012,6 +18012,7 @@ browsershots.org#@#.advert_area
 ||afretecaukpaynize.cyou^
 ||afrfusutkldst.website^
 ||africawin.com^
+||afshahkolobia.qpon^
 ||aftbogardaerobus.qpon^
 ||afterdownload.com^
 ||afterdownloads.com^
@@ -19185,6 +19186,7 @@ browsershots.org#@#.advert_area
 ||asce.xyz^
 ||asceireiymnfd.website^
 ||ascellaredries.com^
+||ascendeummedia.com^
 ||ascentlitigateunsaved.com^
 ||ascertainowlbookkeeper.com^
 ||ascidiaoffbeat.cyou^
@@ -21139,6 +21141,7 @@ browsershots.org#@#.advert_area
 ||bnwqxlwbfyeho.online^
 ||bnynihjbciywe.online^
 ||boannre.com^
+||boarchoribi.qpon^
 ||boarderoomph.cyou^
 ||boardingstocking.com^
 ||boarishshreddy.qpon^
@@ -29602,6 +29605,7 @@ browsershots.org#@#.advert_area
 ||flamesgleamed.com^
 ||flamingloweredchuckled.com^
 ||flammedpairing.qpon^
+||flandantardive.cyou^
 ||flanfogger.shop^
 ||flangediscern.cfd^
 ||flangrowler.shop^
@@ -37991,6 +37995,7 @@ browsershots.org#@#.advert_area
 ||letmetralala.com^
 ||letminimalvacancy.com^
 ||lettermechanism.com^
+||letternrede.cfd^
 ||letterrecoveryunplanted.com^
 ||letterwolves.com^
 ||lettileroute.com^
@@ -42018,6 +42023,7 @@ browsershots.org#@#.advert_area
 ||noolt.com^
 ||nooseamazingbatch.com^
 ||noosebanghad.com^
+||nooserssnowsaggry.cyou^
 ||nopalsabend.cfd^
 ||nope.xn--mgbkt9eckr.net^
 ||nope.xn--ygba1c.wtf^
@@ -44858,6 +44864,7 @@ browsershots.org#@#.advert_area
 ||pierrotbids.cfd^
 ||piesdewatatalukas.qpon^
 ||piestprevot.com^
+||pietismfinland.cyou^
 ||pietlbnwfvnge.space^
 ||pietosoappend.cfd^
 ||pievsejhampai.online^
@@ -47531,6 +47538,7 @@ browsershots.org#@#.advert_area
 ||rammibielby.cyou^
 ||rammishruinous.com^
 ||ramonaungrain.cfd^
+||rampikeroseine.cyou^
 ||ramplorskyugle.shop^
 ||ramppopulateresponse.com^
 ||rampsmeow.cyou^
@@ -48156,6 +48164,7 @@ browsershots.org#@#.advert_area
 ||repetitiousfontmonopoly.com^
 ||repipequiapojibbed.cyou^
 ||repiquebangingunrein.qpon^
+||repiquebushlet.cyou^
 ||replacementgoodwilljunkie.com^
 ||replatesmallen.cfd^
 ||replayflutter.cfd^
@@ -48428,6 +48437,7 @@ browsershots.org#@#.advert_area
 ||rhclcbvwtdvfa.com^
 ||rhcvbndidmyqt.site^
 ||rheebokparlor.cfd^
+||rheinicanna.qpon^
 ||rheneapfg.com^
 ||rheniumtania.qpon^
 ||rheofepltxbqt.space^
@@ -53025,6 +53035,7 @@ browsershots.org#@#.advert_area
 ||teasemilesnewlywed.com^
 ||teaserresshot.cfd^
 ||teaspoonwrenpursue.com^
+||teatheserest.shop^
 ||tebahqhzjdcom.online^
 ||techilymuskish.qpon^
 ||techiteration.com^
@@ -57466,6 +57477,7 @@ browsershots.org#@#.advert_area
 ||wbiskyenhrwvx.website^
 ||wbjolcnlghzac.space^
 ||wbkcxsdbchyrj.website^
+||wbljzsmbznqon.website^
 ||wblkp4ae.xyz^
 ||wblrrwegleepo.website^
 ||wbmuakyzdpylq.website^
@@ -58158,6 +58170,7 @@ browsershots.org#@#.advert_area
 ||wktcwjlzpeicg.website^
 ||wktowncuthsvf.site^
 ||wkwdmllrmscgp.space^
+||wkwhpevekhfpz.website^
 ||wkxvopwtaykla.website^
 ||wkxypxkzntijg.site^
 ||wkyckafny.com^
