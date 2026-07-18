@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607181623
+! Version: 202607181659
 ! Title: EasyList
-! Last modified: 18 Jul 2026 16:23 UTC
+! Last modified: 18 Jul 2026 16:59 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0a9463e37753f7ae3de8a1edb343b1f64889236f
+! Commit: 4f0fc11b043b7db325538c06f300a140c8fe61a0
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -45510,6 +45510,7 @@ browsershots.org#@#.advert_area
 ||possibilityfoundationwallpaper.com^
 ||possibilityteddefensive.com^
 ||possiblefinish.pro^
+||possyacetals.shop^
 ||postagepantsthereupon.com^
 ||postalmapquell.com^
 ||postaoz.xyz^
@@ -55885,6 +55886,7 @@ browsershots.org#@#.advert_area
 ||uvtbimseazfye.site^
 ||uvtwcxrwiibvy.online^
 ||uvvhimqchjcvq.site^
+||uvwazabyjyxok.site^
 ||uvzh-defender.pro^
 ||uwahagoyvuccd.website^
 ||uwauarphjaflw.website^
@@ -56195,6 +56197,7 @@ browsershots.org#@#.advert_area
 ||vdbbiwvxvhzdt.online^
 ||vdbedxruxhcdm.website^
 ||vddf0.club^
+||vddyzfppyyftn.space^
 ||vdeukmyunderthfe.org^
 ||vdeztemladdeb.online^
 ||vdfexpilffejp.space^
@@ -57166,6 +57169,7 @@ browsershots.org#@#.advert_area
 ||vzehfskbmvovl.online^
 ||vzelfwoauitxe.space^
 ||vzhdsjjfnuquz.online^
+||vzhewqnhwcdsx.site^
 ||vzigttqgqx.com^
 ||vziqnyxzutqmf.space^
 ||vziuzekjhmtht.space^
