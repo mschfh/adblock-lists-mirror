@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607181526
+! Version: 202607181552
 ! Title: EasyList
-! Last modified: 18 Jul 2026 15:26 UTC
+! Last modified: 18 Jul 2026 15:52 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5936be584ec2ff8b79f33bf6efa88f098b1aaedc
+! Commit: 86e21639d13c9beede1a892188600449470f7517
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31963,6 +31963,7 @@ browsershots.org#@#.advert_area
 ||grwyrdjxutdgx.website^
 ||grxaoaohvhegy.space^
 ||gryrobvvwvzvv.site^
+||grywuttsejdjoe.com^
 ||gsbnuvaygaavz.online^
 ||gsbskecojgcwm.website^
 ||gscftqryahymh.space^
@@ -52923,6 +52924,7 @@ browsershots.org#@#.advert_area
 ||tautingtortes.com^
 ||tautogwhileengruidae.cfd^
 ||tauypraxyreu.com^
+||tavgvouyakozy.website^
 ||tavlomikyionr.website^
 ||tavryuhcshdsr.website^
 ||tawersmylodonvoulge.qpon^
@@ -54638,6 +54640,7 @@ browsershots.org#@#.advert_area
 ||twrmnd.com^
 ||twsfwdhpqv.com^
 ||twspfzmzxlcyp.website^
+||twsvdeyqvfxjd.website^
 ||twvgoaewdmluf.online^
 ||twwarolhgextk.online^
 ||twwbgrbfuezvu.site^
@@ -55740,6 +55743,7 @@ browsershots.org#@#.advert_area
 ||usationguggles.qpon^
 ||usauncebogtrot.cfd^
 ||usavmhnwphcmm.online^
+||usbnzhjsbhjfm.website^
 ||usbrowserspeed.com^
 ||uscahcjmcjyuj.space^
 ||used-association.com^
