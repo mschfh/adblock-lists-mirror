@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607191423
+! Version: 202607191449
 ! Title: EasyList
-! Last modified: 19 Jul 2026 14:23 UTC
+! Last modified: 19 Jul 2026 14:49 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 9c110a130a54153dc6ac6d5c82be0995eea41aec
+! Commit: ca7dddb695eab7dfd896226ad1233905966cb886
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -28563,6 +28563,7 @@ browsershots.org#@#.advert_area
 ||evilpdntjmjyq.space^
 ||evilstrike.pro^
 ||evisitedlr.shop^
+||evjqbetgfrymz.com^
 ||evkjlmtnqwwcu.space^
 ||evmdamxavzsgk.website^
 ||evmyclkocfcnr.space^
@@ -32214,6 +32215,7 @@ browsershots.org#@#.advert_area
 ||guyoetiepwijy.online^
 ||guzzlealibied.cyou^
 ||gvdjmcztiqwhw.website^
+||gvdktbtaqjiod.site^
 ||gvdxudyoswyfp.online^
 ||gvebfzopfpezm.website^
 ||gvfbasfpatxkw.site^
@@ -37675,6 +37677,7 @@ browsershots.org#@#.advert_area
 ||labeldollars.com^
 ||labiosegaslit.shop^
 ||labioserelicti.cyou^
+||laboredbraches.shop^
 ||labourerardent.com^
 ||labourprincessmeek.com^
 ||labqjxrhyjufl.world^
@@ -40272,6 +40275,7 @@ browsershots.org#@#.advert_area
 ||mixtureprerogativesnail.com^
 ||miyhpginqwjrx.website^
 ||miyubhvqxopdx.store^
+||mizckufx.com^
 ||mizewhort.cfd^
 ||mizfdyhwsrqct.site^
 ||mizrachpyrites.qpon^
@@ -48985,6 +48989,7 @@ browsershots.org#@#.advert_area
 ||robotbagpipe.com^
 ||robsnaid.qpon^
 ||robspabah.com^
+||robust-sail.pro^
 ||robustpsychology.com^
 ||rocbocmewykty.online^
 ||rochetscogware.qpon^
@@ -56108,6 +56113,7 @@ browsershots.org#@#.advert_area
 ||uvkqyxjdiswkt.site^
 ||uvlunsdvgnvtx.site^
 ||uvnfhfxirflbd.site^
+||uvnyllktvoerc.space^
 ||uvopoefe.com^
 ||uvpcsohrnfxqk.site^
 ||uvpwmzjuncdty.space^
