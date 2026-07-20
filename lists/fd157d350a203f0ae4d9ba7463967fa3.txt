@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: j8uV4I33Ubu/Qkv8Ad319w
-! Version: 202607200912
+! Checksum: aEeqBTqoMd+wpUMtHvg+ag
+! Version: 202607201022
 ! Title: RU, UA, UZ, KZ
-! Last modified: 20 Jul 2026 09:12 UTC
+! Last modified: 20 Jul 2026 10:22 UTC
 ! Expires: 1 days (фильтр обновляется автоматически каждые 2 дня)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
@@ -1127,7 +1127,6 @@ by,~mail.ru,ru,ua##.banner_box
 ##[data-link*="://ubar-pro"]
 ##[data-membrana-container]
 ##[data-src^="https://news.te.ua/widget/"]
-link##[data-testid="player-title"] p.typography
 ##[data-url*="://installpack.net"]
 ##[href*=".drp.su/"]
 ##[href*="//loadbrowser.ru/"]
@@ -17485,6 +17484,8 @@ dotaguide.ru##[href*="://dotaguide.ru/go/"]
 kg.ua##[href*="://flaerok.ua"]
 anistar.org,astar.bz,online-star.org,online-stars.org##[href*="://r.advg.agency/"]
 ogemorroe.com##[href*="=ogemorroe.com"]
+vk.com,vk.ru##[href*="?erid="][target="_blank"]
+vk.com,vk.ru##[href*="Ferid%"][target="_blank"]
 local.com.ua##[href*="local.com.ua/banner"]
 tnt-premier.life##[href*="mclk.ru"]
 podelki-doma.ru##[href*="ohnet.ru"]
