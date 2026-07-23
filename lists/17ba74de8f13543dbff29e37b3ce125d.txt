@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607231636
+! Version: 202607231732
 ! Title: EasyList
-! Last modified: 23 Jul 2026 16:36 UTC
+! Last modified: 23 Jul 2026 17:32 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d18578e5c070b9995392cf6c2246d4dca32cbc58
+! Commit: c8f31540dba2860c7f9acec7daee4ab6b91ca2f5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18548,6 +18548,7 @@ browsershots.org#@#.advert_area
 ||allxgwgogikhd.site^
 ||allyes.com^
 ||allytextlore.qpon^
+||almagracockles.cyou^
 ||almasatten.com^
 ||almightypush.com^
 ||almiqueleeful.qpon^
@@ -20516,6 +20517,7 @@ browsershots.org#@#.advert_area
 ||beltcological.com^
 ||beltenefloit.com^
 ||beludicolor.com^
+||belutejapepluton.cfd^
 ||bemataqintar.shop^
 ||bemixdare.qpon^
 ||bemoatenform.qpon^
@@ -21518,6 +21520,7 @@ browsershots.org#@#.advert_area
 ||bouquetcremorifreal.cyou^
 ||bouquetdaft.com^
 ||bourdmoderne.cyou^
+||bourlawaztecan.shop^
 ||bournedisced.cyou^
 ||bourrepardale.com^
 ||boustahe.com^
@@ -22930,6 +22933,7 @@ browsershots.org#@#.advert_area
 ||centeredphosphate.com^
 ||centimetrebracketasperity.com^
 ||centorodge.cyou^
+||centrahandgun.cfd^
 ||centralindriver.net^
 ||centralnervous.net^
 ||centrastarkenmigrant.cfd^
@@ -23343,6 +23347,7 @@ browsershots.org#@#.advert_area
 ||circuserratumgumboil.cyou^
 ||cirogpnymaqkf.space^
 ||ciruelabedot.cfd^
+||ciruelawhyo.cfd^
 ||cirxvsmcc.com^
 ||ciscoesfirring.guru^
 ||ciscrdwaxhbsh.site^
@@ -26177,6 +26182,7 @@ browsershots.org#@#.advert_area
 ||dismawgassynascan.cyou^
 ||dismisscomplicatedfoolproof.com^
 ||dismissportraypioneer.com^
+||disnestfolly.cyou^
 ||disnfhfwvmuvk.website^
 ||disobeyrecreate.com^
 ||disorderchannel.com^
@@ -28348,6 +28354,7 @@ browsershots.org#@#.advert_area
 ||enticeslabraspails.cfd^
 ||entire-positive.com^
 ||entiremain.com^
+||entitycandide.cyou^
 ||entjgcr.com^
 ||entlyhavebed.org^
 ||entoireboners.qpon^
@@ -32196,6 +32203,7 @@ browsershots.org#@#.advert_area
 ||gragersmourned.qpon^
 ||graianracks.cyou^
 ||grailerfisty.com^
+||grailrank.qpon^
 ||grain2901.com^
 ||graineryttrictunhoof.cfd^
 ||graithexpire.com^
@@ -32546,6 +32554,7 @@ browsershots.org#@#.advert_area
 ||gummypours.cyou^
 ||gumseparately.com^
 ||gumshoetiddler.cyou^
+||gumweedlounger.shop^
 ||gumyfui.com^
 ||gunfireendorse.com^
 ||gunfnjgrzlowz.website^
@@ -35999,6 +36008,7 @@ browsershots.org#@#.advert_area
 ||jambonefenitefrothed.qpon^
 ||jambosmodesty.com^
 ||jamieamban.cfd^
+||jammedgala.cfd^
 ||jamony.xyz^
 ||jampacked-depth.pro^
 ||jampredestination.com^
@@ -41177,6 +41187,7 @@ browsershots.org#@#.advert_area
 ||mononymemeline.cfd^
 ||monopolicycre.org^
 ||monorailnailtributary.com^
+||monoseswy.cyou^
 ||monoticmay.qpon^
 ||monsoonlassi.com^
 ||monsterofnews.com^
@@ -48724,6 +48735,7 @@ browsershots.org#@#.advert_area
 ||realizebutterflyfarfetched.com^
 ||realizerequiredsocially.com^
 ||realizesensitivenessflashlight.com^
+||reallotfarmost.cyou^
 ||reallyduskseventeen.com^
 ||realmatch.com^
 ||realmatchllove.com^
@@ -53076,6 +53088,7 @@ browsershots.org#@#.advert_area
 ||stopinglinene.cyou^
 ||stopingporks.qpon^
 ||stoplouse.com^
+||stoppagebertram.com^
 ||stoppedcrag.com^
 ||stoppedgipsyundoubtedly.com^
 ||stopperbarristerforecast.com^
@@ -58512,6 +58525,7 @@ browsershots.org#@#.advert_area
 ||wahoha.com^
 ||wahooaetherscheatry.cyou^
 ||wahtotten.com^
+||waifedsoco.qpon^
 ||waigaumaphips.net^
 ||waihaistuglo.net^
 ||wailafterthought.com^
@@ -60747,6 +60761,7 @@ browsershots.org#@#.advert_area
 ||xvyaytgqrduup.website^
 ||xvyquolsmlgsf.online^
 ||xw75qgzmq89ytl8x.cfd^
+||xwdsofoflwimy.website^
 ||xweaczbjyftvd.site^
 ||xwfafjiihnpmy.space^
 ||xwgkbcbvjjvxr.website^
@@ -61018,6 +61033,7 @@ browsershots.org#@#.advert_area
 ||yduxbkmeboovj.website^
 ||ydvttbexouul.com^
 ||ydvvzptycptlr.space^
+||ydwpiomnomypc.website^
 ||ydzgtvxtyeqzr.site^
 ||ydzqgmzktvwxu.site^
 ||ydzxqwpzzwmug.website^
@@ -61198,6 +61214,7 @@ browsershots.org#@#.advert_area
 ||yjgkufrdloaih.space^
 ||yjhcwchynwgko.website^
 ||yjiakbkecywgij.com^
+||yjibimcrcylrg.website^
 ||yjiqwytzluwhs.site^
 ||yjjfvcbzbrppe.store^
 ||yjmnlblrazyhi.online^
@@ -61625,6 +61642,7 @@ browsershots.org#@#.advert_area
 ||yuywfjsqyylgb.space^
 ||yuyykdjtkdpat.store^
 ||yuzlikcloset.qpon^
+||yuztrvzsjtfgo.space^
 ||yvcchjdiqzpog.rocks^
 ||yvercbjclvafn.site^
 ||yvipfjvniaonh.space^
@@ -61665,6 +61683,7 @@ browsershots.org#@#.advert_area
 ||ywuwphcithuaj.space^
 ||ywuzuazsjnzto.online^
 ||ywxanyoenzcoo.website^
+||ywygrtyblmaxe.site^
 ||ywzehjepmwcbe.website^
 ||ywzyhljazdsrx.space^
 ||yx-ads6.com^
