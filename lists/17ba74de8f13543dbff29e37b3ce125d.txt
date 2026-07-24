@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607241439
+! Version: 202607241535
 ! Title: EasyList
-! Last modified: 24 Jul 2026 14:39 UTC
+! Last modified: 24 Jul 2026 15:35 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 277973d9b4b13498c2794b82854b2bfadd0add0f
+! Commit: b38d6eb568b86d3f7ea84d47f65ac229df9b4976
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -24500,6 +24500,7 @@ browsershots.org#@#.advert_area
 ||cr08.biz^
 ||cr34qzn92qj644uumvc2u1.cfd^
 ||cr4t11izb8iwl867h.rest^
+||cr92xhpt372ymbu.rest^
 ||crabberunpent.cyou^
 ||crabcoprogramme.com^
 ||crabstuffs.cyou^
@@ -24943,6 +24944,7 @@ browsershots.org#@#.advert_area
 ||curvemodernforester.com^
 ||curversyndetweapon.qpon^
 ||curvy-print.pro^
+||curyingarvernisuints.cyou^
 ||curyrentattri.com^
 ||cushitewelshed.cyou^
 ||cuspaltex.qpon^
@@ -38040,6 +38042,7 @@ browsershots.org#@#.advert_area
 ||kseseemyresum.org^
 ||ksezswovesyyb.online^
 ||ksfndodbfbgof.space^
+||kshqjzgysdqyz.website^
 ||ksiolvcitumph.space^
 ||ksjfhunxtgomv.site^
 ||ksknhvggsizbu.store^
@@ -38053,6 +38056,7 @@ browsershots.org#@#.advert_area
 ||ksswsyafjpdzo.online^
 ||ksuwsvhxfigruwi.com^
 ||ksvnwdhtvndeq.site^
+||ksxdvyyzyswvs.website^
 ||ksxteldtlbtss.website^
 ||kszrmrhuwgrsy.website^
 ||kt2gl4cqj7mj2b9o2b4glj59.cfd^
@@ -39214,6 +39218,7 @@ browsershots.org#@#.advert_area
 ||lleusudoral.shop^
 ||llezkzqtiovyb.website^
 ||llfmhykgqdue.com^
+||llfmxhzzfizze.website^
 ||llfpaondsunun.site^
 ||llfvusbsdffxr.website^
 ||llfyjvskyxnsv.site^
@@ -40386,6 +40391,7 @@ browsershots.org#@#.advert_area
 ||mbdippex.com^
 ||mbdleafdom.cyou^
 ||mbdmildishzontian.cfd^
+||mbgrgkhawfpyo.website^
 ||mbidadm.com^
 ||mbidinp.com^
 ||mbidpsh.com^
@@ -44510,6 +44516,7 @@ browsershots.org#@#.advert_area
 ||oskiwood.com^
 ||osmmdczessxuq.site^
 ||osmohor.shop^
+||osmonduprise.qpon^
 ||osmosisfalerno.com^
 ||osncrdtgymcux.online^
 ||osnmsqbmyk.com^
@@ -45714,6 +45721,7 @@ browsershots.org#@#.advert_area
 ||pg7g59jk25kvtl7l8h.cfd^
 ||pganwasqoeibh.website^
 ||pgc5buffxoxkmqmb.cfd^
+||pgcx8fnjup8yog7lz3zcv.cfd^
 ||pgdudllfjgeyy.online^
 ||pgeevebcbzzcm.site^
 ||pgfnciyodtbsm.store^
@@ -51733,6 +51741,7 @@ browsershots.org#@#.advert_area
 ||shutinggatsby.qpon^
 ||shutloneliness.com^
 ||shutokuhimfagged.cyou^
+||shutterfissile.cyou^
 ||shuttlelikingcabinet.com^
 ||shwiavtsdlrvy.space^
 ||shwnoyrwgmyli.online^
