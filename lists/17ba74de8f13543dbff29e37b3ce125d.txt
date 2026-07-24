@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607241939
+! Version: 202607242056
 ! Title: EasyList
-! Last modified: 24 Jul 2026 19:39 UTC
+! Last modified: 24 Jul 2026 20:56 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8770e1681ee493bdd801aef031f073ec468ba445
+! Commit: 703addf3a201dd1f66d2d109887506ea34c5f522
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -37357,6 +37357,7 @@ browsershots.org#@#.advert_area
 ||kdfjlppcvgbdj.space^
 ||kdhwaqcwpqvwo.website^
 ||kdisbgxtxiyru.online^
+||kdjoidndjhzaf.site^
 ||kdkpsqklemvnu.site^
 ||kdlgoaounowvi.online^
 ||kdluiznnaekvy.space^
@@ -40356,6 +40357,7 @@ browsershots.org#@#.advert_area
 ||mavisespiend.qpon^
 ||mavq.net^
 ||mavrtracktor.com^
+||mawedmufflesceboid.cfd^
 ||mawkybalontilsit.cyou^
 ||mawlaybob.com^
 ||mawrremur.in^
@@ -49737,6 +49739,7 @@ browsershots.org#@#.advert_area
 ||rilsozgcmtyio.online^
 ||rimeethoxyl.com^
 ||rimhysterical.com^
+||rimiertittup.qpon^
 ||riminganousrattons.cyou^
 ||rimousdozenedaxiom.cyou^
 ||rimplereforce.qpon^
