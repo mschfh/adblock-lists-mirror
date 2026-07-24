@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607240940
+! Version: 202607241034
 ! Title: EasyList
-! Last modified: 24 Jul 2026 09:40 UTC
+! Last modified: 24 Jul 2026 10:34 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 986b8dff348c748a18d055f3eef845a44186e83e
+! Commit: 1e2e13ead9f856529b71e1a1a0f6821857d6722d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -18411,6 +18411,7 @@ browsershots.org#@#.advert_area
 ||akvzijadh.com^
 ||akxppoopmal.in^
 ||akydxrphsdaaq.site^
+||akzuhhdexvmnz.website^
 ||al-adtech.com^
 ||al5sm.com^
 ||alabafpyhfmdx.site^
@@ -18430,6 +18431,7 @@ browsershots.org#@#.advert_area
 ||alatedpume.shop^
 ||alawichesty.cfd^
 ||albanyfusilsoryxes.qpon^
+||albarcocorvine.cyou^
 ||albbwlhyjotcs.website^
 ||albiningroup.qpon^
 ||albonsa.com^
@@ -19784,6 +19786,7 @@ browsershots.org#@#.advert_area
 ||awumnf.com^
 ||awvrnescbvwlo.website^
 ||awxdlwbxqjnoi.online^
+||awykdvwxsvxxd.space^
 ||awzpvorsyltel.website^
 ||awzsujaiewjwc.site^
 ||axabpelvjfqav.site^
@@ -21902,6 +21905,7 @@ browsershots.org#@#.advert_area
 ||bsmyaurgljhae.online^
 ||bsnwicychhpjy.website^
 ||bsptcqnovtxdq.site^
+||bsqvmdbkmeyte.website^
 ||bssgnowkrcjpm.online^
 ||bstrvqdwuytk.com^
 ||bsutdqdquzhhq.website^
@@ -50664,6 +50668,7 @@ browsershots.org#@#.advert_area
 ||samentickle.cfd^
 ||samenumber.pro^
 ||samepresume.com^
+||samhainroots.cfd^
 ||samktxppegfqo.website^
 ||samogonkors.cyou^
 ||samohuhondoyez.cyou^
@@ -56436,6 +56441,7 @@ browsershots.org#@#.advert_area
 ||ulkfvwizkfbml.site^
 ||ulljqegjdoqmt.store^
 ||ullmqufjprrcd.space^
+||ullrqcoqifslu.space^
 ||ulmatehalmmiae.cyou^
 ||ulmoyc.com^
 ||ulmqfhgfjrxbj.site^
@@ -59343,6 +59349,7 @@ browsershots.org#@#.advert_area
 ||whlimyimgudxl.website^
 ||whnlerwojyzhi.space^
 ||whoadhoxtojg.com^
+||whoayawnupspun.cfd^
 ||whobiglauni.net^
 ||whocheeseskg.cyou^
 ||whoeverpensivepaternity.com^
@@ -59915,6 +59922,7 @@ browsershots.org#@#.advert_area
 ||wqbghtlchfeir.online^
 ||wqbuwbiuowblc.store^
 ||wqdipiowksmm.com^
+||wqdkbbkdypdgl.space^
 ||wqefjlpihnnqy.site^
 ||wqfbpdnqrdycx.space^
 ||wqfkxohimhtrj.online^
