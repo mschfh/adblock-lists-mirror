@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607240653
+! Version: 202607240744
 ! Title: EasyList
-! Last modified: 24 Jul 2026 06:53 UTC
+! Last modified: 24 Jul 2026 07:44 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 426f654a2e7f29880fd443b5a740a44edfa805d2
+! Commit: c339532f508a2bf3a645e5f3b17c0cf9ef3e73a5
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -19642,6 +19642,7 @@ browsershots.org#@#.advert_area
 ||auxgkjsoqgzko.space^
 ||auxml.com^
 ||auypgtmvwerhh.store^
+||auyydavghsuox.site^
 ||auzrhbhbylxhy.site^
 ||auztzwjhpjwwm.site^
 ||avads.co.uk^
@@ -25494,6 +25495,7 @@ browsershots.org#@#.advert_area
 ||dearestaccess.pro^
 ||dearestfunny.pro^
 ||deavingstovensecesh.cfd^
+||debbiesmurexacknew.cfd^
 ||debitedillegaljaburan.cyou^
 ||debony.xyz^
 ||debossstompedaceship.cfd^
@@ -28561,6 +28563,7 @@ browsershots.org#@#.advert_area
 ||eqocincfsnhdx.online^
 ||eqpaulxcpirir.site^
 ||eqpmzcorwgnda.store^
+||eqpqaosfx.com^
 ||eqpuvcjjipmjn.space^
 ||eqrgcejnkjfak.space^
 ||eqrhjwucwwf.com^
@@ -50433,6 +50436,7 @@ browsershots.org#@#.advert_area
 ||rxbmckvoxesqa.online^
 ||rxdqldqeltnsz.space^
 ||rxeosevsso.com^
+||rxesfcmmlyqso.site^
 ||rxeyyesahhlyh.website^
 ||rxggkxdozyugf.space^
 ||rxgwcjrjbzzsw.website^
@@ -58364,6 +58368,7 @@ browsershots.org#@#.advert_area
 ||vsjoderczncr.com^
 ||vskewwuoda.com^
 ||vskfhfqsvurqy.online^
+||vsksdftatdnwg.site^
 ||vslnphbyuqbkz.site^
 ||vslpnvutywvnb.space^
 ||vsofglbfeiewy.site^
@@ -60041,6 +60046,7 @@ browsershots.org#@#.advert_area
 ||wtyuhmshsh.com^
 ||wtzqznypmadeo.store^
 ||wuaafacwszsqh.store^
+||wuaytkxcttkth.online^
 ||wucnmyrcici.com^
 ||wudidaxheqblk.site^
 ||wufagsjtola.in^
