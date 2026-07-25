@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202607251610
+! Version: 202607251655
 ! Title: EasyList
-! Last modified: 25 Jul 2026 16:10 UTC
+! Last modified: 25 Jul 2026 16:55 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 6e06b48d909bdef1acde59eaaf6ea1cbdb4e80a4
+! Commit: 0853d66cde408eae6a2d7b7f1e7507e6ce62f56b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -43777,6 +43777,7 @@ browsershots.org#@#.advert_area
 ||ocqmbcwysestl.website^
 ||ocqsshujqukygch.com^
 ||ocrlmgqgqlfqt.store^
+||ocrpsbyzm.com^
 ||ocsdkiwkrndeo.site^
 ||octbgrwqwmnuu.site^
 ||octectlycopin.com^
@@ -50657,6 +50658,7 @@ browsershots.org#@#.advert_area
 ||rvwuhmfxmps.com^
 ||rvyaqmmxxoinm.site^
 ||rvyhsdxujqhqw.website^
+||rvyjnccadrepq.site^
 ||rw6pznyrnhex4gxxu7.rest^
 ||rwbibzahcpiep.site^
 ||rwcdswjfvts.com^
@@ -51048,6 +51050,7 @@ browsershots.org#@#.advert_area
 ||sawpitpuckishcording.cfd^
 ||sawspignus.qpon^
 ||saxaztolh.in^
+||saxvdffvkgmot.space^
 ||saypuoavofdbi.site^
 ||sazlmxxozyuog.site^
 ||sb-stat1.com^
@@ -51118,6 +51121,7 @@ browsershots.org#@#.advert_area
 ||scavelbuntine.life^
 ||scawtepee.com^
 ||scaxpnplwrzma.online^
+||scbkgjktowyuz.site^
 ||sccotxcyhkpsm.site^
 ||scdzsazeeqmta.online^
 ||scenarycareme.com^
@@ -54672,6 +54676,7 @@ browsershots.org#@#.advert_area
 ||teoaxzazksyuo.site^
 ||teotnajhxmwts.site^
 ||tepalscancanchugger.qpon^
+||tepasricksvet.qpon^
 ||tepid-permission.com^
 ||tepidpolicy.com^
 ||tepinursh.com^
@@ -61107,6 +61112,7 @@ browsershots.org#@#.advert_area
 ||xrqiweauoxfwn.site^
 ||xrqllcnmizjpa.website^
 ||xrqzzumoujvwx.site^
+||xrrdnzdtma.com^
 ||xrsssecerpuxq.space^
 ||xrtrdwuttxptw.site^
 ||xrujupffivxxb.space^
