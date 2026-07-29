@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: NFHJeqNpJfiy6F06K75V9Q
-! Version: 202607282300
+! Checksum: ecovY4tNVd1cz9KY3y2Z2w
+! Version: 202607282350
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-07-28 23:00 UTC
+! Last modified: 2026-07-28 23:50 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2114,6 +2114,7 @@ jacobin.com##.bn-at
 flaticon.com##.bn-space
 boingboing.net##.boing-premium-modal-placement
 gofugyourself.com##.books
+nexusmods.com##.border-premium-moderate
 inthesetimes.com##.border-red
 kompas.id,letsdatascience.com##.bottom-0
 zman.co.il##.bottom-bar-join
@@ -38542,7 +38543,7 @@ acast.com,bais.de,birgit-bittermann.de,bkfc.com,boostbike.uk,builds.gg,catcat.co
 !! .consent-overlay
 2pdfconverter.com,allradio.nl,changefaces.com,chartle.com,diagrameditor.com,elektro-plus.com,fakechatapp.com,files2zip.com,fotofilter.de,hidrive.ionos.com,htmlgames.com,mapimage.com,neonspellen.nl,phideo.com,photocollage.com,photoeditor.com,photoenlarger.com,photofilters.com,photofiltres.fr,photoresizer.com,postermaker.com,qrapp.com,stripbackground.com,toonytool.com,uio.no,wordclouds.com,youtubetrimmer.com##.consent-overlay
 !! .consents
-amb.net.pl,audiotop.pl,bakeshop.pl,czerwonatwierdza.pl,dlabrodacza.pl,fitness-home.pl,fly-desk.com,homeandgarden24.pl,istore.pl,militarymarket.pl,miodykrupiec.pl,modnakiecka.pl,moskitiery-sklep.pl,niewiem.pl,planszostrefa.pl,profitechnik.pl,prorowery.pl,questsport.shop,r-kom.pl,retio.pl,skarbyroztocza.com,sklepkawa.pl,suprabike.pl,wkdzik.pl,wlodekrysuje.com##.consents
+amb.net.pl,audiotop.pl,bakeshop.pl,czerwonatwierdza.pl,dlabrodacza.pl,fitness-home.pl,fly-desk.com,homeandgarden24.pl,istore.pl,militarymarket.pl,miodykrupiec.pl,modnakiecka.pl,moskitiery-sklep.pl,niewiem.pl,planszostrefa.pl,profitechnik.pl,prorowery.pl,questsport.shop,r-kom.pl,retio.pl,skarbyroztocza.com,sklepkawa.pl,suprabike.pl,wideorejestratory24.pl,wkdzik.pl,wlodekrysuje.com##.consents
 !! #consent
 agendatrad.org,alarabiya.net,alhadath.net,bagira.bg,buonmenu.com,cardzmania.com,chiccentre.com,co.jpf.go.jp,datacite.org,digminecraft.com,drugstore.bg,e-confirm.de,eismoinfo.lt,encycolorpedia.fr,find-dvd.co.uk,framar.bg,ft.com,heathrowexpress.com,heroforge.com,hifi4you.de,holition.com,hospiz-bodhicharya.de,hospiz-horizont.de,hunsruecktouristik.de,itt.bg,kaeltewolf.de,kauppasatama.fi,kinopolis.de,kunstnet.de,lacsiboltja.hu,lzf-lamps.com,mapcarta.com,notebookinfo.de,nperf.com,pardini.de,plasico.bg,produkt.easyweb.travel,pushpad.xyz,reisebuero-marzian.de,reisetreff-muecke.de,schulthess.ch,stat.gov.lt,techonthenet.com,terminal-bgt.de,touristikerfotos.net,wellnissimo.de,zitatezumnachdenken.com###consent
 !! ^.cookiesBanner-
@@ -40857,6 +40858,7 @@ bitscrunch.com##+js(set-cookie, rcl_marketing_consent, false)
 bitscrunch.com##+js(set-cookie, rcl_preferences_consent, true)
 miceportal.com##+js(set-cookie, requierd_cookies, true)
 bayern-gegen-gewalt.de,bayern.de,schwanger-in-bayern.de##+js(set-cookie, required, 1)
+kb.uconn.edu##+js(set-cookie, required-cookies-acknowledged, 2)
 asdatyres.co.uk##+js(set-cookie, required_cookies_set, 1)
 flixclassic.pl##+js(set-cookie, rgp-gdpr-policy, 1)
 planetepluscanada.com##+js(set-cookie, rgpd, false, , reload, 1)
@@ -51381,6 +51383,7 @@ theskimm.com#?#.bg-soft-teal:has-text(Subscribe)
 thestreamable.com#?#.rounded-3.px-5:has-text(Newsletter)
 thetransmitter.org#?#.bg-cover:has-text(Sign up)
 thetransmitter.org#?#.bg-dark-brown:has-text(Sign up)
+tinyview.com#?#.shadow-\[0_0_10px_rgba\(0\,0\,0\,0\.12\)\]:has-text(By continuing)
 urbandictionary.com#?#.rounded-md.md\:p-8.p-5.shadow-light:has-text(Sign up)
 us500.com#?#.bg-gray-600:has-text(Read the latest business news)
 vox.com#?#.duet--article--highlight:has-text(Sign up here)
