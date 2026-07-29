@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: gpBGlM7Lbi7YACF9TbU4Tw
-! Version: 202607291950
+! Checksum: peY41IOyFWHPW1/0q8oPiA
+! Version: 202607292000
 ! Title: Fanboy's Annoyance List
-! Last modified: 2026-07-29 19:50 UTC
+! Last modified: 2026-07-29 20:00 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -16159,6 +16159,7 @@ tech.hindustantimes.com##.socialWidgets
 faithwire.com##.social__buttons
 agbi.com##.social__link
 jetphotos.com##.social__link--share
+newscientist.com##.social__links
 moroccoworldnews.com##.social__media
 eurovisionworld.com##.social_a
 salon.com,snopes.com##.social_comments_app_wrapper
@@ -49971,7 +49972,7 @@ qz.com##.kHmXgL
 christinacooks.com##.kadence-conversion-wrap
 joanwestenberg.com,ppc.land##.kg-cta-card
 the-londoner.co.uk##.kg-cta-content
-beautifulpublicdata.com,codereliant.io,evinfocus.com,gardinerbryant.com,gkogan.co,livpost.co.uk,micahflee.com,newslttrs.com,overkill.wtf,oxfordclarion.uk,ppc.land,scarletink.com,simone.org##.kg-signup-card
+alsterrunde.com,beautifulpublicdata.com,codereliant.io,evinfocus.com,gardinerbryant.com,gkogan.co,livpost.co.uk,micahflee.com,newslttrs.com,overkill.wtf,oxfordclarion.uk,ppc.land,scarletink.com,simone.org##.kg-signup-card
 disconnect.blog,the-londoner.co.uk##.kg-signup-card-content
 digitalocean.com##.khfYvn
 betakit.com,govee.com##.kl-private-reset-css-Xuajs1.needsclick
@@ -51010,6 +51011,7 @@ freshoffthegrid.com##.wp-block-kadence-rowlayout
 kbb.com##.wp-block-kbb-email-subscription-form
 bikerumor.com,gearjunkie.com##.wp-block-ldm-blocks-call-to-action
 blockclubchicago.org##.wp-block-lede-common-newsletter
+newscientist.com##.wp-block-newscientist-newsletter-promotion
 thewrap.com##.wp-block-newsletter-builder-signup-form
 snexplores.org##.wp-block-newsletter-signup
 esecurityplanet.com,project-management.com##.wp-block-newsletter-widget
