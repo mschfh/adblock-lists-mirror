@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202608020655
+! Version: 202608020739
 ! Title: EasyList
-! Last modified: 02 Aug 2026 06:55 UTC
+! Last modified: 02 Aug 2026 07:39 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d57cc7f8985bc962baccd9ae5a4faa8334be81ac
+! Commit: 060d9ea4070fb15ae63456ef2f55b9b6f59c58dd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20788,6 +20788,7 @@ browsershots.org#@#.advert_area
 ||benimsmackee.shop^
 ||bennetguarantee.com^
 ||benoagger.cfd^
+||benrankwhence.com^
 ||bensonshowd.com^
 ||bentadaptation.com^
 ||bentpersuasive.com^
@@ -47286,6 +47287,7 @@ browsershots.org#@#.advert_area
 ||pievsejhampai.online^
 ||pifferoengird.cyou^
 ||pifowotorfwvl.online^
+||pifwyhxwpwdoo.space^
 ||pigeoncontentmentcotton.com^
 ||pigeonsresourcefulretired.com^
 ||piggyquarterbackascension.com^
@@ -47689,6 +47691,7 @@ browsershots.org#@#.advert_area
 ||plyfoni.ru^
 ||plyikilugzsvo.website^
 ||pmaorlewugcup.online^
+||pmbpzdehvac.com^
 ||pmc1201.com^
 ||pmccdezkbkbpw.online^
 ||pmdxwtmaxpfos.space^
@@ -54851,6 +54854,7 @@ browsershots.org#@#.advert_area
 ||stayingapplicant.com^
 ||stayrarelycontract.com^
 ||staysafeonlinetoday.com^
+||staysunpropfermium.qpon^
 ||stbawdbxyipqk.website^
 ||stdirection.com^
 ||steakeffort.com^
