@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202608040902
+! Version: 202608041002
 ! Title: EasyList
-! Last modified: 04 Aug 2026 09:02 UTC
+! Last modified: 04 Aug 2026 10:02 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0b92f79004268449c0563116454a22ef9c46b1f4
+! Commit: 7048c7094e3660d0fc3b362be4260b6958a01c27
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -23150,6 +23150,7 @@ browsershots.org#@#.advert_area
 ||cayugascorded.cyou^
 ||cayugasterminfoundry.qpon^
 ||cayuseclonkedoriolus.cyou^
+||cazcxiyarkgwq.site^
 ||caziqueregald.cfd^
 ||cb3a316b81.com^
 ||cb4a57f9c7.com^
@@ -24721,6 +24722,7 @@ browsershots.org#@#.advert_area
 ||copitinamon.com^
 ||coplotmentor.cfd^
 ||coplotsveals.shop^
+||coppedclaudia.cfd^
 ||copulaehooillipe.qpon^
 ||copulaestating.cfd^
 ||copycatpeonesmichabo.cfd^
@@ -26150,6 +26152,7 @@ browsershots.org#@#.advert_area
 ||deepcloudfield.com^
 ||deeperregardingcontend.com^
 ||deepingcormous.qpon^
+||deepinghachepogey.cyou^
 ||deepingpenury.qpon^
 ||deepmetrix.com^
 ||deepnewsjuly.com^
@@ -27743,6 +27746,7 @@ browsershots.org#@#.advert_area
 ||dsvgxs.com^
 ||dsvhko.com^
 ||dsvidbernlibi.site^
+||dsvkxa.com^
 ||dsvopb.com^
 ||dsvosm.com^
 ||dsvtrq.com^
@@ -30210,6 +30214,7 @@ browsershots.org#@#.advert_area
 ||faxbfxhkdjoma.icu^
 ||faxesresever.cfd^
 ||faxingdandler.cfd^
+||fayenceastrer.qpon^
 ||fayprjmlhxpnl.website^
 ||fazanppq.com^
 ||fb-plus.com^
@@ -32175,6 +32180,7 @@ browsershots.org#@#.advert_area
 ||gaspsoap.com^
 ||gassingahong.qpon^
 ||gassingmollusk.shop^
+||gassycupcake.qpon^
 ||gastfulabeles.com^
 ||gate4learn.com^
 ||gateageneifs.shop^
@@ -39987,6 +39993,7 @@ browsershots.org#@#.advert_area
 ||leelanehinnied.qpon^
 ||leeriergrf.com^
 ||leetaipt.net^
+||leetsennuye.cfd^
 ||leeziccbpknmr.space^
 ||leezoama.net^
 ||leftcandle.com^
@@ -40252,6 +40259,7 @@ browsershots.org#@#.advert_area
 ||lidoscharco.qpon^
 ||lidosscote.cfd^
 ||lidsaich.net^
+||lidsnestles.cyou^
 ||lidtcctobkneu.website^
 ||liduvxoyivocr.space^
 ||lidwftqjlltvm.com^
@@ -40822,6 +40830,7 @@ browsershots.org#@#.advert_area
 ||lostinfuture.com^
 ||lotadversaryvolatile.com^
 ||lotahtarkhangeb.cfd^
+||lotamemorda.cfd^
 ||lotebanyoro.qpon^
 ||lothzincous.shop^
 ||lotoclarets.cfd^
@@ -41558,6 +41567,7 @@ browsershots.org#@#.advert_area
 ||manorflounderheady.com^
 ||manorowlapprehension.com^
 ||manropeespece.cfd^
+||manserdorical.qpon^
 ||mansionappointmentmoon.com^
 ||manstche.cfd^
 ||mantasdilluebu.qpon^
@@ -41925,6 +41935,7 @@ browsershots.org#@#.advert_area
 ||mediaxchange.co^
 ||medical-aid.net^
 ||medicalcandid.com^
+||medicaoukia.shop^
 ||medicationspoons.com^
 ||medichalfwaypoetry.com^
 ||medidiialleneinside.qpon^
@@ -46628,6 +46639,7 @@ browsershots.org#@#.advert_area
 ||paaeeets.net^
 ||paartureen.cyou^
 ||pabjriyhlvedc.vip^
+||pacayajudases.cfd^
 ||paceaskhari.com^
 ||pacedosages.cyou^
 ||pacekami.com^
@@ -47606,6 +47618,7 @@ browsershots.org#@#.advert_area
 ||pierconditioner.com^
 ||pierinfactories.net^
 ||pierisrapgae.com^
+||pierpandal.cyou^
 ||pierrotbids.cfd^
 ||piesdewatatalukas.qpon^
 ||piestprevot.com^
@@ -48084,6 +48097,7 @@ browsershots.org#@#.advert_area
 ||pnzflaiogdwwv.site^
 ||pnzjebwvmqdxv.online^
 ||pnzsnuoiatlrg.space^
+||poachedroofman.shop^
 ||poalikebridle.shop^
 ||poavoabe.net^
 ||pobezcrzbsrnr.site^
@@ -55100,6 +55114,7 @@ browsershots.org#@#.advert_area
 ||srydpfeufugyr.website^
 ||sryfmerwefrwj.icu^
 ||srytiqervsgbi.space^
+||srzbijxdevocx.website^
 ||srzwbetxwdkpt.online^
 ||ss0uu1lpirig.com^
 ||ssaecqvdnifuc.website^
@@ -55714,6 +55729,7 @@ browsershots.org#@#.advert_area
 ||summonsword.cfd^
 ||summonteacherjunction.com^
 ||summythdevious.com^
+||sumpitocypode.cfd^
 ||sumpsdartman.cfd^
 ||sumptuousmonks.com^
 ||sumptuousunwindassigned.com^
@@ -56048,6 +56064,7 @@ browsershots.org#@#.advert_area
 ||swwpush.com^
 ||swwsoxhdxvtbg.space^
 ||swwwjpqqydeyq.website^
+||swxnmoqhydqwx.website^
 ||swylysnrppthv.space^
 ||swzptymsigrdh.site^
 ||sxdfhgniwzxzc.space^
@@ -56094,6 +56111,7 @@ browsershots.org#@#.advert_area
 ||sylfaczvioejj.site^
 ||sylphondrippedallonge.cyou^
 ||sylvagereding.qpon^
+||sylvitepikel.cyou^
 ||sylxisys.com^
 ||symboldense.com^
 ||symbolultrasound.com^
@@ -56624,6 +56642,7 @@ browsershots.org#@#.advert_area
 ||tennisnewlins.com^
 ||tenonblenchcoraled.qpon^
 ||tenorspeccary.qpon^
+||tensarenas.shop^
 ||tensecross.pro^
 ||tenserrelents.com^
 ||tensesurround.pro^
@@ -57986,6 +58005,7 @@ browsershots.org#@#.advert_area
 ||tsgbxlgm.com^
 ||tsghvqmfcxzfn.space^
 ||tsgtucfd.com^
+||tshvyovuuyxyh.site^
 ||tsiwoulukdlike.org^
 ||tslzggdkpwvyk.online^
 ||tsml.fun^
@@ -61452,6 +61472,7 @@ browsershots.org#@#.advert_area
 ||wcmcs.net^
 ||wcouljzipqyua.site^
 ||wcpgtxpzhpdgy.website^
+||wcqigigltlswt.space^
 ||wcreverdi.cfd^
 ||wcrulddsnexjz.site^
 ||wcsdacenoyjgy.store^
@@ -62245,6 +62266,7 @@ browsershots.org#@#.advert_area
 ||wmzhygbziauhh.space^
 ||wn4wztsx.xyz^
 ||wn6x136h.xyz^
+||wnardmwt.com^
 ||wncvwcgedgtjs.site^
 ||wndfziyuixzzr.site^
 ||wnedandlookedv.org^
