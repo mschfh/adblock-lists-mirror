@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202608052136
+! Version: 202608052305
 ! Title: EasyList
-! Last modified: 05 Aug 2026 21:36 UTC
+! Last modified: 05 Aug 2026 23:05 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 0ce2b5cf85c9172fef37480f174073934a5c4310
+! Commit: f2175ee858a5bbb77997e13e8b2f1367f82a9e9d
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17217,6 +17217,7 @@ browsershots.org#@#.advert_area
 ||abolt.xyz^
 ||abomasawaister.shop^
 ||abomineacerber.qpon^
+||abongorigid.cyou^
 ||abonnementtripleexplore.com^
 ||aboriginalefficiencystepmother.com^
 ||aboriginalimpedimentappreciate.com^
@@ -23961,6 +23962,7 @@ browsershots.org#@#.advert_area
 ||ckraeblqhqleo.website^
 ||ckrf1.com^
 ||ckrosvsppslck.site^
+||cksfdeebdpqtvr.com^
 ||ckubjahpwqzsc.online^
 ||ckvjaknqy.com^
 ||ckz9ql67uie5exuluwyvfzryh.cfd^
@@ -24828,6 +24830,7 @@ browsershots.org#@#.advert_area
 ||cornufallace.cfd^
 ||corny-swing.pro^
 ||corny-wear.com^
+||cornyband.pro^
 ||cornychicken.pro^
 ||coronaehavance.shop^
 ||coronergaperauncel.cyou^
@@ -27871,6 +27874,7 @@ browsershots.org#@#.advert_area
 ||dsxdxb.com^
 ||dsxgma.com^
 ||dsxgwwrkecsxd.online^
+||dsxilh.com^
 ||dsxoij.com^
 ||dsxpzd.com^
 ||dsxsyt.com^
@@ -32637,6 +32641,7 @@ browsershots.org#@#.advert_area
 ||gfoqmtwpoodsy.space^
 ||gforthemoonheap.org^
 ||gfpxw.com^
+||gfrtjbihkgmzd.site^
 ||gfstrck.com^
 ||gfsxnxkodn.com^
 ||gftgbrixcmukd.site^
@@ -49651,6 +49656,7 @@ browsershots.org#@#.advert_area
 ||pwfwyafdfwwiq.site^
 ||pwgp5xyv24j4njib.cfd^
 ||pwgwyfnthoqqf.site^
+||pwhlfiqmqfaty.site^
 ||pwhrweqahetld.online^
 ||pwiiojtkfpdf.com^
 ||pwjfuxffzbdxo.website^
@@ -54098,6 +54104,7 @@ browsershots.org#@#.advert_area
 ||showmebars.com^
 ||shptpetrary.qpon^
 ||shpyxmtsqnsay.space^
+||shqddwvuqdzjm.space^
 ||shqjickefiglh.website^
 ||shrappictishfolies.qpon^
 ||shrendlouisa.cfd^
@@ -59737,6 +59744,7 @@ browsershots.org#@#.advert_area
 ||upbuyreifslanista.cfd^
 ||upcityarles.com^
 ||upcomingperusehike.com^
+||upcraneoverrantollies.cfd^
 ||upcuoicobbycl.site^
 ||updaight.com^
 ||updartmoderne.qpon^
@@ -60376,6 +60384,7 @@ browsershots.org#@#.advert_area
 ||vbkvubotujxh.com^
 ||vblaejlytzpwh.online^
 ||vblwixpwrrrjh.site^
+||vbmxorkseftlr.online^
 ||vbnritbsiqqar.online^
 ||vbqoptujqmckd.website^
 ||vbrkgmqhgbglx.website^
@@ -62788,6 +62797,7 @@ browsershots.org#@#.advert_area
 ||woozleutahite.shop^
 ||woozy-save.pro^
 ||woqje1u8f18rgo2u.rest^
+||woqkqgcphxzqv.site^
 ||wordamazinglylamb.com^
 ||wordfence.me^
 ||wordishknag.qpon^
@@ -64555,6 +64565,7 @@ browsershots.org#@#.advert_area
 ||yllaris.com^
 ||ylligknjyhnpr.space^
 ||ylljzcijbxhpg.com^
+||yllqmrfwlfnug.online^
 ||ylnrfnryvkjmh.website^
 ||ylodbhduliqpc.online^
 ||ylogepubxynzu.space^
