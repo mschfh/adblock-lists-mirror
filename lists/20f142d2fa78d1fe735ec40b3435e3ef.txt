@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: g/Xtz9pijV+mDDqwosDh4g
-! Version: 202608051212
+! Checksum: +RexOVBIIYswhx+/ZeVc6g
+! Version: 202608051444
 ! Title: Fanboy's Social Blocking List
-! Last modified: 05 Aug 2026 12:12 UTC
+! Last modified: 05 Aug 2026 14:44 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12468,6 +12468,7 @@ gameswelt.de##.share__bottom
 gameswelt.de##.share__top
 kurier.de##.sharewrapper
 bdkj.info,pferdekult.de##.shariff
+taz.de##.shariff-wrapper
 film-rezensionen.de##.sharing-block-wrap
 finanzwende.de##.sharing__button--bluesky
 finanzwende.de##.sharing__button--mail
