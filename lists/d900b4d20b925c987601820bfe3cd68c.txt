@@ -1,10 +1,10 @@
 ![Adblock Plus 2.0]
-! Checksum: 6fNtdkOvIJOXzpP+vLSpxw
-! Diff-Path: ../patches/7/7-s-1786003299-3600.patch
+! Checksum: 8MZpKRSl8j8SrPWwadUPLA
+! Diff-Path: ../patches/7/7-s-1786020409-3600.patch
 ! Title: AdGuard Japanese filter
 ! Description: Filter that enables ad blocking on websites in Japanese language.
-! Version: 2.0.75.41
-! TimeUpdated: 2026-08-06T07:58:26+00:00
+! Version: 2.0.75.43
+! TimeUpdated: 2026-08-06T12:43:21+00:00
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -27,6 +27,7 @@
 ! not for DNS
 ||ias.rakuten.co.jp^$3p,domain=~rakuten-co.jp|~rakuten.ne.jp
 !
+||adwell.app^$3p
 ||scrollpop.online^$3p
 ||insiad.com^
 ||dailyrumor-jp.co.in^$all
@@ -470,7 +471,6 @@ skyscrapers-and-urbandevelopment.com##+js(addEventListener-defuser, DOMContentLo
 e-words.jp###abmessage
 ! https://github.com/AdguardTeam/AdguardFilters/issues/234737
 soraraw.net#@#.ad-unit:not(.textads)
-soraraw.net#@##AdBanner
 soraraw.net##.adguard-overlay:style(display: none !important;)
 soraraw.net###__next > div[style]:style(filter: none !important; pointer-events: auto !important; user-select: auto !important;)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/234232
@@ -1919,6 +1919,8 @@ gundamlog.com###more > iframe[src^="https://richlink.blogsys.jp"]
 !
 ! NOTE: Specific rules
 !
+||site.weathernews.jp/site/js/util/wniads/
+weathernews.jp###sticky_movie_pc
 weathernews.jp##div[style^="min-width: 300px; min-height: 200px; display: inline-block;"]
 oricon.co.jp###content-main h3.ttl-b:has(+ div.block-link-list-b > article > a > div.pr)
 ||kurashi-tips.com/ads/manifest.js
