@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202608071350
+! Version: 202608071449
 ! Title: EasyList
-! Last modified: 07 Aug 2026 13:50 UTC
+! Last modified: 07 Aug 2026 14:49 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 546e81cf0b6b72eb69bdc63d6f816fad0dd43753
+! Commit: 702a2a596a9db2a23ceabaad41190140aa2152d2
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -33346,6 +33346,7 @@ browsershots.org#@#.advert_area
 ||goeducklactase.com^
 ||goegesdfnnewf.site^
 ||goesduck.com^
+||gofvfmkmfqfcbnr.com^
 ||gogoga.xyz^
 ||gogosearlier.cfd^
 ||gogpusley.qpon^
@@ -39890,6 +39891,7 @@ browsershots.org#@#.advert_area
 ||kwgavfflgjpop.site^
 ||kwgpzojcpvqyi.space^
 ||kwhpllmraltfm.website^
+||kwigqzwtudnaz.space^
 ||kwintrabeseem.cyou^
 ||kwiykrwxr.com^
 ||kwjfejtnfuxlj.space^
@@ -40902,6 +40904,7 @@ browsershots.org#@#.advert_area
 ||lithiumsorghum.shop^
 ||lithobathman.qpon^
 ||litramodi.qpon^
+||litrujsxxymfn.website^
 ||litstercurve.qpon^
 ||litterarenadisembroildisembroil.com^
 ||litterworerabbit.com^
@@ -41649,6 +41652,7 @@ browsershots.org#@#.advert_area
 ||lvjquuyugqirb.space^
 ||lvksiviwpenew.website^
 ||lvojijsguhs.com^
+||lvsdqnuivyedd.website^
 ||lvubwrnhxktlo.online^
 ||lvvbqeaqvrmvy.top^
 ||lvwytobyemady.online^
@@ -46499,6 +46503,7 @@ browsershots.org#@#.advert_area
 ||oplmbxdyndadi.website^
 ||oplnuqah.com^
 ||oplronjeluagj.space^
+||opnnrzrugtynl.website^
 ||opnobbohq.com^
 ||opnxaldm.in^
 ||opoejchmxlppr.space^
@@ -47564,6 +47569,7 @@ browsershots.org#@#.advert_area
 ||paveskatikairline.qpon^
 ||paviliongiddy.com^
 ||pavoistravoy.shop^
+||pawermondos.cyou^
 ||pawgleamed.com^
 ||pawheatyous.com^
 ||pawinextricable.com^
@@ -51943,6 +51949,7 @@ browsershots.org#@#.advert_area
 ||resuejinxing.cfd^
 ||resultlinks.com^
 ||resumetwigincarnate.com^
+||reswardamuairbill.cfd^
 ||resweeprelatedancer.cyou^
 ||retagro.com^
 ||retailstructuregrandparents.com^
@@ -52713,6 +52720,7 @@ browsershots.org#@#.advert_area
 ||rotshe.cfd^
 ||rotsurroundings.com^
 ||rottencycle.com^
+||rottenoffice.pro^
 ||rottolorealign.cfd^
 ||roubouhyokuts.cyou^
 ||roucoutaivers.com^
