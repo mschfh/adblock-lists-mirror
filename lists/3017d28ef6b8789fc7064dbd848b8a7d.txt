@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202608061429
+! Version: 202608070018
 ! Title: EasyPrivacy
-! Last modified: 06 Aug 2026 14:29 UTC
+! Last modified: 07 Aug 2026 00:18 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 331650b655098cf128f8fd0fb83dfed0f8599318
+! Commit: ebc0f66c1f9312997ad31a5a7478effa783154c3
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -7220,6 +7220,7 @@ omni.soundestlink.com$image
 ||discopond.com^
 ||discreetfield.com^
 ||discreetquarter.com^
+||distantflame.com^
 ||distilltable.com^
 ||distributionpocket.com^
 ||distributiontomatoes.com^
@@ -8043,6 +8044,7 @@ omni.soundestlink.com$image
 ||pinchsquirrel.com^
 ||pincourse.com^
 ||pingsurvey.com^
+||pipadvance.com^
 ||piquantgrove.com^
 ||piquantmeadow.com^
 ||piquantpigs.com^
