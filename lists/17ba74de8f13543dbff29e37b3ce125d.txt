@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202608081952
+! Version: 202608082022
 ! Title: EasyList
-! Last modified: 08 Aug 2026 19:52 UTC
+! Last modified: 08 Aug 2026 20:22 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 736944cc59a43044a3fec75c19332a7f1eb05c56
+! Commit: 738cfeb57a4249381fd51af259f44ce3247527f7
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17413,6 +17413,7 @@ browsershots.org#@#.advert_area
 ||accusationroad.com^
 ||accusedbeatnormandy.com^
 ||accuserutility.com^
+||accusestannatechiru.qpon^
 ||accustomedinaccessible.com^
 ||accustomjumper.com^
 ||acdcdn.com^
@@ -45142,6 +45143,7 @@ browsershots.org#@#.advert_area
 ||nnrxxiyinizda.site^
 ||nnsaahrxibbxb.online^
 ||nnupmdxkvxqip.online^
+||nnuylcspwb.com^
 ||nnvstgnnimwha.space^
 ||nnyejjtckhxkp.online^
 ||nnyzvxuzlvcgl.space^
@@ -63485,6 +63487,7 @@ browsershots.org#@#.advert_area
 ||wnotrbrxpealj.online^
 ||wnoyzbrcacpep.site^
 ||wnp.com^
+||wnsyicfquaczs.site^
 ||wnt-some-psh.net^
 ||wnt-some-push.com^
 ||wnt-some-push.net^
@@ -63522,6 +63525,7 @@ browsershots.org#@#.advert_area
 ||woi445m8kmify9lbfcle36mwm3.cfd^
 ||woihtwxtybnzw.store^
 ||wojanpkkxcntg.website^
+||wojidpvvljdnl.site^
 ||wokecrocodilebane.com^
 ||wokeshootdisreputable.com^
 ||wokm8isd4zit.com^
@@ -63667,6 +63671,7 @@ browsershots.org#@#.advert_area
 ||wpdbdkhobbwhf.space^
 ||wpdieifpq.net^
 ||wpfpouwlpaduq.website^
+||wpgrsgjgpffov.website^
 ||wphefiaictrsr.space^
 ||wphqb1lqv89gh6l.cfd^
 ||wphwblykxoiia.online^
