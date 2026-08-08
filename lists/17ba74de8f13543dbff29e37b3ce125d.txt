@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202608080700
+! Version: 202608080753
 ! Title: EasyList
-! Last modified: 08 Aug 2026 07:00 UTC
+! Last modified: 08 Aug 2026 07:53 UTC
 ! Expires: 4 days (update frequency)
-! Commit: d225a1b3ff33e61ae750530cf97126ddda6a8479
+! Commit: 6e598fafdb705c4874139a18945fa6947436309a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -31165,6 +31165,7 @@ browsershots.org#@#.advert_area
 ||fkjzfsgkmnhdq.website^
 ||fkklcqmeqoerb.space^
 ||fklfsnsaeijok.space^
+||fkneydktkpw.com^
 ||fkozajhehnjjt.store^
 ||fkqfsenwhfhge.online^
 ||fkqupdyajllgx.website^
@@ -43897,6 +43898,7 @@ browsershots.org#@#.advert_area
 ||musartrammie.qpon^
 ||musasnortlestrunts.cyou^
 ||muscidsbandstitres.cfd^
+||musciwattletovar.cfd^
 ||muscovilenca.cyou^
 ||muscowwhammlegundeck.cfd^
 ||musersrands.cfd^
@@ -52269,6 +52271,7 @@ browsershots.org#@#.advert_area
 ||rgmhrvwugwlnd.website^
 ||rgmuksfuciowy.online^
 ||rgobrulzyjxyt.site^
+||rgphvfqlevubc.online^
 ||rgqneyzmihvdg.space^
 ||rgskrmtckgwwl.online^
 ||rgsoxfrxdalom.website^
@@ -56228,6 +56231,7 @@ browsershots.org#@#.advert_area
 ||stfeukufunden.org^
 ||stgcdn.com^
 ||stgowan.com^
+||sthbvfmmlgpye.site^
 ||sthenianootkaonefold.cfd^
 ||sthhbqpjfdves.space^
 ||sthqkewgwdgky.online^
@@ -61227,6 +61231,7 @@ browsershots.org#@#.advert_area
 ||vfdsfnvcaqyjd.space^
 ||vffkhnbxpncce.site^
 ||vffncubbivrcm.website^
+||vffogjkppcawa.site^
 ||vfghc.com^
 ||vfghd.com^
 ||vfgte.com^
