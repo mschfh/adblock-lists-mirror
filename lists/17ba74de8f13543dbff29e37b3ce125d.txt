@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202608082151
+! Version: 202608082225
 ! Title: EasyList
-! Last modified: 08 Aug 2026 21:51 UTC
+! Last modified: 08 Aug 2026 22:25 UTC
 ! Expires: 4 days (update frequency)
-! Commit: fb4370a6d2f319a102625a6e20ee97f525392ef8
+! Commit: c620136a58beb885be517f3c89a9d81fd5a0d434
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -20295,6 +20295,7 @@ browsershots.org#@#.advert_area
 ||bab3105053.com^
 ||babbitttalitha.cyou^
 ||babbledqatigname.qpon^
+||babblyrondeau.qpon^
 ||babkamosaistchared.qpon^
 ||babmc.com^
 ||baboolpeenge.qpon^
@@ -31122,6 +31123,7 @@ browsershots.org#@#.advert_area
 ||firmwarrior.com^
 ||first-rate.com^
 ||firsterunskin.cfd^
+||firsthand-quiet.pro^
 ||firsthandlake.com^
 ||firstlightera.com^
 ||firstlyignorantbasis.com^
@@ -52490,6 +52492,7 @@ browsershots.org#@#.advert_area
 ||ribkdvpyszfm.com^
 ||ribletslysinsmetusia.cfd^
 ||ribosesshutes.cfd^
+||ribozoslaylandchummy.cfd^
 ||ribskinboo.qpon^
 ||ribsmuffscornus.cfd^
 ||ricalsbuildf.com^
@@ -53487,6 +53490,7 @@ browsershots.org#@#.advert_area
 ||ryminos.com^
 ||ryqxryaytwbpx.website^
 ||rysnxhxpavzct.website^
+||rytinatagaur.qpon^
 ||rytxapieekshh.space^
 ||ryufsbqvxtlhu.site^
 ||ryujsqssracyc.space^
@@ -58063,6 +58067,7 @@ browsershots.org#@#.advert_area
 ||thuriofennecs.cyou^
 ||thurnflfant.com^
 ||thushandkerchiefcentered.com^
+||thuytvrhajpj.com^
 ||thvkfixnszmmf.site^
 ||thvojufzktuml.website^
 ||thwduaktyeuvh.space^
@@ -65221,6 +65226,7 @@ browsershots.org#@#.advert_area
 ||yfqnujpniizil.website^
 ||yfqrdeewqnwvy.net^
 ||yfqtpyfxcfbyq.online^
+||yfrfxrstsquwk.online^
 ||yfrxjeickksim.site^
 ||yfsisdewaeush.site^
 ||yfskbgbjqfxgf.online^
@@ -65405,6 +65411,7 @@ browsershots.org#@#.advert_area
 ||ylnrfnryvkjmh.website^
 ||ylodbhduliqpc.online^
 ||ylogepubxynzu.space^
+||yloneengwaiym.site^
 ||ylpxrvkdcdmcb.site^
 ||yluezdmctyiuj.site^
 ||yluxevvjtbbzj.website^
