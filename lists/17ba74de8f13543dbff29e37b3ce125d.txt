@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202608090617
+! Version: 202608090727
 ! Title: EasyList
-! Last modified: 09 Aug 2026 06:17 UTC
+! Last modified: 09 Aug 2026 07:27 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 39672f50cb9fe4ab27744a161e463a8c30538395
+! Commit: b97017d81fdb7b711c8da5390c7bd57dce60b0d8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -17812,6 +17812,7 @@ browsershots.org#@#.advert_area
 ||adopstar.uk^
 ||adoptedlaxstrenuous.com^
 ||adoptum.net^
+||adorable-patient.pro^
 ||adorableold.com^
 ||adorablepromotion.com^
 ||adorablequestion.pro^
@@ -33649,6 +33650,7 @@ browsershots.org#@#.advert_area
 ||gpawrschgrqzb.space^
 ||gpfhlajkvdhvv.space^
 ||gpfihqkvbcifz.space^
+||gphiauzlsenvo.site^
 ||gphljspaprvsl.online^
 ||gphnmtjcyivjc.site^
 ||gpiebbxurugod.online^
@@ -34558,6 +34560,7 @@ browsershots.org#@#.advert_area
 ||harthindthrough.com^
 ||hartlyslask.qpon^
 ||harttrouvre.cfd^
+||hasfyyyxvrjfsc.com^
 ||hashersargus.shop^
 ||hasidimprowess.cyou^
 ||hassockeggbawdric.cyou^
@@ -40056,6 +40059,7 @@ browsershots.org#@#.advert_area
 ||kulroakonsu.net^
 ||kumpulblogger.com^
 ||kumquatrepl.cyou^
+||kumvrxoewxdsr.online^
 ||kunklibido.cfd^
 ||kunmiutsnirtle.cyou^
 ||kunvertads.com^
@@ -41955,6 +41959,7 @@ browsershots.org#@#.advert_area
 ||lxhhadogycyur.com^
 ||lxhwfufvlksxl.site^
 ||lxisvvxfdqozy.site^
+||lxiuhfmibptqt.space^
 ||lxjhcvabfkjuo.space^
 ||lxkiqokunemfn.space^
 ||lxndpxudyrqyy.online^
@@ -52195,6 +52200,7 @@ browsershots.org#@#.advert_area
 ||repiquebangingunrein.qpon^
 ||repiquebushlet.cyou^
 ||replacementgoodwilljunkie.com^
+||replantchekeraffman.cfd^
 ||replatesmallen.cfd^
 ||replayflutter.cfd^
 ||replaysmit.cfd^
@@ -64088,6 +64094,7 @@ browsershots.org#@#.advert_area
 ||wwmvemdbbdsgm.site^
 ||wwnowdnguuklz.site^
 ||wwnsbcmmcaeqe.website^
+||wwoujxaxvklvk.online^
 ||wwpon365.ru^
 ||wwpvpbktgoets.space^
 ||wwqharkuwtwet.online^
@@ -64757,6 +64764,7 @@ browsershots.org#@#.advert_area
 ||xqkqqtzljvwaj.space^
 ||xqqmcnphocpku.website^
 ||xqqsfeipxeefv.store^
+||xqrizpyqaiudz.website^
 ||xqsfsvngpzsns.store^
 ||xqsqczzswxwlr.website^
 ||xqsvsdvvypnij.website^
