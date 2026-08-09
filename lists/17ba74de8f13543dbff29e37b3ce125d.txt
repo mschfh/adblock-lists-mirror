@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202608090510
+! Version: 202608090617
 ! Title: EasyList
-! Last modified: 09 Aug 2026 05:10 UTC
+! Last modified: 09 Aug 2026 06:17 UTC
 ! Expires: 4 days (update frequency)
-! Commit: f22d15b5b67aeac485dc4c298366173cd980abce
+! Commit: 39672f50cb9fe4ab27744a161e463a8c30538395
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15730,6 +15730,7 @@ browsershots.org#@#.advert_area
 ||1w1yhg23m2kzp4v.cfd^
 ||1web.me^
 ||1wlg1691l49wnu.rest^
+||1x5wn86j67ifmrcyehlemr179t4i42.rest^
 ||1x6arks9.xyz^
 ||1y4bxlz6ub7welnn14uwmqlf.rest^
 ||1yqtbvw36nwc11w3eb1vcmpyqbbctz461kz9kwk.rest^
@@ -17251,6 +17252,7 @@ browsershots.org#@#.advert_area
 ||aboriginesnut.com^
 ||aboriginesprimary.com^
 ||abortedbible.cyou^
+||aborterinspire.cfd^
 ||abortsmumevoyeuse.cfd^
 ||aboughtroslandsliwer.qpon^
 ||abouliabembex.qpon^
@@ -19041,6 +19043,7 @@ browsershots.org#@#.advert_area
 ||anguishaddition.com^
 ||anguishmoss.cfd^
 ||angularpoppyrobbing.com^
+||angulecoix.shop^
 ||angulustwale.cyou^
 ||angzmbiordhen.site^
 ||anhozehjaqmoy.space^
@@ -31232,6 +31235,7 @@ browsershots.org#@#.advert_area
 ||fjxiqjmutcgqo.store^
 ||fjykbeiezohzv.online^
 ||fk5lv2qyqoclnk.rest^
+||fkagiwda.in^
 ||fkbaqpqaptiid.site^
 ||fkbbaseodqexz.site^
 ||fkblbasqbmxvx.space^
@@ -33078,6 +33082,7 @@ browsershots.org#@#.advert_area
 ||giggingelks.qpon^
 ||gigglegrowlworrisome.com^
 ||gigicinjinsyf.website^
+||gigousrfwnc.com^
 ||gigsmanhowls.top^
 ||gigsmennanitic.shop^
 ||gihggbkedddgd.online^
@@ -33087,6 +33092,7 @@ browsershots.org#@#.advert_area
 ||gikwhxotzqqzc.site^
 ||gilakigorse.cfd^
 ||gilarditus.com^
+||gileoz.qpon^
 ||gilhthyabeh.com^
 ||gilleshulchwidder.cfd^
 ||gillspaste.com^
@@ -34027,6 +34033,7 @@ browsershots.org#@#.advert_area
 ||guareapyrites.cfd^
 ||guarenclosegamp.cyou^
 ||guarraumagotsyllabe.cfd^
+||guasagripier.qpon^
 ||guasasurging.cfd^
 ||guberlasps.cyou^
 ||guchihyfa.pro^
@@ -36781,6 +36788,7 @@ browsershots.org#@#.advert_area
 ||inborndisplayed.com^
 ||inbreedsleeps.com^
 ||incarnatepicturesque.com^
+||incasklordomalimier.cfd^
 ||incegceozdsrt.space^
 ||incentivemountdisprove.com^
 ||inchesray.com^
@@ -39321,6 +39329,7 @@ browsershots.org#@#.advert_area
 ||kexesflook.cfd^
 ||kexojito.com^
 ||kexoncqnunjhn.online^
+||kexospmgqfuub.online^
 ||kexycmxrvipfh.space^
 ||kexylqmzedtiz.space^
 ||keyallocationscientific.com^
@@ -42967,6 +42976,7 @@ browsershots.org#@#.advert_area
 ||miasmiccushing.qpon^
 ||miaulerbluffedfrowzy.cyou^
 ||miayarus.com^
+||micerundanakil.cfd^
 ||micfagmbbtwda.website^
 ||michingfurcae.cyou^
 ||mickeycandies.qpon^
@@ -46977,6 +46987,7 @@ browsershots.org#@#.advert_area
 ||orvietnmqxcgm.online^
 ||orwscatte.in^
 ||orymaza.qpon^
+||oryrrdktgibyj.website^
 ||orzukuzorpxvp.online^
 ||osakaboras.shop^
 ||osamachoice.com^
@@ -48712,6 +48723,7 @@ browsershots.org#@#.advert_area
 ||pjyibsavpisod.space^
 ||pjzftkxmyzuat.space^
 ||pjzngxzektni.com^
+||pjzub86c38jwhy2wuwq6f.cfd^
 ||pk910324e.com^
 ||pkahnqiopjkfr.online^
 ||pkahpynblcscu.space^
@@ -56487,6 +56499,7 @@ browsershots.org#@#.advert_area
 ||stinkyloadeddoctor.com^
 ||stinkymildred.com^
 ||stinkypaneltotally.com^
+||stinterhoards.cfd^
 ||stionicgeodist.com^
 ||stirksabkary.cyou^
 ||stirringcreambroker.com^
@@ -56789,6 +56802,7 @@ browsershots.org#@#.advert_area
 ||successconfusequick.com^
 ||successesservicetrips.com^
 ||successfullyaileen.com^
+||successionopticalalarm.com^
 ||successorbuypatronize.com^
 ||succubeaptate.qpon^
 ||succubesalvoed.qpon^
@@ -58097,6 +58111,7 @@ browsershots.org#@#.advert_area
 ||threpeegohood.cfd^
 ||thresholdaccommodate.com^
 ||thresholdskill.com^
+||threwsimile.shop^
 ||thriftextrait.shop^
 ||thrivescreatic.cfd^
 ||throatentrepreneur.com^
@@ -61923,6 +61938,7 @@ browsershots.org#@#.advert_area
 ||vmoitdsrmertx.online^
 ||vmpdmfacpctto.space^
 ||vmring.cc^
+||vmrollymgoqsz.site^
 ||vmrtbvemlxdhx.site^
 ||vmstifxxthege.online^
 ||vmuhahdlfties.website^
@@ -64011,6 +64027,7 @@ browsershots.org#@#.advert_area
 ||wurleysskithertum.qpon^
 ||wurqaz.com^
 ||wushtillot.cfd^
+||wutajiejhdlqy.website^
 ||wutfykwgbuq.xyz^
 ||wutqgiuriurbk.space^
 ||wuujae.com^
